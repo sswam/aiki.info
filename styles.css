@@ -1,0 +1,34 @@
+body {
+	font-size: medium;
+	font-family: arial,sans-serif;
+/*	font-size: small;
+	font-family: serif; */
+}
+table.lines, table.lines td {
+	border: gray solid 1px;
+	border-collapse: collapse;
+}
+table.nolines, table.nolines td {
+	border: black none 0px;
+	border-collapse: collapse;
+}
+td {
+	padding: 3px 6px 3px 6px;
+	vertical-align: top;
+}
+h1 {
+	display: inline;
+	font-size: xx-large;
+}
+b {
+	color: darkgreen;
+	font-weight: bold;
+}
+h1, .hi {
+	font-weight: bold;
+	color: darkblue;
+}
+img {
+	margin: 1px;
+	vertical-align: middle;
+}
