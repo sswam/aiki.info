@@ -1,9 +1,31 @@
-=ai.ki= .... =合氣= .... [aiki.png]
+=合氣= .... =ai.ki= .... [aiki.png]
 
 {
-	*Ai* is balance, harmony.  *Ki* is spirit, energy.  *Do* is a way of life.  *Aikido* is the art of *saving the enemy*.  He fights with care and grace, defending himself, seeking peace, and protecting the aggressor from harm.  Aiki achieves a practical balance between violence and non-violence.  The fighter neither harms his enemy nor allows himself to be harmed, although there may be some pain and minor injury along the way!
+	*Ai*: balance, harmony.  *Ki*: spirit, energy.  *Dō*: path, way.
+
+	*Aikidō* is the way of *balanced spirit*, the art of *saving the enemy*, the art of *peace*.  The Aikidōka fights with care, seeking peace, protecting the aggressor from harm.
+	
+	Aikidō is the practical balance between violence and non-violence.  The Aiki fighter does not harm the enemy, nor allow herself to be harmed, although there may be some pain or minor injury along the way!
+	
+	Aikidō: a joyful dance, a vigorous sport, the best strategy.
+
+
+
+
+	[Morihei-Ueshiba.jpg]
+	Ōsensei Morihei Ueshiba, the founder of Aikidō.
 |
-	*ai.ki* is a place for Aikido, for people who love Aiki, and for groups that practise Aiki.  Aiki is more than a way to fight, it is a way of life.  Therefore, much of what you may find here is not directly concerned with combat and physical training.  We do aspire to live peacefully, fight gently when we must, and apply Aiki to our everyday lives.
+	*ai.ki* is a place for Aikidō on the Internet, for people who love Aikidō, and for groups that practise Aikidō.
+	
+	Aiki is more than a way to fight, it is a way of life.  Therefore, much of what you may find here is not directly concerned with combat or physical training.
+	
+	The people and groups here aspire to live peacefully, fight gently if we must, and apply Aiki in our everyday lives.
 |
-	For those who practise Aiki: we offer links, web hosting, email addresses, and sub-domain names.  Please contact sam@ai.ki for more information.
+	We wish to promote the Aiki spirit to the world: peace, gentleness, strength without violence.
+	
+	For those who practise Aiki: we offer links, web hosting, email addresses, and sub-domain names.
+	
+	This site is very new; help us grow.
+	
+	Please contact sam@ai.ki for more information.
 }
