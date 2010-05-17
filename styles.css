@@ -1,8 +1,6 @@
 body {
 	font-size: medium;
-	font-family: arial,sans-serif;
-/*	font-size: small;
-	font-family: serif; */
+	font-family: serif;
 }
 table.lines, table.lines td {
 	border: gray solid 1px;
@@ -11,6 +9,9 @@ table.lines, table.lines td {
 table.nolines, table.nolines td {
 	border: black none 0px;
 	border-collapse: collapse;
+}
+table.columns td {
+	max-width: 500px;
 }
 td {
 	padding: 3px 6px 3px 6px;
