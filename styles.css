@@ -1,8 +1,7 @@
 body {
 	font-size: medium;
-	font-family: arial,sans-serif;
-/*	font-size: small;
-	font-family: serif; */
+	font-family: serif;
+	line-height: 1.2;
 }
 table.lines, table.lines td {
 	border: gray solid 1px;
@@ -12,8 +11,12 @@ table.nolines, table.nolines td {
 	border: black none 0px;
 	border-collapse: collapse;
 }
+table.columns td {
+	max-width: 500px;
+	min-width: 250px;
+}
 td {
-	padding: 3px 6px 3px 6px;
+	padding: 3px 10px 3px 10px;
 	vertical-align: top;
 }
 h1 {
