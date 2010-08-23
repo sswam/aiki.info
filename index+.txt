@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-=合氣= .... =ai.ki= .... [aiki.png]
-=======
 =合氣道= .... =ai.ki= .... [aiki.png]
->>>>>>> fd76fb8498569a708ff823560999728541f6340b
 
 {
 	*Ai*: balance, harmony.  *Ki*: spirit, energy.  *Dō*: path, way.
@@ -23,19 +19,32 @@
 	
 	Aiki is more than a way to fight, it is a way of life.  Therefore, much of what you may find here is not directly concerned with combat or physical training.
 	
-<<<<<<< HEAD
-	The people and groups here aspire to live peacefully, fight gently if we must, and apply Aiki in our everyday lives.
-|
-	We wish to promote the Aiki spirit to the world: peace, gentleness, strength without violence.
-	
-	For those who agree with the priciples of Aiki, we offer linking, web hosting, email addresses, and sub-domains.  This site is very new, please help us to grow.
-=======
 	We host and link to sites about Aikidō, Aikidō dōjōs, and some other personal, group, and business sites.  The people and groups here aspire to live peacefully, fight gently if we must, and apply Aiki in our everyday lives.
 |
 	We wish to promote the Aiki spirit to the world: peace, gentleness, strength without violence.
 	
 	For those who agree with the priciples of Aiki, we offer web hosting, linking, email addresses, and sub-domains.  These services are available free of charge, or you can "pay what you feel".  This site is very new, please help us to improve it and to grow.
->>>>>>> fd76fb8498569a708ff823560999728541f6340b
 	
 	Please contact sam@ai.ki for more information.
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 .... [earth.jpg]
 }
