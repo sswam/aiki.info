@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=合氣道= .... =ai.ki= .... [aiki.png]
-
-=======
->>>>>>> ccb22eed2b0cdbd7fb69f09b594d5798f270910d
 {
 	=合氣道=
 
@@ -17,31 +12,15 @@
 
 	*member pages:*
 
-<<<<<<< HEAD
-
-	[Morihei-Ueshiba.jpg]
-	Ōsensei Morihei Ueshiba, the founder of Aikidō.
-|
-	*ai.ki* is a place for Aikidō on the Internet, for people who love Aikidō, and for groups that practise Aikidō.
-	
-	Aiki is more than a way to fight, it is a way of life.  Therefore, much of what you may find here is not directly concerned with combat or physical training.
-	
-	We host and link to sites about Aikidō, Aikidō dōjōs, and some other personal, group, and business sites.  The people and groups here aspire to live peacefully, fight gently if we must, and apply Aiki in our everyday lives.
-=======
 	./sam
->>>>>>> ccb22eed2b0cdbd7fb69f09b594d5798f270910d
 |
 	 .... =ai.ki= .... 
 
 	*ai.ki* is a place for Aikidō on the Internet, for people who love peace.
 	
-<<<<<<< HEAD
-	For those who agree with the priciples of Aiki, we offer web hosting, linking, email addresses, and sub-domains.  This site is very new, please help us to improve it and to grow.
-=======
 	As an Internet host, we serve and link to sites about Aikidō.  We host personal, group, and business websites, and provide other services including email and ssh.
 
 	These services are available free of charge, or "pay what you feel".
->>>>>>> ccb22eed2b0cdbd7fb69f09b594d5798f270910d
 	
 	Please contact sam@ai.ki for more information.
 
