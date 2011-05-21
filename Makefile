@@ -6,7 +6,7 @@ all: html
 html: $(patsubst %.txt,%.html,$(wildcard *.txt))
 
 %.html: %.txt $(shell which text2html)
-	text2html $< >$@
+	text2html $< >$@ ; hide $@
 
 perms:
 	if [ -e x -a -e x/env ]; then q x/env; fi
