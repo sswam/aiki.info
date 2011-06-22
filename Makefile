@@ -2,10 +2,10 @@
 
 #all: perms $(shell find . -maxdepth 1 -path '*/.*' -prune -o -name '*.txt' -type f -print | sed 's/\.txt$$/.html/') $(shell find . -maxdepth 1 -path '*/.*' -prune -o \( -name '*.png' -o -name '*.jpg' \) -type f -print | sed 's,\(.*/\),\1tn/,;')
 
-all: html labs
+all: html labs+
 html: $(patsubst %.txt,%.html,$(wildcard *.txt))
 
-labs:
+labs+:
 	cd labs; $(MAKE)
 
 %.html: %.txt $(shell which text2html)
