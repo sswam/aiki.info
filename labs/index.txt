@@ -1,6 +1,5 @@
 {
 >[earth.jpg]
-
 =ai.ki labs=
 
 *virtual internet laboratories*
