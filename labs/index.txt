@@ -1,11 +1,20 @@
 {
-	 .... =ai.ki labs= .... 
+=ai.ki labs=
 
-	 .... *virtual internet laboratories* ....
+*virtual internet laboratories*
 
-		We are élite coders and hackers, creating simple brilliant technology in the public domain.  Hello and welcome to students, apprentices and masters!  Here is the place to work on dream projects, hone skills, build ~awesome stuff~.  Earning some income is not out of the question.
+We are élite coders and hackers,
+creating simple brilliant technology,
+free in the public domain.
 
-	 .... contact: labs@ai.ki .... 
+Hello, good-day, and welcome to all;
+students, apprentices and masters!
+
+Here you can work on dream projects,
+hone skills, build ~awesome stuff~,
+and earn plenty money for your living.
+
+contact: labs@ai.ki
 |
 
 |
