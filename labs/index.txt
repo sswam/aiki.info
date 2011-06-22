@@ -4,8 +4,8 @@
 =ai.ki labs=
 
 *virtual*
-*internet*
-*laboratories*
+ *internet*
+  *laboratories*
 
 We are élite coders and hackers,
 creating simple brilliant technology,
