@@ -1,4 +1,6 @@
 {
+[earth.jpg]
+
 =ai.ki labs=
 
 *virtual internet laboratories*
@@ -15,8 +17,6 @@ hone skills, build ~awesome stuff~,
 and earn plenty money for your living.
 
 labs@ai.ki
-
-[earth32.jpg]
 |
 
 |
