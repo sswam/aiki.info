@@ -1,5 +1,5 @@
 {
-[earth.jpg]
+>[earth.jpg]
 
 =ai.ki labs=
 
