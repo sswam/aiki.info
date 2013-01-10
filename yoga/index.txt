@@ -6,11 +6,13 @@
 For a start, try to do the exercises 5 or 10 times each.
 You can work up to a maximum of 21 times each, once or twice a day.
 
-  ./images.html  (.html + animated .gif)
+Read the instructions:
 
   ./Five-Yoga-Exercises.pdf  (.pdf)
   ./Five-Yoga-Exercises.doc  (.doc)
   ./Five-Yoga-Exercises-manual-book.doc  (.doc)
+
+  ./images.html  (.html + animated .gif)
 
 I have reproduced these materials here, intending to make them easier
 to view and print.  I hope this can help people.
