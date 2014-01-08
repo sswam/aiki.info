@@ -12,9 +12,9 @@ Aikidō is the practical balance between non-violence and self defence.  The tru
 Aikidō: a joyful dance, a vital sport, the art of peace, the best strategy.
 
 
-*member pages:*
+*pages:*
 
-./sam
+./Yoshinkan.html Aikido: Complete Techniques
 |
  .... =ai.ki= .... 
 
@@ -24,7 +24,7 @@ As an Internet host, we serve and link to sites about Aikidō.  We host personal
 
 These services are available free of charge, or "pay what you feel".
 
-Please contact sam@nipl.net for more information.
+Please contact ./Sam_Watkins for more information.
 
 
  .... dōjō  sensei  students .... 
