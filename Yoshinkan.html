@@ -27,7 +27,11 @@ function search() {
 	old_query = query;
 	if (query.match(/^ *$/)) {
 		$('li').show();
-		location.hash = '#'+query.replace(/ /g, '+');
+//		location.hash = '#'+query.replace(/ /g, '+');
+		location.hash = '';
+		var title = $('title').text()
+		title = title.replace(/.* - |^/, '');
+		$('title').text(title);
 		return;
 	}
 	var query_words = query.split(" ");
@@ -66,6 +70,9 @@ function search() {
 		}
 	});
 	location.hash = '#'+query.replace(/ /g, '+');
+	var title = $('title').text()
+	title = title.replace(/.* - |^/, query + ' - ');
+	$('title').text(title);
 }
 function search_clear() {
 	$('#search').focus();

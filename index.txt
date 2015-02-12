@@ -16,9 +16,9 @@ Aikidō: a joyful dance, a vital sport, the art of peace, the best strategy.
 
 ./Yoshinkan.html Aikido: Complete Techniques
 |
- .... =ai.ki= .... 
+ .... =Aikidō= .... 
 
-*ai.ki* is a place for Aikidō on the Internet, for people who love peace, and the martial arts.
+This is a place for Aikidō on the Internet, for people who love peace, and the martial arts.
 
 As an Internet host, we serve and link to sites about Aikidō.  We host personal, group, and business websites, and provide other services including email and ssh.
 
