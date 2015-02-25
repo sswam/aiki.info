@@ -45,11 +45,10 @@ function search() {
 		var path = ' ';
 		$path_li.each(function() {
 			var $li = $(this);
-			var $a = $li.find('a').first();
+			var $a = $li.children('a').first();
 			if ($a.length) {
 				path += $a.text() + ' ';
 			} else {
-				alert("foo");
 				path += $li.text() + ' ';
 			}
 		});
