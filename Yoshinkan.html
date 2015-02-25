@@ -46,11 +46,7 @@ function search() {
 		$path_li.each(function() {
 			var $li = $(this);
 			var $a = $li.children('a').first();
-			if ($a.length) {
-				path += $a.text() + ' ';
-			} else {
-				path += $li.text() + ' ';
-			}
+			path += $a.text() + ' ';
 		});
 		path = path.toLowerCase();
 		var match = true;
@@ -757,21 +753,21 @@ $(function() {
 <li><A href="http://www.youtube.com/watch?v=KRjoqIhl7Ms&t=3h27m03s#t=3h27m03s">finale</A>
 <li><A href="http://www.youtube.com/watch?v=KRjoqIhl7Ms&t=3h28m10s#t=3h28m10s">credits</A>
 <li style="visibility: hidden;">
-<li>additional techniques</A>
+
+<li><A href="https://www.youtube.com/results?search_query=aikido">additional techniques</A>
 <ul>
-<li>juji-nage
-<ul>
-<li><A href="https://www.youtube.com/watch?v=dQKfrRxDzsg">ushiro-ryote-mochi juji-nage (1)</A>
-<li><A href="https://www.youtube.com/watch?v=JT9b4ZnLF6E">how to do juji-nage</A>
-</ul>
-<li>kaiten-nage
+<li><A href="https://www.youtube.com/watch?v=gqvZ4KzIESw&index=13&list=PL970B7BDB368DB950">kaiten-nage</A>
 <ul>
 <li><A href="https://www.youtube.com/watch?v=J4HHG-5eRMs">doshu Moriteru Ueshiba uchi kaiten-nage</A>
-<li><A href="https://www.youtube.com/watch?v=gqvZ4KzIESw">how to do kaiten-nage</A>
+</ul>
+<li><A href="https://www.youtube.com/watch?v=JT9b4ZnLF6E&index=15&list=PL970B7BDB368DB950">juji-nage</A>
+<ul>
+<li><A href="https://www.youtube.com/watch?v=dQKfrRxDzsg">ushiro-ryote-mochi juji-nage (1)</A>
 </ul>
 </ul>
 <li style="visibility: hidden;">
-<li>Howcast - Aikido
+
+<li><A href="https://www.youtube.com/playlist?list=PL970B7BDB368DB950">Howcast - Aikido</A>
 <ul>
 <li><A href="https://www.youtube.com/watch?v=vZXt0_Kf5GE&index=1&list=PL970B7BDB368DB950">What is Aikido?</A>
 <li><A href="https://www.youtube.com/watch?v=OQ7e-8yKfI4&index=2&list=PL970B7BDB368DB950">tai-sabaki</A>
