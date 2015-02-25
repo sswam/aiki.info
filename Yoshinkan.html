@@ -34,7 +34,7 @@ function search() {
 		$('title').text(title);
 		return;
 	}
-	var query_words = query.split(" ");
+	var query_words = query.toLowerCase().split(" ");
 	for (var i=0; i<query_words.length; ++i) {
 		query_words[i] = query_words[i].replace(/\./g, ' ');
 	}
@@ -52,6 +52,7 @@ function search() {
 				path += $li.text() + ' ';
 			}
 		});
+		path = path.toLowerCase();
 		var match = true;
 		for (var i=0; i<query_words.length; ++i) {
 			var w = query_words[i];
