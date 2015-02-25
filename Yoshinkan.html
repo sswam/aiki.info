@@ -46,7 +46,11 @@ function search() {
 		$path_li.each(function() {
 			var $li = $(this);
 			var $a = $li.find('a').first();
-			path += $a.text() + ' ';
+			if ($a.length) {
+				path += $a.text() + ' ';
+			} else {
+				path += $li.text() + ' ';
+			}
 		});
 		var match = true;
 		for (var i=0; i<query_words.length; ++i) {
