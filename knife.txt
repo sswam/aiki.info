@@ -1,0 +1,1005 @@
+The Fairbairn Manual of Knife Fighting
+
+William Ewart Fairbairn's Lost Classic
+
+William L. Cassidy
+
+Copyright © 1999 by William L. Cassidy. All rights reserved. No portion of this publication may be reproduced, stored, or supplied in any format without prior written permission. Additional restrictions on use also apply. Contact the copyright holder for further information.
+
+Introduction
+
+In February 1977, Lieutenant Colonel William Ewart Fairbairn's son, Major John E. Fairbairn, OBE, presented me with an unpublished document on the subject of knife fighting. This document was written by his father in 1955. It takes the form of a typewritten manuscript, with numerous holographic notes in Lieutenant Colonel Fairbairn's own hand. It was never titled, nor was it ever completed.
+
+In 1975, I had written a book entitled Complete Book of Knife Fighting, wherein I made mention of Lieutenant Colonel Fairbairn. Accordingly, his son requested that I edit, revise, and rewrite the manuscript for publication.
+
+Revision and rewriting was to be accomplished on the basis of instruction in the form and style of knife fighting covered in the manuscript, together with such other material that I deemed useful. Major Fairbairn gave me such instruction in sessions at his home. Pronouncing himself satisfied with the result, he next presented me with his father's personal edged weapons, prototypes, and service revolver, as well as his father's personal papers.
+
+I have delayed publishing this work for twenty-two years. The delay was at Major Fairbairn's request, made for reasons that must remain in confidence.
+
+In the following, I have engaged in strict historical editing practice. I provide text exactly as encountered in the original manuscript. I make special note of the author's excisions and additions. Material that I have added is so identified.
+
+This is a unique and historically significant document on the art of knife fighting. I have elected to make this electronic edition openly available, in order to preclude the material's exploitation by unscrupulous firms and individuals who seek to unfairly trade upon Lieutenant Colonel Fairbairn's name and the wide respect it engenders.
+
+You are at liberty to read and study this material via the World Wide Web. I respectfully ask that no other use be made, inclusive of hyperlinks, downloading, adaptations, interpretations or unattributed quotations, absent prior permission.
+
+This material is first posted 2 February 1999.
+
+William L. Cassidy
+
+Contents
+
+Flyleaf copy (by Fairbairn)
+PREFACE
+No. 1 STANCE
+No. 2 THE GRIP
+No. 3 EXERCISE "A"
+No. 4 EXERCISE "B" - THE "WHIP"
+No. 5 EXERCISE "C" - "FIGURE OF EIGHT"
+No. 6 EXERCISE "D" - THE SLASHING CUT
+No. 7 EXERCISE "E" - THE THRUST or POINT
+No. 8 THE CIRCULAR-BACKWARD SLASH
+No. 9 SHADOW-FIGHTING
+No. 10 THE "RETREAT"
+No. 11 ATTACK POINTS
+POSITION OF CARRYING THE "COBRA" FIGHTING KNIFE
+DIS-ARMING A KNIFE FIGHTING OPPONENT??
+(Fly leaf)
+
+The Author has been an ardent student of Self Defense in all of its branches for a great number of years. In the course of these studies he received expert instruction in the art of Chinese "Boxing" from one of the retainers of the late Dowager Empress. He received special instruction in Foil and Dagger fighting from several of the finest Instructors in the Far East. Although a non-resident of Japan, he was admitted to Kodokan Jui-Jitsu University, where he was eventually awarded the Black Belt (NIDAN) = Second Degree.
+
+During his career he has held appointments as Chief Instructor in Close Combat Fighting to the Shanghai Municipal Police, British Commandos and the Office of Strategic Services, U.S.A.
+
+Combing all this knowledge, plus practical experience gained during over 2,000 Riot Calls in SHanghia, he is now publishing his latest book on Knife Fighting. This manual describes methods developed and practiced over a number of years and in spite of their un-orthodoxy, they have stood up to the practical test during World War II in the Far East and elsewhere, and becomes a "must" book for all men serving in the Armed Forces.
+
+Previous Books by the Author
+
+Un-armed Combat - "Defendu," "Scientific Self Defense", "Get Tough", "Hands Off".
+
+Pistol - "Shooting to Live" (Co-Author)
+
+PREFACE.
+
+We believe that the time has arrived when the bayonet should be discarded as no longer effective and like the Pike placed amongst the weapons of the past.
+
+There can be no doubt, once you have handled a scientifically designed Fighting Knife, that you would prefer it to a Bayonet, especially if the fighting was to take place under any of the following conditions - over roof tops, up or down stairs, climbing up ships sides, crossing streams up to your waist in water, in dense jungle, or through paddy fields. Under such conditions, a bayonet attached to a rifle would be a severe handicap.
+
+We are aware that there are many who will disagree with this; also that some of them will come back with - "The bayonet has won more wars that any other weapon." Be this as it may, we still contend know that any advantage gained by having a bayonet attached to a rifle or other firearm, is cancelled-out threefold by the loss of balance and illegible it causes to the in the weapon to which it is attached. Be this as it may, we still contend that it should be replaced by a well balanced fighting knife.
+
+To prove our point, let us trace the history of the bayonet - (a) Korean War, (b) World War I, (c) World War II, (d) South African War.
+
+During (a) and (b) no reports were received of the bayonet having been used to any great extent, but in (c) the bayonet was reported to have been very effective in Trench fighting, also during the South African War it was put to good use. Here Fairbairn plainly means to deprecate the bayonet in the Korean Conflict and World War II, but miss-writes himself.
+
+This rather tends to show We admit that the bayonet was a very effective combat weapon in the bygone days but with the advent of the Flame Thrower, Sub-Machine Gun and Hand Grenade, (all close-quarter weapons) what chances has a Bayonet Charge of being successful? The claim that the psychological value of the bayonet in building up the moral of the Troops is such that its retention is more than justified, does not make sense.
+
+Paratroopers frequently need a knife to cut themselves free and there are numerous other occasions when a good knife would be invaluable. In addition, there are times when it would be inadvisable to fire a pistol, [or other firearm] on account of raising an alarm.
+
+Those who carry an Auto-Pistol, or Revolver, or Tommy Gun are aware that they are restricted to a limited number of rounds and dread the thought of being caught with an empty gun. Yet it is an established fact that once contact is made and the firing starts, it is only a matter of seconds before the one hand gun is empty, after which, it would not make a respectable club. We contend that at such a time, it would be a very comfortable feeling to know that one had a well balanced fighting knife handy.
+
+There are many who will regard this as rank heresy, or worse. I shall be content for the present if the reader will concede me at least a title to my views and I hope to fortify the title subsequently by statistics of actual results of shooting affrays with one-hand-guns over a number of years which took place in Shanghai.
+
+When I joined the Special Training Centre of the British Commandos (1940), the Authorities did not recognize a fighting knife as part of the equipment of the Fighting Services. In fact, such a thing as a fighting knife could not be purchased anywhere in Great Britain.
+
+To meet the many requests, I designed the "FAIRBAIRN" knife and managed to persuade the Wilkinson Sword Company to manufacture it privately from a number of old bayonets they had in stock, personally guaranteeing the sale of three hundred. The day they arrived there was a near riot in the rush to buy them. Shortly after this official recognition was given to the Fighting Knife. This same knife was just as popular with members of the Armed Forces of the U.S.A. and a number of Units were issued with it as part of their normal equipment.
+
+There is something about a good [well balanced, razor sharp] fighting knife that appeals to the majority of fighting men, irrespective of nationality. I contend that this is on account of that feeling of confidence which such a knife gives its owner, which is apparently so much greater that that which one receives from any other weapon. Especially is this so when one is operating in the dark.
+
+A recruit, trained in Knife Fighting and equipped with a well balanced, razor sharp knife, has a wonderful psychological advantage over an opponent who has not received such training. This is clearly demonstrated when operating in the dark, or on Forward Sentry duty. Many a man has testified that immediately he drew his knife, his confidence returned and he was no longer afraid. This confidence is apparently so much greater than one receives from any other weapon.
+
+Certain individuals will never make Knife Fighters. They have an aversion to using a knife and no amount of instruction will make any difference. In this connection I had a V.I.P. student sent to me for private instruction in Close Combat Fighting (Pistol, Sub Machine Gun, Carbine, Un-armed Combat and Knife). He was six feet seven inches in his socks, over 300 lbs. in weight and had the largest pair of hands I have ever seen. At that time my weight was 160lbs. and I was not looking forward to the Un-armed Combat session of the training.
+
+The student duly qualified in the first three subjects and during a "break" period, I learned something of his "back-ground" (Professional All-In Wrestler). That decided me to cut the un-armed combat (Judo) and pass on to the Knife Fighting. Despite the student's colossal strength (he actually lifted me above his head with the greatest of ease), I knew, Immediately I drew a concealed knife and made a few passes near his face, that I could, by means of a knife, bring him down to my own weight and strength. [Immediately I drew a concealed knife, I knew that the fear of a knife brought him down to my own weight and strength]. One might say "you could hear his shoulder blades click" as he jerked himself backwards out of reach.
+
+EXTRACTS FROM SHANGHAI MUNICIPAL POLICE RECORDS (SHOOTING AFFRAYS)
+
+The records of the shooting affrays referred to earlier show that there were no less than six hundred and sixty-six armed encounters in which Pistols were used by the Police and criminals. On several of these encounters as many as twenty Policemen and criminals were fighting from room to room, etc.
+
+During these encounters, on no occasion did anyone RE-LOAD his PISTOL whilst he was BEING FIRED AT.
+
+Members of the Force, when questioned as to why they had not immediately re-loaded, could not offer any reason for failing to do so. Could it be, that under such circumstances, it is a mental as well as a physical impossibility to do so?
+
+The fact remains, that no one re-loaded.
+
+Note - So that the reader will not think that the reason for failing to re-load was owing to the lack of proper training, let me here state that the Shanghai Municipal Police had the most up-to-date IN-door Pistol Range in the world. Their quarterly Pistol Practices were conducted under conditions as near as possible to those they had to contend with whilst on duty - firing up and down stairways, over roof tops, from and in to windows, sometimes in very poor light or with no light at all. Twelve shots in all, (which necessitated changing of magazines), with point deducted if caught with an empty pistol.
+
+I have a very high opinion of the fighting value of the Tommy and one-hand-guns. This is based on my 40 years experience of these weapons, which includes not only armed encounters with armed criminals but the responsibility for instructing large numbers of Police and Soldiers, etc., of many nationalities in various parts of the world. Despite this I still say - THAT A GOOD FIGHTING KNIFE IS AN ABSOLUTE ESSENTIAL FOR ALL MEMBERS OF THE ARMED FORCES.
+
+W.E. Fairbairn, Lt.-Col.
+
+1955.
+
+No. 1 STANCE.
+
+"THERE IS NO SUCH THING AS A CORRECT STANCE FOR KNIFE FIGHTING."
+
+Having made this statement, we will justify it:-
+
+The situations you are liable to have to contend with are very seldom of your selection and frequently they may vary with every step you take. You may be running; going up or down a slope or stairway; up to your ankles in a mud patch, or up to your waist in water. In fact, the situations are astronomical in number. Under such circumstances all the student can do is to remember that, as far as possible, he should try to achieve a crouching stance, with knees and waist as flexible as possible. (Fig. 1.)
+
+No. 2 THE GRIP.
+
+1. Hold the knife in the right hand, the thumb full length along the back of the hilt, the knife resting on the index finger, between the first and middle joint. (Fig. 2.)
+
+2. Close the three remaining fingers over towards the fleshy part of the thumb. (Fig. 3.)
+
+Note - The position of the thumb and fingers will vary according to their thickness and length. To find the most suitable grip for yourself, grip the hilt firmly, and if necessary allow allowing the tip of the thumb to go forward on the back of the blade. (See Fig. 3.)
+
+WARNING - When making a slashing cut to the RIGHT, grip hold the hilt of knife with as firm a grip as possible. At all other times, the grip should be mainly with the fingers and thumb.
+
+Students are warned that the hilt of the knife is only gripped with the full strength of all fingers and thumb ONLY when making a LEFT slashing Cut, or Thrust. At all other times, the knife is mainly held by the fore-finger and thumb, with the fingers only maintaining a loose grip. (See CAUTION Page 8.) [Refers to Exercise No. 8 of manuscript].
+
+Note - This closing an relaxing of the grip will become automatic after a very little practice.
+
+The manner in which edged weapons are initially grasped by the wielder governs the manner in which they are carried and withdrawn, and influences both weapon design and the dynamics of initial maneuver. We therefore observe that the foundation of every knife fighting technique is grip.
+
+The knife is controlled by the thumb and forefinger. The former provides power and the latter precision. The placement of thumb and forefinger is thus the foundation of grip. Precisely how the thumb and forefinger are placed is a function of weapon design, culturacy idiosyncrasy, personal preference, and a host of other factors.
+
+The above factors hold true regardless of whether one employs a prison-made "shank," or a fencing foil; they are a function of the motility of the human hand, and reflect mind-body interaction norms.
+
+No. 3 EXERCISE "A".
+
+1. Holding the knife in the right hand, arm shoulder high, forearm bent, back of the hand up, knife over the left shoulder. (Fig. 4)
+
+2. Whip the forearm out towards the right, to the full expectant of the arm. (Fig. 5)
+
+3. Arm shoulder high - reverse the hand - back of the hand down. (Fig. 6)
+
+4. Whip towards the left, allowing the arm to bend to the original position, as in Para. 1. Now reverse the hand back to the original position. (See Fig. 4)
+
+Note (a) Having mastered the shoulder high exercise, vary the height of the arm and occasionally reach down towards the ground.
+
+Note (b) Remember that your opponent is liable to attach from your right, left, or even from behind. Practice changing your position quickly, to cope with this.
+
+Assuming you are fighting with a knife against a knife, it is wise to never lower the arms below the navel or raise them above the shoulders.
+
+No. 4 EXERCISE "B" - THE "WHIP"
+
+1. Holding the knife as in (Fig. 4), back of the hand UP, whip the knife sharply towards the right, in a like manner to "cracking a whip by a flick of the wrist.
+
+2. Gradually increase the length of the "whip" from 12 inches to as far as you can reach. (Fig. 5)
+
+3. Holding the knife as in (Fig. 7) back of the hand DOWN. Whip the knife to the left and then continue as in Para. 2
+
+CAUTION - When making the "whip" to the LEFT, the grip on the hilt should be mainly by the index finger and the thumb. The other fingers should only be loosely on the hilt. Particular care must be paid to this otherwise the tendons of your wrist or arm may be strained.
+
+NOTE - Even although you put all your strength into your grip and carry out your the RIGHT "whip" with the utmost speed, you will not strain the tendons of your wrist or arm. (Figs. 4 & 5).
+
+No. 5 EXERCISE "C" - "FIGURE OF EIGHT".
+
+1. Holding the knife as in (Fig. 8), back of the hand UP, forearm parallel with ground, elbow close to body, point of knife at START (Fig. 9) slowly follow the arrow to "A".
+
+2. Between "A" and "B" reverse the back of the hand to DOWN, then continue to "C".
+
+3. Between "C" and "D" reverse the hand to its original position, (back of hand UP).
+
+4. Having mastered the technique of turning the hand over, gradually increase to the fastest possible speed.
+
+5. Now repeat the above, with the arm fully extended, occasionally changing to a bent arm or trying to touch the ground with the knife.
+
+Note - An expert Knife Fighter keeps his knife always on the move - making it dart in and out like a snakes-fang and occasionally changing his position and the height of attack.
+
+
+
+No. 6. EXERCISE "D" - THE SLASHING CUT.
+
+(Suspend a vegetable from a tree, etc., at about shoulder height.)
+
+1. Hold the knife as in Fig. 10 - back of the hand DOWN. Stand slightly less than arms length and to the right of the object. Make a slashing cut to the left, by a circular inward motion of your arm and wrist, cutting the vegetable in half.
+
+Note - Cutting the vegetable in half by this LEFT SLASH is considerably more difficult to perform than it is when slashing to the RIGHT, but the Student must first master the LEFT before attempting the RIGHT.
+
+2. Hold the knife as Fig. 11 - back of the hand UP - stand slightly less than arms length and to the left of the object. Make a slashing cut to the right by a circular outward motion of your arm and wrist.
+
+Note - During both the RIGHT and LEFT SLASH, the body must turn in the direction of attack. This permits you to carry out a "follow-through" motion of your arm.
+
+3. Students having mastered both the LEFT and RIGHT SLASH are recommended to try the DOUBLE SLASH. Cutting the vegetable in half with the Left Slash and then cutting the falling piece by means of a Right Slash, before it reaches the ground.
+
+Note - This calls for the utmost possible speed if you are going to catch the falling piece of vegetable before it reaches the ground.
+
+CAUTION - When this DOUBLE SLASH is being practiced, all persons should be at least ten feet away. This is a precautionary measure during the initial training of a recruit, in case he should loose his grip of the knife.
+
+NO. 7. EXERCISE "E" - THE THRUST or POINT.
+
+1. Hold the knife as in Fig. 12, with the FLAT SIDE UP. It should be noted that when the "COBRA" Fighting Knife is held in this manner that it is a prolongation of the arm and the point is in alignment with the thumb. (This permits the thrust to be made with accuracy, without having to worry if the back of the hand is UP or DOWN.)
+
+Bring the left foot forward directly back of the right and make an instantaneous forward lunge - by stepping off with the right foot, accompanied by a gliding thrust forward with your forearm. (Fig. 13.) Danger of one's knife becoming entangled in the clothing or equipment of an adversary renders the thrust into the throat advisable.
+
+Note - The position of the feet (STANCE) has an important bearing upon the successful application of the Thrust.
+
+CAUTION - When you have more than one opponent to deal with, it is inadvisable to attempt a thrust at one of them. The reason for this is obvious. When making a "Thrust" you are in a lunging position, with your arm extended forward to its full length, leaving you "wide open" to attach by one or more of your other opponents.
+
+No. 8. THE CIRCULAR-BACKWARD SLASH.
+
+1. The Circular-Backward slash is a continuation of the slash to the Right and is usually made from shoulder height. Knife held as in (Fig. 4) (Back of hand UP - knife over the left shoulder - See No. 3 Exercise "A" Page 6.) [Refers to Page Six of manuscript]
+
+2. On the command GO, make a right slash, the full length of the arm, simultaneously jump and twist the body as far around as possible, aiming to strike your opponent's face.
+
+Note - Providing this slash is made with the utmost possible speed and strength, the momentum of the right arm will considerably help in twisting the body around.
+
+CAUTION - Only one student must be exercised at a time during this exercise. The remainder including the Instructor, must be at least 20 yards in the rear. This is a precautionary measure and should be strictly adhered to, until such time as the students have shown that they can retain their grip upon their knives.
+
+ADVICE - Students should be encouraged to practice this exercise at every available opportunity. In the event of insufficient room, Tap Dancing is a good loosing-up exercise.
+
+No. 9 EXERCISE - SHADOW-FIGHTING
+
+It has frequently been said that our methods of instruction, because they are unorthodox, are not practical. Our answer to that is:- He who attacks in an unorthodox manner, has the element of surprise in his favor. Further, we have had students of many nationalities pass through our hands, a number of whom have, on their return from active services, stated -
+
+THEY WERE ALIVE, ONLY BECAUSE OF THE TYPE OF TRAINING THEY HAD RECEIVED.
+
+This, we contend, is full justification for the soundness of our unorthodox methods.
+
+Note: Fairbairn's professional reticence prevented him from fully disclosing the precise character of his most celebrated students: the men and women of the Special Operations Executive and the Office of Strategic Services. These individuals and their exploits were the ultimate test of Fairbairn's methods and the greatest testament to his success.
+
+Part "A". Shadow-Fighting. (In open country)
+
+Warning - For obvious reasons, only one student should be exercised at a time. The remainder should remain in the rear "at ease" and told to provide "off stage noises".
+
+1. The student should be briefed, somewhat as follows -
+
+a. You are making your way in the dark through the Enemy's Lines and are liable to be attacked from all sides.
+
+b. On the command GO you will draw your knife and advance at the run in the direction indicated. You will be given the direction from which the attack is coming and will immediately counter-attack with a slashing-cut or thrust as the imaginary enemy. In the event of being tripped or falling down, you must continue fighting, getting up as quickly as possible and advance until ordered to stop.
+
+2. The Instructor will keep approximately ten yards in the rear during the advance, calling out the direction the student is being attacked from, somewhat as follows -
+
+BEHIND YOU - RIGHT - LOW LEFT - HIGH RIGHT, etc.
+
+Note: - These commands should be given in quick succession and the student constantly urged to put more weight in to his slashes with the knife.
+
+Instructors Note:- This "Shadow-Fighting" is a very strenuous exercise and the distance covered in the attack, in the initial stages of the training, should not exceed 50 yards. Each student should be given a ten minutes "Rest" after completing the course.
+
+Part "B". Shadow-Fighting. (Down a wooded slope.)
+
+Note - Where possible select a slope with second-growth trees. Where they permit, these trees should be grasped with the disengaged hand, permitting you to make a leap downward of several feet.
+
+1. Students not taking part in the exercise will be "At Ease" on the top of the slope and instructed to provide the "Off stage noises".
+
+a. The Student should be briefed as follows:- On the command - GO - you will jump down the slope (drawing your knife) and continue as fast as possible, in the direction indicated. You will be given the direction from which the attack is coming and will immediately counter-attack with a slashing-cuts, etc. at the imaginary attackers.
+
+2. The Instructor will direct the attack from the top of the slope - using a megaphone if necessary and insisting that the attacks swiftly and with full strength.
+
+Note - The commands should be given somewhat as in the previous exercise.
+
+In 1955, the above was considered unorthodox and, unkindly, a trifle foolish. Today we know a good deal more about the power of pre-visualization exercises. We have also relearned what we once (in an era gone by) knew about physical conditioning for edged weapons. Any exercise that tends to lend strength and agility to the Latissimus Dorsi, Fascia Infraspinata, Infraspinatus, Teres Minor, Teres Major, and Serratus Anterior muscles of the back and arm is to de desired as it is these muscles which serve the fighter fighter best in the darting thrust and slash attacks.
+
+No. 10 THE "RETREAT"
+
+"A" An opponent, armed with a knife, should never be allowed to approach within five feet. At that distance, or less, he is a very dangerous man. (This is not so difficult to understand when you realize that the length of a man's arm, plus the knife, is approximately three feet, thus leaving only two feet to be covered to make contact with the knife on your person.) There are two ways of dealing with such a situation -
+
+1st. IF YOU ARE ARMED - shoot him before he is within five feet distance.
+
+2nd. IF YOU ARE UN-ARMED - turn and run.
+
+Note - Fear will most likely give you that additional speed to out-distance your opponent.
+
+ 
+
+An individual of average (5'8") stature, throws a snap-type strike extending approximately 2' 7". The strike terminates before the arm is fully extended, thus exploiting maximum speed and guarding against the possibility of a "locked joint," in this case, the elbow.
+
+THE ATTACK
+
+"B" Now let us reverse the above situation. You are the one who is attacking with a knife. Approach to within the required distance, right hand on the hilt of your knife (not drawn), your left forearm covering your right hand. (Fig. ...)
+
+Note - By covering your right hand with your forearm, your opponent is not receiving advance "information" of your intention to attack.
+
+Having decided to attack - spring forward, simultaneously drawing your knife and make a LEFT slash at your opponent's face. In the event of a near-miss, your opponent will be back on his heels, off balance and wide open for the return RIGHT slash.
+
+Note - A near-miss at an opponents face, with any weapon, always produces the same results. He instinctively throws his head back, which sets him back on his heels and off balance.
+
+No. 11. ATTACK POINTS.
+
+In close-quarter fighting there comes a time when weapons have to be re-loaded. This is the time when a well balanced fighting knife, in the hands of a man trained to use it scientifically, becomes the most deadly weapon it is possible to have.
+
+In the accompanying diagram (Fig. 14.), the approximate position of the arteries are given. They vary in size from the thickness of one's thumb to that of an ordinary pencil. Naturally, the speed at which loss of consciousness or death takes place will depend upon the size of the artery cut.,
+
+Certain arteries are more vulnerable to attack than others, because of their being nearer the surface of the skin. Don't bother about their names so long as you can remember where they are situated.
+
+The psychological effect of even a slight wound in the stomach is such that it is likely to throw your opponent into confusion.
+
+POSITION OF CARRYING THE "COBRA" FIGHTING KNIFE.
+
+The COBRA Fighting Knife was designed to be carried on the left side of the belt. The sheath has been fitted with a canting loop, which brings the hilt of the knife within comfortable reach of the right hand and permits you to run or sit down in a car, etc., without having to push the knife around to the back of the body (Fig. ...), where it would be impossible to make a "quick draw".
+
+There are other positions in which the knife can be carried but it is essential that the position selected brings the hilt of the knife within easy reach of the drawing hand.
+
+Paratroopers find, owing to the nature of their calling and the additional equipment they have to carry, that the knife is best carried in the top of the boot or strapped to the leg or thigh. When carried in these positions, it is essential that the sheath is firmly secured, so that it will not "ride" in any direction. Also, the hilt MUST BE perpendicular so as not to catch up in the branches in the event of a "tree landing".
+
+DIS-ARMING A KNIFE FIGHTING OPPONENT??
+
+We are frequently being told of Judo Experts who claim that they can dis-arm a man attacking them with a knife without the aid of any weapon - in other words - with their bare hands. Also we have a copy of a Military Training Bulletin, in which the author lays down how the recruit should be instructed to do the same thing.
+
+It is apparent that neither the Judo Expert nor the writer of the Bulletin have ever seen an expert knife fighter in action or even at practice, otherwise, they would know that had they attempted to dis-arm him, they would, in a matter of a split second, be minus a few fingers or an ear - that is, if they were so fortunate as to be still alive.
+
+We have no objection to the Judo Expert making this statement or to him continuing to teach his STAGE DIS-ARM but we get "very hot under the collar" when those responsible for the training of our young men for Combat duty, publish Training Manuals in which they state and show photographs of a man being dis-armed by an Instructor with his bare hands.
+
+NOTE - The Author again wishes to go on record - IF YOU ARE UN-ARMED - "THERE IS NO DEFENSE AGAINST AN OPPONENT ATTACKING WITH A KNIFE".
+
+Scientific studies have shown that the recorded speed of a forward snap-type strike originating from waist-level is 5.7 to 9.8 meters per second, or approximately 19 to 32 feet per second. The hand reaches maximum speed shortly before the arm is fully extended, and travels faster on the return stroke than on the forward stroke.
+
+Based on the above, it can be estimated that it takes one-sixth of a second or less to execute a snap-type knife strike. This assumes an average speed of 32 feet per second and a total distance of 62 inches.
+
+Stress reaction time to any stimulus is approximately one-fifth of a second.
+
+It is for the above reasons, among others, that we state there is no means by which an unarmed man can defend against a knife fighter.
+
+Still, it must be acknowledged that there may come unfortunate circumstances in which one has no other choice but to make an attempt. In such unpleasant cases, usually played out at the end of an alley or in confinement, the following guidelines may be of some small value if there is no place to run and no place to hide:
+
+1. Obtain the advantage of distance. Stay as far away from the blade as circumstances permit.
+
+2. Move continually. Stay in motion, especially with multiple attackers. Move at least three feet in each second.
+
+3. Concentrate on the knife. Do not be fooled by watching the attacker's eyes, hands, or any other part of his or her body. Pay attention to the knife.
+
+4. Pay attention to timing. Semi-skilled and crude attackers manipulate knives according to an individual rhythm, usually of a very rapid nature. Be aware of this.
+
+5. Do not close with your attacker. If you have no means of escape, allow him to close with you.
+
+6. Evade the weapon before you counterattack. First get out of the way of the blade. If you must absorb cuts, try to avoid absorbing them with your arms and hands by using your feet. Note - this is "last ditch" advice!
+
+7. Attack the forearm and the wrist simultaneously. Do not attack the hand. Attempt to immobilize the hand that holds the knife as rapidly as possible, then break the hand, wrist, elbow or arm. Strike the bridge of your attacker's nose with your head.
+
+8. Never go to the ground with an attacker. Try to stay on your feet at all costs.
+
+9. Do not "protect" wounds. If you are attacked by surprise and stabbed, and you cannot run, do not shrink back or "cover" your wounds as this will render your arms and hands vulnerable. At this stage, your arms and hands are your only means of defense. IMMEDIATELY counterattack the attacker's knife arm, or, in the alternative, "climb" your attacker using the remaining power in your legs. Be advised that most wounds result in a weakness in the legs, arising from the body's natural response to loss of blood.
+
+10. Do not wrap a coat around your arm. Do try to find an expedient weapon, such as a belt or a stick.
+
+Note: I have studied this issue for more than twenty-five years and have experienced the attentions of the finest instructors in the world. Please be assured that no martial arts school or technique can offer a predictable method of defense against a knife, and most of the techniques and methods one sees are suicidal against a knife fighter.
+
+ 
+
+it? 
+BTW... I did find one of the blueprints, but I cannot yet uncover the
+signed blueprint although I know I have it somewhere.
+I also uncovered a lot of other prints, machinist's drawings, etc.,
+including smatchet blue prints, several generations of A-F blueprints,
+F-S blueprints, and some of my own designs, etc. (More on this below)
+
+To my knowledge, the Cyprus Police were the only people he ever directly
+trained with this knife.
+You have to remember that this was ten years after the war and most people
+didn't have a clue who he
+was or what he was, so in consequence, most deprecated his efforts,
+thinking his design outlandish, whimsical, etc.
+He became very discouraged by this because he felt he was right in view of
+the reasons I set forth in other posts.
+
+anyway... to another issue....
+
+I divested of my knife companies circa 1979, and I am not eager to buy or
+build another one. My Sheffield cutlers have (wisely) decided to get out
+of Sheffield and most of my old U.S. knifemaking buddies are either dead
+or so damn wealthy they could care less about making knives. Blackie
+Collins used to do things for me, and was a great friend and a real help.
+Barry Wood was likewise excellent, and as for Bob Loveless-- he wisely
+became a friend so he wouldn't have to make things for me :-)
+
+I am thinking about running up a very unique suite I designed, so I am
+wondering who everybody likes. I just found the drawings for the suite
+today. There are also some special edged weapons I would like to produce.
+I therefore need everybody's advice, comments, drunken opinions, etc.
+
+Who is worth a damn these days? Somebody small, but with a limited
+production capability and a real obsession for quality (50 to 100 unit
+stuff max)? Also, what is the best (i.e. the easiest) middle production
+house these days? How about the prototype builders? Who is good in that
+respect?
+
+If there are any old-timers still around who fit the bill, I'd like to
+hear about it, because we could probably communicate better. Still, if
+there is some hot new guy with an established record that everybody has
+confidence in I might be willing to "make his day."
+
+I also particularly want to hear about the big production houses. In the
+old days, we had to force those bastards at gunpoint to get anything done.
+All of them acted like they were doing you a favor (!) I always
+wondered...who is doing who the favor. If you did convince them to do
+something they would screw around with the design and specification until
+you couldn't recognize your own creation. I think the only people who ever
+beat any of them at that game were Blackie and Bob, and that is one more
+reason why I respected them. The custom knife makers of the 1970s saved the
+American cutlery industry from ruin (and saved thousands of jobs in the
+process) and that is a hard, cold fact none of the big houses care to
+admit. They were exploiters, pure and simple, and never spent a dime to
+support anything or anybody except themselves. In the end, that is why a
+LOT of business went offshore. The Germans were tough on price, but they
+were also very astute businessmen who saw another rung on the export
+market ladder, and you could, employing that logic, occasionally cave them
+in.
+
+Do much overseas travel? See many American production knives in the stores
+overseas? 
+
+I rest my case.
+
+-- 
+The Chinese have a saying: "A fool thinks immediately of revenge. A wise man can wait decades."
+A Brief History of the Fairbairn-Sykes Fighting Knife
+With Related Comments on the Applegate Fighting Knife
+
+William L. Cassidy
+
+
+--------------------------------------------------------------------------------
+
+Copyright c 1977, 1999 by William L. Cassidy. All rights reserved. No portion of this publication may be reproduced, stored, or supplied in any format without prior written permission. Additional restrictions on electronic use also apply. Contact the copyright holder for further information. Portions of this publication previously appeared in Soldier of Fortune magazine.
+
+
+--------------------------------------------------------------------------------
+
+Preface
+
+This is, first and foremost, a brief history of the Fairbairn-Sykes. I have not told all that could be told for a variety of reasons, among which economy of space and preservation of privacy are dominant.
+
+This is, nevertheless, an accurate history. It has been produced with the full cooperation of Lieutenant Colonel William Ewart Fairbairn's son and daughter, with complete access to Fairbairn's personal papers and manuscripts. Similarly, I have enjoyed the full cooperation of all other parties involved with the weapon, or with their surviving relations. Facts and figures have been checked rechecked: against official documents (some still classified, some declassified specially for this account), and against interviews and correspondence with military instructors, intelligence officers, company historians, and cutlers the world over. The body of information thus collected is unique and unlikely to ever be duplicated.
+
+Now that interest in the practical aspects of edged weaponry is once again in the ascendant, and with the original Fairbairn-Sykes Fighting Knife available once again, it is important that the public be made aware of the history behind this most important of all fighting knife designs.
+
+This weapon was designed by men who actually used it; therefore, it is not the idle invention of men who have never fired a shot in anger, nor unsheathed a blade to kill. This weapon was proven in war, both conventional and unconventional, over a period of almost half a century; proven in thousands of nameless battles by British special forces, American special forces, and by covert action personnel of at least three major intelligence agencies.
+
+Thousands of lives have been taken and thousands more have been saved by this weapon. It is the standard of the fighting man's armory. I do attempt to either glorify or condemn the killing. I am as the archaeologist, and merely examine the artifact for clues.
+
+William L. Cassidy
+
+
+--------------------------------------------------------------------------------
+
+Introduction
+
+Each century of man's useful habitation of earth has produced an edged weapon unique to that century. A weapon which is emblematic to its age; upon which all understanding of personal combat with edged weapons is focalized, subjects to the needs and limitations of the society and civilization of the time.
+
+This evolutionary process (and it is indeed an evolutionary process, for it has seen the development of edged weapons progress from stone through bronze, and iron to steel), has reached its zenith in our own period, in what students of edged weapons now recognize as the most influential design of the twentieth century: the Fairbairn-Sykes Fighting Knife.
+
+To call the Fairbairn-Sykes a mere fighting knife is to do it a disservice. The author prefers to think of the Fairbairn-Sykes as a composition: the sine qua non of all edged weapons that preceded. I know, after years of study, that its simplicity is only a mask for many subtle manifestations of perfection.
+
+The Fairbairn-Sykes is indeed a perfect composition. The story of how it came to reach this perfection is to a significant degree the story of its inventors, and to a lesser degree, of the International Settlement at Shanghai in the decade 1930 to 1940; not so much a city as a state of mind.
+
+But we anticipate. Let us first examine the weapon itself.
+
+The Fairbairn-Sykes is, in its essential form, a delicately constructed, straight-bladed, double-edged weapon, with much of the dagger about it. Of daggers, its blade most closely resembles that of the fourteenth century baselard. Overall, the Fairbairn-Sykes is frequently, albeit most incorrectly, compared to the mid-seventieth century Italian stiletto.
+
+Unlike the dagger or stiletto, which are intended for use as thrusting weapons, the Fairbairn-Sykes is designed to exploit both of the two properties of edged weapons, viz. thrusting, and cutting, or slashing.
+
+The distinctive feature which lends this quality to the Fairbairn-Sykes is its hilt. This hilt possesses a vase-like, cylindrical grip, not unlike that of both the common rapier and left-hand dagger grips of the seventeenth century English small sword (itself a refinement of the rapier). The Fairbairn-Sykes grip owes its science to the principle of use so admirably demonstrated by the cylindrical Italian foil grip: it in no way limits the possibilities for the weapon's employment.
+
+The guard of the Fairbairn-Sykes may also bespeak rapier and left-hand dagger by the presence, in the first mass-produced model, of recurved quillions (known to collectors as the S-guard, or wavy-guard model).
+
+As originally produced in Shanghai, the Fairbairn-Sykes had a blade 6-1/4 inches long. As manufactured in Great Britain, 1941 to 1945, blade length increased to between 6-1/2 inches and 6-7/8 inches. Today, one finds British blades a full 7 inches in length.
+
+With reference to blade length, it is interesting to note a report regarding the specification of desirable bayonet designs, issued in 1924 by the Small Arms School at Hythe:
+
+"It has been conclusively proved during the war, and since, with our present system of training in the bayonet, that 'reach' is not a main factor but that 'handiness' is. A man with a short, handy weapon will beat an equally skilled man with a long, cumbersome weapon practically every time. As regards length of blade for killing purposes, the Physical Training Staff went into this in considerable detail during the war, and came to the conclusion that a 6-in. blade was sufficiently long to deal with the most thickly clad of our enemies--potential or otherwise. The most thickly clad of our enemies was taken as being a Russian in winter clothing."
+
+The grip of a typical, early mass-produced Fairbairn-Sykes is roughly 5 inches in length; cast and turned of brass, and knurled, to provide for a secure grasp. Its diameter at the largest point is almost 1 inch, this point being approximately 1-1/4 inches from the guard. Here, under ordinary circumstances, the second finger of the hand will rest. Point-of-balance in the weapon will be just slightly ahead of the second finger, approximately 1 inch from the guard.
+
+The grip tapers in both directions from the greatest diameter, toward the guard until it reaches approximately 5/8 inch in diameter, and toward the pommel until it reaches 1/2 inch in diameter. At the pommel it flares larger, forming a small knob, which aids in withdrawing the weapon from a scabbard. This is a most important feature. Atop this knob there is a threaded pommel nut (with more than a dozen variations, 1941 to 1977), usually made of soft iron or brass. The pommel nut is used to affix the grip and guard to the tang of the blade.
+
+One questions the use of the so-called skull-crusher pommel nut, which is reputedly of value for delivering blows to an opponent's temple area. This type of pommel nut has never been successfully employed with the Fairbairn-Sykes, owing to the proper method the latter's use. Let us put it another way: striking one's opponent with the pommel of one's knife is a dubious practice, the fanciful notion of those who have no real experience with knife fighting. Why not stab the fellow and be done with it?
+
+The guard of the Fairbairn-Sykes is fashioned of 1/8 thick iron or steel, 2-1/3 inches by 5/8 inch oval. Rarely, one encounters a 3 inch specimen. As mentioned above, the first mass-produced type bore recurved quillions. Post-1941, the recurved quillion guard was changed and made more or less standard at 2 inches by 5/8 inch oval, struck flat. Thickness of the guard remained at 1/8 inch.
+
+Here, then, is what we could call a typical Fairbairn-Sykes: a dagger-like cut and thrust weapon with a foil-like handle, 11-1/2 to 12 inches in overall length, weighing approximately 8 ounces.
+
+Development
+
+The Fairbairn-Sykes Fighting Knife was developed in 1931, in the International Settlement at Shanghai, China, by William Ewart Fairbairn (b. 28 February 1885, d. 20 June 1960), assisted by his son, John Edwin Fairbairn (b. 27 February 1914, d. 25 November 1977), and Eric Anthony Sykes (b. 5 February 1883, d. 12 May 1945). The earliest known specimen of a pre-Fairbairn-Sykes weapon that may have influenced the Fairbairn-Sykes design is dated 1933; a presentation piece for W.E. Fairbairn from two officers of the United States Marine Corps, Samuel S. Yeaton, and Luther Samuel Moore. There are ten known specimens of this design, known familiarly as the "Shanghai Model."
+
+In 1931, both Fairbairn and his son were employed by the Shanghai Municipal Police; the elder as superintendent in charge of the SMP Reserve Unit: the legendary Shanghai Riot Squad. He also, in that same year, established the SMP Police Armory, the first of its kind in the East, placing it under the supervision of a former White Russian colonel, Nicholas Solntseff.
+
+Eric Anthony Sykes was a civilian. He was employed in Shanghai by the S.J. David Company, estate agents, and held a reserve rank in the Shanghai Municipal Police as sergeant in charge of the Sniper's Unit (a volunteer organization of skilled marksmen).
+
+Both Fairbairn and Sykes brought the accumulated experience of colorful careers to bear upon the development of their weapon. W.E. Fairbairn left home at age fifteen to join the Royal Marines (the recruiter falsified his age), and spent the Russo-Japanese War in Seoul, Korea, as a member of the British Legation guard. In 1907, at the age of twenty-two, he joined the Shanghai Municipal Police, and was appointed Musketry and Drill Instructor three years later.
+
+In 1918, having awakened in a hospital ward after a tour of duty in Shanghai's lawless brother district, Fairbairn sought and received permission to pursue judo instruction; first with Professor Okada (a sign in front of his studio proclaimed him a "Jui-Jitsu Instructor and Bone Setter"), and later, Inspector Ohgushi, officer in charge of the Japanese Branch of the SMP. On 18 February 1931, at forty-six years of age, Fairbairn received a Black Belt, 2nd Degree, certified by the famous Jogoro Kano, president of the Kodokan Jui-Jitsu Institution, Tokyo, Japan.
+
+E.A. Sykes, for his part, was a shikari of considerable experience, and an uncommonly gifted marksman. Born in Great Britain under the name Eric Anthony Schwabe, he saw service as a sniper in the First World War, changing his name to Sykes because he allegedly found his true name too Germanic. Sykes first made the acquaintance of Fairbairn in the late 1920s, and due to common interests and temperament, the two became fast friends.
+
+The clearest account of the development of the Fairbairn-Sykes Fighting Knife comes to us from Fairbairn's son, Major John Edwin Fairbairn, OBE, who participated in the process, and summarizes it by saying, "...it began with a hunting knife, a very nice hunting knife, and we thought what a lovely weapon this was. It was a picgsticking knife actually, but we made our first knives from the tops of bayonets, there in the armory."
+
+The new fighting knife encompassed the principles of close-combat Fairbairn and Sykes had learned from formal instruction, and from several hundred, documented, armed and unarmed encounters with members of the Shanghai underworld. It was small, it was equally efficient when thrusting or slashing, and could be handled like a foil. Thus it was particularly useful at close-quarters, when the parties had resorted to wrestling, or blows.
+
+The first Fairbairn-Sykes found special favor among the young officers of the United States Marine Corps, then stationed in Shanghai. From time to time, interested officers would stop by the SMP Police Armory, where Colonel Solntseff could occasionally be persuaded to have his staff produce a specimen by hand. Unfortunately, it is not known how many knives were produced in this fashion, nor are any Shanghai-made specimens (save one) known to survive.
+
+The earliest known surviving example of a SMP Police Armory "Shanghai Model" (not to be confused with the Fairbairn-Sykes SMP Armory model) was presented to Fairbairn by Yeaton and Moore. It represents an attempt by Yeaton and Moore to "improve" on the first Fairbairn-Sykes. Within the Fairbairn family, this knife was referred to as the "Mexican Knife."
+
+Samuel S. Yeaton's younger brother, Prof. Kelly Yeaton, collaborated with Colonel Rex Applegate on a book describing their beliefs about the role of Samuel Yeaton in the development of the Fairbairn-Sykes, and the association of Kelly and Sam with Fairbairn personally. They also give Samuel Yeaton joint author's status on the work, yet Samuel Yeaton died before ever meeting Applegate.
+
+Documentary evidence, the statements of Fairbairn's son and daughter, the statements of SMP Police Armory personnel, and my own correspondence with both Samuel and Kelly Yeaton lead me to conclude that Yeaton and Moore played no immediate role in the inspiration for and development of the Fairbairn-Sykes Fighting Knife. I believe that Yeaton greatly influenced Fairbairn's thoughts on pistols, that he assisted the SMP Police Armory, and that both he and Moore influenced Fairbairn's evolution of the Shanghai School of knife fighting technique, but his knife was the "Shanghai Model," also known in variation within the Yeaton family as "Slith."
+
+On 26 April 1977, Fairbairn's daughter wrote to me reference the Yeaton-Moore issue. Miss Fairbairn served with the Special Operations Executive during the war, and was herself skilled in close-combat. I always found her to be a credible observer:
+
+"Re Officers Yeaton and Moore... I believe the knife they gave to Dad was of Mexican design and these two Officers showed Dad what they knew of knife fighting."
+
+The knife in question was delivered in 1933. On the obverse, the blade is inscribed in block letters filled with Chinese gold: TO WILLIAM EWART FAIRBAIRN / THE GREATEST OF THEM ALL. The reverse bears the names of Yeaton and Moore, and the legend SHANGHAI 1933. The guard is incised with a vine pattern, while the grip is of checkered buffalo horn (a specialty of the SMP Police Armory workshop). The pommel bears a small Chinese gold inset of the Shanghai Municipal Police crest. Inlay work was done by a Japanese craftsman named Komai, who had a shop in the Bubbling Well Road.
+
+The grip, from guard to end of pommel, is precisely 5 inches long. The blade, as mentioned previously, is 6-1/4 inches long. Overall the knife is 11-1/2 inches long, and weighs just under six ounces.
+
+W.E. Fairbairn is known to have carried this presentation knife in a distinctive shoulder-scabbard. This scabbard, which allows the knife to be held vertically beneath the arm (blade up, hilt down), is steel reinforced for rigidity, and has built-in springs to hold the weapon securely in place. The leather covering is tooled in a leaf pattern. The rig was constructed by Jack Martin, of Berns-Martin fame, and is currently in the possession of a British police official. The knife is in the author's possession: a gift from Fairbairn's son and daughter.
+
+In 1935, Fairbairn was promoted to Assistant Commissioner of the Shanghai Municipal Police, and in the following year was appointed officer in charge of the Armed and Training Reserve, and the Sikh Branch. In this capacity he distinguished himself through the most turbulent times in Shanghai's violent history, laying the foundation to a legend which has survived to the present day.
+
+On 3 September 1939, Britain declared war on Germany, an event that led Fairbairn and Sykes to consider how best to contribute to the war effort. On 27 February 1940, Fairbairn retired with honor from the Shanghai Municipal Police he had served so well, and in the company of Sykes, returned to England.
+
+The War Years
+
+This is not the proper forum for a recital of the events which awaited Fairbairn and Sykes in Great Britain. Theirs is a complicated story, that demands better than superficial treatment. Suffice to say that the two became specially employed as close-combat and silent killing instructors: Sykes at the Special Training Center, Lochailort, Invernesshire, Scotland, Fairbairn with the Special Operations Executive.
+
+Our is, rather, the story of the Fairbairn-Sykes Fighting Knife, and the autumn of 1940 provided this story with one of its more interesting chapters.
+
+The need for a proper fighting knife was apparent from the first few weeks of training specialized personnel. As Fairbairn later wrote, "...the authorities did not recognize a fighting knife as part of the equipment of the fighting services. In fact, such a thing as a fighting knife could not be purchased anywhere in Great Britain."
+
+So in early November 1940, at the suggestion of the office of the Chief Inspector of Small Arms, newly gazetted Captains Fairbairn and Sykes paid a call to the offices of John Wilkinson-Latham, Wilkin Sword Company, Ltd., Number 53 Pall Mall, London.
+
+There they presented the Fairbairn-Sykes design, and after lengthy discussion, Fairbairn "...managed to persuade the Wilkinson Sword Company to manufacture it privately from a number of old bayonets they had in stock, personally guaranteeing the sale of three hundred."
+
+An amusing anecdote has survived from this first meeting. In order to demonstrate the manner in which a knife ought to be used, Fairbairn astounded the sedate Wilkinson-Latham by suddenly grabbing a wooden ruler and assaulting Sykes in mock combat. The two knife fighting experts--with graying hair and well past middle age--feinted and parried until Fairbairn ended the demonstration by the simulated slashing of Sykes' throat.
+
+Following this decidedly unconventional business meeting, Wilkinson-Latham contacted Charles Rose, head of the experimental workshop at Wilkinson Sword Company's factory in Southfield Road, Acton, London W3. He charged Rose, and the firm's foreman grinder, Mr. Martin, with the task of producing three prototype Fairbairn-Sykes knives.
+
+Of these three prototypes, one is known to survive. Fairbairn kept it with him until the day of his death. From 1942 to 1960, he carried it in an O.S.S All-Ways scabbard. This scabbard, known among O.S.S trainees as the "pancake flapper," was designed by Fairbairn for the O.S.S and manufactured in the United States.
+
+Wishing to spare the collector the nuisance of counterfeits, we will omit giving a detailed description of this prototype, save to say that it has distinctive features in common with the other two prototypes.
+
+Of the two remaining specimens, one was presented to Sykes and is presumed lost. The other was retained by the factory. It was, in time, given to Wilkinson-Latham's grandson, Robert, when the latter was eleven years old. A year later, Robert traded it to a school chum for a bayonet. We may set our fancy to work, and imagine this unique specimen resting in the collection of some fortunate, although unknowing, knife collector.
+
+The first mass-produced Fairbairn-Sykes, as manufactured by Wilkinson, is characterized by nickel plating of the guard, grip, and pommel nut; recurved quillions, and a rather unique blade. The blade has a square ricasso, or tablet, and tapers with straight edges to an extreme point. Among collectors, this is known as the "square shank." This particular model is depicted on page ninety-six of Fairbairn's book All-In Fighting, first published July 1942, and on page ninety-seven of the American edition, retitled Get Tough! How to Win in Hand-to-Hand Fighting.
+
+No satisfactory explanation for the blade's unusual tablet has yet surfaced, though all knowledgeable parties have been consulted. Structurally, the tablet adds nothing, and was regarded as something of a nuisance by the grinders, who found it impeded fast production. It is not present in the original Fairbairn-Sykes design, so we may not claim that the factory was merely following form. That the weapon was so designed in order to accommodate marking seems unlikely, and in any case unnecessary: blades so marked and ground full length are found in great numbers. The most reasonable theory supposes that the tablet was necessary due to some structural peculiarity of the bayonets then used for grinding-stock.
+
+On the obverse of the blade, the ricasso is etched with a mark of Fairbairn and Sykes' own design:
+
+The
+F-S
+Fighting
+Knife
+
+On the reverse appears Wilkinson's trademark: WILKINSON SWORD CO LTD LONDON, imposed on two swords.
+
+These marks exist in variation. They were taken up on paper transfers from an etching plate with three sets of marks. The transfers were then cut apart, and the appropriate marks were rubbed on the blade. When the transfer paper was gently pulled away, acid resist remained on the blade. The blade was then etched according to conventional procedure.
+
+Blades were ground by hand, and the grip was first cast and then turned on a lathe. Knurling was done with standard tools, showing sixteen lines per inch in a diamond pattern, with little care expended as to appearance. Guards were stamped out annealed and shaped. The pommel nut was set down tight on the tang with a wrench or pliers, and the tang end was then filed and penned over. Guard and grip remain uniform on the first Wilkinson model Fairbairn-Sykes knives, but blades vary widely from specimen to specimen, owing to the hand-work. One seeming constant is thickness at the tablet: 3/16 inch in every specimen examined by the author.
+
+The first government order of the Fairbairn-Sykes came 14 January 1941, from one of Fairbairn's colleagues at SOE. In the absence of a formal contract (security demanded that such matters be dispensed with), Wilkinson's own order number 960 was written for 98 Fairbairn-Sykes knives: 50 to be sent to Knebworth, whence they were removed to SOE's Station XII; 48 sent to Weedon, bound for SOE's Depot School near there. From these two centers the first specially purchased Fairbairn-Sykes knives were disbursed to other SOE schools and centers.
+
+Wilkinson Sword Company awakened to demand for the weapon. According to Robert Wilkinson-Latham, "Deliveries were made to certain specified depots but the bulk of the production as it became available was held at the London showrooms, where they were given out against signed chits." For not only SOE, but the whole of Britain's special forces clamored for the Fairbairn-Sykes. "The day they arrived," Fairbairn remembered, "there was a near riot in the rush to buy them." Riot, the reader may understand, is not a word the former commander of Shanghai's Riot Squad used lightly.
+
+Strange are the workings of secrecy. It is the once top secret purchases of the British Special Operations Executive which provide us with the only hard evidence we have of the first Wilkinson model Fairbairn-Sykes. Later in January 1941, order number 1005 was written for 150 knives to be sent to Knebworth. In March, order 1235 requested fifty scabbards for the same destination. On 29 April 1941, SOE purchased 500 knives per order number 1176.
+
+As the demand for the Fairbairn-Sykes was clearly substantial, Wilkinson's sought to streamline production. In July 1941, Rose and Martin eliminated the blade's tablet, favoring a straight, full grind. Guards were struck flat. On 11 August 1941, per order number 1482, SOE purchased 51 knives of the square tablet variety. The following day, the SOE representative placed order number 1672 for 500 knives, with the notation, "to new design." This was quickly followed by an order for 720 knives, also "to new design."
+
+Using the Contract Book of Wilkinson Sword Company as a reference, we can account for 799 square tablet type Fairbairn-Sykes Fighting Knives. Hundreds, perhaps thousands, more were produced for sale at showrooms. We cannot know the exact number for factory records were partially destroyed by bombing. The first Wilkinson model Fairbairn-Sykes then, though scare, is not as rare as previously thought.
+
+The day after Christmas 1941, Wilkinson's received War Office order number 2323/W, for 1,000 Fairbairn-Sykes knives to be delivered to Experimental Station 6 (WD), a cover for SOE STA XII. The Fairbairn-Sykes had proven itself. Wilkson's, at first reluctant to even consider the weapon, wound up producing some one quarter million Fairbairn-Sykes knives between 1941 and 1945. British Secret Service records indicate that 3,019 of these went to the SOE. 
+
+Wilkinson was not the only British manufacturer of the Fairbairn-Sykes, and the first and second Wilkinson models are not the sole two patterns. In about September of 1942, the so-called ring grip pattern was introduced, and quickly became standard. The grip, thought to be the original design of the Joseph Rodgers firm, of Sheffield, has 27 concentric rings, and is cast in a non-strategic alloy.
+
+In the autumn of 1942, the Rodgers firm also produced what may be the finest of all the wartime Fairbairn-Sykes knives: the beads and ridges model, so named by collectors for its distinctive grip pattern of nine rings of tiny beads, spaced with eight sections of five rings each, cast in pure brass. The blades are delicate and uniform, and the weapon, though light, is perfectly balanced. A variation of the beads and ridges is the so-called ringed and cog-wheel pattern, which never matched the formers excellent handling qualities, perhaps because the grip was a bit loner than usual, and cast in zinc.
+
+We are unable to discover any particulars regarding the manufacture of these two Rodgers variations. We do know that the beads and ridges model was produced in considerable quantity, and that thousands were sold as surplus in the United States and Canada during the post-war years. One need only consult the advertising pages of American Rifleman magazines published in the 1950s for suitable evidence. Among collectors, the ringed and cog-wheel pattern is considered the more desirable of the two.
+
+To return to the ring grip pattern, this is the kind of weapon we see sold the world over as a "commando knife," at prices ranging from six to twenty dollars. Though consanguineous, we cannot really consider ring grip "commando knives" as true Fairbairn-Sykes Fighting Knives.
+
+From the manufacturers point of view, the ring grip is a desirable pattern. It is inexpensive and simple to fabricate. From the scienced knife fighter's point of view it is a complete disaster. The grip is uncomfortable. When wet it is difficult to hold. Owing to the concentric rings it actually becomes easier for the weapon to roll from the hand, and finally, this form of grip all but destroys the exquisite balance of a proper Fairbairn-Sykes. Indeed, Fairbairn is known to have been bitterly disappointed with the ring grip pattern, which he felt spoiled the Fairbairn-Sykes beyond redemption.
+
+The consensus of opinion among Sheffield manufacturers is that approximately 6 million ring grip pattern knives have been manufactured. Approximately 2 million were manufactured 1942 to 1945, and the remaining 4 million in the thirty-odd years thereafter. This estimate takes into account the ones made in nations other than Great Britain, such as Japan, Italy, or Spain.
+
+The reader interested in further information regarding the marking of such knives, variations, and scabbard types, is directed to Captain Colin M. Stevens' excellent study, "Your Commando Knife," Military Collectors Club of Canada Journal,XII:1 (1975) pp. 20-24.
+
+The O.S.S Years
+
+The American Office of Strategic Services, before it was so named, was known as the Office of the Coordinator of Information, or COI. In April 1942, W.E. Fairbairn found himself on loan to COI, under orders of the New York-based British Security Coordination (BSC).
+
+One of Fairbairn's first concerns was to have the Fairbairn-Sykes knife manufactured for use by United States personnel. As he had, through the years, maintained contact with his former students in the U.S. Marine Corps, the Marines seemed a likely candidate for first service to adopt the Fairbairn-Sykes.
+
+So, on 20 April 1942, within days of Fairbairn's arrival in the United States, the Marine Corps contacted the Camillus Cutlery Company, of Camillus, New York, and placed a substantial order for a new pattern Fairbairn-Sykes.
+
+The new pattern incorporated a cast aluminum hilt. The Marine procurement specialists, working with William D. Wallace, plant manager at Camillus, contributed this feature: a disappointing variation that, once again, succeeded in destroying the weapon's balance and handling qualities. This Marine model Fairbairn-Sykes was produced in 1942 only, with 14,370 knives delivered in two shipments. Scabbards were purchased by Camillus from the Mosser Leather Company.
+
+The Marine model was not a complete success, but Fairbairn did not give up. COI seemed the next likely choice, and that choice was a fortunate one. COI administration was warming to Fairbairn's methods and advice, and vast amounts of secret funds were being pumped into COI in anticipation of its reorganization as O.S.S.
+
+On 12 June 1942, one day before COI became O.S.S, contract 8 UN-VG was issued to Landers, Frary & Clark, of New Britain, Connecticut, for 10,000 Fairbairn-Sykes Fighting Knives at $2.23 each. The Fairbairn-Sykes was now the first official dagger of America's first official cloak and dagger agency.
+
+To digress for a moment, this matter of price is an interesting one. The first Fairbairn-Sykes knives delivered by Wilkinson to SOE were sold at 13/6, including scabbard. Wilkinson knives were reconditioned at 11/- and scabbards sold separately for 4/6. On 31 October 1942, when the first tendered contract was let to Wilkinson by the Ministry of Supply, the price had jumped to 17/9.
+
+Yet, when COI planners were costing out the special weapons program, internal documents show that 5,000 Fairbairn-Sykes Fighting Knives were estimated to cost $150,000. , based on British prices. In America, twice as many knives cost $22,300., against an original bid of $20,300.
+
+Unfortunately, COI/O.S.S received exactly what it paid for. The Landers, Frary & Clark specimens, without exception, were improperly tempered, and subject to fracture and bending even after light use. It is a pity, as the knives were otherwise nicely finished, and the O.S.S style grip is regarded as the best ever to be placed on a Fairbairn-Sykes. The coarse knurling was laid on with a special rolling die, fourteen lines to the inch, allowed to run all the way to the guard. The author considers that rolling die to be a treasure. Unfortunately, it is lost.
+
+The O.S.S model knives were supplied in the distinctive All-Ways scabbard, mentioned earlier. It is interesting to note that O.S.S planners agonized over whether to furnish the scabbard with black or brown leather(!) finally deciding upon brown leather for its real or imagined morale value. Such were the worries of America's first secret servants. Need we add they might have expended as much care to the choice of steel, or manufacturer?
+
+By the autumn of 1942, the Fairbairn-Sykes design thus acquired something of a bad reputation in America. On the one hand, the Marine variations were returning from the field broken and otherwise battered, at least partly because the Marines were untrained in the correct method of the knife's use (something Fairbairn attempted to remedy in the autumn of 1942, when he briefly served as an instructor to Marine Corps personnel.
+
+We quote Harold L. Peterson's excellent American Knives:
+
+"None of the Marines liked them... because their blades were too light and brittle for all-purpose work and because they were designed so specifically for stabbing that they restricted the number of possible attacks and parries."
+
+As know, this is a wholly incorrect assumption. The weapon was indeed designed so that it would in no way restrict either attack or parry. As regards brittleness of the blade, this may well be a function of a too thin cross-section. Camillus informs us that the blades were a "high carbon steel," which is, of course, meaningless, and sent into service at 59 on the Rockwell C scale, equally meaningless, as we do not know the steel. If, as we may safely assume, the "high carbon steel" was a class 350 steel, such as type 351 or 355, then it was a poor choice. Such steels are unsuitable for the Fairbairn-Sykes.
+
+Turning to the other case, due to improper tempering by Landers, Frary & Clark, the O.S.S variations were almost totally useless. If you suspect sabotage, you are not the first. More than one German was employed in the U.S. cutlery industry in 1942, and a counterintelligence investigation was actually launched.
+
+The Post-War Era
+
+With the U.S. Marines and the O.S.S to accuse it, no wonder the Fairbairn-Sykes suffered at American hands. The author must also admit to assisting this slander by the criticisms appearing in the Complete Book of Knife Fighting(1975); something for which he was promptly taken to task by more knowledgeable persons than those originally consulted. By way of repentance, let me be the first to state that properly employed, the Fairbairn-Sykes is no more likely to break than any other knife, assuming proper care has been invested in its manufacture. For the Fairbairn-Sykes, however, this last is an unfortunately large assumption. Of all wartime manufacturers, we may say the only Wilkinson's managed to make the weapon properly, and then only for a brief period.
+
+In order to conclusively establish whether or not the Fairbairn-Sykes is inordinately prone to breakage, the author consulted numbers of British subjects having direct experience with the weapon in wartime conditions. In this regard we may well remember that while 24,370 knives total were manufactured for U.S. personnel, on the order of 2 million were manufactured for U.K. personnel. I feel that the British are thus in a better position than we to judge the weapon's merits.
+
+Britishers we consulted were unanimous in their praise of the Fairbairn-Sykes. There were, of course, instances of blade breakage. One fellow broke his slashing truck tires. Another by attempting to drive the blade into an oil drum in order to engage in a bit of fire raising. But we have not found a single instance where a properly manufactured Fairbairn-Sykes failed whilst being scientifically applied to the purpose for which it was originally designed.
+
+Still, the Fairbairn-Sykes, in America at least, never quite recovered from the effects of shoddy workmanship. Late-war British specimens did nothing to add to its reputation and post-war specimens sealed its fate for a good long while.
+
+At war's end, interest in the Fairbairn-Sykes faded, but still flickered. In 1948, all remaining stores of the O.S.S model were taken up by the Central Intelligence Agency, which thereafter issued the weapon as H00-0444 Knife, Fighting, Fairbairn, well into the early 1960s. Royal Marine Commandos still use the weapon, and Wilkinson's still manufactures the weapon under contract to the Ministry of Defense, and the Dutch and Norwegian governments. The knife was also manufactured in Japan, under CIA contract, as late as 1970, for the Studies and Observation Groups and similar long-range penetration teams working in Southeast Asia, but the quality just wasn't there. Too much time had passed since anyone had handled a proper Fairbairn-Sykes Fighting Knife. 
+
+In the late 1970s, whilst concluding my researches, I was struck by the fact that Fairbairn never made a dime from his design. Accordingly, I put together an investment and management group and formed the Castle Knife Company, in San Francisco. I thereafter purchased the production line at a Sheffield factory and personally supervised a run of 1,100 blades. I took exclusive license from the Estate of W.E. Fairbairn to use his name, and paid his surviving child a royalty on each knife sold.
+
+I purchased a special melt of class 410 oil-hardening cold work die steel for the forgings, and sample tested them at random throughout the run. As hardened, the blades ran between 65-1/2 to 66 Rockwell C. After tempering, all blades sampled ran 57-1/2 to 58-1/2 Rockwell C. As military specifications call for a bending test, this test was performed with the following result: the sample was bent under heavy load through an angle of 50 degrees before breaking. The two broken pieces had taken no permanent set and showed a fine, silky fracture. Military specifications merely call for a 30 degree angle. All testing was done under the personal supervision of the Senior metallurgist of the British Cutlery and Allied Trades Research Association (CATRA).
+
+I retained the recurved quillions of the first mass-produced model, and turned my attention to the grip. Special tooling was designed and built which allowed the knurling to be run on in one operation: fourteen lines to the inch, coarse, and extending to the guard, exactly as per the O.S.S grip. Grips are cast in best quality statuary grade bronze, and will take on a pleasing patina with age.
+
+I next hired workmen that crafted the original Fairbairn-Sykes for Wilkinson's; some were quite literally brought out of retirement. The knife was ground, finished, and hafted entirely by their hands.
+
+I brought the knives to America in small lots of fifty, and etched them with the original F-S mark on every blade. To distinguish them, I also etched on the Castle Knife Company logo. We sold them for $75. each, $80. for the "sanitary" model with no etching. Production stopped in 1979 and will never be resumed. 
+
+The above venture was, in the end, a money-losing proposition, but we did not do what we did for money. We did it to honor Fairbairn and Sykes, and the men and women of the silent services. It is my honest belief that we produced one of the better Fairbairn-Sykes Fighting Knives ever made.
+
+I will end this brief account with one final touch of history. At London's Westminster Abbey, just to your right as you enter the doors, a few feet from Britain's tribute to Winston Churchill and close by the Unknown Soldier, is a memorial to the British Commando, established by the Queen. Her Majesty
+The Applegate "Fairbairn" Fighting Knife
+
+William L. Cassidy
+
+
+--------------------------------------------------------------------------------
+
+Copyright c 1999 by William L. Cassidy. All rights reserved. No portion of this publication may be reproduced, stored, or supplied in any format without prior written permission. Additional restrictions on electronic use also apply. Contact the copyright holder for further information.
+
+
+--------------------------------------------------------------------------------
+
+Did Rex Applegate actually collaborate with W.E. Fairbairn on an improved fighting knife?
+
+I used to think so, and indeed, I have stated as much in previous writings. Now, on the basis of new information obtained through CIA, and a critical examination of the old, I'm not so sure.
+
+Is the Applegate-Fairbairn Fighting Knife the same design produced by the putative collaboration?
+
+Definitely not.
+
+Following are some elements of information that I am still assessing (more to follow).
+
+The date on the original drawing for the design produced by the putative collaboration is 7 March 1944.
+
+See the notes on its "discovery," below.
+
+Postulate 1: No known examples of the A-F exist dating from 1944.
+
+Extract of O.S.S Memorandum from Fairbairn to Col. H.L. Robinson dated 5 February 1945
+
+Although the sample F-M Fighting Knife is only a round hand-made model, it is the most scientifically constructed fighting knife that has been produced up to the present date.
+
+[deleted]
+
+This knife has been produced by Mr. Millerson of Presentation, O.S.S, who should be contacted in reference to specifications, blueprints, etc.
+
+Postulate 2: No mention is made of any manufacturing at MITC, where Applegate was stationed.
+
+Excerpt of Memorandum from William J. Donovan to The Adjutant General dated 5 April 1945.
+
+Recommendation for the Award of the Legion of Merit for Lt. Colonel William E. Fairbairn.
+
+[deleted]
+
+In conjunction with the training of military personnel assigned to the Office of Strategic Services he has developed several weapons used specially for close contact fighting. These weapons are known as the Fairbairn Sykes fighting knife, the Cosh Spring baton, the spike necklace, the Fair Sword and the Fairbairn-Millerson fighting knife.
+
+Postulate 3: No mention is made of the Applegate-Fairbairn.
+
+Excerpt of Letter to Cassidy from Rex Applegate dated 5 March 1976.
+
+I just came across the other day the drawings of a fighting knife that Fairbairn and I made up to be an improvement on the FS, also a drawing of an improved smachette we worked out etc. Might have someone make them up or make some arrangements for manu. Have no firm ideas at this point.
+
+Postulate 4: The drawings are not depicted in Kill or Get Killed, neither is the improved design. The only design depicted in Kill or Get Killed is the O.S.S blueprint for the Fairbairn-Sykes. It is known that a number of Fairbairn-Sykes O.S.S models were made at Applegate's MITC shop, but see above, Postulate 1.
+
+Excerpt of Letter to Cassidy from Rex Applegate dated 24 June 1976.
+
+Have looked in some old files and find that I have the drawings of both knives Fairbairn and I designed and two rough prototypes.
+
+Excerpt of Letter to Cassidy from Rex Applegate dated 5 September 1976.
+
+The knife must have been one I had made by a friend who had contract setting up ammo factory in Thailand. I sent him the drawing some years ago.
+
+Postulate 5: Why didn't Applegate have any previous prototypes?
+
+Excerpt of Letter to Cassidy from Rex Applegate dated 10 May 1977.
+
+Note your comments on the price and blade from Sheffield and that the grip will be projected as in the original knife. It has been so long ago that we collaborated on this that I am not sure what I contributed or vice versa.
+
+Postulate 6: Applegate could remember the dates and details of the MITC Fairbairn-Sykes manufacture, but not the collaboration.
+
+Excerpt of Memo to Cassidy from Rex Applegate dated 1 September 1977.
+
+I feel much more at ease now that I have decided to go ahead with the FA (or AF) design and the smatchet. I think it imperative that you get as much data as possible on the history of the smatchet if it exists, production data, use etc. This is one that I control and is in accordance with my previously expressed desires etc.
+
+Postulate 7: This was his first mention of the "AF" as distinct from "FA." Why the specification "this is one that I control... " reference the Smatchet? 
+
+[deleted]
+
+Maybe it would be better for me to slip an article in American Blade under my name, using the material you have prepared.
+
+Postulate 8: Like and similar conduct?
+
+Excerpt of Letter to Cassidy from Rex Applegate dated 12 September 1977.
+
+It is my intent to see to it that you have no financial, day to day need in the way of the knife, or assassination book. This is important. As far as your participating in the take of the sales of the AF knife and smatchet, I have always intended that this would be done in the nature of a percentage of sales.
+
+Postulate 9: Cassidy was paid $6,000. for "consulting and design services reference the Applegate-Fairbairn knife project."
+
+[deleted]
+
+In fact it might be a good idea if you have a front name for correspondence and handling routine marketing.
+
+[deleted]
+
+I suggest you try to stay in the background, as I will, on commercial end of things especially in marketing and PR that is too obviously self serving.
+
+Postulate 10: The Boker box for the Applegate knife is quite splendid, as are the advertisements, etc. 
+
+Extract of Contract between Barry Wood and William L. Cassidy dba Castle Knife Company dated 3 January 1978.
+
+Wood shall manufacture one (1) full-scale prototype of the Applegate-Fairbairn Fighting Knife (hereafter "A/F prototype"), to specifications provided by Castle.
+
+Postulate 11: Cassidy designed and specified a new grip, differing from the "original" drawing "discovered" by Applegate.
+
+Excerpt of Letter from Rex Applegate to Barry Wood dated 11 January 1978.
+
+I also think Bill Cassidy and I discussed making up another knife, anyway using the original prototype blade and the new handle of your manu.
+
+Postulate 12: Applegate was aware of Postulate 11.
+
+Excerpts of Note from Applegate to Cassidy dated 4 September 1978.
+
+With respect to the Fairbairn name etc., I presume you will be in touch with the daughter when in London. I am prepared to pay a royalty of 3.00 per knife. If this is not acceptable I will go ahead and place only my own name on the blade.
+
+Postulate 13: It appears the use of the Fairbairn name was strictly a marketing issue.
+
+This in reality is a windfall to the estate. Probably could go ahead and do it for free as I am solely responsible for financing the project.
+
+Postulate 14: Applegate considered not "doing the right thing," but later recanted. He did pay a royalty to the Estate.
+
+Excerpts of Letter from Fairbairn's daughter to Cassidy, dated 24th April 1980.
+
+Audrey [John Fairbairn's late widow] and I have received a proposal from a Col. Applegate who plans to produce a limited number of collector's copies of a fighting knife, upon which he says he and my father collaborated on during the war and which the Colonel describes as "an improvement over the Fairbairn Sykes model of Commando fame, etc." and involves "a new and completely different knife and design."
+
+Colonel Applegate is very keen to place my father's signature along with his on the blade and he has written seeking permission to do this as he feels that "Dan's name and mine would be an appealing facet in this venture."
+
+Please, would it be troubling you too much to let us know how we stand with you on this point? Neither of us wish to disturb our relationship with you, or to be at fault in making another business arrangement which might conflict with any arrangements made between you and John.
+
+Postulate 15: Neither Fairbairn's daughter nor his son knew Applegate until I introduced them. Applegate's name was not in Fairbairn's address book, nor was he ever mentioned in any of Fairbairn's papers. Cassidy held exclusive rights to use of the name on edged weapons, but advised John's widow and sister to take Applegate's offer.
+
+More to follow.
+
+One of the neglected episodes in W.E. Fairbairn's fruitful career is his
+post-war work in Cyprus.
+
+I see he was most active in February-April 1956, working directly for G.H.
+Robins, Commissioner of Police, and H.J. Scott, OIC of the Mobile Reserve,
+Athalassa. The bulk of this effort was devoted to training riot police,
+authoring a riot manual, and developing a bullet-proof shield he called
+the "STONE."
+
+Singularly, he also spent considerable effort on developing something he
+called the "COBRA" fighting knife. His interest in this weapon, and the
+system of knife fighting it supported, continued after he returned to
+England, and occupied his attentions up until his death.
+
+Fairbairn's son, a retired British intelligence officer, told me that his
+father was "never really satisfied" with the Fairbairn-Sykes knife and
+always thought to make improvements. Apparently, the elder Fairbairn
+believed that edged weapons are engendered by particular wars--an edged
+weapon that is suitable in one, may not be suitable in another.
+
+No doubt inspired by changes he saw in post-war Asia (the Empire was
+crumbling), he foresaw a time when "western-trained" knife fighters would
+confront "eastern-trained" knife fighters. While he had confidence in the
+Shanghai School methods of which he was the principal author, he was less
+sanguine about the abilities of the various practitioners. He also saw
+trouble looming in the Middle East, so he set about to instruct himself in
+the indigenous forms of knife fighting to be found there. Such thinking
+was, of course, a measure of his greatness.
+
+The COBRA, and the COBRA method, was the result. His son demonstrated the
+techniques to me one winter's morning, in his backyard. The neighbors
+thought we were mad, cavorting around with fearsome-looking weapons whilst
+dressed in suits. He also gave me Fairbairn's signed blueprints for the
+weapon, and a copy of a hitherto unpublished manual in its use. I have
+posted a picture of the weapons we used at
+http://209.1.162.247/fairbairn.html
+
+The style of play is quite unique. Whereas the Shanghai School is centered
+on speed, the Cobra style is centered on confusion. Still, the two do have
+something in common--Fairbairn privately instructed that the method in
+knife fighting is to employ the blade like a snake's tongue, and this is
+what inspired him to name his weapon the "Cobra." I do not know of many
+people in his era who went to the depths he did in this art--for example,
+he studied sleight of hand, to see if he could incorporate a professional
+magician's misdirection methods, and these he worked into the "Cobra"
+style. I also noticed the style to have much in common with certain
+Chinese styles, albeit with a decidedly Middle Eastern flavor.
+
+Anyway, the above is by way of brief explanation of a reference I made in
+an earlier post. All of you budding authors are at liberty to quote me,
+but kindly do not quote me out of context, and be sure to cite your
+source. The difference between a scholar and a plagiarist is a footnote.
+The edged weapons of the world's intelligence agencies make a fascinating
+study. 
+
+I have been involved in such matters, off and on, for about thirty years.
+
+The purpose of this post is not to address all aspects of that study;
+rather, to address the topic in specific terms.
+
+One often hears that this or that fellow has "designed knives for CIA."
+This sort of assertion really needs to be evaluated with some considerable
+care.
+
+To my certain knowledge, the CIA does not, institutionally, (a) issue
+edged weapons, (b) commission the design of edged weapons, (c) maintain an
+inventory of edged weapons, (d) care very much about the subject, if at
+all. 
+
+The game isn't played that way anymore. 
+
+It hasn't been played that way in long, long time. 
+
+The last time the organization did, institutionally, involve itself in the
+issue of edged weapons was circa the 1960s, and the last time the
+organization institutionally involved itself in the design of edged
+weapons was circa the 1950s.
+
+The above is not to say that individual employees of the organization do
+not, from time to time, exercise personal initiative and have a little
+something done up for their own sense of well-being. This is like
+everything else... a fellow who happens to work for the organization and
+care about such matters has something done, and he shows it to his
+friends, and they want one, etc., etc. 
+
+To extrapolate such fringe contact into a claim of "work for CIA" is both
+pathetic and absurd. To permit such claims to become the subject of
+marketing postures for foreign-based manufacturing entities is quite
+simply disgraceful.
+
+Robert W. Loveless made a considerable number of edged weapons to the
+personal preferences of individual organization officers and employees,
+and his activities in that regard span at least thirty years of which I am
+personally aware. If I had to sit down and think of somebody who has made
+more blades for spooks, agents of this or that, and other shadow-world
+denizens I could not begin to conjure another name. If, in the 60s, 70s,
+and 80s, collectors sometimes wondered about the long delay in receiving
+their drop-point hunter, let me go on record as saying it was probably
+because Bob would stop production and work for days without sleeping to
+get a knife done for a fellow scheduled to go overseas. He never made
+mention of this, he never publicized this, and he discouraged any talk of
+this with a shrug and change of subject. 
+
+Mr. Loveless did not need to do otherwise, because he makes knives.
+
+--------
+
+Many years ago, I founded and edited the first American periodical to deal
+with what we used to call "the knife craze," i.e. Knife Digest. I
+subsequently followed American Blade founder Blackie Collins to become,
+for a time, the editor of that publication, as well. Through my publishing
+and writing efforts, I materially aided the careers of many knife makers
+who are now regarded as the "legends" of the field, and helped found the
+odd little world (such as it is) that many more custom knife makers now
+inhabit. 
+
+During the course of this effort I was always known (and often despised)
+for a candid, forthright tone. 
+
+[Personal aside... you think you guys fight amongst yourselves? Bob
+Loveless loaded up a S&W Centennial Model and took a shot at me once,
+whilst I was a guest in his house. Said I didn't deserve to live anymore,
+and then I had to sit up all night with my Czech 75, out in a trailer,
+waiting for him to either calm down or start aiming. I couldn't bring
+myself to shoot back at the old rascal because, like I said, I was a guest
+and I do believe strong drink might've been involved.] 
+
+Anyway, all this was a long time ago, when I much younger. I am so sorry if
+I offended anyone. I am also so sorry that time has not changed my voice,
+nor age increased my diplomacy, and with that in mind, kindly permit me to
+offer the following comments....
+
+Somebody needs to tell Boker to knock off the bullshit.
+
+And now I'm going to tell Bud Nealy something. 
+
+Mr. Nealy, I knew Bob Loveless. 
+
+Mr. Nealy, you are no Bob Loveless. 
+
+I do not know who you are talking to, Mr. Nealy. 
+I do not know what they said, and I do not know what you think you heard.
+I can only assure you, Mr. Nealy, that I would not take a single one of
+your designs past the kitchen, much less to any fragrant, foreign clime
+you care to mention, with intent to defend myself or injure another.
+
+It's a confidence issue, eh Mr. Nealy? Or maybe a confidence game?
+
+[sigh]
+
+I feel so much better now.
+
+[sigh]
+
+Now that Never-Never Land is secure from the ravages of Captain Hook,
+perhaps we Lost Boys can turn to happier pursuits. I only want to mention,
+as a parting shot, that if anybody wants to play rough, I will be forced
+to fire up my scanner and post on the web some artifacts that will make
+many a cheek grow red.
+
+[sigh] 
+
+The real action in SEW (Special Edged Weapons, for the uninitiated) has,
+for the past few decades been with the special operations community. Here
+we do find institutional interest, here we do find contract design work,
+and here we do find (most thankfully) a few shops with budget enough to
+actually go into production.
+
+More about that if anybody gives a damn. I know that racket like the back
+of my hand.
+
+-- 
+"W.L.Duckworth once exuberantly exclaimed that if Neanderthal man entered a bar in modern dress the majority would not notice him.
+One marvels at the sort of person Duckworth drank with." 
+- R. Miller
+This is off the top of my head, so excuse minor lapses.
+
+In May 1940 a secret submarine operation involving the landing of men on
+the Norwegian coast was launched by MI/R (Military Intelligence/Research),
+one of the two special warfare components that were later amalgamated into
+SOE. This op involved Brian Mayfield, who had been second in command of
+the ski battalion raised in December 1939 to fight in Scandinavia; Jim
+Gavin, one of the ski battalion's company commanders, and Bill Stirling.
+The op was a disaster, and the sub limped back to Scapa, running on the
+surface the whole way. To recuperate, the whole party went up to Bill
+Stirling's house in Scotland, and decided to start a training center for
+special ops, the War Office approved the plan, and this is how the Special
+Training Centre at Lochailort came into being. Spencer Chapman was the
+field craft instructor there, Jim Gavin and Mad Mike Calvert were the
+demolition instructors, and Eric Anthony Sykes was the silent killing and
+close-quarter pistol instructor from about June 1940 on.
+
+The smatchet was designed at Lochailort. The first ones were made in
+Glasgow by a man who was, by all accounts, a thoroughly insane Scot (he
+insisted that the blade be tempered in the piss of red-headed boys from
+Glasgow) and brought by train up to Ft. William. They were delivered to
+the local hotel (a nice place...I stayed there) and then sent out to
+Lochailort.
+
+If you look in the big "H Series" books at Imperial War Museum in London,
+you will never see the smatchet without the F-S knife, leading us to
+believe they first turned up in the hands of the lads after the F-S knife.
+
+Fairbairn redesigned the smatchet while at O.S.S and called it the "Fair Sword"
+There are two variations of the Fair Sword, both made at O.S.S Presentation
+by Mr. Millerson.
+
+The O.S.S production Smatchets were made by W.R. Case and Sons in two
+versions to UK design, one with walnut grips and one with black bakelite
+grips. There are five well known UK versions, in walnut and bakelite. I
+have also examined grips in oak, teak, mahogany, rubber; pommels in iron,
+alloy, brass, and aluminum. Scabbards are seen nylon, black leather, brown
+leather, wood covered by leather, canvas. When marked, they have the
+British "broad arrow" or broad arrow with number. One type is marked
+"MECo. 1942" 
+
+Fairbairn did not design the smatchet and neither did Sykes. It is based
+on the Welsh Machine gunner's Knife of World War I, as interpreted by the
+lads at Lochailort.
+
+I LOVE Smatchets. I've got a copy of the original blueprints. Anybody want
+to make me one? We could get the steel and the walnut right enough, but
+the piss of red-headed boys from Glasgow might make U.S. Customs ask
+questions.
+
+-- 
+"W.L.Duckworth once exuberantly exclaimed that if Neanderthal man entered a bar in modern dress the majority would not notice him.
+One marvels at the sort of person Duckworth drank with." 
+- R. Miller
+
