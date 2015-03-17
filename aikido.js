@@ -7,7 +7,7 @@ function search() {
 	old_query = query;
 	if (query.match(/^ *$/)) {
 		$('li').show();
-//		location.hash = '#'+query.replace(/ /g, '+');
+		delay_set_hash('');
 		location.hash = '';
 		var title = $('title').text()
 		title = title.replace(/.* - |^/, '');
@@ -50,10 +50,22 @@ function search() {
 			$li.parents('li').show();
 		}
 	});
-	location.hash = '#'+query.replace(/ /g, '+');
+	delay_set_hash('#'+query.replace(/ /g, '+'));
 	var title = $('title').text()
 	title = title.replace(/.* - |^/, query + ' - ');
 	$('title').text(title);
+}
+var new_hash;
+var set_hash_timeout;
+function delay_set_hash(v) {
+	new_hash = v;
+	if (set_hash_timeout) {
+		clearTimeout(set_hash_timeout);
+	}
+	set_hash_timeout = setTimeout(set_hash, 1000);
+}
+function set_hash() {
+	location.hash = new_hash;
 }
 function search_clear() {
 	$('#search').focus();
