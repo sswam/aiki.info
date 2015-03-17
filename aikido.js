@@ -7,10 +7,7 @@ function search() {
 	old_query = query;
 	if (query.match(/^ *$/)) {
 		$('li').show();
-		delay_set_hash('');
-		var title = $('title').text()
-		title = title.replace(/.* - |^/, '');
-		$('title').text(title);
+		delay_set_title_hash('');
 		return;
 	}
 	var query_words = query.toLowerCase().split(" ");
@@ -49,28 +46,33 @@ function search() {
 			$li.parents('li').show();
 		}
 	});
-	delay_set_hash('#'+query.replace(/ /g, '+'));
-	var title = $('title').text()
-	title = title.replace(/.* - |^/, query + ' - ');
-	$('title').text(title);
+	delay_set_title_hash(query);
 }
+
 var new_hash;
-var set_hash_timeout;
-function delay_set_hash(v) {
-	new_hash = v;
-	if (set_hash_timeout) {
-		clearTimeout(set_hash_timeout);
+var new_title;
+var set_title_hash_timeout;
+function delay_set_title_hash(query) {
+	new_hash = '#'+query.replace(/ /g, '+');
+	new_title = $('title').text().replace(/.* - |^/, '');
+	if (query != '') {
+		new_title = query + ' - ' + new_title;
 	}
-	set_hash_timeout = setTimeout(set_hash, 1000);
+	if (set_title_hash_timeout) {
+		clearTimeout(set_title_hash_timeout);
+	}
+	set_title_hash_timeout = setTimeout(set_title_hash, 1000);
 }
-function set_hash() {
+function set_title_hash() {
 	location.hash = new_hash;
+	$('title').text(new_title);
 }
 function on_hash_change() {
 	if (location.hash != new_hash) {
 		search_from_hash();
 	}
 }
+
 function search_clear() {
 	$('#search').focus();
 	$('#search').val('');
