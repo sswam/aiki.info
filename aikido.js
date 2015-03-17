@@ -54,35 +54,45 @@ var new_title;
 var set_title_hash_timeout;
 function delay_set_title_hash(query) {
 	new_hash = '#'+query.replace(/ /g, '+');
-	new_title = $('title').text().replace(/.* - |^/, '');
-	if (query != '') {
-		new_title = query + ' - ' + new_title;
-	}
+	new_title = query_to_title(query);
 	if (set_title_hash_timeout) {
 		clearTimeout(set_title_hash_timeout);
 	}
 	set_title_hash_timeout = setTimeout(set_title_hash, 1000);
+}
+function query_to_title(query) {
+	var new_title = $('title').text();
+	new_title = new_title.replace(/.* - |^/, '');
+	if (query != '') {
+		new_title = query + ' - ' + new_title;
+	}
+	return new_title;
 }
 function set_title_hash() {
 	location.hash = new_hash;
 	$('title').text(new_title);
 }
 function on_hash_change() {
+	$('title').text(query_to_title(hash_to_query(location.hash)));
 	if (location.hash != new_hash) {
 		search_from_hash();
 	}
 }
-
+function hash_to_query(hash) {
+	var query = hash.replace(/\+|%20/g, ' ');
+	if (query.length) {
+		query = query.substr(1);
+	}
+	return query;
+}
 function search_clear() {
 	$('#search').focus();
 	$('#search').val('');
 	search();
 }
 function search_from_hash() {
-	var query = location.hash;
-	query = query.replace(/\+|%20/g, ' ');
+	var query = hash_to_query(location.hash);
 	if (query.length) {
-		query = query.substr(1);
 		$('#search').val(query);
 	}
 	search();
