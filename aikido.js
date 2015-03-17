@@ -66,11 +66,26 @@ function delay_set_hash(v) {
 function set_hash() {
 	location.hash = new_hash;
 }
+function on_hash_change() {
+	if (location.hash != new_hash) {
+		search_from_hash();
+	}
+}
 function search_clear() {
 	$('#search').focus();
 	$('#search').val('');
 	search();
 }
+function search_from_hash() {
+	var query = location.hash;
+	query = query.replace(/\+|%20/g, ' ');
+	if (query.length) {
+		query = query.substr(1);
+		$('#search').val(query);
+	}
+	search();
+}
+
 $('#search').on('input', search);
 $('#search').on('change', search);
 $('#search').on('keyup', function(event) {
@@ -80,13 +95,7 @@ $('#search').on('keyup', function(event) {
 	}
 });
 $('#search_clear').on('click', search_clear);
+$(window).hashchange(on_hash_change);
 $(function() {
-	var query = location.hash;
-	query = query.replace(/\+|%20/g, ' ');
-	if (query.length) {
-		query = query.substr(1);
-		$('#search').val(query);
-	}
-	search();
+	search_from_hash();
 });
-
