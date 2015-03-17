@@ -66,6 +66,7 @@ function query_to_title(query) {
 	if (query != '') {
 		new_title = query + ' - ' + new_title;
 	}
+	alert(new_title);
 	return new_title;
 }
 function set_title_hash() {
