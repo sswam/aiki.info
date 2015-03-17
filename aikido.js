@@ -51,6 +51,8 @@ function search() {
 	});
 	if (count) {
 		delay_set_title_hash(query);
+	} else {
+		clearTimeout(set_title_hash_timeout);
 	}
 }
 
