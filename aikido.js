@@ -70,8 +70,8 @@ function query_to_title(query) {
 	return new_title;
 }
 function set_title_hash() {
-	$('title').text(new_title);
 	location.hash = new_hash;
+	$('title').text(new_title);
 }
 function on_hash_change() {
 	$('title').text(query_to_title(hash_to_query(location.hash)));
