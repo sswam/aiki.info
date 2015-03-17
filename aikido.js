@@ -8,7 +8,6 @@ function search() {
 	if (query.match(/^ *$/)) {
 		$('li').show();
 		delay_set_hash('');
-		location.hash = '';
 		var title = $('title').text()
 		title = title.replace(/.* - |^/, '');
 		$('title').text(title);
