@@ -15,6 +15,7 @@ function search() {
 	for (var i=0; i<query_words.length; ++i) {
 		query_words[i] = query_words[i].replace(/\./g, ' ');
 	}
+	var count = 0;
 	$('li').hide();
 	$('li').each(function() {
 		var $li = $(this);
@@ -45,9 +46,12 @@ function search() {
 		if (match) {
 			$li.show();
 			$li.parents('li').show();
+			++count;
 		}
 	});
-	delay_set_title_hash(query);
+	if (count) {
+		delay_set_title_hash(query);
+	}
 }
 
 var new_hash;
