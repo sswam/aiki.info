@@ -92,9 +92,7 @@ function search_clear() {
 }
 function search_from_hash() {
 	var query = hash_to_query(location.hash);
-	if (query.length) {
-		$('#search').val(query);
-	}
+	$('#search').val(query);
 	search();
 }
 
