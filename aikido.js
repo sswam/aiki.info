@@ -1,4 +1,5 @@
 var old_query = [];
+
 function search() {
 	var query = $('#search').val();
 	if (query == old_query) {
@@ -66,17 +67,18 @@ function query_to_title(query) {
 	if (query != '') {
 		new_title = query + ' - ' + new_title;
 	}
-	alert(new_title);
 	return new_title;
 }
 function set_title_hash() {
-	location.hash = new_hash;
 	$('title').text(new_title);
+	location.hash = new_hash;
 }
 function on_hash_change() {
 	$('title').text(query_to_title(hash_to_query(location.hash)));
 	if (location.hash != new_hash) {
-		search_from_hash();
+		var query = hash_to_query(location.hash);
+		$('#search').val(query);
+		search();
 	}
 }
 function hash_to_query(hash) {
@@ -91,11 +93,6 @@ function search_clear() {
 	$('#search').val('');
 	search();
 }
-function search_from_hash() {
-	var query = hash_to_query(location.hash);
-	$('#search').val(query);
-	search();
-}
 
 $('#search').on('input', search);
 $('#search').on('change', search);
@@ -108,5 +105,5 @@ $('#search').on('keyup', function(event) {
 $('#search_clear').on('click', search_clear);
 $(window).hashchange(on_hash_change);
 $(function() {
-	search_from_hash();
+	on_hash_change();
 });
