@@ -1,7 +1,8 @@
 body {
-	font-size: medium;
-	font-family: serif;
-	line-height: 1.2;
+	font-size: 14px;
+	font-family: sans-serif;
+/*	font-family: serif; font-size: medium; */
+	overflow: visible;
 }
 table.lines, table.lines td {
 	border: gray solid 1px;
@@ -11,17 +12,20 @@ table.nolines, table.nolines td {
 	border: black none 0px;
 	border-collapse: collapse;
 }
-table.columns td {
+td.first {
+	white-space: nowrap;
+}
+table.columns > tbody > tr > td {
 	max-width: 500px;
-	min-width: 250px;
+	min-width: 300px;
 }
 td {
-	padding: 3px 16px 3px 16px;
+	padding: 3px 6px 3px 6px;
 	vertical-align: top;
 }
 h1 {
 	display: inline;
-	font-size: xx-large;
+	font-size: 18px;
 }
 b {
 	color: darkgreen;
@@ -34,4 +38,49 @@ h1, .hi {
 img {
 	margin: 1px;
 	vertical-align: middle;
+	max-width: 100%;
+}
+.column {
+	float: left;
+	width: 31.5%;
+	min-width: 300px;
+	max-width: 500px;
+	margin: 0px 7px 0px 7px;
+	page-break-inside: avoid;
+}
+.col_minwidth {
+	width: 300px;
+}
+.small {
+	color: gray;
+	font-size: 12px;
+}
+pre {
+	font-size: 12px;
+	overflow: auto;
+	max-width: 100%;
+	margin: 0px;
+}
+.clear {
+	clear: both;
+}
+div.clear {
+	height: 1px;
+	font-size: 1px;
+	line-height: 1px;
+}
+hr {
+	color: #aaa;
+	background-color: #aaa;
+	height: 1px;
+	border: 0px;
+}
+.mono {
+	font-family: monospace;
+	font-size: 12px;
+}
+@media only screen and (max-device-width: 480px) {
+	a {
+		line-height: 200%;
+	}
 }

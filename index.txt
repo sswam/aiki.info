@@ -15,6 +15,7 @@ Aikidō: a joyful dance, a vital sport, the art of peace, the best strategy.
 *pages:*
 
 ./Yoshinkan.html Aikido: Complete Techniques
+
  .... [earth.jpg] .... 
 ;
 # .... =Aikidō= .... 
