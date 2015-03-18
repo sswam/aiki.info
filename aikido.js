@@ -65,7 +65,7 @@ function delay_set_title_hash(query) {
 	if (set_title_hash_timeout) {
 		clearTimeout(set_title_hash_timeout);
 	}
-	set_title_hash_timeout = setTimeout(set_title_hash, 5000);
+	set_title_hash_timeout = setTimeout(set_title_hash, 2000);
 }
 function query_to_title(query) {
 	var new_title = $('title').text();

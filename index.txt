@@ -12,9 +12,11 @@ Aikidō is the practical balance between non-violence and self defence.  The tru
 Aikidō: a joyful dance, a vital sport, the art of peace, the best strategy.
 
 
-*pages:*
+*video indexes:*
 
 ./Yoshinkan.html Aikido: Complete Techniques
+
+./Aikido.html Techniques
 
  .... [earth.jpg] .... 
 ;

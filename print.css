@@ -1,0 +1,12 @@
+body {
+	font-family: serif;
+}
+.column {
+	float: none;
+	width: 100%;
+	max-width: 100%;
+	page-break-inside: auto;
+	margin: 0;
+}
+
+a:link, a:visited {color: midnightblue;}
