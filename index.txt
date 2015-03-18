@@ -1,4 +1,4 @@
-{
+(
 =合氣=
 #=合氣道=
 
@@ -15,26 +15,26 @@ Aikidō: a joyful dance, a vital sport, the art of peace, the best strategy.
 *pages:*
 
 ./Yoshinkan.html Aikido: Complete Techniques
-|
- .... =Aikidō= .... 
-
-This is a place for Aikidō on the Internet, for people who love peace, and the martial arts.
-
-As an Internet host, we serve and link to sites about Aikidō.  We host personal, group, and business websites, and provide other services including email and ssh.
-
-These services are available free of charge, or "pay what you feel".
-
-Please contact ./Sam_Watkins for more information.
-
-
- .... dōjō  sensei  students .... 
- .... websites  books  videos ....
- .... people  groups  links ....
- .... web  mail  ssh  ./labs ....
- .... ./dmca ....
-
  .... [earth.jpg] .... 
-|
+;
+# .... =Aikidō= .... 
+#
+#This is a place for Aikidō on the Internet, for people who love peace, and the martial arts.
+#
+#As an Internet host, we serve and link to sites about Aikidō.  We host personal, group, and business websites, and provide other services including email and ssh.
+#
+#These services are available free of charge, or "pay what you feel".
+#
+#Please contact ./Sam_Watkins for more information.
+#
+#
+# .... dōjō  sensei  students .... 
+# .... websites  books  videos ....
+# .... people  groups  links ....
+# .... web  mail  ssh  ./labs ....
+# .... ./dmca ....
+#
+#;
 >[aiki.png]
 
 
@@ -44,4 +44,4 @@ To injure an opponent is to injure yourself.  To control aggression without infl
 
  .... [Morihei-Ueshiba.jpg] .... 
  ....  Ōsensei Morihei Ueshiba .... 
-}
+)
