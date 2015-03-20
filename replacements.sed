@@ -57,3 +57,4 @@ s|nage otoshi|nage-otoshi|g;
 s|chudan tsuki|shomen-tsuki|g;
 s|hara tsuki|shomen-tsuki|g;
 s|hiji shime|hiji-shime|g;
+s|shihonage|shiho-nage|g;

@@ -57,3 +57,4 @@ nage otoshi	nage-otoshi
 chudan tsuki	shomen-tsuki
 hara tsuki	shomen-tsuki
 hiji shime	hiji-shime
+shihonage	shiho-nage
