@@ -53,7 +53,7 @@
 1	56:27		oyo-waza
 1	56:33			katate-mochi shiho-nage kuzushi
 1	57:19			yokomen-uchi shiho-nage kuzushi
-1	58:04			shomen-duki shiho-nage kuzushi
+1	58:04			shomen-tsuki shiho-nage kuzushi
 1	58:49			kata-mochi shomen-uchi shiho-nage kuzushi
 1	59:45	kihon-giho ikkajo
 1	1:00:46		shomen-uchi ikkajo-osae (1)
