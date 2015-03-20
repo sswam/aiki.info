@@ -3,8 +3,8 @@ ai hanmi katate dori	katate-aya-mochi
 katate-aya-mochi / katate-aya-mochi	katate-aya-mochi
 shiho nage	shiho-nage
 shiho, nage	shiho-nage
-omote	(1)
-ura	(2)
+\<omote\>	(1)
+\<ura\>	(2)
 irimi nage	irimi-nage
 tanto dori	tanto-dori
 shinken tanto	shinken-tanto
