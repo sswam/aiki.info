@@ -2,7 +2,7 @@
 
 #all: perms $(shell find . -maxdepth 1 -path '*/.*' -prune -o -name '*.txt' -type f -print | sed 's/\.txt$$/.html/') $(shell find . -maxdepth 1 -path '*/.*' -prune -o \( -name '*.png' -o -name '*.jpg' \) -type f -print | sed 's,\(.*/\),\1tn/,;')
 
-all: html labs+
+all: html labs+ Aikido.html
 html: $(patsubst %.txt,%.html,$(wildcard *.txt))
 
 labs+:
@@ -20,5 +20,11 @@ tn/%.png: %.png Makefile
 
 tn/%.jpg: %.jpg Makefile
 	<$< jpegtopnm | pnmscale -width=310 | pnmtojpeg -quality=95 >$@
+
+replacements.sed: replacements.txt
+	<$< sed 's/^/s|/; s/$$/|g;/; s/\t/|/;' >$@
+
+Aikido.html: Aikido.2.html replacements.sed
+	sed -f replacements.sed <$< >$@
 
 .PHONY: all html
