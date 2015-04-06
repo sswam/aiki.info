@@ -2,6 +2,8 @@
 =合氣=
 #=合氣道=
 
+殺人剣 - 活人剣
+
 *Ai*: balance, harmony.  *Ki*: spirit, energy.
 #*Dō*: path, way.
 
