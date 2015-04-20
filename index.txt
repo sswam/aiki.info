@@ -5,26 +5,33 @@
 *Ai*: balance, harmony.  *Ki*: spirit, energy.
 #*Dō*: path, way.
 
-*Aikidō* is the way of *balanced spirit*, the art of *saving the enemy*.  We fight with care, seeking peace, protecting the aggressor from harm.
+*Aikido* is the way of *balanced spirit*, the art of *saving the enemy*.  We fight with care, seeking peace, protecting the aggressor from harm.
 
-Aikidō is the practical balance between non-violence and self defence.  The true Aiki fighter can succeed without doing any real harm, although there may be some pain or minor injury along the way!
+殺人剣 - 活人剣
 
-Aikidō: a joyful dance, a vital sport, the art of peace, the best strategy.
+Aikido is the practical balance between non-violence and self defence.  The true Aiki fighter can succeed without doing any real harm, although there may be some pain or minor injury along the way!
+
+Aikido: a joyful dance, a vital sport, the art of peace, the best strategy.
 
 
 *video indexes:*
 
 ./Yoshinkan.html Aikido: Complete Techniques
+./Aikido.html Techniques - a large index
 
-./Aikido.html Techniques
 
- .... [earth.jpg] .... 
+*kihon-waza charts for Yoshinkan Aikido:*
+
+./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
+
+
+[earth.jpg]
 ;
-# .... =Aikidō= .... 
+# .... =Aikido= .... 
 #
-#This is a place for Aikidō on the Internet, for people who love peace, and the martial arts.
+#This is a place for Aikido on the Internet, for people who love peace, and the martial arts.
 #
-#As an Internet host, we serve and link to sites about Aikidō.  We host personal, group, and business websites, and provide other services including email and ssh.
+#As an Internet host, we serve and link to sites about Aikido.  We host personal, group, and business websites, and provide other services including email and ssh.
 #
 #These services are available free of charge, or "pay what you feel".
 #
@@ -38,13 +45,17 @@ Aikidō: a joyful dance, a vital sport, the art of peace, the best strategy.
 # .... ./dmca ....
 #
 #;
->[aiki.png]
+#>[aiki.png]
 
 
 Study how water flows in a valley stream, smoothly and freely between the rocks.  Also learn from holy books and wise people.  Everything - even mountains, rivers, plants and trees - should be your teacher. 
 
 To injure an opponent is to injure yourself.  To control aggression without inflicting injury is the Art of Peace.
 
- .... [Morihei-Ueshiba.jpg] .... 
- ....  Ōsensei Morihei Ueshiba .... 
+
+[Morihei-Ueshiba.jpg]
+
+Ōsensei Morihei Ueshiba
+;
+[aikido.jpg]
 )
