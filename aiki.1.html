@@ -704,20 +704,36 @@ function ord(chr)
 	return chr.charCodeAt(0);
 }
 function key_pressed(e) {
+	var changed;
 	if (e.which == ord('1')) {
 		kyu = !kyu;
 		show('kyu', kyu);
+		changed = true;
 	}
 	if (e.which == ord('2')) {
 		dan1 = !dan1;
 		show('dan1', dan1);
+		changed = true;
 	}
 	if (e.which == ord('3')) {
 		dan2 = !dan2;
 		show('dan2', dan2);
+		changed = true;
+	}
+	if (changed) {
+		location.hash = '#'+(kyu?1:0)+(dan1?1:0)+(dan2?1:0);
 	}
 }
 $(function() {
 	$('body').on('keypress', key_pressed);
+	var h = location.hash;
+	if (h) {
+		kyu = h.charAt(1) == '1';
+		dan1 = h.charAt(2) == '1';
+		dan2 = h.charAt(3) == '1';
+	}
+	show('kyu', kyu);
+	show('dan1', dan1);
+	show('dan2', dan2);
 })
 </script>

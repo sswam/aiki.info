@@ -30,7 +30,8 @@ while ($_ = <STDIN>) {
 				$time2 =~ s/:/h/;
 			}
 			$time2 =~ s/:/m/;
-			$url = "http://www.youtube.com/watch?v=$url&t=$time2#t=$time2";
+#			$url = "http://www.youtube.com/watch?v=$url&t=$time2#t=$time2";
+			$url = "http://www.youtube.com/watch?v=$url&t=$time2";
 		}
 		$url ||= '#';
 		s/href=".*?"/href="$url"/;
