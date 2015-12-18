@@ -24,7 +24,7 @@ Aikido: a joyful dance, a vital sport, the art of peace, the best strategy.
 
 ./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
 
-./aiki.html - an interactive chart, press 1 2 3 to toggle levels
+./aiki.html - a chart with video links, press 1 2 3 to toggle levels
 
 
 [earth.jpg]
