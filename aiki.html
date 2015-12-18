@@ -721,7 +721,8 @@ function key_pressed(e) {
 		changed = true;
 	}
 	if (changed) {
-		location.hash = '#'+(kyu?1:0)+(dan1?1:0)+(dan2?1:0);
+		var h = '#'+(kyu?1:0)+(dan1?1:0)+(dan2?1:0);
+		history.replaceState(undefined, undefined, h);
 	}
 }
 $(function() {
