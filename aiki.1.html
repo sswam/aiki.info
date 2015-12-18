@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <style>
-body { font-size: 200%; font-family: times, serif; }
+body { font-size: 150%; font-family: times, serif; }
 table.t { border-collapse: collapse; }
 table.t > tbody > tr > td {
 	border: 2px solid #ccc;
@@ -37,6 +37,12 @@ table.t > tbody > tr > th.aiki img {
 }
 table.t > tbody > tr > td > a {
 	text-decoration: none;
+}
+table.t > tbody > tr.hidden {
+	display: none;
+}
+table.t > tbody > tr > td > a.hidden {
+	visibility: hidden;
 }
 
 </style>
@@ -681,18 +687,37 @@ table.t > tbody > tr > td > a {
 
 </table>
 
-<!--
 <script src="jquery.js"></script>
 <script>
+var kyu = true;
+var dan1 = true;
+var dan2 = true;
+function show(name, visible) {
+	if (visible) {
+		$('.'+name).removeClass('hidden');
+	} else {
+		$('.'+name).addClass('hidden');
+	}
+}
+function ord(chr)
+{
+	return chr.charCodeAt(0);
+}
+function key_pressed(e) {
+	if (e.which == ord('1')) {
+		kyu = !kyu;
+		show('kyu', kyu);
+	}
+	if (e.which == ord('2')) {
+		dan1 = !dan1;
+		show('dan1', dan1);
+	}
+	if (e.which == ord('3')) {
+		dan2 = !dan2;
+		show('dan2', dan2);
+	}
+}
 $(function() {
-	alert(1);
-	$('.vertical').each(function() {
-		var w = $(this).width();
-		var h = $(this).height();
-		$(this).width(h);
-		$(this).height(w);
-		console.log(w, h);
-	});
+	$('body').on('keypress', key_pressed);
 })
 </script>
--->
