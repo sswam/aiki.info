@@ -2,7 +2,7 @@
 
 #all: perms $(shell find . -maxdepth 1 -path '*/.*' -prune -o -name '*.txt' -type f -print | sed 's/\.txt$$/.html/') $(shell find . -maxdepth 1 -path '*/.*' -prune -o \( -name '*.png' -o -name '*.jpg' \) -type f -print | sed 's,\(.*/\),\1tn/,;')
 
-all: html labs+ Aikido.html
+all: html labs+ Aikido.html aiki.html
 html: $(patsubst %.txt,%.html,$(wildcard *.txt))
 
 labs+:
@@ -26,5 +26,8 @@ replacements.sed: replacements.txt
 
 Aikido.html: Aikido.2.html replacements.sed
 	sed -f replacements.sed <$< >$@
+
+aiki.html: aiki.1.html
+	./add-links.pl <$< >$@
 
 .PHONY: all html
