@@ -1,5 +1,5 @@
-shomen-uchi shiho-nage	-←↓⇢⇡⇠↑→ ⇡_x*
-shomen-uchi ikkajo-osae (1)	* ⇢⇡⇠↑↑_x
+shomen-uchi shiho-nage	-←↓⇢⇡↑⇠→ ⇡_x*
+shomen-uchi ikkajo-osae (1)	* ⇢⇡↑⇠↑_x
 shomen-uchi ikkajo-osae (2)	-→↓→_x
 shomen-uchi nikajo-osae (1)	*⇢⇡⇠⇣x⇢⇡⇠↑↑_⇠⇡x
 shomen-uchi nikajo-osae (2)	-→↓⇠⇡x→↓→_⇠⇡x
