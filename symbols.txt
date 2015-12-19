@@ -1,0 +1,53 @@
+↑	step forward
+↓	step back
+⇡	slide forward
+⇣	slide back
+⤸	turn right
+⤹	turn left
+*	strike
+-	block
+_	drop	
+x	lock
+
+attacks
+S	shomen
+Y	yokomen
+T	tsuki
+1T	katate
+2T	ryote
+k	kata
+m	mune
+h	hiji
+a	katate-aya
+URT	ushiro-ryote
+UKE	ushiro-katate-eri
+URH	ushiro-ryohiji
+	ushiro-ryokata
+	ushiro-eri
+
+waza
+
+shomen-uchi shiho-nage	-↙⇡↑→⇡_x*
+shomen-uchi ikkajo-osae (1)	*⇡↑↑_x
+shomen-uchi ikkajo-osae (2)	-↘→_x
+
+-⤸↓⤸_x
+
+
+
+*⇡↑↑_x
+
+
+
+→	turn right
+←	turn left
+
+↗	rev. pivot right
+↖	rev. pivot left
+↘	pivot right
+↙	pivot left
+
+↺	pivot left
+↻	pivot right
+⟲	rev-pivot left
+⟳	rev-pivot right
