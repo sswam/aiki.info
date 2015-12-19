@@ -41,6 +41,8 @@ shomen-uchi ikkajo-osae (2)	-↘→_x
 
 →	turn right
 ←	turn left
+⇢	small turn right
+⇠	small turn left
 
 ↗	rev. pivot right
 ↖	rev. pivot left
