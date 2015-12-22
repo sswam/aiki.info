@@ -1,55 +1,28 @@
-↑	step forward
-↓	step back
-⇡	slide forward
-⇣	slide back
-⤸	turn right
-⤹	turn left
-*	strike
--	block
-_	drop	
-x	lock
+w	↑	step forward
+s	↓	step back
+W	⇡	slide forward
+S	⇣	slide back
+d	⤸	turn right 180+
+a	⤹	turn left 180+
+D	→	turn right 90+
+A	←	turn left 90+
+E	⇢	turn right 30+
+Q	⇠	turn left 30+
+e	↾	right foot forward
+q	↿	left foot forward
+c	⇂	right foot back
+z	⇃	left foot back
+2	⇈	slide both forward (kokyu-ho)
+x	⇊	slide both back (??? sprawl)
+r	⌃	rise
+f	⌄	drop
 
-attacks
-S	shomen
-Y	yokomen
-T	tsuki
-1T	katate
-2T	ryote
-k	kata
-m	mune
-h	hiji
-a	katate-aya
-URT	ushiro-ryote
-UKE	ushiro-katate-eri
-URH	ushiro-ryohiji
-	ushiro-ryokata
-	ushiro-eri
+\	܅	kamae nori
+]	܇	migi hanmi-no-kamae
+[	܆	hidari hanmi-no-kamae
 
-waza
+'	*	strike
+;	−	block
+.	◦	grip
+/	×	lock
 
-shomen-uchi shiho-nage	-↙⇡↑→⇡_x*
-shomen-uchi ikkajo-osae (1)	*⇡↑↑_x
-shomen-uchi ikkajo-osae (2)	-↘→_x
-
--⤸↓⤸_x
-
-
-
-*⇡↑↑_x
-
-
-
-→	turn right
-←	turn left
-⇢	small turn right
-⇠	small turn left
-
-↗	rev. pivot right
-↖	rev. pivot left
-↘	pivot right
-↙	pivot left
-
-↺	pivot left
-↻	pivot right
-⟲	rev-pivot left
-⟳	rev-pivot right
