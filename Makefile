@@ -3,7 +3,8 @@
 #all: perms $(shell find . -maxdepth 1 -path '*/.*' -prune -o -name '*.txt' -type f -print | sed 's/\.txt$$/.html/') $(shell find . -maxdepth 1 -path '*/.*' -prune -o \( -name '*.png' -o -name '*.jpg' \) -type f -print | sed 's,\(.*/\),\1tn/,;')
 
 all: html labs+ Aikido.html aiki.html
-html: $(patsubst %.txt,%.html,$(wildcard *.txt))
+# html: $(patsubst %.txt,%.html,$(wildcard *.txt))
+html: index.html
 
 labs+:
 	cd labs; $(MAKE)

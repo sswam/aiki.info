@@ -22,8 +22,8 @@ Aikido: a joyful dance, a vital sport, the art of peace, the best strategy.
 
 *kihon-waza charts for Yoshinkan Aikido:*
 
-./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
-./aiki.html - a chart with video links, press 1 2 3 to toggle levels
+./aiki.html - a kihon-waza chart with video links, press 1 2 3 to toggle levels
+small pdf charts: ./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
 
 
 [earth.jpg]

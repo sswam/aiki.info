@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <style>
 h1 { font-size: 125%; margin: 0; display: inline; }
-body { font-size: 150%; font-family: times, serif; }
+div.main { font-size: 150%; font-family: times, serif; }
 table.t { border-collapse: collapse; }
 table.t > tbody > tr > td {
 	border: 2px solid #ccc;
@@ -57,13 +57,16 @@ a.dan2   { color: #00f; }
     .no-print, .no-print * { display: none !important; }
 }
 
+div.links { font-size: 100%; }
 </style>
 
-<title>Aikido Yoshinkan Kihon Waza</title>
+<title>Aikido Yoshinkan Kihon-Waza</title>
+
+<div style="float:left" class="main">
 <span class="buttons no-print" style="float:left; padding-right: 2em;">
 <button onclick="pressed(1)"><u>1</u> <a class="kyu">kyu</a></button> <button onclick="pressed(2)"><u>2</u> <a class="dan1">shodan</a></button> <button onclick="pressed(3)"><u>3</u> <a class="dan2">yudan</a></button>
 </span>
-<h1 class="no-print">Aikido Yoshinkan Kihon Waza</h1>
+<h1 class="no-print">Aikido Yoshinkan Kihon-Waza</h1>
 
 <table class="t">
 
@@ -704,6 +707,7 @@ a.dan2   { color: #00f; }
 </tr>
 
 </table>
+</div>
 
 <script src="jquery.js"></script>
 <script>
@@ -756,3 +760,19 @@ $(function() {
 	show('dan2', dan2);
 })
 </script>
+
+<div style="float:right" class="links no-print">
+ 	<p><img src="yoshinkan.jpg"></p>
+	<br>
+	<p><A href="http://www.google.com.au/search?q=Yoshinkan+Aikido%3A+The+Complete+Set+of+Techniques+store">Purchase DVDs: Yoshinkan Aikido</A></p>
+	<p><A href="Yoshinkan.html">Yoshinkan Aikido: Complete Techniques</A></p>
+
+	<p><A href="aiki.html">Kihon-Waza Chart</A></p>
+
+	<p>kyu tests: &nbsp; <A href="10kyu-9kyu.html">10,9</A> &nbsp; <A href="8kyu-6kyu.html">8,7,6</A> &nbsp; <A href="5kyu.html">&nbsp;5&nbsp;</A> &nbsp; <A href="4kyu.html">&nbsp;4&nbsp;</A> &nbsp; <A href="3kyu-1kyu.html">3,2,1</A></p>
+	<p>dan tests: &nbsp; <A href="1dan.html">shodan</A> &nbsp; <A href="2dan-.html">yudan</A></p>
+	<p>text index: &nbsp; <A href="yoshinkan-index.txt">yoshinkan-index.txt</A>
+
+	<p>home: &nbsp; <A href="http://aiki.nipl.net/">aiki.nipl.net</A>
+</div>
+
