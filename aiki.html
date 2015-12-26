@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <style>
+h1 { font-size: 150%; margin: 0; display: inline; }
 body { font-size: 150%; font-family: times, serif; }
 table.t { border-collapse: collapse; }
 table.t > tbody > tr > td {
@@ -44,12 +45,25 @@ table.t > tbody > tr.hidden {
 table.t > tbody > tr > td > a.hidden {
 	visibility: hidden;
 }
+.buttons > button > a.hidden {
+	color: grey;
+}
 
 a.kyu    { color: #a00; }
 a.dan1   { color: #080; }
 a.dan2   { color: #00f; }
 
+@media print {
+    .no-print, .no-print * { display: none !important; }
+}
+
 </style>
+
+<title>Aikido Yoshinkan Kihon Waza</title>
+<span class="buttons no-print" style="float:left; padding-right: 1em;">
+<button onclick="pressed(1)"><u>1</u> <a class="kyu">kyu</a></button> <button onclick="pressed(2)"><u>2</u> <a class="dan1">shodan</a></button> <button onclick="pressed(3)"><u>3</u> <a class="dan2">yudan</a></button>
+</span>
+<h1 class="no-print">Aikido Yoshinkan Kihon Waza</h1>
 
 <table class="t">
 
@@ -707,31 +721,31 @@ function ord(chr)
 {
 	return chr.charCodeAt(0);
 }
-function key_pressed(e) {
-	var changed;
-	if (e.which == ord('1')) {
+function pressed(n) {
+	if (n == 1) {
 		kyu = !kyu;
 		show('kyu', kyu);
-		changed = true;
 	}
-	if (e.which == ord('2')) {
+	if (n == 2) {
 		dan1 = !dan1;
 		show('dan1', dan1);
-		changed = true;
 	}
-	if (e.which == ord('3')) {
+	if (n == 3) {
 		dan2 = !dan2;
 		show('dan2', dan2);
-		changed = true;
 	}
-	if (changed) {
-		var h = '#'+(kyu?1:0)+(dan1?1:0)+(dan2?1:0);
-		history.replaceState(undefined, undefined, h);
+	var h = '#'+(kyu?1:0)+(dan1?1:0)+(dan2?1:0);
+	history.replaceState(undefined, undefined, h);
+}
+function key_pressed(e) {
+	var n = e.which - ord('1') + 1;
+	if (n >= 1 && n <= 3) {
+		pressed(n);
 	}
 }
 $(function() {
 	$('body').on('keypress', key_pressed);
-	var h = location.hash;
+	var h = location.hffash;
 	if (h) {
 		kyu = h.charAt(1) == '1';
 		dan1 = h.charAt(2) == '1';
