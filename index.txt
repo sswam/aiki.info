@@ -1,9 +1,7 @@
 (
-=合氣=
-#=合氣道=
+=合氣道=
 
-*Ai*: balance, harmony.  *Ki*: spirit, energy.
-#*Dō*: path, way.
+*Ai*: balance, harmony.  *Ki*: spirit, energy.  *Do*: path, way.
 
 *Aikido* is the way of *balanced spirit*, the art of *saving the enemy*.  We fight with care, seeking peace, protecting the aggressor from harm.
 
@@ -58,5 +56,5 @@ To injure an opponent is to injure yourself.  To control aggression without infl
 
 Ōsensei Morihei Ueshiba
 ;
-[aikido.jpg]
+[aikido.png]
 )
