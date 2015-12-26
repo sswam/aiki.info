@@ -745,7 +745,7 @@ function key_pressed(e) {
 }
 $(function() {
 	$('body').on('keypress', key_pressed);
-	var h = location.hffash;
+	var h = location.hash;
 	if (h) {
 		kyu = h.charAt(1) == '1';
 		dan1 = h.charAt(2) == '1';
