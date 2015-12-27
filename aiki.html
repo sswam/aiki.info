@@ -713,7 +713,7 @@ div.links { font-size: 100%; }
 </table>
 </div>
 
-<div style="float:left; padding: 10em 2em 2em 2em;" class="player">
+<div style="float:left; padding: 10em 2em 2em 2em;" class="player no-print">
 <h2></h2>
 <iframe id="ytplayer" type="text/html" width="480" height="360"
   src="about:blank"
@@ -734,8 +734,7 @@ function show(name, visible) {
 		$('.'+name).addClass('hidden');
 	}
 }
-function ord(chr)
-{
+function ord(chr) {
 	return chr.charCodeAt(0);
 }
 function pressed(n) {
