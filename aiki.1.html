@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <style>
 h1 { font-size: 125%; margin: 0; display: inline; }
+h2 { font-size: 125%; margin: 0 0 0.5em 0; }
 div.main { font-size: 150%; font-family: times, serif; }
 table.t { border-collapse: collapse; }
 table.t > tbody > tr > td {
@@ -48,6 +49,9 @@ table.t > tbody > tr > td > a.hidden {
 .buttons > button > a.hidden {
 	color: grey;
 }
+td.highlight, th.highlight {
+	background: #eee;
+}
 
 a.kyu    { color: #a00; }
 a.dan1   { color: #080; }
@@ -90,7 +94,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr>
-<th>shomen</th>
+<th class="h">shomen</th>
 <td><a class="dan1" title="shomen-uchi shiho-nage" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=47m10s">*</a></td>
 <td><a class="kyu" title="shomen-uchi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h00m46s">1</a> &nbsp;
 <a class="kyu" title="shomen-uchi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h03m57s">2</a><br>
@@ -145,7 +149,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr>
-<th>yokomen</th>
+<th class="h">yokomen</th>
 <td><a class="kyu" title="yokomen-uchi shiho-nage (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=42m56s">1</a> &nbsp;
 <a class="kyu" title="yokomen-uchi shiho-nage (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=45m16s">2</a><br><br>
 </td>
@@ -202,7 +206,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr>
-<th>tsuki</th>
+<th class="h">tsuki</th>
 <td></td>
 <td></td>
 <td></td>
@@ -229,7 +233,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr>
-<th>katate</th>
+<th class="h">katate</th>
 <td class="small"><a class="kyu" title="katate-mochi shiho-nage (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=34m21s">1</a> &nbsp; &nbsp; &nbsp;
 <a class="kyu" title="katate-mochi shiho-nage (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=36m40s">2</a><br>
 <a class="dan1" title="hanmi-handachi katate-mochi shiho-nage (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=49m26s">1</a> &nbsp; &nbsp; &nbsp;
@@ -288,7 +292,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr>
-<th>ryote</th>
+<th class="h">ryote</th>
 <td class="small"><a class="kyu" title="ryote-mochi shiho-nage (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=38m45s">1</a> &nbsp; &nbsp; &nbsp;
 <a class="kyu" title="ryote-mochi shiho-nage (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=40m56s">2</a><br>
 <a class="kyu" title="hanmi-handachi ryote-mochi shiho-nage" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=53m52s">*</a><br>&nbsp;
@@ -352,7 +356,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr>
-<th>kata</th>
+<th class="h">kata</th>
 <td></td>
 <td><a class="kyu" title="kata-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h31m04s">1</a> &nbsp;
 <a class="kyu" title="kata-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h34m44s">2</a><br>
@@ -395,7 +399,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr>
-<th>mune</th>
+<th class="h">mune</th>
 <td></td>
 <td><a class="dan2" title="mune-mochi ikkajo-osae (1)" href="#">1</a> &nbsp;
 <a class="dan2" title="mune-mochi ikkajo-osae (2)" href="#">2</a><br>
@@ -438,7 +442,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr class="dan2">
-<th>hiji</th>
+<th class="h">hiji</th>
 <td></td>
 <td><a class="dan2" title="kata-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h31m04s">1</a> &nbsp;
 <a class="dan2" title="kata-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h34m44s">2</a><br>
@@ -481,7 +485,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr>
-<th>katate-aya</th>
+<th class="h">katate-aya</th>
 <td></td>
 <td></td>
 <td><a class="dan2" title="katate-aya-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=15m38s">1</a> &nbsp;
@@ -504,7 +508,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr>
-<th>u.-ryote</th>
+<th class="h">u.-ryote</th>
 <td></td>
 <td><a class="kyu" title="ushiro-ryote-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h37m29s">1</a> &nbsp;
 <a class="kyu" title="ushiro-ryote-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h40m09s">2</a><br> &nbsp;
@@ -535,7 +539,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr class="dan1">
-<th>u.-katate-eri</th>
+<th class="h">u.-katate-eri</th>
 <td></td>
 <td><a class="dan1" title="ushiro-katate-eri-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h42m04s">1</a> &nbsp;
 <a class="dan1" title="ushiro-katate-eri-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h43m41s">2</a><br> &nbsp;
@@ -558,7 +562,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr class="dan2">
-<th>u.-ryohiji</th>
+<th class="h">u.-ryohiji</th>
 <td></td>
 <td><a class="dan2" title="ushiro-ryohiji-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h48m55s">1</a> &nbsp;
 <a class="dan2" title="ushiro-ryohiji-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h50m56s">2</a><br> &nbsp;
@@ -583,7 +587,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr class="dan2">
-<th>u.-ryokata</th>
+<th class="h">u.-ryokata</th>
 <td></td>
 <td><a class="dan2" title="ushiro-ryokata-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h52m13s">1</a> &nbsp;
 <a class="dan2" title="ushiro-ryokata-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h54m33s">2</a><br> &nbsp;
@@ -608,7 +612,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr class="dan2">
-<th>u.-eri</th>
+<th class="h">u.-eri</th>
 <td></td>
 <td><a class="dan2" title="ushiro-eri-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h45m10s">1</a> &nbsp;
 <a class="dan2" title="ushiro-eri-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h47m16s">2</a><br> &nbsp;
@@ -631,7 +635,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr class="dan2">
-<th>sho / yoko</th>
+<th class="h">sho / yoko</th>
 <td></td>
 <td></td>
 <td></td>
@@ -650,7 +654,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr class="dan2">
-<th>tanto-dori</th>
+<th class="h">tanto-dori</th>
 <td></td>
 <td></td>
 <td></td>
@@ -669,7 +673,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr class="dan2">
-<th>ken-tori</th>
+<th class="h">ken-tori</th>
 <td></td>
 <td></td>
 <td></td>
@@ -688,7 +692,7 @@ div.links { font-size: 100%; }
 </tr>
 
 <tr class="dan2">
-<th>tasu-dori</th>
+<th class="h">tasu-dori</th>
 <td></td>
 <td></td>
 <td></td>
@@ -707,6 +711,15 @@ div.links { font-size: 100%; }
 </tr>
 
 </table>
+</div>
+
+<div style="float:left; padding: 10em 2em 2em 2em;" class="player">
+<h2></h2>
+<iframe id="ytplayer" type="text/html" width="480" height="360"
+  src="about:blank"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
 </div>
 
 <script src="jquery.js"></script>
@@ -747,7 +760,59 @@ function key_pressed(e) {
 		pressed(n);
 	}
 }
+var x, y;
+var $rows;
+function hl_clear() {
+	x = y = 0;
+	$('table.t td.highlight').removeClass('highlight');
+	$('table.t th.highlight').removeClass('highlight');
+	$('h2').text('');
+	$('#ytplayer').prop('src', 'about:blank');
+}
+function hl_row(cell) {
+	var $tr = $(cell).closest('tr');
+	y = $tr.index();
+	$tr.find('th,td').addClass('highlight');
+}
+function hl_col(cell) {
+	x = $(cell).index();
+	$rows.find(':nth-child('+(x+1)+')').addClass('highlight');
+}
+function td_click(e) {
+	hl_clear();
+	hl_row(this);
+	hl_col(this);
+}
+function th_h_click(e) {
+	hl_clear();
+	hl_row(this);
+}
+function th_v_click(e) {
+	hl_clear();
+	hl_col(this);
+}
+function show_video(e) {
+	e.preventDefault();
+	var $a = $(this);
+	var title = $a.prop('title');
+	var href = $a.prop('href');
+	href = href.replace('watch?v=', 'embed/');
+	var m = href.match(/&t=((\d+)h)?(\d+)m(\d+)s/);
+	var secs = 0;
+	if (m) {
+		secs = (+m[2]||0)*3600 + +m[3]*60 + +m[4];
+	}
+	href = href.replace(/\&t=.*/, '');
+	href += "?start=" + secs + "&autoplay=1&origin=" + encodeURIComponent(window.location.href);
+	setTimeout(function() {
+		$('h2').text(title);
+		if (href.match(/youtube\.com/)) {
+ 	 		$('#ytplayer').prop('src', href);
+		}
+	}, 1);
+}
 $(function() {
+	$rows = $('table.t tr');
 	$('body').on('keypress', key_pressed);
 	var h = location.hash;
 	if (h) {
@@ -758,6 +823,11 @@ $(function() {
 	show('kyu', kyu);
 	show('dan1', dan1);
 	show('dan2', dan2);
+	$('table.t td').on('click', td_click);
+	$('table.t th.h').on('click', th_h_click);
+	$('table.t th.v').on('click', th_v_click);
+	$('table.t th.aiki').on('click', hl_clear);
+	$('table.t > tbody > tr > td > a').on('click', show_video);
 })
 </script>
 
