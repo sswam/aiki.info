@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <style>
 h1 { font-size: 125%; margin: 0; display: inline; }
-h2 { font-size: 125%; margin: 0 0 0.5em 0; }
+h2 { font-size: 125%; margin: 1em 0 0.5em 0; }
 div.main { font-size: 150%; font-family: times, serif; }
 table.t { border-collapse: collapse; }
 table.t > tbody > tr > td {
@@ -57,11 +57,23 @@ a.kyu    { color: #a00; }
 a.dan1   { color: #080; }
 a.dan2   { color: #00f; }
 
+div.player { float:left; padding: 12em 2em 2em 2em; page-break-inside: avoid; }
+div#notes { white-space: pre; }
+div.links { font-size: 100%; }
+
 @media print {
-    .no-print, .no-print * { display: none !important; }
+	.no-print, .no-print * { display: none !important; }
+	div.player { padding: 2em; }
 }
 
-div.links { font-size: 100%; }
+.japanese {
+	font-size: 150%;
+}
+.symbols {
+	font-size: 150%;
+	font-family: monospace;
+}
+
 </style>
 
 <title>Aikido Yoshinkan Kihon-Waza</title>
@@ -713,13 +725,15 @@ div.links { font-size: 100%; }
 </table>
 </div>
 
-<div style="float:left; padding: 10em 2em 2em 2em;" class="player no-print">
-<h2></h2>
+<div class="player">
 <iframe id="ytplayer" type="text/html" width="480" height="360"
   src="about:blank"
   frameborder="0"
+  class="no-print"
   allowfullscreen>
 </iframe>
+<h2></h2>
+<div id="notes"></div>
 </div>
 
 <script src="jquery.js"></script>
@@ -767,6 +781,7 @@ function hl_clear() {
 	$('table.t th.highlight').removeClass('highlight');
 	$('h2').text('');
 	$('#ytplayer').prop('src', 'about:blank');
+	$('#notes').html('');
 }
 function hl_row(cell) {
 	var $tr = $(cell).closest('tr');
@@ -790,7 +805,7 @@ function th_v_click(e) {
 	hl_clear();
 	hl_col(this);
 }
-function show_video(e) {
+function show_technique(e) {
 	e.preventDefault();
 	var $a = $(this);
 	var title = $a.prop('title');
@@ -808,6 +823,9 @@ function show_video(e) {
 		if (href.match(/youtube\.com/)) {
  	 		$('#ytplayer').prop('src', href);
 		}
+		$.get('notes/'+title, function(notes) {
+			$('#notes').html(notes);
+		});
 	}, 1);
 }
 $(function() {
@@ -826,7 +844,7 @@ $(function() {
 	$('table.t th.h').on('click', th_h_click);
 	$('table.t th.v').on('click', th_v_click);
 	$('table.t th.aiki').on('click', hl_clear);
-	$('table.t > tbody > tr > td > a').on('click', show_video);
+	$('table.t > tbody > tr > td > a').on('click', show_technique);
 })
 </script>
 
