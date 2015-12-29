@@ -847,6 +847,15 @@ $(function() {
 })
 </script>
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=289986455874";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 <div style="float:right" class="links no-print">
  	<p><img src="yoshinkan.jpg"></p>
 	<br>
@@ -862,3 +871,4 @@ $(function() {
 	<p>home: &nbsp; <A href="http://aiki.nipl.net/">aiki.nipl.net</A>
 </div>
 
+<div style="clear: both;" class="fb-comments" data-href="http://aiki.nipl.net/aiki.html" data-numposts="5"></div>
