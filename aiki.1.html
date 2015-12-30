@@ -822,8 +822,8 @@ function show_technique(e) {
 		if (href.match(/youtube\.com/)) {
  	 		$('#ytplayer').prop('src', href);
 		}
-		var url = 'notes/' + title.replace(/ /g, "_") + '.html';
-		$('#notes').load(encodeURIComponent(url));
+		var url = title.replace(/ /g, "_") + '.html';
+		$('#notes').load("notes/" + encodeURIComponent(url));
 	}, 1);
 }
 $(function() {
