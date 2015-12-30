@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <style>
+body { font-family: times, serif; }
 h1 { font-size: 125%; margin: 0; display: inline; }
-h2 { font-size: 125%; margin: 1em 0 0.5em 0; }
 ol { margin: 0; }
-div.main { font-size: 150%; font-family: times, serif; }
+div.main { font-size: 150%; }
 table.t { border-collapse: collapse; }
 table.t > tbody > tr > td {
 	border: 2px solid #ccc;
@@ -59,17 +59,18 @@ a.dan1   { color: #080; }
 a.dan2   { color: #00f; }
 
 div.player { float:left; padding: 12em 2em 2em 2em; page-break-inside: avoid; }
-div#notes { white-space: pre; }
-div.links { font-size: 100%; }
+div#notes { padding: 1em 0 0 0; }
+div.links { }
 
 @media print {
 	.no-print, .no-print * { display: none !important; }
 	div.player { padding: 2em; }
 }
 
-.japanese {
-	font-size: 150%;
-}
+.romaji { font-size: 125%; font-weight: bold; }
+.japanese { font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif; font-size: 150%; }
+.vertical { writing-mode: vertical-rl; }
+.english { font-size: 100%; }
 .symbols {
 	font-size: 150%;
 	font-family: monospace;
@@ -733,7 +734,6 @@ div.links { font-size: 100%; }
   class="no-print"
   allowfullscreen>
 </iframe>
-<h2></h2>
 <div id="notes"></div>
 </div>
 
@@ -780,7 +780,6 @@ function hl_clear() {
 	x = y = 0;
 	$('table.t td.highlight').removeClass('highlight');
 	$('table.t th.highlight').removeClass('highlight');
-	$('h2').text('');
 	$('#ytplayer').prop('src', 'about:blank');
 	$('#notes').html('');
 }
@@ -820,11 +819,11 @@ function show_technique(e) {
 	href = href.replace(/\&t=.*/, '');
 	href += "?start=" + secs + "&autoplay=1&origin=" + encodeURIComponent(window.location.href);
 	setTimeout(function() {
-		$('h2').text(title);
 		if (href.match(/youtube\.com/)) {
  	 		$('#ytplayer').prop('src', href);
 		}
-		$('#notes').load('notes/'+encodeURIComponent(title));
+		var url = 'notes/' + title.replace(/ /g, "_") + '.html';
+		$('#notes').load(encodeURIComponent(url));
 	}, 1);
 }
 $(function() {
