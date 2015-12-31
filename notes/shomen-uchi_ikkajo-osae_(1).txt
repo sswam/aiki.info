@@ -1,13 +1,12 @@
 shomen-uchi ikkajo-osae (1)
 正面打ち一ケ条押え　一
 front-strike, first control (1)
-܇ * ⇢⇡⌄◦ ↑⇠ ⤸⌃× ⇡⌄⌄ × *
+܇ *◦ ⇢⇡⌄× ↑⇠ ↑⌄ ⌄⇠ ×
 
-0. ai-hanmi, uke attacks with katate-mochi and pulls
-1. metsubushi atemi to uke's face
-2. bear right, slide forward, lower the body, right hand take uke's wrist
+0. ai-hanmi
+1. sh'te attack with shomen-uchi, left hand take uke's elbow
+2. bear right, slide forward, lower the body, control with ikkajo
 3. step forward, bearing left
-4. turn right 180°, raise the body, lock with shiho-nage
-5. slide forward and throw uke, drop to one knee
-6. lock with shiho-nage
-7. tegatana atemi to uke's face
+4. step forward, drop to one knee
+5. drop to kiza, bearing left
+6. lock with ikkajo-osae
