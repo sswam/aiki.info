@@ -55,7 +55,6 @@ for ($romaji, $japanese, $english, $symbols, @steps, @extra) {
 
 print <<EOT;
 <table><tr><td style="vertical-align: top">
-<span class="symbols">$symbols</span><br>
 <span class="romaji">$romaji</span><br>
 <span class="english">$english</span><br>
 <br>
@@ -72,6 +71,10 @@ EOT
 print <<EOT;
 </ol>
 <br>
+
+<span class="symbols">$symbols</span><br>
+<br>
+
 EOT
 
 for my $line (@extra) {
