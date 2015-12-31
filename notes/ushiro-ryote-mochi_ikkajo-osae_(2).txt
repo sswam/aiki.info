@@ -1,7 +1,13 @@
 ushiro-ryote-mochi ikkajo-osae (2)
 後ろ両手持ち一ケ条押え　二
 two-hand grasp from behind, first control (2)
-܇ 
+܇ ⇡⌄ · ↑⤸ ◦ ⤹↓ ⤹⌄ ⌄ ×
 
 0. ai-hanmi, uke attack with ushiro-ryote-mochi and push
-
+1. slide forward, lower the body
+2. raise hands
+3. reverse pivot right 180°, right hand take uke's elbow
+4. pivot left 180°, control with ikkajo
+5. turn left 180°, drop to one knee
+6. drop to kiza
+7. lock with ikkajo-osae
