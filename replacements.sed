@@ -52,7 +52,7 @@ s|kotegaeshi|kote-gaeshi|g;
 s|aiki jo|aiki-jo|g;
 s|aiki ken|aiki-ken|g;
 s|aiki otoshi|aiki-otoshi|g;
-s|sumi otoshi|aiki-otoshi|g;
+s|sumi otoshi|sumi-otoshi|g;
 s|nage otoshi|nage-otoshi|g;
 s|chudan tsuki|shomen-tsuki|g;
 s|hara tsuki|shomen-tsuki|g;

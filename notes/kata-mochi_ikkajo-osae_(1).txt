@@ -1,6 +1,6 @@
 kata-mochi ikkajo-osae (1)
 肩持ち一ケ条押え　一
-shoulder grasp, first control (1)
+shoulder-grasp first-control-pin (1)
 ܇ *⇢◦ ⇡ ⇡⌄× ↑⇠ ↑⌄ ⌄⇠ ×
 
 0. ai-hanmi, uke attack with kata-mochi and pull

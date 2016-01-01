@@ -1,6 +1,6 @@
 shomen-uchi ikkajo-osae (2)
 正面打ち一ケ条押え　二
-front-strike, first control (2)
+front-strike first-control-pin (2)
 ܆ −◦ ⤸↓⌄× ⤸⌄ ⌄ ×
 
 0. gyaku-hanmi, uke attack with shomen-uchi

@@ -1,6 +1,6 @@
 shomen-uchi shiho-nage
 正面打ち四方投げ
-front-strike, four-direction throw
+front-strike four-direction-throw
 ܇ −⤹↓◦ *⇢⇡⌄ ↑⇠ ⤸⌃× ⇡⌄⌄ × *
 
 0. ai-hanmi, uke attack with shomen-uchi

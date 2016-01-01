@@ -1,6 +1,6 @@
 shomen-uchi ikkajo-osae (1)
 正面打ち一ケ条押え　一
-front-strike, first control (1)
+front-strike first-control-pin (1)
 ܇ *◦ ⇢⇡⌄× ↑⇠ ↑⌄ ⌄⇠ ×
 
 0. ai-hanmi
