@@ -1,6 +1,14 @@
 katate-mochi ikkajo-osae (1)
 片手持ち一ケ条押え　一
 one-hand-grasp first-control-pin (1)
-܇ 
+܇ *⇢ ⇡◦ ⇡⌄× ⇡◦ ↑⇠ ↑⌄ ⌄⇠ ×
 
 0. ai-hanmi, uke attack with katate-mochi and pull
+1. metsubushi atemi, reverse pivot right 45°
+2. slide forward, right hand take uke's hand
+3. slide forward, lower the body, control with ikkajo
+4. slide forward, left hand take uke's elbow
+5. step forward, bearing left
+6. step forward, drop to one knee
+7. drop to kiza, bearing left
+8. lock with ikkajo-osae

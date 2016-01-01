@@ -1,6 +1,14 @@
 shomen-uchi nikajo-osae (2)
 正面打ち二ケ条押え　二
 front-strike second-control-pin (2)
-܆ 
+܆ −◦ ⤸↓ ⇠⇡ ⇡× ⤸↓⌄ ⤸⌄ ←↑ ×
 
 0. gyaku-hanmi, uke attack with shomen-uchi
+1. right hand block, left hand take uke's elbow
+2. pivot right 135° to 180°
+3. slide left to face uke
+4. slide forward, control with nikajo
+5. pivot right 180°, lower the body
+6. turn right 180°, drop to one knee
+7. pivot left 90° on the left knee
+8. lock with nikajo-osae

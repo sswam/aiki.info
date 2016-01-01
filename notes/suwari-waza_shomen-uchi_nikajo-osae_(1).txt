@@ -1,6 +1,15 @@
 suwari-waza shomen-uchi nikajo-osae (1)
 座り技正面打ち二ケ条押え　一
 sitting-technique front-strike second-control-pin (1)
-܇ 
+܇ *◦ ⇢⇡ ← ⇡× ⇢⇡ ↑⇠ ↑⇠ ←↑ ×
 
-0. ai-hanmi, sh'te attack with shomen-uchi
+0. ai-hanmi
+1. sh'te attack with shomen-uchi, left hand take uke's elbow
+2. bear right, slide forward
+3. pivot left 90° to face uke
+4. slide forward, control with nikajo
+5. bear right, slide forward
+6. step forward, bearing left
+7. step forward, bearing left
+8. pivot left 90° on the left knee
+9. lock with nikajo-osae

@@ -1,10 +1,10 @@
 yokomen-uchi ikkajo-osae (2)
 横面打ち一ケ条押え　二
 side-strike first-control-pin (2)
-܆ −*⇠⌄ ⤸↓⌄× ⤸⌄ ⌄ ×
+܆ −*⇡⇠ ⤸↓⌄× ⤸⌄ ⌄ ×
 
-0. gyaku-hanmi, uke attack with shomen-uchi
-1. left hand block, metsubushi atemi, slide left, lower the body
+0. gyaku-hanmi, uke attack with yokomen-uchi
+1. left hand block, metsubushi atemi, slide forward and left
 2. pivot right 180°, lower the body, control with ikkajo
 3. turn right 180°, drop to one knee
 4. drop to kiza
