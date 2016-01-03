@@ -827,7 +827,8 @@ function show_technique(e) {
 		$('#notes').load("notes/" + encodeURIComponent(url));
 	}, 1);
 }
-$(function() {
+function init() {
+	$.ajaxSetup ({ cache: false });
 	$rows = $('table.t tr');
 	$('body').on('keypress', key_pressed);
 	var h = location.hash;
@@ -844,7 +845,8 @@ $(function() {
 	$('table.t th.v').on('click', th_v_click);
 	$('table.t th.aiki').on('click', hl_clear);
 	$('table.t > tbody > tr > td > a').on('click', show_technique);
-})
+}
+$(init);
 </script>
 
 <div id="fb-root"></div>
