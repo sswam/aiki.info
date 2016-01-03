@@ -1,16 +1,15 @@
 ushiro-katate-eri-mochi ikkajo-osae (1)
 後ろ片手襟持ち一ケ条押え　一
 rear-one-hand-neck-grasp first-control-pin (1)
-܇ ⇢ · ↓⇢⌄ * ↾◦ ⇡× ↑⇢ ↑⌄ ⌄⇢ ×
+܇ ⇢ · ↓⇢⌄* ↾◦ ⇡× ↑⇢ ↑⌄ ⌄⇢ ×
 
 0. ai-hanmi, uke attack with ushiro-katate-eri-mochi and pull
 1. reverse pivot right 45°
 2. raise hands
-3. step back and pivot right 45°, lower the body
-4. atemi to uke's armpit
-5. step up with back foot, right hand take uke's elbow
-6. slide forward, control with ikkajo
-7. step forward, bearing right
-8. step forward, drop to one knee
-9. drop to kiza, bearing right
-10. lock with ikkajo-osae
+3. step back and pivot right 45°, lower the body, atemi to uke's armpit
+4. step up with back foot, right hand take uke's elbow
+5. slide forward, control with ikkajo
+6. step forward, bearing right
+7. step forward, drop to one knee
+8. drop to kiza, bearing right
+9. lock with ikkajo-osae
