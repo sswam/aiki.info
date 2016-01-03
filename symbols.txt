@@ -2,8 +2,8 @@ w	↑	step forward
 s	↓	step back
 W	⇡	slide forward
 S	⇣	slide back
-d	⤸	turn right 180+
-a	⤹	turn left 180+
+d	⤸	turn right ~180
+a	⤹	turn left ~180
 D	→	turn right 90+
 A	←	turn left 90+
 E	⇢	turn right 30+

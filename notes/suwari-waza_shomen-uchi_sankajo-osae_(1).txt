@@ -1,6 +1,13 @@
 suwari-waza shomen-uchi sankajo-osae (1)
 座り技正面打ち三ケ条押え　一
 sitting-technique front-strike third-control-pin (1)
-܇ 
+܇ *◦ ⇢⇡ ⇡×◦ ↑⇠◦ ↑⇠ ←↑ ×
 
-0. ai-hanmi, sh'te attack with shomen-uchi
+0. ai-hanmi
+1. sh'te attack with shomen-uchi, left hand take uke's elbow
+2. bear right, slide forward
+3. slide forward, control with sankajo, left hand take uke's wrist
+4. step forward, bearing left, right hand take uke's elbow
+5. step forward, bearing left
+6. pivot left 90° on the left knee
+7. lock with sankajo-osae
