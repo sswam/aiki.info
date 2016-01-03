@@ -1,10 +1,10 @@
 yokomen-uchi shiho-nage (1)
 横面打ち四方投げ　一
 side-strike four-direction-throw (1)
-܇ −*⤹↓ ⇢⇡⌄◦ ↑⇠ ⤸⌃× ⇡⌄⌄ × *
+܇ ⤹↓−* ⇢⇡⌄◦ ↑⇠ ⤸⌃× ⇡⌄⌄ × *
 
 0. ai-hanmi, uke attack with yokomen-uchi
-1. left hand block, metsubushi atemi, pivot left 135° to 180°
+1. pivot left 135° to 180°, left hand block, metsubushi atemi
 2. bear right, slide forward, lower the body, left hand take uke's wrist
 3. step forward, bearing left
 4. turn right 180°, raise the body, control with shiho-nage

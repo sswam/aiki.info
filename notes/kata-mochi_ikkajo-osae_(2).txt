@@ -1,10 +1,10 @@
 kata-mochi ikkajo-osae (2)
 肩持ち一ケ条押え　二
 shoulder-grasp first-control-pin (2)
-܆ *⇡⇠◦ ⇢ ⤸↓⌄× ⤸⌄ ⌄ ×
+܆ ⇡⇠*◦ ⇢ ⤸↓⌄× ⤸⌄ ⌄ ×
 
 0. gyaku-hanmi, uke attack with kata-mochi and push
-1. metsubushi atemi, slide forward and left, right hand take uke's hand
+1. slide forward and left, metsubushi atemi, right hand take uke's hand
 2. pivot right 45°
 3. pivot right 180°, lower the body, control with ikkajo
 4. turn right 180°, drop to one knee

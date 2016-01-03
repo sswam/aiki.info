@@ -1,10 +1,10 @@
 suwari-waza yokomen-uchi nikajo-osae (1)
 座り技横面打ち二ケ条押え　一
 sitting-technique side-strike second-control-pin (1)
-܇ −*⇢ ⇡ ←◦ ⇡× ⇢⇡◦ ↑⇠ ↑⇠ ←↑ ×
+܇ ⇢−* ⇡ ←◦ ⇡× ⇢⇡◦ ↑⇠ ↑⇠ ←↑ ×
 
 0. ai-hanmi, uke attack with yokomen-uchi
-1. left hand block, metsubushi atemi, reverse pivot right 45°
+1. reverse pivot right 45°, left hand block, metsubushi atemi
 2. slide forward
 3. pivot left 90° to face uke, right hand take uke's hand
 4. slide forward, control with nikajo

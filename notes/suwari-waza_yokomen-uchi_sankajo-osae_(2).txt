@@ -1,10 +1,10 @@
 suwari-waza yokomen-uchi sankajo-osae (2)
 座り技横面打ち三ケ条押え　二
 sitting-technique side-strike third-control-pin (2)
-܆ −*⇡⇠ ⤸↓◦ ⇠⇡◦ ↑⤹× ↓⇠* ⇣⇢◦ ↓⤸ ←↑ ×
+܆ ⇡⇠−* ⤸↓◦ ⇠⇡◦ ↑⤹× ↓⇠* ⇣⇢◦ ↓⤸ ←↑ ×
 
 0. gyaku-hanmi, uke attack with yokomen-uchi
-1. left hand block, metsubushi atemi, slide forward and left
+1. slide forward and left, left hand block, metsubushi atemi
 2. pivot right 135° to 180°, right hand take uke's hand
 3. slide left and forward to face uke, left hand take uke's wrist
 4. reverse pivot left 135°, control with sankajo
