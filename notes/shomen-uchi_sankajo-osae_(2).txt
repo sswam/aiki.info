@@ -1,7 +1,7 @@
 shomen-uchi sankajo-osae (2)
 正面打ち三ケ条押え　二
 front-strike third-control-pin (2)
-܆ −◦ ⤸↓◦ ⇠⇡◦ ↑⤹× ↓⇠⌄*◦ ⇣⇢ ↓⤸⌄ ←↑ ×
+܆ −◦ ⤸↓◦ ⇠⇡◦ ↑⤹× ↓⇠⌄* ⇣⇢◦ ↓⤸⌄ ←↑ ×
 
 0. gyaku-hanmi, uke attack with shomen-uchi
 1. right hand block, left hand take uke's elbow
