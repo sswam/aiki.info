@@ -2,12 +2,14 @@
 use strict;
 use warnings;
 use Data::Dumper;
+use File::Basename;
 
 use Term::ReadKey;
 
 my $max_desc = 0;
 my %keymap;
-open my $fh, "<", "symbols.txt";
+my $dir = dirname($0);
+open my $fh, "<", "$dir/symbols.txt";
 while (<$fh>) {
 	chomp;
 	next if !$_;
