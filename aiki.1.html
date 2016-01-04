@@ -849,15 +849,6 @@ function init() {
 $(init);
 </script>
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=289986455874";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
 <div style="float:right" class="links no-print">
 	<div style="float:right" class="japanese vertical">合気道養神館</div>
  	<p><img src="yoshinkan.jpg"></p>
@@ -876,5 +867,14 @@ $(init);
 
 <div style="clear: both;"></div>
 <div style="height: 5em;"></div>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=289986455874";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="fb-comments no-print" data-href="http://aiki.nipl.net/aiki.html" data-numposts="5"></div>
