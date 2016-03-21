@@ -1,6 +1,6 @@
-rei
-metsuke
-maai
-kokyu
-kuzushi
-zanshin
+礼	rei	respect
+目付	metsuke	eye contact
+間合	maai	distancing
+呼吸	kokyu	timing, breathing
+崩し	kuzushi	unbalancing
+残心	zanshin	remaining mindful
