@@ -1,7 +1,7 @@
 持ち	mochi	grasp
 技	waza	technique
-一	1	1
-二	2	2
+一	ichi	1
+二	ni	2
 押え	osae	pin
 座り	suwari	sitting
 投げ	nage	throw
@@ -38,9 +38,9 @@
 天地	tenchi	heaven-and-earth
 半身半立ち	hanmi-handachi	one-sitting-one-standing
 取り	dori	take
-三	3	3
-四	4	4
-五	5	5
+三	san	3
+四	yon	4
+五	go	5
 短刀	tanto	knife
 剣	ken	sword
 取り	tori	take
