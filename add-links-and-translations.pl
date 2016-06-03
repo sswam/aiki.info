@@ -52,9 +52,11 @@ while ($_ = <STDIN>) {
 #			$url = "http://www.youtube.com/watch?v=$url&t=$time2#t=$time2";
 			$url = "http://www.youtube.com/watch?v=$url&t=$time2";
 		}
-		$url ||= '#';
+#		$url ||= '#';
 		my $title = join '&#013;&#010;', $name, $nihongo, $english;
-		s/href=".*?"/href="$url"/ or die "can't replace href for $name";
+		if ($url) {
+			s/href=".*?"/href="$url"/ or die "can't replace href for $name";
+		}
 		s/title=".*?"/title="$title"/ or die "can't replace title for $name";
 	}
 	print;
