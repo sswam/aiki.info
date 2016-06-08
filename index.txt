@@ -1,18 +1,16 @@
 (
-=合氣=
-#=合氣道=
+=合氣道=
 
-*Ai*: balance, harmony.  *Ki*: spirit, energy.
-#*Dō*: path, way.
-
-*Aikido* is the way of *balanced spirit*, the art of *saving the enemy*.  We fight with care, seeking peace, protecting the aggressor from harm.
-
-殺人剣 - 活人剣
-
-Aikido is the practical balance between non-violence and self defence.  The true Aiki fighter can succeed without doing any real harm, although there may be some pain or minor injury along the way!
-
-Aikido: a joyful dance, a vital sport, the art of peace, the best strategy.
-
+# *Ai*: balance, harmony.  *Ki*: spirit, energy.  *Do*: path, way.
+# 
+# *Aikido* is the way of *balanced spirit*, the art of *saving the enemy*.  We fight with care, seeking peace, protecting the aggressor from harm.
+# 
+# 殺人剣 - 活人剣
+# 
+# Aikido is the practical balance between non-violence and self defence.  The true Aiki fighter can succeed without doing any real harm, although there may be some pain or minor injury along the way!
+# 
+# Aikido: a joyful dance, a vital sport, the art of peace, the best strategy.
+# 
 
 *video indexes:*
 
@@ -22,7 +20,8 @@ Aikido: a joyful dance, a vital sport, the art of peace, the best strategy.
 
 *kihon-waza charts for Yoshinkan Aikido:*
 
-./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
+./aiki.html - a kihon-waza chart with video links
+small pdf charts: ./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
 
 
 [earth.jpg]
@@ -46,16 +45,29 @@ Aikido: a joyful dance, a vital sport, the art of peace, the best strategy.
 #
 #;
 #>[aiki.png]
+# 
+# 
+# Study how water flows in a valley stream, smoothly and freely between the rocks.  Also learn from holy books and wise people.  Everything - even mountains, rivers, plants and trees - should be your teacher. 
+# 
+# To injure an opponent is to injure yourself.  To control aggression without inflicting injury is the Art of Peace.
+# 
+# 
+*Eight principles of Aikidō and Aiki-jūjutsu:*
 
+礼法	reihō	respect, etiquette
+構え	kamae	posture
+目付	metsuke	watching
+間合	maai	distancing
+合気	aiki	joining energy
+呼吸	kokyū	timing, breathing
+崩し	kuzushi	unbalancing
+残心	zanshin	remaining mindful
 
-Study how water flows in a valley stream, smoothly and freely between the rocks.  Also learn from holy books and wise people.  Everything - even mountains, rivers, plants and trees - should be your teacher. 
+This is based on the six principles explained by Kondo Katsuyuki in this talk: https://www.youtube.com/watch?v=zzbiBCZPXg0
 
-To injure an opponent is to injure yourself.  To control aggression without inflicting injury is the Art of Peace.
+#[Morihei-Ueshiba.jpg]
 
-
-[Morihei-Ueshiba.jpg]
-
-Ōsensei Morihei Ueshiba
+#Ōsensei Morihei Ueshiba
 ;
-[aikido.jpg]
+[aikido.png]
 )

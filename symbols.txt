@@ -1,0 +1,28 @@
+w	↑	step forward
+s	↓	step back
+W	⇡	slide forward
+S	⇣	slide back
+d	⤸	turn right ~180
+a	⤹	turn left ~180
+D	→	turn right 90+
+A	←	turn left 90+
+E	⇢	turn right 30+
+Q	⇠	turn left 30+
+e	↾	right foot forward
+q	↿	left foot forward
+c	⇂	right foot back
+z	⇃	left foot back
+2	⇈	slide both forward (kokyu-ho)
+x	⇊	slide both back (??? sprawl)
+r	⌃	rise
+f	⌄	drop
+
+\	܅	kamae nori
+]	܇	migi hanmi-no-kamae
+[	܆	hidari hanmi-no-kamae
+
+'	*	strike
+;	−	block
+.	◦	grip
+/	×	lock
+_	·	other / nothing

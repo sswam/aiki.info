@@ -52,7 +52,7 @@ kotegaeshi	kote-gaeshi
 aiki jo	aiki-jo
 aiki ken	aiki-ken
 aiki otoshi	aiki-otoshi
-sumi otoshi	aiki-otoshi
+sumi otoshi	sumi-otoshi
 nage otoshi	nage-otoshi
 chudan tsuki	shomen-tsuki
 hara tsuki	shomen-tsuki

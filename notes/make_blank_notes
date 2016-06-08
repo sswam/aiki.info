@@ -1,0 +1,91 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use Data::Dumper;
+use File::Slurp 'slurp';
+
+open my $fh_romaji, '<', "../waza-romaji.txt";
+open my $fh_nihongo, '<', "../waza-nihongo.txt";
+open my $fh_english, '<', "../waza-english.txt";
+
+while (my $romaji = <$fh_romaji>) {
+	my $nihongo = <$fh_nihongo>;
+	my $english = <$fh_english>;
+	chomp for $romaji, $nihongo, $english;
+	my $filename = $romaji;
+	$filename =~ s/ /_/g;
+	$filename .= '.txt';
+	my $old_romaji;
+	my $old_nihongo;
+	my $old_english;
+	my $old_symbols;
+	my $old_instructions;
+	if (-e $filename) {
+		open my $fh_old_notes, '<', $filename
+			or die "open failed: $filename";
+		$old_romaji = <$fh_old_notes>;
+		$old_nihongo = <$fh_old_notes>;
+		$old_english = <$fh_old_notes>;
+		$old_symbols = <$fh_old_notes>;
+		chomp for $old_romaji, $old_nihongo, $old_english, $old_symbols;
+		if (<$fh_old_notes> ne "\n") {
+			die "notes file has bad format: $filename\n";
+		}
+		$old_instructions = "";
+		while (<$fh_old_notes>) {
+			$old_instructions .= $_;
+		}
+		close $fh_old_notes;
+		if ($old_instructions !~ /\n.*\n/s) {
+			$old_symbols = "";
+		}
+	}
+	my $kamae = "ai-hanmi";
+	my $kamae_sym = "܇";
+	my $attacker = "uke";
+	my $attack = "?";
+	if ($romaji =~ /\(2\)/ && $romaji !~ /^ushiro-/ && $romaji !~ /katate-aya-mochi/ && $romaji !~ /kokyu-ho/) {
+		$kamae = "gyaku-hanmi";
+		$kamae_sym = "܆";
+	}
+	if ($romaji =~ /\(1\)/ && $romaji =~ /shomen-uchi/) {
+		$attacker = "sh'te";
+	}
+	if ($romaji =~ /(?:suwari-waza |hanmi-handachi )?(\S+)/) {
+		$attack = $1;
+		if ($attack =~ /mochi/) {
+			my $pull_push = "?";
+			if ($romaji =~ /\(1\)/) {
+				$pull_push = "pull";
+			} elsif ($romaji =~ /\(2\)/) {
+				$pull_push = "push";
+			}
+			$attack .= " and $pull_push";
+		}
+	}
+	my $symbols;
+	my $instructions;
+	if ($old_instructions) {
+		$instructions = $old_instructions;
+	} else {
+		$instructions = "0. $kamae, $attacker attack with $attack\n";
+	}
+	if (length($old_symbols) > length($kamae_sym)) {
+		$symbols = $old_symbols;
+		$instructions = $old_instructions;
+	} else {
+		$symbols = "$kamae_sym ";
+	}
+	if ($romaji =~ /jiyu-waza|go-waza/) {
+		$instructions = "";
+		$symbols = "";
+	}
+	open my $fh_notes, '>', $filename;
+	print $fh_notes "$romaji\n";
+	print $fh_notes "$nihongo\n";
+	print $fh_notes "$english\n";
+	print $fh_notes "$symbols\n";
+	print $fh_notes "\n";
+	print $fh_notes $instructions;
+	close $fh_notes;
+}

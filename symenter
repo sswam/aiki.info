@@ -1,0 +1,46 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use Data::Dumper;
+use File::Basename;
+
+use Term::ReadKey;
+
+my $max_desc = 0;
+my %keymap;
+my $dir = dirname($0);
+open my $fh, "<", "$dir/symbols.txt";
+while (<$fh>) {
+	chomp;
+	next if !$_;
+	my ($key, $sym, $desc) = split /\t/, $_;
+	$keymap{$key} = [$sym, $desc];
+	if (length($desc) > $max_desc) {
+		$max_desc = length($desc);
+	}
+}
+
+ReadMode 4;
+my @line;
+while (defined (my $key = ReadKey(0))) {
+	last if $key eq "\x04";
+	my ($key, $desc) = @{$keymap{$key}||[$key,'']};
+	if ($key eq "\b" || $key eq "\x7f") {
+		$key = "\b";
+		next if !@line;
+		pop @line;
+	} else {
+		push @line, $key;
+	}
+	if ($key ne "\n") {
+		print STDERR "$key  $desc" . (' ' x ($max_desc - length($desc))) . ("\b" x (2+$max_desc));
+	}
+	if ($key eq "\n") {
+		print STDERR "\r", ' ' x (@line + 2 + $max_desc), "\r";
+		print @line;
+		@line = ();
+	}
+}
+
+ReadMode 0;
+

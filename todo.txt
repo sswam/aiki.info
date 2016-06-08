@@ -1,0 +1,10 @@
+todo for kihon-waza chart
+
+- wiki section, can read and edit notes on the technique, saved to the server and committed to git (a separate repo?)
+- use the symbolic notation
+- test in Chrome, Firefox, IE
+- link in missing techniques as much as possible
+- ? save x, y, and current technique (if any) in "hash", and restore on load
+- ? remember "hash" in a cookie, and restore when come to page, if no hash
+- ? show and remember techniques which are "known" or not
+

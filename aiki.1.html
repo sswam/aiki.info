@@ -1,0 +1,884 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+body { font-family: times, serif; }
+h1 { font-size: 125%; margin: 0; display: inline; }
+ol { margin: 0; }
+div.main { font-size: 150%; }
+table.t { border-collapse: collapse; }
+table.t > tbody > tr > td {
+	border: 2px solid #ccc;
+	height: 2.67em;
+	font-size: 60%;
+	vertical-align: middle;
+	text-align: center;
+}
+table.t > tbody > tr > td.small {
+	height: 4em;
+	font-size: 35%;
+}
+table.t > tbody > tr > th {
+	font-weight: normal;
+	text-align: right;
+	padding: .2em;
+	white-space: nowrap;
+}
+table.t > tbody > tr > th.v {
+	vertical-align: bottom;
+	width: 1.2em;
+	height: 6em;
+}
+table.t > tbody > tr > th.v > div {
+	width: 1.2em;
+	transform: rotate(-90deg);
+	white-space: nowrap;
+}
+table.t > tbody > tr > th.aiki {
+	vertical-align: bottom;
+}
+table.t > tbody > tr > th.aiki img {
+	width:3.5em;
+}
+table.t > tbody > tr > td > a {
+	text-decoration: none;
+}
+table.t > tbody > tr.hidden {
+	display: none;
+}
+table.t > tbody > tr > td > a.hidden {
+	visibility: hidden;
+}
+.buttons > button > a.hidden {
+	color: grey;
+}
+td.highlight, th.highlight {
+	background: #eee;
+}
+
+a.kyu    { color: #a00; }
+a.dan1   { color: #080; }
+a.dan2   { color: #00f; }
+
+div.player { float:left; padding: 12em 2em 2em 2em; page-break-inside: avoid; }
+div#notes { padding: 1em 0 0 0; }
+div.links { }
+
+@media print {
+	.no-print, .no-print * { display: none !important; }
+	div.player { padding: 2em; }
+}
+
+.romaji { font-size: 125%; font-weight: bold; }
+.japanese { font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif; font-size: 150%; }
+.vertical { writing-mode: vertical-rl; line-height: 1em; }
+.english { font-size: 100%; }
+.symbols {
+	font-size: 150%;
+	font-family: monospace;
+}
+
+</style>
+
+<title>Aikido Yoshinkan Kihon-Waza</title>
+
+<div style="float:left" class="main">
+<span class="buttons no-print" style="float:left; padding-right: 2em;">
+<button onclick="pressed(1)"><u>1</u> <a class="kyu">kyu</a></button> <button onclick="pressed(2)"><u>2</u> <a class="dan1">shodan</a></button> <button onclick="pressed(3)"><u>3</u> <a class="dan2">yudan</a></button>
+</span>
+<h1 class="no-print">Aikido Yoshinkan Kihon-Waza</h1>
+
+<table class="t">
+
+<tr>
+<th class="aiki"><img src="aiki.png"></th>
+<th class="v"><div>shiho-nage</div></th>
+<th class="v"><div>ikkajo</div></th>
+<th class="v"><div>nikajo</div></th>
+<th class="v"><div>sankajo</div></th>
+<th class="v"><div>yonkajo</div></th>
+<th class="v"><div>sokumen irimi</div></th>
+<th class="v"><div>shomen irimi</div></th>
+<th class="v"><div>hiji-shime</div></th>
+<th class="v"><div>hiji-ate</div></th>
+<th class="v"><div>kote-gaeshi</div></th>
+<th class="v"><div>tenchi-nage</div></th>
+<th class="v"><div>kokyu-ho</div></th>
+<th class="v"><div>kokyu-nage</div></th>
+<th class="v"><div>go-waza</div></th>
+<th class="v"><div>jiyu-waza</div></th>
+</tr>
+
+<tr>
+<th class="h">shomen</th>
+<td><a class="dan1" title="shomen-uchi shiho-nage" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=47m10s">*</a></td>
+<td><a class="kyu" title="shomen-uchi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h00m46s">1</a> &nbsp;
+<a class="kyu" title="shomen-uchi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h03m57s">2</a><br>
+<a class="kyu" title="suwari-waza shomen-uchi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h02m21s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza shomen-uchi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h05m33s">2</a>
+</td>
+<td><a class="kyu" title="shomen-uchi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=42m40s">1</a> &nbsp;
+<a class="kyu" title="shomen-uchi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=45m50s">2</a><br>
+<a class="kyu" title="suwari-waza shomen-uchi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=44m18s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza shomen-uchi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=46m59s">2</a>
+</td>
+<td><a class="kyu" title="shomen-uchi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=57m25s">1</a> &nbsp;
+<a class="kyu" title="shomen-uchi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h01m31s">2</a><br>
+<a class="kyu" title="suwari-waza shomen-uchi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=59m47s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza shomen-uchi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h04m23s">2</a>
+</td>
+<td><a class="kyu" title="shomen-uchi yonkajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h52m23s">1</a> &nbsp;
+<a class="kyu" title="shomen-uchi yonkajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h56m00s">2</a><br>
+<a class="kyu" title="suwari-waza shomen-uchi yonkajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h54m28s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza shomen-uchi yonkajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h57m41s">2</a>
+</td>
+<td><a class="dan2" title="shomen-uchi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=18m51s">1</a> &nbsp;
+<a class="dan2" title="shomen-uchi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=21m34s">2</a><br>
+<a class="dan2" title="suwari-waza shomen-uchi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=20m15s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza shomen-uchi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=22m49s">2</a>
+</td>
+<td><a class="kyu" title="shomen-uchi shomen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=42m15s">1</a> &nbsp;
+<a class="kyu" title="shomen-uchi shomen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=45m01s">2</a><br>
+<a class="kyu" title="suwari-waza shomen-uchi shomen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=43m45s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza shomen-uchi shomen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=46m37s">2</a>
+</td>
+<td><a class="kyu" title="shomen-uchi hiji-shime (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h13m26s">1</a> &nbsp;
+<a class="kyu" title="shomen-uchi hiji-shime (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h16m45s">2</a><br>
+<a class="kyu" title="suwari-waza shomen-uchi hiji-shime (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h15m18s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza shomen-uchi hiji-shime (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h17m46s">2</a>
+</td>
+<td><a class="dan1" title="shomen-uchi hiji-ate-kokyu-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h46m59s">1</a> &nbsp;
+<a class="dan1" title="shomen-uchi hiji-ate-kokyu-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h49m27s">2</a><br>
+<a class="dan1" title="suwari-waza shomen-uchi hiji-ate-kokyu-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h48m22s">1</a> &nbsp;
+<a class="dan1" title="suwari-waza shomen-uchi hiji-ate-kokyu-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h50m27s">2</a>
+</td>
+<td><a class="kyu" title="shomen-uchi kote-gaeshi (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h16m22s">1</a> &nbsp;
+<a class="kyu" title="shomen-uchi kote-gaeshi (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h21m40s">2</a><br>
+<a class="kyu" title="suwari-waza shomen-uchi kote-gaeshi (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h19m21s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza shomen-uchi kote-gaeshi (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h23m27s">2</a>
+</td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="shomen-uchi kokyu-nage" href="http://eng.dojo.in.ua/kokyu_shomen" target="_blank">*</a></td>
+<td><a class="kyu" title="shomen-uchi go-waza" href="#">*</a></td>
+<td><a class="kyu" title="shomen-uchi jiyu-waza" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h18m09s">*</a></td>
+</tr>
+
+<tr>
+<th class="h">yokomen</th>
+<td><a class="kyu" title="yokomen-uchi shiho-nage (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=42m56s">1</a> &nbsp;
+<a class="kyu" title="yokomen-uchi shiho-nage (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=45m16s">2</a><br><br>
+</td>
+<td><a class="kyu" title="yokomen-uchi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h06m55s">1</a> &nbsp;
+<a class="kyu" title="yokomen-uchi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h10m18s">2</a><br>
+<a class="kyu" title="suwari-waza yokomen-uchi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h08m38s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza yokomen-uchi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h11m41s">2</a>
+</td>
+<td><a class="dan1" title="yokomen-uchi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=48m20s">1</a> &nbsp;
+<a class="dan1" title="yokomen-uchi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=51m36s">2</a><br>
+<a class="dan1" title="suwari-waza yokomen-uchi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=49m53s">1</a> &nbsp;
+<a class="dan1" title="suwari-waza yokomen-uchi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=52m54s">2</a>
+</td>
+<td><a class="kyu" title="yokomen-uchi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h06m41s">1</a> &nbsp;
+<a class="kyu" title="yokomen-uchi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h10m14s">2</a><br>
+<a class="kyu" title="suwari-waza yokomen-uchi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h08m18s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza yokomen-uchi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h12m02s">2</a>
+</td>
+<td><a class="kyu" title="yokomen-uchi yonkajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h59m10s">1</a> &nbsp;
+<a class="kyu" title="yokomen-uchi yonkajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h02m19s">2</a><br>
+<a class="kyu" title="suwari-waza yokomen-uchi yonkajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h00m42s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza yokomen-uchi yonkajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h03m41s">2</a>
+</td>
+<td><a class="dan2" title="yokomen-uchi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=24m15s">1</a> &nbsp;
+<a class="dan2" title="yokomen-uchi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=26m55s">2</a><br>
+<a class="dan2" title="suwari-waza yokomen-uchi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=25m35s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza yokomen-uchi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=28m03s">2</a>
+</td>
+<td><a class="kyu" title="yokomen-uchi shomen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=48m01s">1</a> &nbsp;
+<a class="kyu" title="yokomen-uchi shomen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=50m23s">2</a><br>
+<a class="kyu" title="suwari-waza yokomen-uchi shomen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=49m10s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza yokomen-uchi shomen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=51m50s">2</a>
+</td>
+<td><a class="kyu" title="yokomen-uchi hiji-shime (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h18m59s">1</a> &nbsp;
+<a class="kyu" title="yokomen-uchi hiji-shime (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h21m29s">2</a><br>
+<a class="kyu" title="suwari-waza yokomen-uchi hiji-shime (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h20m09s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza yokomen-uchi hiji-shime (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h22m35s">2</a>
+</td>
+<td><a class="dan2" title="yokomen-uchi hiji-ate-kokyu-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h51m29s">1</a> &nbsp;
+<a class="dan2" title="yokomen-uchi hiji-ate-kokyu-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h53m47s">2</a><br>
+<a class="dan2" title="suwari-waza yokomen-uchi hiji-ate-kokyu-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h52m35s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza yokomen-uchi hiji-ate-kokyu-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h54m56s">2</a>
+</td>
+<td><a class="kyu" title="yokomen-uchi kote-gaeshi (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h25m04s">1</a> &nbsp;
+<a class="kyu" title="yokomen-uchi kote-gaeshi (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h29m12s">2</a><br>
+<a class="kyu" title="suwari-waza yokomen-uchi kote-gaeshi (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h27m08s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza yokomen-uchi kote-gaeshi (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h31m00s">2</a>
+</td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="yokomen-uchi kokyu-nage" href="http://eng.dojo.in.ua/kokyu_yokomen" target="_blank">*</a></td>
+<td><a class="kyu" title="yokomen-uchi go-waza" href="#">*</a></td>
+<td><a class="dan1" title="yokomen-uchi jiyu-waza" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h18m38s">*</a></td>
+</tr>
+
+<tr>
+<th class="h">tsuki</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="shomen-tsuki hiji-ate-kokyu-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h56m07s">1</a> &nbsp;
+<a class="dan2" title="shomen-tsuki hiji-ate-kokyu-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h58m34s">2</a><br>
+<a class="dan2" title="suwari-waza shomen-tsuki hiji-ate-kokyu-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h57m31s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza shomen-tsuki hiji-ate-kokyu-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h59m48s">2</a>
+</td>
+<td><a class="dan1" title="shomen-tsuki kote-gaeshi (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h32m55s">1</a> &nbsp;
+<a class="dan1" title="shomen-tsuki kote-gaeshi (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h36m27s">2</a><br>
+<a class="dan1" title="suwari-waza shomen-tsuki kote-gaeshi (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h34m36s">1</a> &nbsp;
+<a class="dan1" title="suwari-waza shomen-tsuki kote-gaeshi (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h38m11s">2</a>
+</td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="shomen-tsuki kokyu-nage" href="http://eng.dojo.in.ua/kokyu_shomentsuki" target="_blank">*</a></td>
+<td><a class="kyu" title="shomen-tsuki go-waza" href="http://www.youtube.com/watch?v=zPzNbrn210o">*</a></td>
+<td><a class="dan1" title="shomen-tsuki jiyu-waza" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h19m15s">*</a></td>
+</tr>
+
+<tr>
+<th class="h">katate</th>
+<td class="small"><a class="kyu" title="katate-mochi shiho-nage (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=34m21s">1</a> &nbsp; &nbsp; &nbsp;
+<a class="kyu" title="katate-mochi shiho-nage (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=36m40s">2</a><br>
+<a class="dan1" title="hanmi-handachi katate-mochi shiho-nage (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=49m26s">1</a> &nbsp; &nbsp; &nbsp;
+<a class="dan1" title="hanmi-handachi katate-mochi shiho-nage (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=52m00s">2</a><br>&nbsp;
+</td>
+<td><a class="dan1" title="katate-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h13m04s">1</a> &nbsp;
+<a class="dan1" title="katate-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h16m27s">2</a><br>
+<a class="dan1" title="suwari-waza katate-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h15m00s">1</a> &nbsp;
+<a class="dan1" title="suwari-waza katate-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h17m40s">2</a>
+</td>
+<td><a class="kyu" title="katate-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1m47s">1</a> &nbsp;
+<a class="kyu" title="katate-mochi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=6m15s">2</a><br>
+<a class="kyu" title="suwari-waza katate-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=4m18s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza katate-mochi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=7m43s">2</a>
+</td>
+<td><a class="dan2" title="katate-mochi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h14m12s">1</a> &nbsp;
+<a class="dan2" title="katate-mochi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h17m28s">2</a><br>
+<a class="dan2" title="suwari-waza katate-mochi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h15m55s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza katate-mochi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h19m03s">2</a>
+</td>
+<td><a class="dan1" title="katate-mochi yonkajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h05m11s">1</a> &nbsp;
+<a class="dan1" title="katate-mochi yonkajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h08m47s">2</a><br>
+<a class="dan1" title="suwari-waza katate-mochi yonkajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h07m03s">1</a> &nbsp;
+<a class="dan1" title="suwari-waza katate-mochi yonkajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h10m14s">2</a>
+</td>
+<td><a class="kyu" title="katate-mochi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1m45s">1</a> &nbsp;
+<a class="kyu" title="katate-mochi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=5m19s">2</a><br>
+<a class="kyu" title="suwari-waza katate-mochi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3m34s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza katate-mochi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=6m28s">2</a>
+</td>
+<td><a class="dan2" title="katate-mochi shomen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=59m08s">1</a> &nbsp;
+<a class="dan2" title="katate-mochi shomen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h02m34s">2</a><br>
+<a class="dan2" title="suwari-waza katate-mochi shomen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h01m04s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza katate-mochi shomen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h04m09s">2</a>
+</td>
+<td><a class="dan2" title="katate-mochi hiji-shime (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h23m52s">1</a> &nbsp;
+<a class="dan2" title="katate-mochi hiji-shime (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h26m50s">2</a><br>
+<a class="dan2" title="suwari-waza katate-mochi hiji-shime (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h25m18s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza katate-mochi hiji-shime (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h28m01s">2</a>
+</td>
+<td><a class="dan1" title="katate-mochi hiji-ate-kokyu-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h00m50s">1</a> &nbsp;
+<a class="dan1" title="katate-mochi hiji-ate-kokyu-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h03m02s">2</a><br>
+<a class="dan1" title="suwari-waza katate-mochi hiji-ate-kokyu-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h01m55s">1</a> &nbsp;
+<a class="dan1" title="suwari-waza katate-mochi hiji-ate-kokyu-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h04m09s">2</a>
+</td>
+<td><a class="dan2" title="katate-mochi kote-gaeshi (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h39m52s">1</a> &nbsp;
+<a class="dan2" title="katate-mochi kote-gaeshi (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h43m39s">2</a><br>
+<a class="dan2" title="suwari-waza katate-mochi kote-gaeshi (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h41m55s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza katate-mochi kote-gaeshi (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h45m26s">2</a>
+</td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="katate-mochi kokyu-nage" href="http://eng.dojo.in.ua/kokyu_katate" target="_blank">*</a></td>
+<td><a class="kyu" title="katate-mochi go-waza" href="http://www.youtube.com/watch?v=NXFfGi4-f9A&t=5m50s">*</a></td>
+<td><a class="dan1" title="katate-mochi jiyu-waza" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h20m17s">*</a></td>
+</tr>
+
+<tr>
+<th class="h">ryote</th>
+<td class="small"><a class="kyu" title="ryote-mochi shiho-nage (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=38m45s">1</a> &nbsp; &nbsp; &nbsp;
+<a class="kyu" title="ryote-mochi shiho-nage (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=40m56s">2</a><br>
+<a class="dan1" title="hanmi-handachi ryote-mochi shiho-nage" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=53m52s">*</a><br>&nbsp;
+</td>
+<td><a class="dan2" title="ryote-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h18m59s">1</a> &nbsp;
+<a class="dan2" title="ryote-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h22m11s">2</a><br>
+<a class="dan2" title="suwari-waza ryote-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h20m36s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza ryote-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h23m19s">2</a>
+</td>
+<td><a class="dan2" title="ryote-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=9m32s">1</a> &nbsp;
+<a class="dan2" title="ryote-mochi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=12m46s">2</a><br>
+<a class="dan2" title="suwari-waza ryote-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=11m09s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza ryote-mochi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=14m14s">2</a>
+</td>
+<td><a class="dan2" title="ryote-mochi sankajo-osae (1)" href="https://www.youtube.com/watch?v=b5SmK2XEJFk">1</a> &nbsp;
+<a class="dan2" title="ryote-mochi sankajo-osae (2)" href="http://eng.dojo.in.ua/san_ryote" target="_blank">2</a><br>
+<a class="dan2" title="suwari-waza ryote-mochi sankajo-osae (1)" href="#">1</a> &nbsp;
+<a class="dan2" title="suwari-waza ryote-mochi sankajo-osae (2)" href="#">2</a>
+</td>
+<td><a class="dan2" title="ryote-mochi yonkajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h11m51s">1</a> &nbsp;
+<a class="dan2" title="ryote-mochi yonkajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h14m55s">2</a><br>
+<a class="dan2" title="suwari-waza ryote-mochi yonkajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h13m14s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza ryote-mochi yonkajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h16m14s">2</a>
+</td>
+<td></td>
+<td><a class="dan2" title="ryote-mochi shomen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h05m34s">1</a> &nbsp;
+<a class="dan2" title="ryote-mochi shomen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h08m33s">2</a><br>
+<a class="dan2" title="suwari-waza ryote-mochi shomen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h07m15s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza ryote-mochi shomen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h09m58s">2</a>
+</td>
+<td><a class="dan2" title="ryote-mochi hiji-shime (1)" href="#">1</a> &nbsp;
+<a class="dan2" title="ryote-mochi hiji-shime (2)" href="#">2</a><br>
+<a class="dan2" title="suwari-waza ryote-mochi hiji-shime (1)" href="#">1</a> &nbsp;
+<a class="dan2" title="suwari-waza ryote-mochi hiji-shime (2)" href="#">2</a>
+</td>
+<td><a class="dan2" title="ryote-mochi hiji-ate-kokyu-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h05m17s">1</a> &nbsp;
+<a class="dan2" title="ryote-mochi hiji-ate-kokyu-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h07m33s">2</a><br>
+<a class="dan2" title="suwari-waza ryote-mochi hiji-ate-kokyu-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h06m27s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza ryote-mochi hiji-ate-kokyu-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h08m37s">2</a>
+</td>
+<td><a class="dan2" title="ryote-mochi kote-gaeshi (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h47m10s">1</a> &nbsp;
+<a class="dan2" title="ryote-mochi kote-gaeshi (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h51m07s">2</a><br>
+<a class="dan2" title="suwari-waza ryote-mochi kote-gaeshi (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h49m29s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza ryote-mochi kote-gaeshi (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h52m38s">2</a>
+</td>
+<td><a class="kyu" title="ryote-mochi tenchi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h02m12s">1</a> &nbsp;
+<a class="dan1" title="ryote-mochi tenchi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h04m47s">2</a><br>
+<a class="kyu" title="suwari-waza ryote-mochi tenchi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h03m39s">1</a> &nbsp;
+<a class="dan1" title="suwari-waza ryote-mochi tenchi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h06m10s">2</a>
+</td>
+<td class="small"><br><br>
+<a class="kyu" title="suwari-waza ryote-mochi kokyu-ho (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h07m46s">1</a> 
+<a class="kyu" title="suwari-waza ryote-mochi kokyu-ho (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h09m49s">2</a> 
+<a class="dan1" title="suwari-waza ryote-mochi kokyu-ho (3)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h11m25s">3</a> 
+<a class="dan2" title="suwari-waza ryote-mochi kokyu-ho (4)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h13m13s">4</a> 
+<a class="dan2" title="suwari-waza ryote-mochi kokyu-ho (5)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h14m37s">5</a>
+</td>
+<td><a class="dan2" title="ryote-mochi kokyu-nage" href="http://eng.dojo.in.ua/kokyu_ryote" target="_blank">*</a></td>
+<td></td>
+<td><a class="dan1" title="ryote-mochi jiyu-waza" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h20m48s">*</a></td>
+</tr>
+
+<tr>
+<th class="h">kata</th>
+<td></td>
+<td><a class="kyu" title="kata-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h31m04s">1</a> &nbsp;
+<a class="kyu" title="kata-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h34m44s">2</a><br>
+<a class="kyu" title="suwari-waza kata-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h32m59s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza kata-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h36m04s">2</a>
+</td>
+<td><a class="kyu" title="kata-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=29m18s">1</a> &nbsp;
+<a class="kyu" title="kata-mochi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=33m10s">2</a><br>
+<a class="kyu" title="suwari-waza kata-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=31m27s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza kata-mochi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=34m52s">2</a>
+</td>
+<td><a class="dan1" title="kata-mochi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h27m40s">1</a> &nbsp;
+<a class="dan1" title="kata-mochi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h30m37s">2</a><br>
+<a class="dan1" title="suwari-waza kata-mochi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h29m00s">1</a> &nbsp;
+<a class="dan1" title="suwari-waza kata-mochi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h32m04s">2</a>
+</td>
+<td><a class="dan2" title="kata-mochi yonkajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h24m49s">1</a> &nbsp;
+<a class="dan2" title="kata-mochi yonkajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h28m41s">2</a><br>
+<a class="dan2" title="suwari-waza kata-mochi yonkajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h26m36s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza kata-mochi yonkajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h30m38s">2</a>
+</td>
+<td><a class="kyu" title="kata-mochi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=13m08s">1</a> &nbsp;
+<a class="kyu" title="kata-mochi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=16m00s">2</a><br>
+<a class="kyu" title="suwari-waza kata-mochi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=14m37s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza kata-mochi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=17m20s">2</a>
+</td>
+<td></td>
+<td><a class="kyu" title="kata-mochi hiji-shime (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h29m21s">1</a> &nbsp;
+<a class="kyu" title="kata-mochi hiji-shime (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h32m27s">2</a><br>
+<a class="kyu" title="suwari-waza kata-mochi hiji-shime (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h30m50s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza kata-mochi hiji-shime (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h33m42s">2</a>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="kata-mochi jiyu-waza" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h21m18s">*</a></td>
+</tr>
+
+<tr>
+<th class="h">mune</th>
+<td></td>
+<td><a class="dan2" title="mune-mochi ikkajo-osae (1)" href="https://www.youtube.com/watch?v=nBCfQBRs-Zk">1</a> &nbsp;
+<a class="dan2" title="mune-mochi ikkajo-osae (2)" href="https://www.youtube.com/watch?v=HMEgx1y2ni4">2</a><br>
+<a class="dan2" title="suwari-waza mune-mochi ikkajo-osae (1)" href="#">1</a> &nbsp;
+<a class="dan2" title="suwari-waza mune-mochi ikkajo-osae (2)" href="#">2</a>
+</td>
+<td><a class="dan2" title="mune-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=36m20s">1</a> &nbsp;
+<a class="dan2" title="mune-mochi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=39m53s">2</a><br>
+<a class="dan2" title="suwari-waza mune-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=38m15s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza mune-mochi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=41m16s">2</a>
+</td>
+<td><a class="dan2" title="mune-mochi sankajo-osae (1)" href="https://www.youtube.com/watch?v=ofLLVUGsbDc">1</a> &nbsp;
+<a class="dan2" title="mune-mochi sankajo-osae (2)" href="https://www.youtube.com/watch?v=PtSROTYu5e0">2</a><br>
+<a class="dan2" title="suwari-waza mune-mochi sankajo-osae (1)" href="#">1</a> &nbsp;
+<a class="dan2" title="suwari-waza mune-mochi sankajo-osae (2)" href="#">2</a>
+</td>
+<td><a class="dan2" title="mune-mochi yonkajo-osae (1)" href="https://www.youtube.com/watch?v=0eO51NFJihY">1</a> &nbsp;
+<a class="dan2" title="mune-mochi yonkajo-osae (2)" href="https://www.youtube.com/watch?v=Dgi0YET4My8">2</a><br>
+<a class="dan2" title="suwari-waza mune-mochi yonkajo-osae (1)" href="#">1</a> &nbsp;
+<a class="dan2" title="suwari-waza mune-mochi yonkajo-osae (2)" href="#">2</a>
+</td>
+<td><a class="dan2" title="mune-mochi sokumen irimi-nage (1)" href="#">1</a> &nbsp;
+<a class="dan2" title="mune-mochi sokumen irimi-nage (2)" href="#">2</a><br>
+<a class="dan2" title="suwari-waza mune-mochi sokumen irimi-nage (1)" href="#">1</a> &nbsp;
+<a class="dan2" title="suwari-waza mune-mochi sokumen irimi-nage (2)" href="#">2</a>
+</td>
+<td></td>
+<td><a class="kyu" title="mune-mochi hiji-shime (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h35m10s">1</a> &nbsp;
+<a class="kyu" title="mune-mochi hiji-shime (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h38m35s">2</a><br>
+<a class="kyu" title="suwari-waza mune-mochi hiji-shime (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h37m00s">1</a> &nbsp;
+<a class="kyu" title="suwari-waza mune-mochi hiji-shime (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h40m01s">2</a>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr class="dan2">
+<th class="h">hiji</th>
+<td></td>
+<td><a class="dan2" title="hiji-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h24m41s">1</a> &nbsp;
+<a class="dan2" title="hiji-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h28m18s">2</a><br>
+<a class="dan2" title="suwari-waza hiji-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h26m36s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza hiji-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h29m37s">2</a>
+</td>
+<td><a class="dan2" title="hiji-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=22m05s">1</a> &nbsp;
+<a class="dan2" title="hiji-mochi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=25m57s">2</a><br>
+<a class="dan2" title="suwari-waza hiji-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=24m09s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza hiji-mochi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=27m43s">2</a>
+</td>
+<td><a class="dan2" title="hiji-mochi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h20m44s">1</a> &nbsp;
+<a class="dan2" title="hiji-mochi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h24m09s">2</a><br>
+<a class="dan2" title="suwari-waza hiji-mochi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h22m22s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza hiji-mochi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h25m50s">2</a>
+</td>
+<td><a class="dan2" title="hiji-mochi yonkajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h17m44s">1</a> &nbsp;
+<a class="dan2" title="hiji-mochi yonkajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h21m14s">2</a><br>
+<a class="dan2" title="suwari-waza hiji-mochi yonkajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h19m35s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza hiji-mochi yonkajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=2h23m02s">2</a>
+</td>
+<td><a class="dan2" title="hiji-mochi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=7m33s">1</a> &nbsp;
+<a class="dan2" title="hiji-mochi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=10m39s">2</a><br>
+<a class="dan2" title="suwari-waza hiji-mochi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=9m16s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza hiji-mochi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=11m50s">2</a>
+</td>
+<td></td>
+<td><a class="dan2" title="hiji-mochi hiji-shime (1)" href="#">1</a> &nbsp;
+<a class="dan2" title="hiji-mochi hiji-shime (2)" href="#">2</a><br>
+<a class="dan2" title="suwari-waza hiji-mochi hiji-shime (1)" href="#">1</a> &nbsp;
+<a class="dan2" title="suwari-waza hiji-mochi hiji-shime (2)" href="#">2</a>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="hiji-mochi jiyu-waza" href="#">*</a></td>
+</tr>
+
+<tr>
+<th class="h">katate-aya</th>
+<td></td>
+<td></td>
+<td><a class="dan2" title="katate-aya-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=15m38s">1</a> &nbsp;
+<a class="dan2" title="katate-aya-mochi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=19m13s">2</a><br>
+<a class="dan2" title="suwari-waza katate-aya-mochi nikajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=17m31s">1</a> &nbsp;
+<a class="dan2" title="suwari-waza katate-aya-mochi nikajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=20m35s">2</a>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="kyu" title="katate-aya-mochi go-waza" href="#">*</a></td>
+<td></td>
+</tr>
+
+<tr>
+<th class="h">u.-ryote</th>
+<td></td>
+<td><a class="kyu" title="ushiro-ryote-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h37m29s">1</a> &nbsp;
+<a class="kyu" title="ushiro-ryote-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h40m09s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td><a class="kyu" title="ushiro-ryote-mochi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h33m44s">1</a> &nbsp;
+<a class="kyu" title="ushiro-ryote-mochi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h35m54s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td><a class="dan2" title="ushiro-ryote-mochi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=29m24s">1</a> &nbsp;
+<a class="dan2" title="ushiro-ryote-mochi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=31m39s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td><a class="dan2" title="ushiro-ryote-mochi hiji-shime (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h41m21s">1</a> &nbsp;
+<a class="dan2" title="ushiro-ryote-mochi hiji-shime (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=1h43m01s">2</a><br> &nbsp;
+</td>
+<td><a class="dan2" title="ushiro-ryote-mochi hiji-ate-kokyu-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h09m47s">1</a> &nbsp;
+<a class="dan2" title="ushiro-ryote-mochi hiji-ate-kokyu-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h11m30s">2</a><br> &nbsp;
+</td>
+<td><a class="dan2" title="ushiro-ryote-mochi kote-gaeshi (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h54m16s">1</a> &nbsp;
+<a class="dan2" title="ushiro-ryote-mochi kote-gaeshi (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=2h56m39s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="ushiro-ryote-mochi jiyu-waza" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h21m53s">*</a></td>
+</tr>
+
+<tr class="dan1">
+<th class="h">u.-katate-eri</th>
+<td></td>
+<td><a class="dan1" title="ushiro-katate-eri-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h42m04s">1</a> &nbsp;
+<a class="dan1" title="ushiro-katate-eri-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h43m41s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td><a class="dan1" title="ushiro-katate-eri-mochi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h37m49s">1</a> &nbsp;
+<a class="dan1" title="ushiro-katate-eri-mochi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h39m23s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr class="dan2">
+<th class="h">u.-ryohiji</th>
+<td></td>
+<td><a class="dan2" title="ushiro-ryohiji-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h48m55s">1</a> &nbsp;
+<a class="dan2" title="ushiro-ryohiji-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h50m56s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td><a class="dan2" title="ushiro-ryohiji-mochi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h40m57s">1</a> &nbsp;
+<a class="dan2" title="ushiro-ryohiji-mochi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h42m44s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td><a class="dan2" title="ushiro-ryohiji-mochi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=33m40s">1</a> &nbsp;
+<a class="dan2" title="ushiro-ryohiji-mochi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=35m13s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="ushiro-ryohiji-mochi jiyu-waza" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h22m28s">*</a></td>
+</tr>
+
+<tr class="dan2">
+<th class="h">u.-ryokata</th>
+<td></td>
+<td><a class="dan2" title="ushiro-ryokata-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h52m13s">1</a> &nbsp;
+<a class="dan2" title="ushiro-ryokata-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h54m33s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td><a class="dan2" title="ushiro-ryokata-mochi sankajo-osae (1)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h44m34s">1</a> &nbsp;
+<a class="dan2" title="ushiro-ryokata-mochi sankajo-osae (2)" href="http://www.youtube.com/watch?v=RdzdII66Qcc&t=1h46m14s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td><a class="dan2" title="ushiro-ryokata-mochi sokumen irimi-nage (1)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=36m59s">1</a> &nbsp;
+<a class="dan2" title="ushiro-ryokata-mochi sokumen irimi-nage (2)" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=38m37s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="ushiro-ryokata-mochi jiyu-waza" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h23m08s">*</a></td>
+</tr>
+
+<tr class="dan2">
+<th class="h">u.-eri</th>
+<td></td>
+<td><a class="dan2" title="ushiro-eri-mochi ikkajo-osae (1)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h45m10s">1</a> &nbsp;
+<a class="dan2" title="ushiro-eri-mochi ikkajo-osae (2)" href="http://www.youtube.com/watch?v=J8GMd8AyZAw&t=1h47m16s">2</a><br> &nbsp;
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="ushiro-eri-mochi hiji-shime (1)" href="#">1</a> &nbsp;
+<a class="dan2" title="ushiro-eri-mochi hiji-shime (2)" href="#">2</a><br> &nbsp;
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+<tr class="dan2">
+<th class="h">sho / yoko</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="shomen-yokomen-uchi jiyu-waza" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h19m49s">*</a></td>
+</tr>
+
+<tr class="dan2">
+<th class="h">tanto-dori</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="tanto-dori jiyu-waza" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h23m48s">*</a></td>
+</tr>
+
+<tr class="dan2">
+<th class="h">ken-tori</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="ken-tori jiyu-waza" href="http://www.youtube.com/watch?v=NW5t-QXLYsw&t=3h24m41s">*</a></td>
+</tr>
+
+<tr class="dan2">
+<th class="h">tasu-dori</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a class="dan2" title="tasu-dori jiyu-waza" href="#">*</a></td>
+</tr>
+
+</table>
+</div>
+
+<div class="player">
+<iframe id="ytplayer" type="text/html" width="480" height="360"
+  src="about:blank"
+  frameborder="0"
+  class="no-print"
+  allowfullscreen>
+</iframe>
+<div id="notes"></div>
+</div>
+
+<script src="jquery.js"></script>
+<script>
+var kyu = true;
+var dan1 = true;
+var dan2 = true;
+function show(name, visible) {
+	if (visible) {
+		$('.'+name).removeClass('hidden');
+	} else {
+		$('.'+name).addClass('hidden');
+	}
+}
+function ord(chr) {
+	return chr.charCodeAt(0);
+}
+function pressed(n) {
+	if (n == 1) {
+		kyu = !kyu;
+		show('kyu', kyu);
+	}
+	if (n == 2) {
+		dan1 = !dan1;
+		show('dan1', dan1);
+	}
+	if (n == 3) {
+		dan2 = !dan2;
+		show('dan2', dan2);
+	}
+	var h = '#'+(kyu?1:0)+(dan1?1:0)+(dan2?1:0);
+	history.replaceState(undefined, undefined, h);
+}
+function key_pressed(e) {
+	var n = e.which - ord('1') + 1;
+	if (n >= 1 && n <= 3) {
+		pressed(n);
+	}
+}
+var x, y;
+var $rows;
+function hl_clear() {
+	x = y = 0;
+	$('table.t td.highlight').removeClass('highlight');
+	$('table.t th.highlight').removeClass('highlight');
+	$('#ytplayer').prop('src', 'about:blank');
+	$('#notes').html('');
+}
+function hl_row(cell) {
+	var $tr = $(cell).closest('tr');
+	y = $tr.index();
+	$tr.find('th,td').addClass('highlight');
+}
+function hl_col(cell) {
+	x = $(cell).index();
+	$rows.find(':nth-child('+(x+1)+')').addClass('highlight');
+}
+function td_click(e) {
+	hl_clear();
+	hl_row(this);
+	hl_col(this);
+}
+function th_h_click(e) {
+	hl_clear();
+	hl_row(this);
+}
+function th_v_click(e) {
+	hl_clear();
+	hl_col(this);
+}
+function show_technique(e) {
+	var $a = $(this);
+	var title = $a.prop('title');
+	var href = $a.prop('href');
+	if (href.match(/youtube\.com/)) {
+		e.preventDefault();
+		href = href.replace('watch?v=', 'embed/');
+		var m = href.match(/&t=((\d+)h)?(\d+)m(\d+)s/);
+		var secs = 0;
+		if (m) {
+			secs = (+m[2]||0)*3600 + +m[3]*60 + +m[4];
+		}
+		href = href.replace(/\&t=.*/, '');
+		href += "?start=" + secs + "&autoplay=1&origin=" + encodeURIComponent(window.location.href);
+	}
+	setTimeout(function() {
+		if (href.match(/youtube\.com/)) {
+ 	 		$('#ytplayer').prop('src', href);
+		}
+		var url = title.replace(/\r[\s\S]*/, "").replace(/ /g, "_") + '.html';
+		$('#notes').load("notes/" + encodeURIComponent(url));
+	}, 1);
+}
+function init() {
+	$.ajaxSetup ({ cache: false });
+	$rows = $('table.t tr');
+	$('body').on('keypress', key_pressed);
+	var h = location.hash;
+	if (h) {
+		kyu = h.charAt(1) == '1';
+		dan1 = h.charAt(2) == '1';
+		dan2 = h.charAt(3) == '1';
+	}
+	show('kyu', kyu);
+	show('dan1', dan1);
+	show('dan2', dan2);
+	$('table.t td').on('click', td_click);
+	$('table.t th.h').on('click', th_h_click);
+	$('table.t th.v').on('click', th_v_click);
+	$('table.t th.aiki').on('click', hl_clear);
+	$('table.t > tbody > tr > td > a').on('click', show_technique);
+}
+$(init);
+</script>
+
+<div style="float:right" class="links no-print">
+	<div style="float:right" class="japanese vertical">合気道養神館</div>
+ 	<p><img src="yoshinkan.jpg"></p>
+	<br>
+	<p><A href="http://www.google.com.au/search?q=Yoshinkan+Aikido%3A+The+Complete+Set+of+Techniques+store">Purchase DVDs: Yoshinkan Aikido</A></p>
+	<p><A href="Yoshinkan.html">Yoshinkan Aikido: Complete Techniques</A></p>
+
+	<p><A href="aiki.html">Kihon-Waza Chart</A></p>
+
+	<p>kyu tests: &nbsp; <A href="10kyu-9kyu.html">10,9</A> &nbsp; <A href="8kyu-6kyu.html">8,7,6</A> &nbsp; <A href="5kyu.html">&nbsp;5&nbsp;</A> &nbsp; <A href="4kyu.html">&nbsp;4&nbsp;</A> &nbsp; <A href="3kyu-1kyu.html">3,2,1</A></p>
+	<p>dan tests: &nbsp; <A href="1dan.html">shodan</A> &nbsp; <A href="2dan-.html">yudan</A></p>
+	<p>text index: &nbsp; <A href="yoshinkan-index.txt">yoshinkan-index.txt</A>
+
+	<p>home: &nbsp; <A href="http://aiki.nipl.net/">aiki.nipl.net</A>
+</div>
+
+<div style="clear: both;"></div>
+
+<!--
+<div style="height: 5em;"></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5&appId=289986455874";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="fb-comments no-print" data-href="http://aiki.nipl.net/aiki.html" data-numposts="5"></div>
+-->

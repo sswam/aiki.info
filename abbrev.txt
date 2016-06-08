@@ -1,0 +1,41 @@
+attacks
+
+S	shomen
+Y	yokomen
+T	tsuki
+1T	katate
+2T	ryote
+K	kata
+M	mune
+H	hiji
+XT	katate-aya
+U2T	ushiro-ryote
+UKE	ushiro-katate-eri
+U2H	ushiro-ryohiji
+U2K	ushiro-ryokata
+UE	ushiro-eri
+
+waza
+
+SW	suwari-waza
+HH	hanmi-handachi
+
+SN	shiho-nage
+1K	ikkajo
+2K	nikajo
+3K	sankajo
+4K	yonkajo
+SI	sokumen irimi-nage
+IN	shomen irimi-nage
+HS	hiji-shime
+HA	hiji-ate
+KG	kote-gaeshi
+TN	tenchi-nage
+KH	kokyu-ho
+KN	kokyu-nage
+
+extra waza
+
+IT	irimi-tsuki
+SNK	shiho-nage kuzushi
+

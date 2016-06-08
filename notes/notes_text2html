@@ -1,0 +1,90 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use Data::Dumper;
+
+sub ee {
+	my ($x) = @_;
+	for ($x) {
+		s/&/&amp;/g;
+		s/</&lt;/g;
+		s/>/&rt;/g;
+		s/"/&quot;/g;
+	}
+	return $x;
+}
+
+my ($file) = @ARGV;
+open my $fh, '<', $file;
+
+sub r { my $line = <$fh>; chomp $line if $line; return $line; }
+
+my $romaji = r();
+my $romaji_check = $file;
+$romaji_check =~ s/\.txt$//;
+$romaji_check =~ s/_/ /g;
+if ($romaji ne $romaji_check) {
+	die "romaji do not match: $file\n";
+}
+my $japanese = r();
+my $english = r();
+my $symbols = r();
+my $blank = r();
+if ($blank ne "") {
+	die "bad file format: $file\n";
+}
+
+my @steps;
+while (1) {
+	my $step = r();
+	last if !$step;
+	$step =~ s/^\d+\. //;
+	push @steps, $step;
+}
+
+my @extra;
+while (1) {
+	my $line = r();
+	last if !defined $line;
+	push @extra, $line;
+}
+
+for ($romaji, $japanese, $english, $symbols, @steps, @extra) {
+	$_ = ee($_);
+}
+
+print <<EOT;
+<table><tr><td style="vertical-align: top">
+<span class="symbols">$symbols</span><br>
+<span class="romaji">$romaji</span><br>
+<span class="english">$english</span><br>
+<br>
+
+<ol start=0>
+EOT
+
+for my $step (@steps) {
+	print <<EOT;
+<li>$step
+EOT
+}
+
+print <<EOT;
+</ol>
+<br>
+
+EOT
+
+for my $line (@extra) {
+	print <<EOT;
+$line<br>
+EOT
+}
+
+print <<EOT;
+
+</td><td style="width: 1em"></td><td style="width: 2em; height: 32em; vertical-align: top;">
+<div class="japanese vertical">$japanese</div>
+</td></tr></table>
+EOT
+
