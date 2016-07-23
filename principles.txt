@@ -1,8 +1,8 @@
-礼法	reihō	respect, etiquette
-構え	kamae	posture
+礼法	reihō	respect
 目付	metsuke	watching
 間合	maai	distancing
-合気	aiki	joining energy
-呼吸	kokyū	timing, breathing
+構え	kamae	structure
+合気	aiki	blending
+呼吸	kokyū	timing
 崩し	kuzushi	unbalancing
-残心	zanshin	remaining mindful
+残心	zanshin	awareness
