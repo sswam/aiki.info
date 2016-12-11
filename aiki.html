@@ -825,8 +825,10 @@ function show_technique(e) {
 		if (href.match(/youtube\.com/)) {
  	 		$('#ytplayer').prop('src', href);
 		}
-		var url = title.replace(/\r[\s\S]*/, "").replace(/ /g, "_") + '.html';
-		$('#notes').load("notes/" + encodeURIComponent(url));
+//		var url = title.replace(/\r[\s\S]*/, "").replace(/ /g, "_") + '.html';
+//		$('#notes').load("notes/" + encodeURIComponent(url));
+		$('#notes').text(title);
+		$('#notes').css('white-space', 'pre');
 	}, 1);
 }
 function init() {
