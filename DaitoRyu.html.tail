@@ -1,0 +1,14 @@
+
+</div>
+
+<div style="float:right; min-width: 250px;" class="links no-print">
+	<div style="float:right" class="japanese vertical">大東流合気柔術</div>
+	<p><img src="takeda-mon.png"></p>
+	<br>
+	<p>home: &nbsp; <A href="http://aiki.info/">aiki.info</A>
+</div>
+
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="jquery.ba-hashchange.min.js"></script>
+<script type="text/javascript" src="aikido.js"></script>
+

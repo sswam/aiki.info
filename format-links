@@ -1,0 +1,48 @@
+#!/usr/bin/perl -w
+use strict;
+use warnings;
+use Data::Dumper;
+
+my $indent = -1;
+
+my ($video, $time);
+
+while (defined ($_=<STDIN>)) {
+	chomp;
+	next if /^\s*#/;
+	my ($video1, $time1, @fields) = split /\t/, $_, -1;
+	if ($video1) {
+		$video = $video1;
+	}
+	if ($time1) {
+		$time = $time1;
+	}
+	$fields[0] ||= '';
+	$fields[0] =~ s/^(\.*)//;
+	my $link = "@fields";
+	my $indent1 = length($1);
+	while ($indent < $indent1) {
+		print "<ul>\n";
+		++$indent;
+	}
+	while ($indent > $indent1) {
+		print "</ul>\n";
+		--$indent;
+	}
+	if ($time ne "") {
+		my $yt_time = "${time}s";
+		$yt_time =~ s/(.*):/$1m/;
+		$yt_time =~ s/(.*):/$1h/;
+		print qq{<li><A href="$video&t=$yt_time#t=$yt_time">$link</A>\n};
+	} else {
+		if ($link ne "") {
+			print "<li>$link\n";
+		} else {
+			print qq{<li style="visibility: hidden;">};
+		}
+	}
+}
+while ($indent > -1) {
+	print "</ul>\n";
+	--$indent;
+}
