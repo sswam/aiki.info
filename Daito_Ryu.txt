@@ -57,7 +57,7 @@ http://www.youtube.com/watch?v=u0az6iuLOCo	0:13	Katsuyuki Kondō - Daitō-ryū A
 	1:10:17	....gyaku gote	逆小手
 	1:10:39	...hanza-handachi	半座半立
 	1:10:39	....shouto dzume	手刀詰
-	1:11:00	....irimi nage	入身詰
+	1:11:00	....irimi dzume	入身詰
 	1:11:19	....suso dori	裾捕
 	1:11:35	....suso dori (explanation)	裾捕
 	1:12:34	....kote gaeshi	小手返

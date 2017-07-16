@@ -7,10 +7,13 @@ my $indent = -1;
 
 my ($video, $time);
 
-while (defined ($_=<STDIN>)) {
-	chomp;
-	next if /^\s*#/;
-	my ($video1, $time1, @fields) = split /\t/, $_, -1;
+my $class0 = "field";
+my @classes = qw(romaji nihongo english);
+
+while (defined (my $line=<STDIN>)) {
+	chomp $line;
+	next if $line =~ /^\s*#/;
+	my ($video1, $time1, @fields) = split /\t/, $line, -1;
 	if ($video1) {
 		$video = $video1;
 	}
@@ -19,7 +22,12 @@ while (defined ($_=<STDIN>)) {
 	}
 	$fields[0] ||= '';
 	$fields[0] =~ s/^(\.*)//;
-	my $link = "@fields";
+	my $link = "";
+	my $i = 0;
+	for (@fields) {
+		my $class = $classes[$i++] || "";
+		$link .= qq{<span class="$class0 $class">$_</span>};
+	}
 	my $indent1 = length($1);
 	while ($indent < $indent1) {
 		print "<ul>\n";

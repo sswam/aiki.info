@@ -16,7 +16,7 @@
 
 ./Yoshinkan.html Aikido: Complete Techniques
 ./Aikido.html Techniques - a large index
-# ./DaitoRyu.html Techniques
+./Daito_Ryu.html Techniques
 
 
 *kihon-waza charts for Yoshinkan Aikido:*
