@@ -5,10 +5,25 @@
 	<div style="float:right" class="japanese vertical">大東流合気柔術</div>
 	<p><img src="takeda-mon.png"></p>
 	<br>
+	<p><A href="http://aikido-sydney.com.au/store/otherdvd/daito-ryu-aikijujitsu-katsuyuki-kondo-sensei">Purchase DVD: Daito Ryu Aikijujitsu<br>Katsuyuki Kondo</A> <A href="https://www.google.com.au/search?q=%22SPD-8501%22">(SPD-8501)</A></p>
+
+	<p>text index: &nbsp; <A href="Daito_Ryu.txt">Daito_Ryu.txt</A>
+
 	<p>home: &nbsp; <A href="http://aiki.info/">aiki.info</A>
 </div>
 
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="jquery.ba-hashchange.min.js"></script>
+<script>
+$(main);
+function main() {
+	fix_table();
+}
+function fix_table() {
+	$('span.romaji').each(function (){
+		var $x = $(this);
+		$x.width(400 - $x.offset().left);
+	});
+}
+</script>
 <script type="text/javascript" src="aikido.js"></script>
-

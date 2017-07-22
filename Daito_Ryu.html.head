@@ -9,7 +9,7 @@ Daitō-ryū Aiki-jūjutsu
 <link rel="stylesheet" type="text/css" href="/print.css" media="print" />
 
 
-<div style="float:left; min-width: 300px">
+<div class="treetable">
 <h1>Daitō-ryū Aiki-jūjutsu</h1>
 <p>search: &nbsp; <input id="search" type="text" size="30"> &nbsp; <span id="search_clear">&times;</span></p>
 
