@@ -8,7 +8,7 @@ my $indent = -1;
 my ($video, $time);
 
 my $class0 = "field";
-my @classes = qw(romaji nihongo english);
+my @classes = qw(romaji nihongo english attack);
 
 while (defined (my $line=<STDIN>)) {
 	chomp $line;

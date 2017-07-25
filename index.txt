@@ -21,7 +21,7 @@
 
 *kihon-waza charts for Yoshinkan Aikido:*
 
-./aiki.html - a kihon-waza chart with video links
+Yoshinkan ./kihon-waza.html chart with video links
 small pdf charts: ./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
 
 
