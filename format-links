@@ -26,7 +26,7 @@ while (defined (my $line=<STDIN>)) {
 	my $i = 0;
 	for (@fields) {
 		my $class = $classes[$i++] || "";
-		$link .= qq{<span class="$class0 $class">$_</span>};
+		$link .= qq{ <span class="$class0 $class">$_</span>};
 	}
 	my $indent1 = length($1);
 	while ($indent < $indent1) {
@@ -41,14 +41,19 @@ while (defined (my $line=<STDIN>)) {
 		my $yt_time = "${time}s";
 		$yt_time =~ s/(.*):/$1m/;
 		$yt_time =~ s/(.*):/$1h/;
-		print qq{<li><A href="$video&t=$yt_time#t=$yt_time">$link</A>\n};
-	} else {
-		if ($link ne "") {
-			print "<li>$link\n";
+		if (@fields > 1 || $fields[0] ne '') {
+			print qq{<li><A href="$video&t=$yt_time#t=$yt_time">$link</A>\n};
 		} else {
-			print qq{<li style="visibility: hidden;">};
+			print qq{<li style="visibility: hidden;">\n};
 		}
 	}
+# else {
+# 		if ($link ne "") {
+# 			print "<li>$link\n";
+# 		} else {
+# 			print qq{<li style="visibility: hidden;">};
+# 		}
+# 	}
 }
 while ($indent > -1) {
 	print "</ul>\n";

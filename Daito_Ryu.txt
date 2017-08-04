@@ -1,4 +1,4 @@
-http://www.youtube.com/watch?v=u0az6iuLOCo	0:13	Katsuyuki Kondō - Daitō-ryū Aiki-jūjutsu	近藤勝之 - 大東流合気柔術
+http://www.youtube.com/watch?v=u0az6iuLOCo	0:13	Kondō Katsuyuki - Daitō-ryū Aiki-jūjutsu	近藤勝之 - 大東流合気柔術
 	0:13	.Daito-ryu shi	大東流史	Daito-ryu history
 	31:22	.reihō	礼法	etiquette
 	33:39	.hiden mokuroku	秘伝目録	secret catalog
@@ -50,7 +50,7 @@ http://www.youtube.com/watch?v=u0az6iuLOCo	0:13	Katsuyuki Kondō - Daitō-ryū A
 	1:06:59	....koba gaeshi	木葉返	leaf flip	kakete (no attack, block strike)
 	1:07:19	.....		explanation
 	1:08:27	....shutou dzume	手刀詰	knife-hand jam	katate dori (hold)
-	1:08:46	....kubi hineri	首捻	neck twist	emon jime
+	1:08:46	....kubi hineri	頸捻	neck twist	emon jime
 	1:09:06	....kote gaeshi	小手返	forearm flip	katate kata dori (block strike)
 	1:09:30	....kataha dori	片羽捕	one wing capture	tsuki
 	1:09:54	....kamate dzume	鎌手詰	sickle hand jam	tsuki
@@ -79,7 +79,7 @@ http://www.youtube.com/watch?v=u0az6iuLOCo	0:13	Katsuyuki Kondō - Daitō-ryū A
 	1:18:23	....sukui nage	掬投	scoop throw	ryohiji dori
 	1:18:37	....gyaku gote	逆小手	reverse forearm	kataha jime
 	1:18:51	.....		explanation
-	1:20:05	....kubi nage	首投	neck throw	hagai jime
+	1:20:05	....kubi nage	首投	neck throw	hagai jime (full nelson)
 	1:20:19	....hiji kujiki	肘挫	elbow bend-back	ryosode dori
 	1:20:31	..sankajo	三ヶ条	section three
 	1:20:35	...idori	居捕	sitting capture
@@ -106,9 +106,10 @@ http://www.youtube.com/watch?v=u0az6iuLOCo	0:13	Katsuyuki Kondō - Daitō-ryū A
 	1:43:36	.kobudo toshite no seito se	古武道としての正統性	Legitimacy of Succession
 	1:46:21	.kaigai e no hiyaku	海外への飛躍	Daito-Ryu Abroad
 	1:48:02	.gendai ni okeru kobudo no igi	現代における古武道の意義	Significance of Classical Budo in the Modern World
+
 https://www.youtube.com/watch?v=rB0AFm1u-3I	0:00	Daitō-ryū Aiki-jūjutsu Shōyōkan	大東流合気柔術　逍遙館
 	0:00	.Shoden	初伝	first transmission
-https://www.youtube.com/watch?v=rB0AFm1u-3I	0:00	..ikkajo	一ヶ条	section one
+	0:00	..ikkajo	一ヶ条	section one
 	0:04	...idori	居捕	sitting capture
 	0:26	....ippon dori	一本捕	one arm capture	shomen uchi
 	0:47	....gyaku ude dori	逆腕捕	reverse arm capture	katate mune dori
@@ -155,7 +156,7 @@ https://www.youtube.com/watch?v=QFzZZ55utd8	0:00	..nikajo	二ヶ条	section two
 	0:45	....hiji kujiki	肘挫	elbow bend-back	yokomen uchi
 	1:01	....koba gaeshi	木葉返	leaf flip	kakete (no attack, block strike)
 	1:16	....shutou dzume	手刀詰	knife-hand jam	katate dori (hold)
-	1:25	....kubi hineri	首捻	neck twist	emon jime
+	1:25	....kubi hineri	頸捻	neck twist	emon jime
 	1:39	....kote gaeshi	小手返	forearm flip	katate kata dori (block strike)
 	1:52	....kataha dori	片羽捕	one wing capture	tsuki
 	2:09	....kamate dzume	鎌手詰	sickle hand jam	tsuki
@@ -175,12 +176,12 @@ https://www.youtube.com/watch?v=mupu4RDB5Ps	0:04	...ushiro-dori	後捕	rear capt
 	0:15	....tsuki taoshi	突倒	thrust topple	tachi-eri dori
 	0:27	....sukui nage	掬投	scoop throw	ryohiji dori
 	0:41	....gyaku gote	逆小手	reverse forearm	kataha jime
-	0:56	....kubi nage	首投	neck throw	hagai jime
+	0:56	....kubi nage	首投	neck throw	hagai jime (full nelson)
 	1:11	....hiji kujiki	肘挫	elbow bend-back	ryosode dori
 	1:35	....tsuki taoshi	突倒	thrust topple	tachi-eri dori
 	1:50	....sukui nage	掬投	scoop throw	ryohiji dori
 	2:04	....gyaku gote	逆小手	reverse forearm	kataha jime
-	2:19	....kubi nage	首投	neck throw	hagai jime
+	2:19	....kubi nage	首投	neck throw	hagai jime (full nelson)
 	2:35	....hiji kujiki	肘挫	elbow bend-back	ryosode dori
 	2:57	...hanza-handachi	半座半立	half-sitting half-standing
 	3:09	....shutou dzume	手刀詰	knife-hand jam	katate dori (pull)
@@ -247,6 +248,7 @@ https://www.youtube.com/watch?v=m0Nc07fkdWg	0:00	..yonkajo	四ヶ条	section fou
 	5:00	....kasumi nage	霞投	mist throw	yokomen uchi
 	5:20	....hadaka jime	裸締	naked clamp	tsuki
 	5:41	....daruma gaeshi	達磨返	dharma flip	ryokata dori
+
 https://www.youtube.com/watch?v=HTkFIcdb56M	0:00	Hakuhō-ryu Aiki-jūjutsu (UK)	白鳳流合気柔術 (UK)
 	0:00	.hiden mokuroku	秘伝目録	secret catalog
 	0:00	..ikkajo	一ヶ条	section one
@@ -292,7 +294,7 @@ https://www.youtube.com/watch?v=9UfV07KNpxI	0:00	..nikajo	二ヶ条	section two
 	0:36	....hiji kujiki	肘挫	elbow bend-back	yokomen uchi
 	0:50	....koba gaeshi	木葉返	leaf flip	kakete (no attack, block strike)
 	1:06	....shutou dzume	手刀詰	knife-hand jam	katate dori (hold)
-	1:14	....kubi hineri	首捻	neck twist	emon jime
+	1:14	....kubi hineri	頸捻	neck twist	emon jime
 	1:35	....kote gaeshi	小手返	forearm flip	katate kata dori (block strike)
 	1:47	....kataha dori	片羽捕	one wing capture	tsuki
 	2:09	....kamate dzume	鎌手詰	sickle hand jam	tsuki
@@ -318,7 +320,7 @@ https://www.youtube.com/watch?v=9UfV07KNpxI	0:00	..nikajo	二ヶ条	section two
 	6:36	....tsuki taoshi	突倒	thrust topple	tachi-eri dori
 	7:04	....sukui nage	掬投	scoop throw	ryohiji dori
 	7:38	....gyaku gote	逆小手	reverse forearm	kataha jime
-	8:13	....kubi nage	首投	neck throw	hagai jime
+	8:13	....kubi nage	首投	neck throw	hagai jime (full nelson)
 	8:42	....hiji kujiki	肘挫	elbow bend-back	ryosode dori
 https://www.youtube.com/watch?v=huK0s2hOW3I	0:00	..sankajo	三ヶ条	section three
 	0:00	...idori	居捕	sitting capture
@@ -332,8 +334,12 @@ https://www.youtube.com/watch?v=huK0s2hOW3I	0:00	..sankajo	三ヶ条	section thr
 	1:46	....kiriha	切羽	cut wing	kakete
 	1:57	....uchi ude gaeshi	内腕返	inside arm flip	ganmen tsuki (face thrust)
 	2:14	....gasshou dori	合掌捕	join palms capture	kakete
-https://www.youtube.com/watch?v=cRTye-wq5yI	0:00	Nihon Daitō-ryū Aikibudō Seishin Kai	日本大東流合気武道誠心会
+
+https://www.youtube.com/watch?v=cRTye-wq5yI	0:00	Nihon Daitō-ryū Aikibudō Seishin Kai - Katō Shigemitsu	日本大東流合気武道誠心会 - 加藤茂光
 	0:00	.hiden mokuroku 118 kajō	秘伝目録百十八ヶ条	secret catalog 118 items
+	0:00	..		start part 1
+	2:00	..		part 1 intro
+	2:20	..taikei	体系	system
 	4:22	..ikkajo	一ヶ条	section one
 	5:12	...idori	居捕	sitting capture
 	5:15	....ippon dori	一本捕	one arm capture	shomen uchi
@@ -377,7 +383,7 @@ https://www.youtube.com/watch?v=cRTye-wq5yI	0:00	Nihon Daitō-ryū Aikibudō Sei
 	30:46	....hiji kujiki	肘挫	elbow bend-back	yokomen uchi
 	31:44	....koba gaeshi (konoha gaeshi)	木葉返	leaf flip	kakete (no attack, block strike)
 	32:45	....shutou dzume	手刀詰	knife-hand jam	katate dori (hold)
-	33:36	....kubi hineri	首捻	neck twist	emon jime
+	33:36	....kubi hineri	頸捻	neck twist	emon jime
 	34:33	....kote gaeshi	小手返	forearm flip	katate kata dori (block strike)
 	35:17	....kataha dori	片羽捕	one wing capture	tsuki
 	36:11	....kamate dzume	鎌手詰	sickle hand jam	tsuki
@@ -403,10 +409,12 @@ https://www.youtube.com/watch?v=cRTye-wq5yI	0:00	Nihon Daitō-ryū Aikibudō Sei
 	48:06	....tsuki taoshi	突倒	thrust topple	tachi-eri dori
 	49:04	....sukui nage	掬投	scoop throw	ryohiji dori
 	49:45	....gyaku gote	逆小手	reverse forearm	kataha jime
-	50:41	....kubi nage	首投	neck throw	hagai jime
+	50:41	....kubi nage	首投	neck throw	hagai jime (full nelson)
 	51:15	....hiji kujiki	肘挫	elbow bend-back	ryosode dori
-	51:54	..end part 1
-https://www.youtube.com/watch?v=aGY6ZZ6NHa4	0:00	..start part 2
+	51:54	..		end part 1
+https://www.youtube.com/watch?v=aGY6ZZ6NHa4	0:00	..		start part 2
+	2:00	..		part 2 intro
+	2:16	..	rekishi	歴史	history
 	5:55	..sankajo	三ヶ条	section three
 	7:55	...idori	居捕	sitting capture
 	8:17	....tsuri otoshi	釣落	fishing drop	shomen uchi
@@ -442,5 +450,306 @@ https://www.youtube.com/watch?v=aGY6ZZ6NHa4	0:00	..start part 2
 	44:17	....waki garami	脇搦	side tangle	katate tachi-eri dori
 	45:28	....kiriha	切羽	cut wing	kakaekomi / kakae jime dori
 	46:13	....kataude nage	片腕投	one arm throw	morote dori
-	47:25	..end part 2
-https://www.youtube.com/watch?v=QbQ2n-C6mDY	0:00	..start part 3
+	47:25	..		end part 2
+https://www.youtube.com/watch?v=QbQ2n-C6mDY	0:00	..		start part 3
+	2:00	..		part 3 intro
+	2:16	..yonkajo	四ヶ条	section four
+	2:31	...okuden	奥伝	deep secrets
+	3:28	...juugote	十五手	15 moves
+	3:28	....ura gote	裏小手	rear forearm	shomen uchi
+	4:35	....uchi gote	内小手	inside forearm	yokomen uchi
+	5:35	....kakae kubi	抱首	hug neck	katate dori
+	6:44	....temakura dzume	手枕詰	hand pillow	yokomen uchi
+	7:35	....waki dori (omote)	脇捕（表）	side capture (front)	shomen uchi
+	8:16	....waki dori (ura)	脇捕（裏）	side capture (rear)	yokomen uchi
+	8:58	....ire chigai	入違	pass each other	koshi obi dori
+	9:34	....tatsumaki	竜巻	tornado	ryote dori
+	10:33	....izori	居反	sitting throw back	ryote dori
+	11:11	....ura otoshi	裏落	rear drop	katate dori
+	12:11	....senryu	潜竜	submerged dragon	katate dori
+	13:08	....waki dzume otoshi	脇詰落	side jam drop	katate dori
+	13:50	....kasumi nage	霞投	mist throw	yokomen uchi
+	14:41	....hadaka jime	裸締	naked clamp	tsuki
+	15:24	....daruma gaeshi	達磨返	dharma flip	ryokata dori
+	16:25	..gokajo	五ヶ条	section five
+	17:34	...rokute	六手	6 moves
+	17:34	....makikomi kujiki	巻込挫	wind-up into bend-back	tsuki
+	18:42	....koban gaeshi	小判返	oval flip	kakete (block strike)
+	20:16	....kannuki dzume	閂詰	bolt jam	ryote dori
+	21:54	....enma	閻魔	lord of Hades	tsuki
+	23:09	....shumoku	橦木	bell hammer (wooden)	yokomen uchi
+	24:33	....taki otoshi	滝落	waterfall drop	kakete (block strike)
+	25:33	...emonodori	得物捕	weapons capture
+	25:58	....bou dori	棒捕	staff capture
+	27:45	.....ippon me	一本目	1st	shomen uchi
+	28:06	.....nihon me	二本目	2nd	shomen uchi
+	28:24	.....sanbon me	三本目	3rd	tsuki, sokumen uchi
+	28:53	....jutte dori	十手捕	jutte capture
+	30:42	.....ippon me	一本目	1st	
+	31:13	.....nihon me	二本目	2nd	shomen uchi
+	31:52	.....sanbon me	三本目	3rd	shomen uchi
+	32:44	....tantou dori	短剣捕	knife capture
+	33:53	.....ippon me	一本目	1st	shomen uchi
+	34:17	.....nihon me	二本目	2nd	yokomen uchi	
+	34:33	.....sanbon me	三本目	3rd	gyaku yokomen uchi
+	34:56	....tachi dori	太刀捕	sword capture
+	36:33	.....ippon me	一本目	1st	shomen uchi
+	37:04	.....nihon me	二本目	2nd	
+	37:33	.....sanbon me	三本目	3rd	shomen uchi
+	37:52	....kasa dori	傘捕	umbrella capture
+	38:02	.....ippon me	一本目	1st	kakete
+	38:30	.....nihon me	二本目	2nd	kakete
+	38:59	.....sanbon me	三本目	3rd	shime
+	39:32	.....yonhon me	四本目	4th	shime
+	40:06	.....gohon me	五本目	5th	tsuki
+	41:08	...taninzuudori	多人数捕	large number of people capture
+	42:39	.....ippon me	一本目	1st	shime
+	42:52	.....nihon me	二本目	2nd	ryote dori
+	43:01	.....sanbon me	三本目	3rd	ryote dori
+	43:30	.....yonhon me	四本目	4th	futari dori
+	43:56	.....gohon me	五本目	5th	sannin dori
+	44:58	..		end part 3
+https://www.youtube.com/watch?v=BXljPTQD5bg	0:00	.Uragata	裏形	secret forms
+	0:00	..		start part 4
+	3:06	..		part 4 intro
+	3:52	.."hiden mokuroku uragata" to wa nani ka?	「秘伝目録・裏形」とは何か	what are the "secret catalog secret forms"?
+	7:43	..ikkajo	一ヶ条	section one
+	7:43	...idori	居捕	sitting capture
+	8:19	....ippon dori	一本捕	one arm capture	shomen uchi
+	8:40	.....ura	裏	secret
+	11:33	.....point	ポイント	point
+	13:02	....gyaku ude dori	逆腕捕	reverse arm capture	katate mune dori
+	13:23	.....ura	裏	secret
+	15:24	.....point	ポイント	point
+	16:06	....hiji gaeshi	肘返	elbow flip	katate mune dori
+	16:26	.....ura	裏	secret
+	17:17	.....point	ポイント	point
+	17:57	....kuruma daoshi	車倒	wheel topple	yokomen uchi
+	18:15	.....ura	裏	secret
+	19:17	.....point	ポイント	point
+	19:56	....shime gaeshi	絞返	choke flip	emon jime
+	20:16	.....ura	裏	secret
+	21:22	.....point	ポイント	point
+	22:21	....daki jime	抱締	hug clamp	emon jime
+	22:39	.....ura	裏	secret
+	23:43	.....point	ポイント	point
+	25:50	....karame nage	搦投	tangle throw	mune dori shomen uchi
+	26:10	.....ura	裏	secret
+	26:58	.....point	ポイント	point
+	27:49	....kote gaeshi	小手返	forearm flip	ryote dori (pull)
+	28:07	.....ura	裏	secret
+	28:58	.....point	ポイント	point
+	31:26	....nukite dori	抜手捕	pull out hand capture	ryote dori (hold)
+	31:46	.....ura	裏	secret
+	33:05	.....point	ポイント	point
+	33:59	....hiza jime	膝締	knee clamp	ryote dori (push)
+	34:12	.....ura	裏	secret
+	35:47	.....point	ポイント	point
+	37:08	...hanza-handachi	半座半立	half-sitting half-standing
+	37:08	....omote	表	public
+	37:08	.....hanmi nage	半身投	half-body throw	migite dori (pull)
+	37:30	.....ura otoshi	裏落	rear drop	hidarite dori (push)
+	37:52	.....izori	居反	sitting throw back	ryote dori (push)
+	38:02	.....kata otoshi	肩落	shoulder drop	kubi jime
+	38:18	.....irimi nage	入身投	enter-body throw	ryote dori (pull)
+	38:45	....gotenjutsu	御殿術	palace art
+	38:45	.....hanmi nage	半身投	half-body throw	migite dori (pull)
+	39:15	.....ura otoshi	裏落	rear drop	hidarite dori (push)
+	39:47	.....izori	居反	sitting throw back	ryote dori (push)
+	40:15	.....kata otoshi	肩落	shoulder drop	kubi jime
+	40:41	.....irimi nage	入身投	enter-body throw	ryote dori (pull)
+	41:23	....point	ポイント	point
+	41:23	.....hanmi nage	半身投	half-body throw	migite dori (pull)
+	43:00	.....ura otoshi	裏落	rear drop	hidarite dori (push)
+	44:10	.....izori	居反	sitting throw back	ryote dori (push)
+	45:11	.....kata otoshi	肩落	shoulder drop	kubi jime
+	46:29	.....irimi nage	入身投	enter-body throw	ryote dori (pull)
+	47:14	....		extra	
+	52:11	....goho-no-jin	五法の陣	five methods' form
+	57:47	..		end part 4
+https://www.youtube.com/watch?v=Q_jGFAGqFhU	0:00	..		start part 5
+	3:06	..		part 5 intro
+	3:48	..kuden ni tsuite	口伝について	about oral transmissions
+	4:13	...asagao	朝顔	morning glory
+	5:12	...taka-no-tsume	鷹の爪	falcon's talons
+	6:09	...nonaka-no-maku	野中の幕	middle field curtain
+	9:30	..kuden ura	口伝 裏	secret oral transmissions
+	9:30	...kuzushi	崩し	unbalancing
+	9:30	...rakka	落下	drop down
+	9:30	...nawa	縄	rope
+	12:12	..ikkajo	一ヶ条	section one
+	12:12	...tachi-ai	立合	both standing
+	12:38	....ippon dori	一本捕	one arm capture	shomen uchi
+	12:52	.....ura	裏	secret
+	14:13	.....point	ポイント	point
+	16:04	....kuruma daoshi	車倒	wheel topple	yokomen uchi
+	16:18	.....ura	裏	secret
+	17:25	.....point	ポイント	point
+	19:07	....gyaku ude dori	逆腕捕	reverse arm capture	katate mune dori
+	19:24	.....ura	裏	secret
+	21:08	.....point	ポイント	point
+	21:54	....koshi guruma	腰車	lower-back wheel	emon jime
+	22:07	.....ura	裏	secret
+	22:51	.....point	ポイント	point
+	24:44	....karame nage	搦投	tangle throw	mune dori shomen uchi
+	24:57	.....ura	裏	secret
+	25:47	.....point	ポイント	point
+	27:02	....ura otoshi	裏落	rear drop	katate sode dori (pull)
+	27:13	.....ura	裏	secret
+	28:16	.....point	ポイント	point
+	29:15	....obi otoshi	帯落	belt drop	emon jime
+	29:24	.....ura	裏	secret
+	30:28	.....point	ポイント	point
+	31:17	....kiri kaeshi	切返	cut flip	ryosode dori
+	31:27	.....ura	裏	secret
+	33:05	.....point	ポイント	point
+	34:01	....kote gaeshi	小手返	forearm flip	ryote dori (pull)
+	34:14	.....ura	裏	secret
+	35:21	.....point	ポイント	point
+	36:07	....shihou nage (omote)	四方投（表）	four directions throw (front)	ryote dori (hold)
+	36:22	.....ura	裏	secret
+	37:18	.....point	ポイント	point
+	38:33	....shihou nage (ura)	四方投（裏）	four directions throw (rear)	ryote dori (hold)
+	38:47	.....ura	裏	secret
+	39:15	.....point	ポイント	point
+	40:04	...ushiro-dori	後捕	rear capture
+	40:22	....tachi eri dori	立襟捕	standing-collar capture	katate tachi-eri dori
+	40:37	.....ura	裏	secret
+	41:33	.....point	ポイント	point
+	42:25	....ryo kata hineri	両肩捻	both shoulders twist	ryokata dori
+	42:37	.....ura	裏	secret
+	43:33	.....point	ポイント	point
+	44:56	....ryo hiji gaeshi	両肘返	both elbows flip	ryohiji dori
+	45:08	.....ura	裏	secret
+	45:57	.....point	ポイント	point
+	46:40	....daki jime dori	抱締捕	hug clamp capture	daki jime
+	46:54	.....ura	裏	secret
+	47:45	.....point	ポイント	point
+	48:32	....kata otoshi	肩落	shoulder drop	katate kubi jime
+	48:47	.....ura	裏	secret
+	49:43	.....point	ポイント	point
+	50:40	..		end part 5
+https://www.youtube.com/watch?v=eNfhjUbvj6c	0:00	.Kudengokui	口伝極意編	oral transmission secret teachings compilation
+	0:00	..		start part 6
+	2:15	..		part 6 intro	
+	5:04	..gokui-kaidai - "ippon dori"	極意解題 「一本捕」	secret teaching review - "one arm capture"
+	7:45	..kuden	口伝	oral transmission
+	8:05	...asagao-no-te	朝顔の手	morning glory hands
+	10:01	...taka-no-tsume	鷹の爪	falcon's talons
+	12:22	...nonaka-no-maku	野中の幕	middle field curtain
+	14:19	..nikajo	二ヶ条	section two
+	14:19	...idori	居捕	sitting capture
+	14:49	....kote dzume	小手詰	forearm jam	shomen uchi
+	15:09	.....ura	裏	secret
+	15:27	.....kasetsu	解説	explanation
+	17:29	....gyaku dasuki	逆襷	reverse sash	shomen uchi
+	17:49	.....ura	裏	secret
+	18:00	.....kasetsu	解説	explanation
+	20:44	....hiji kujiki	肘挫	elbow bend-back	yokomen uchi
+	21:02	.....ura	裏	secret
+	21:11	.....kasetsu	解説	explanation
+	24:08	....koba gaeshi (konoha gaeshi)	木葉返	leaf flip	kakete (no attack, block strike)
+	24:21	.....ura	裏	secret
+	24:33	.....kasetsu	解説	explanation
+	25:47	....shutou dzume	手刀詰	knife-hand jam	katate dori (hold)
+	26:05	.....ura	裏	secret
+	26:19	.....kasetsu	解説	explanation
+	28:05 	....kubi hineri	頸捻	neck twist	emon jime
+	28:21	.....ura	裏	secret
+	28:35	.....kasetsu	解説	explanation
+	29:39	....kote gaeshi	小手返	forearm flip	katate kata dori (block strike)
+	29:56	.....ura	裏	secret
+	30:08	.....kasetsu	解説	explanation
+	32:42	....kataha dori	片羽捕	one wing capture	tsuki
+	32:58	.....ura	裏	secret
+	33:16	.....kasetsu	解説	explanation
+	36:24	....kamate dzume	鎌手詰	sickle hand jam	tsuki
+	36:36	.....ura	裏	secret
+	36:51	.....kasetsu	解説	explanation
+	37:55	....gyaku gote	逆小手	reverse forearm	katate mune dori (block strike)
+	38:08	.....ura	裏	secret
+	38:18	.....kasetsu	解説	explanation
+	39:27	...hanza-handachi	半座半立	half-sitting half-standing
+	39:50	....omote	表	public
+	39:50	.....shutou dzume	手刀詰	knife-hand jam	katate dori (pull)
+	40:15	.....kote gaeshi	小手返	forearm flip	sokumen uchi
+	40:36	.....suso dori	裾捕	hem capture	shomen uchi
+	40:57	.....hiji kujiki	肘挫	elbow bend-back	tachi-eri dori
+	41:18	.....irimi dzume	入身詰	enter-body jam	morote dori (pull)
+	41:41	....ura
+	41:53	.....shutou dzume	手刀詰	knife-hand jam	katate dori (pull)
+	42:17	.....kote gaeshi	小手返	forearm flip	sokumen uchi
+	42:38	.....suso dori	裾捕	hem capture	shomen uchi
+	43:01	.....hiji kujiki	肘挫	elbow bend-back	tachi-eri dori
+	43:22	.....irimi dzume	入身詰	enter-body jam	morote dori (pull)
+	43:56	....kasetsu	解説	explanation
+	43:56	.....shutou dzume	手刀詰	knife-hand jam	katate dori (pull)
+	44:40	.....kote gaeshi	小手返	forearm flip	sokumen uchi
+	46:31	.....suso dori	裾捕	hem capture	shomen uchi
+	47:13	.....hiji kujiki	肘挫	elbow bend-back	tachi-eri dori
+	47:59	.....irimi dzume	入身詰	enter-body jam	morote dori (pull)
+	49:52	..kendo kata	剣道形	sword-way forms
+	51:18	...kendo kata	剣道形	sword-way forms
+	53:29	...kendo kata (kodachi)	剣道形（小太刀）	sword-way forms (short sword)
+	54:40	..		end part 6
+https://www.youtube.com/watch?v=O_rBjpCNOp4	0:00	..		start part 7
+	2:15	..		part 7 intro	
+	3:36	..kuden	口伝	oral transmission
+	3:47	...kuzushi	崩し	unbalancing
+	5:49	...rakka	落下	drop down
+	10:24	...nawa	縄	rope
+	16:29	..nikajo	二ヶ条	section two
+	16:29	...tachi-ai	立合	both standing
+	16:37	....gyaku dasuki	逆襷	reverse sash	shomen uchi
+	16:58	.....ura	裏	secret
+	17:09	.....kasetsu	解説	explanation
+	18:25	....hiki otoshi	引落	pull drop	yokomen uchi
+	18:42	.....ura	裏	secret
+	18:53	.....kasetsu	解説	explanation
+	20:49	....kubi nage	首投	neck throw	sode dori
+	21:04	.....ura	裏	secret
+	21:14	.....kasetsu	解説	explanation
+	22:06	....suso barai	裾拂 or 裾払	hem sweep	sode dori
+	22:22	.....ura	裏	secret
+	22:33	.....kasetsu	解説	explanation
+	23:21	....seoi nage	背負投	back-carry throw	emon jime
+	23:38	.....ura	裏	secret
+	23:49	.....kasetsu	解説	explanation
+	25:23	....shutou dzume	手刀詰	knife-hand jam	katate dori
+	26:04	.....ura	裏	secret
+	26:14	.....kasetsu	解説	explanation
+	28:08	....kote gaeshi	小手返	forearm flip	shomen uchi
+	28:30	.....ura	裏	secret
+	28:41	.....kasetsu	解説	explanation
+	30:45	....kata guruma	肩車	shoulder wheel	shomen uchi
+	31:01	.....ura	裏	secret
+	31:13	.....kasetsu	解説	explanation
+	32:22	....koshi guruma	腰車	lower-back wheel	yokomen uchi
+	32:38	.....ura	裏	secret
+	32:50	.....kasetsu	解説	explanation
+	33:22	....se kujiki	背挫	back bend-back	emon jime
+	33:45	.....ura	裏	secret
+	34:01	.....kasetsu	解説	explanation
+	35:10	...ushiro-dori	後捕	rear capture
+	35:20	....tsuki taoshi	突倒	thrust topple	tachi-eri dori
+	35:36	.....ura	裏	secret
+	35:46	.....kasetsu	解説	explanation
+	36:43	....sukui nage	掬投	scoop throw	ryohiji dori
+	37:03	.....ura	裏	secret
+	37:17	.....kasetsu	解説	explanation
+	38:02	....gyaku gote	逆小手	reverse forearm	kataha jime
+	38:25	.....ura	裏	secret
+	38:39	.....kasetsu	解説	explanation
+	39:42	....kubi nage	首投	neck throw	hagai jime (full nelson)
+	40:00	.....ura	裏	secret
+	40:13	.....kasetsu	解説	explanation
+	40:48	....hiji kujiki	肘挫	elbow bend-back	ryosode dori
+	41:09	.....ura	裏	secret
+	41:22	.....kasetsu	解説	explanation
+	43:13	..kenjutsu	剣術	sword art
+	43:16	...takagami gokui goten	高上極意五点	advanced secret teachings five points
+	45:21	...bottoujuutsu	抜刀術	sword drawing art
+	47:41	..		talking
+	49:26	..gokui-kaidai - souden tasuu dori	極意解題 総伝多数捕	secret teaching review - general message many capture
+	50:23	...kaidai	解題	review
+	50:48	..		end part 7
