@@ -25,7 +25,7 @@ td {
 }
 h1 {
 	display: inline;
-	font-size: 18px;
+	size: 24pt;
 }
 b {
 	color: darkgreen;
@@ -81,6 +81,12 @@ hr {
 }
 a:link {
 	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:hover span {
+	text-decoration: underline;
 }
 @media only screen and (max-device-width: 480px) {
 	a {

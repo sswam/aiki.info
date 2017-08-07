@@ -2,7 +2,7 @@
 
 #all: perms $(shell find . -maxdepth 1 -path '*/.*' -prune -o -name '*.txt' -type f -print | sed 's/\.txt$$/.html/') $(shell find . -maxdepth 1 -path '*/.*' -prune -o \( -name '*.png' -o -name '*.jpg' \) -type f -print | sed 's,\(.*/\),\1tn/,;')
 
-all: html labs+ Aikido.html kihon-waza.html notes_html waza-nihongo.txt waza-english.txt vocab.html Daito_Ryu.html
+all: html labs+ Aikido.html Kihon_Waza.html notes_html waza-nihongo.txt waza-english.txt vocab.html Daito_Ryu.html
 # html: $(patsubst %.txt,%.html,$(wildcard *.txt))
 html: index.html
 
@@ -28,7 +28,7 @@ replacements.sed: replacements.txt
 Aikido.html: Aikido.2.html replacements.sed
 	sed -f replacements.sed <$< >$@
 
-kihon-waza.html: kihon-waza.1.html
+Kihon_Waza.html: Kihon_Waza.1.html
 	./add-links-and-translations.pl <$< >$@
 
 notes_html:

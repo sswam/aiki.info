@@ -1,58 +1,28 @@
 (
-=合氣道 - 合氣柔術 - 武士道=
+#=合気道 - 合気柔術 - 武士道=
+#
+#
+*Daito-ryu Aiki-jujutsu:*
 
-# *Ai*: balance, harmony.  *Ki*: spirit, energy.  *Do*: path, way.
-# 
-# *Aikido* is the way of *balanced spirit*, the art of *saving the enemy*.  We fight with care, seeking peace, protecting the aggressor from harm.
-# 
-# 殺人剣 - 活人剣
-# 
-# Aikido is the practical balance between non-violence and self defence.  The true Aiki fighter can succeed without doing any real harm, although there may be some pain or minor injury along the way!
-# 
-# Aikido: a joyful dance, a vital sport, the art of peace, the best strategy.
-# 
+./Daito_Ryu.html techniques with video links
 
-*video indexes:*
 
+*Aikido:*
+
+Yoshinkan ./Kihon_Waza.html chart with video links
+#small pdf charts: ./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
 ./Yoshinkan.html Aikido: Complete Techniques
 ./Aikido.html Techniques - a large index
-./Daito_Ryu.html Techniques
 
 
-*kihon-waza charts for Yoshinkan Aikido:*
+*Yoga:*
 
-Yoshinkan ./kihon-waza.html chart with video links
-small pdf charts: ./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
+Five simple ./Yoga exercises for a very healthy back
 
 
 [earth.jpg]
+
 ;
-# .... =Aikido= .... 
-#
-#This is a place for Aikido on the Internet, for people who love peace, and the martial arts.
-#
-#As an Internet host, we serve and link to sites about Aikido.  We host personal, group, and business websites, and provide other services including email and ssh.
-#
-#These services are available free of charge, or "pay what you feel".
-#
-#Please contact ./Sam_Watkins for more information.
-#
-#
-# .... dōjō  sensei  students .... 
-# .... websites  books  videos ....
-# .... people  groups  links ....
-# .... web  mail  ssh  ./labs ....
-# .... ./dmca ....
-#
-#;
-#>[aiki.png]
-# 
-# 
-# Study how water flows in a valley stream, smoothly and freely between the rocks.  Also learn from holy books and wise people.  Everything - even mountains, rivers, plants and trees - should be your teacher. 
-# 
-# To injure an opponent is to injure yourself.  To control aggression without inflicting injury is the Art of Peace.
-# 
-# 
 *Eight principles of Aikidō and Aiki-jūjutsu:*
 
 礼法	reihō	respect
@@ -64,24 +34,34 @@ small pdf charts: ./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
 崩し	kuzushi	unbalancing
 残心	zanshin	awareness
 
-This is based on the principles explained by Kondo Katsuyuki in this talk: https://www.youtube.com/watch?v=zzbiBCZPXg0
+This list is based on a talk by Kondo Katsuyuki:
+https://www.youtube.com/watch?v=zzbiBCZPXg0
 
 
 *Eight Virtues of Bushidō:*
 
-義	gi	integrity
-勇気	yūki	courage
+義	gi	justice
+勇	yū	courage
 仁	jin	benevolence
-礼儀	reigi	courtesy
-誠	makoto	honesty
-名誉	meiyo	honour
-忠義	chūgi	loyalty
-克己	katsumi	discipline
+礼	rei	respect
+真	shin	truth
+名	mei	honour
+忠	chū	loyalty
+克	ka	overcome
+#腹	hara	willpower
 
 
-#[Morihei-Ueshiba.jpg]
-
-#Ōsensei Morihei Ueshiba
+#義	gi	integrity
+##正義	seigi	justice
+#勇気	yūki	courage
+#仁	jin	benevolence
+##仁心	jinshin	benevolence
+#礼儀	reigi	courtesy
+#誠	makoto	honesty
+##誠実	seijitsu	honesty
+#名誉	meiyo	honour
+#忠義	chūgi	loyalty
+#克己	katsumi	discipline
 ;
-[aikido.png]
+[aiki.png]
 )
