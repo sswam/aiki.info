@@ -1,28 +1,4 @@
 (
-#=合気道 - 合気柔術 - 武士道=
-#
-#
-*Daito-ryu Aiki-jujutsu:*
-
-./Daito_Ryu.html techniques with video links
-
-
-*Aikido:*
-
-Yoshinkan ./Kihon_Waza.html chart with video links
-#small pdf charts: ./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
-./Yoshinkan.html Aikido: Complete Techniques
-./Aikido.html Techniques - a large index
-
-
-*Yoga:*
-
-Five simple ./Yoga exercises for a very healthy back
-
-
-[earth.jpg]
-
-;
 *Eight principles of Aikidō and Aiki-jūjutsu:*
 
 礼法	reihō	respect
@@ -34,8 +10,7 @@ Five simple ./Yoga exercises for a very healthy back
 崩し	kuzushi	unbalancing
 残心	zanshin	awareness
 
-This list is based on a talk by Kondo Katsuyuki:
-https://www.youtube.com/watch?v=zzbiBCZPXg0
+This list is based on ./a_talk_by_Kondo_Katsuyuki.
 
 
 *Eight Virtues of Bushidō:*
@@ -48,20 +23,35 @@ https://www.youtube.com/watch?v=zzbiBCZPXg0
 名	mei	honour
 忠	chū	loyalty
 克	ka	overcome
-#腹	hara	willpower
 
 
-#義	gi	integrity
-##正義	seigi	justice
-#勇気	yūki	courage
-#仁	jin	benevolence
-##仁心	jinshin	benevolence
-#礼儀	reigi	courtesy
-#誠	makoto	honesty
-##誠実	seijitsu	honesty
-#名誉	meiyo	honour
-#忠義	chūgi	loyalty
-#克己	katsumi	discipline
+[earth.jpg]
+
+
+;
+*Daitō-ryū Aiki-jūjutsu:*
+
+./Daito_Ryu.html techniques with video links
+
+
+*Aikidō:*
+
+Yoshinkan ./Kihon_Waza.html chart with video links
+#small pdf charts: ./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
+./Yoshinkan.html Aikido: Complete Techniques
+./Aikido.html Techniques - a large index
+
+
+*Yoga:*
+
+Five simple ./Yoga exercises for a healthy back
+
+
+[FB-f-Logo__blue_29.png]  ./discussion_group
+
+
 ;
 [aiki.png]
+
+
 )

@@ -44,7 +44,7 @@ img {
 	float: left;
 	width: 31.5%;
 	min-width: 300px;
-	max-width: 500px;
+	max-width: 350px;
 	margin: 0px 7px 0px 7px;
 	page-break-inside: avoid;
 }
