@@ -20,15 +20,12 @@ table.nolines, table.nolines td {
 td.first {
 	white-space: nowrap;
 }
-table.nolines td, table.nolines th {
-	padding: 0 1em;
-}
 table.columns > tbody > tr > td {
 	max-width: 500px;
 	min-width: 300px;
 }
 td {
-	padding: 3px 6px 3px 6px;
+	padding: 3px 16px 3px 16px;
 	vertical-align: top;
 }
 h1 {
