@@ -1,4 +1,16 @@
 (
+*Eight Virtues of Bushidō:*
+
+義	gi	justice
+勇	yū	courage
+仁	jin	benevolence
+礼	rei	respect
+真	shin	truth
+名	mei	honour
+忠	chū	loyalty
+克	ka	victory
+
+
 *Eight principles of Aiki arts:*
 
 礼法	reihō	respect
@@ -11,18 +23,6 @@
 残心	zanshin	awareness
 
 This list is based on ./a_talk_by_Kondo_Katsuyuki.
-
-
-*Eight Virtues of Bushidō:*
-
-義	gi	justice
-勇	yū	courage
-仁	jin	benevolence
-礼	rei	respect
-真	shin	truth
-名	mei	honour
-忠	chū	loyalty
-克	ka	overcome
 
 
 [earth.jpg]
