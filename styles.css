@@ -86,6 +86,7 @@ hr {
 }
 a:link {
 	text-decoration: none;
+/*	font-style: italic; */
 }
 a:hover {
 	text-decoration: underline;

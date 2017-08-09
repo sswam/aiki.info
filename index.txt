@@ -18,33 +18,38 @@
 間合	maai	distancing
 構え	kamae	structure
 合気	aiki	blending
-呼吸	kokyū	breathing, timing
+呼吸	kokyū	timing
 崩し	kuzushi	unbalancing
 残心	zanshin	awareness
-
-This list is based on ./a_talk_by_Kondo_Katsuyuki.
-
-
-[earth.jpg]
+#
+#This list is based on ./a_talk_by_Kondo_Katsuyuki.
 
 
+#[earth.jpg]
+#
+#
 ;
-*Daitō-ryū Aiki-jūjutsu:*
-
-./Daito_Ryu.html techniques with video links
-
-
 *Aikidō:*
 
-Yoshinkan ./Kihon_Waza.html chart with video links
+* Yoshinkan ./Kihon_Waza.html chart with video links
+    ./kyu, ./shodan, ./nidan, ./to-shodan, ./to-nidan
 #small pdf charts: ./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
-./Yoshinkan.html Aikido: Complete Techniques
-./Aikido.html Techniques - a large index
+* ./Yoshinkan.html Aikido: Complete Techniques
+    ./kihon+dosa, ./ukemi, ./jiyu-waza, ./oyo-waza
+* ./Aikido.html Techniques - a large index
+* Yoshinkan flashcards (16): ./cards-1.pdf, ./cards-2.pdf
+
+
+*Daitō-ryū Aiki-jūjutsu:*
+
+* ./Daito_Ryu.html techniques with video links
+    ./ikkajo, ./nikajo, ./sankajo, ./yonkajo, ./gokajo,
+    ./aiki-no-jutsu, ./uragata
 
 
 *Yoga:*
 
-Five simple ./Yoga exercises for a healthy back
+* Five simple ./Yoga exercises for a healthy back
 
 
 [FB-f-Logo__blue_29.png]  ./discussion_group
