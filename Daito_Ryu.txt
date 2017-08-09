@@ -1,7 +1,7 @@
 http://www.youtube.com/watch?v=u0az6iuLOCo	0:13	Kondō Katsuyuki - Daitō-ryū Aiki-jūjutsu	近藤勝之 - 大東流合気柔術
 	0:13	.Daito-ryu shi	大東流史	Daito-ryu history
 	31:22	.reihō	礼法	etiquette
-	33:39	.hiden mokuroku	秘伝目録	secret catalog
+	33:39	.hiden mokuroku	秘伝目録	secret syllabus
 	39:50	.idori hanza-handachi tachi-ai ushiro-dori	居捕 半座半立 立合 後捕
 	49:01	.gihō kaisetsu	技法解説	Technical Explanations
 	49:04	..ippon dori	一本捕	one arm capture	shomen uchi
@@ -249,8 +249,8 @@ https://www.youtube.com/watch?v=m0Nc07fkdWg	0:00	..yonkajo	四ヶ条	section fou
 	5:20	....hadaka jime	裸締	naked clamp	tsuki
 	5:41	....daruma gaeshi	達磨返	dharma flip	ryokata dori
 
-https://www.youtube.com/watch?v=HTkFIcdb56M	0:00	Hakuhō-ryu Aiki-jūjutsu (UK)	白鳳流合気柔術 (UK)
-	0:00	.hiden mokuroku	秘伝目録	secret catalog
+https://www.youtube.com/watch?v=HTkFIcdb56M	0:00	Hakuhō-ryu Aiki-jūjutsu UK	白鳳流合気柔術 UK
+	0:00	.hiden mokuroku	秘伝目録	secret syllabus
 	0:00	..ikkajo	一ヶ条	section one
 	0:02	...idori	居捕	sitting capture
 	0:10	....ippon dori	一本捕	one arm capture	shomen uchi
@@ -324,7 +324,7 @@ https://www.youtube.com/watch?v=9UfV07KNpxI	0:00	..nikajo	二ヶ条	section two
 	8:42	....hiji kujiki	肘挫	elbow bend-back	ryosode dori
 https://www.youtube.com/watch?v=huK0s2hOW3I	0:00	..sankajo	三ヶ条	section three
 	0:00	...idori	居捕	sitting capture
-	0:08	....tsuri otoshi	釣落	fishing drop	shomen uchi
+	:08	....tsuri otoshi	釣落	fishing drop	shomen uchi
 	0:24	....temakura	手枕	hand pillow	yokomen uchi
 	0:40	....soto gote	外小手	outside forearm	katate mune dori
 	0:51	....maki dzume	巻詰	wind-up jam	shomen uchi
@@ -334,9 +334,58 @@ https://www.youtube.com/watch?v=huK0s2hOW3I	0:00	..sankajo	三ヶ条	section thr
 	1:46	....kiriha	切羽	cut wing	kakete
 	1:57	....uchi ude gaeshi	内腕返	inside arm flip	ganmen tsuki (face thrust)
 	2:14	....gasshou dori	合掌捕	join palms capture	kakete
+https://www.youtube.com/watch?v=89ISDCUudO4	0:00	.aiki-no-jutsu	合気之術	the science of joining spirit
+-		..katate dori	片手取	single hand take
+		...mikaeri otoshi	身返り落	body flip drop
+		...myaku no fure	脈の触れ	pulse touch
+		...waki no sukui	脇掬	side scoop
+		...kasumi nage no koma kuzushi	霞投の駒崩し	mist throw chess-piece unbalancing
+		# or spinning-top unbalancing?
+		...maki dzume no koma kuzushi	巻詰の駒崩し	wind-up jam chess-piece unbalancing	
+		...mukae otoshi	迎え落	meeting drop
+		...rakuyo	落葉	fallen leaves
+		...aiki otoshi	合気落	aiki drop
+		...sashi kiri	差し切	between cut
+		...koshi guruma	腰車	lower-back wheel
+		...ichi monji	一文字	straight line	
+		...koshi no kuzure	腰崩れ	lower-back collapse	
+		...uki hashi	浮き橋	floating bridge
+		...ni ho goshi	二歩越し	two step crossing
+		...koshimi	越し身	crossing body
+		...myaku gaeshi	脈返	pulse flip
+		...tatsu maki		rising wind-up
+		...shakkotsu gaeshi	尺骨返	ulna flip
+https://www.youtube.com/watch?v=89ISDCUudO4	0:00	..ryote dori	両手取	both hands take
+	0:03	...ushiro date	後伊	rear under-belt
+	0:26	...yu gao	弓顔	bow face
+	0:44	...tenchi no wakare	天地の別れ	separate heaven and earth
+	0:57	...kagi gatame	鉤固	hook pin
+	1:19	...nadare	雪崩	avalanche
+#	1:30	...uke modoshi	受戻し	receive return
+	1:30	...uki modoshi	浮受戻し	float return
+	1:45	...saza nami	細波	ripple
+	2:02	...yobi modoshi	呼び戻し	call return
+	2:14	...hi sho	火暑	fire heat (?)
+	2:30	...kata otoshi	肩落	shoulder drop
+	2:45	...kesa giri	袈裟切	scarf cut
+	3:02	...orimi	折り身	fold body
+	3:12	...tachi zori	立反	standing throw back
+	3:26	...furiko otoshi	振り子落	pendulum drop
+	3:41	...nukite otoshi	抜手落	pull out hand drop
+	3:56	...katate otoshi	片手落	one hand drop
+	4:08	...ryo ichimonji	両一文字	both straight line
+	4:22	...aya guruma	綾車	diagonal wheel
+	4:42	...yuragi otoshi	揺らぎ落	tremor drop
+	4:55	...koshi no hiraku	腰の開く	lower-back open
+-		...tachi gori kuzushi	立梱崩し	standing bale unbalancing
+		...hi aburi	火炙り	fire cooking
+		...tsuri juji	釣十字	fishing cross shape
+		...kokyu torae	呼吸捕らえ	breath capture
+		...kumi gatame ayatori	組固め綾取	grapple pin cross-hand take
+#		...kumi gateme ayatori	綾取	cross-hand take
 
 https://www.youtube.com/watch?v=cRTye-wq5yI	0:00	Nihon Daitō-ryū Aikibudō Seishin Kai - Katō Shigemitsu	日本大東流合気武道誠心会 - 加藤茂光
-	0:00	.hiden mokuroku 118 kajō	秘伝目録百十八ヶ条	secret catalog 118 items
+	0:00	.hiden mokuroku 118 kajō	秘伝目録百十八ヶ条	secret syllabus 118 items
 	0:00	..		start part 1
 	2:00	..		part 1 intro
 	2:20	..taikei	体系	system
@@ -512,7 +561,7 @@ https://www.youtube.com/watch?v=QbQ2n-C6mDY	0:00	..		start part 3
 https://www.youtube.com/watch?v=BXljPTQD5bg	0:00	.Uragata	裏形	secret forms
 	0:00	..		start part 4
 	3:06	..		part 4 intro
-	3:52	.."hiden mokuroku uragata" to wa nani ka?	「秘伝目録・裏形」とは何か	what are the "secret catalog secret forms"?
+	3:52	.."hiden mokuroku uragata" to wa nani ka?	「秘伝目録・裏形」とは何か	what are the "secret syllabus secret forms"?
 	7:43	..ikkajo	一ヶ条	section one
 	7:43	...idori	居捕	sitting capture
 	8:19	....ippon dori	一本捕	one arm capture	shomen uchi
@@ -753,3 +802,30 @@ https://www.youtube.com/watch?v=O_rBjpCNOp4	0:00	..		start part 7
 	49:26	..gokui-kaidai - souden tasuu dori	極意解題 総伝多数捕	secret teaching review - general message many capture
 	50:23	...kaidai	解題	review
 	50:48	..		end part 7
+https://www.youtube.com/channel/UCpDkMbso45IS5urvgelCpeg	-	Hakuhō-ryu Aiki-jūjutsu Osaka, Peter Handley	白鳳流合気柔術 大阪, Peter Handley
+https://www.youtube.com/playlist?list=PL7olHEoyJXI3YHCqTGrlUTQn7mZccpzm8		.aiki-no-jutsu	合気之術	the science of joining spirit
+		..katate dori	片手取	single hand take
+https://www.youtube.com/watch?v=KArOuPXJzP0	0:00	...shakkotsu gaeshi	尺骨返	ulna flip
+		..ryote dori	両手取	both hands take
+https://www.youtube.com/watch?v=Dd__u1LT8vI	0:00	...furiko otoshi	振り子落	pendulum drop
+https://www.youtube.com/watch?v=QKrPiYE6Sxs&index=2&list=PL7olHEoyJXI3YHCqTGrlUTQn7mZccpzm8	0:00	...nukite otoshi	抜手落	pull out hand drop
+https://www.youtube.com/watch?v=QKrPiYE6Sxs	0:00	....		soft variation
+https://www.youtube.com/watch?v=OE_wxBedjiE	0:00	....		ending variations
+https://www.youtube.com/watch?v=fuWl-Xcn7KY&index=4&list=PL7olHEoyJXI3YHCqTGrlUTQn7mZccpzm8	0:00	...ryo ichimonji	両一文字	both straight line
+https://www.youtube.com/watch?v=fuWl-Xcn7KY	0:00	....		practice
+https://www.youtube.com/watch?v=hWb2jA93fUA	0:00	....		detail of cut line
+https://www.youtube.com/watch?v=Audv_ND0ZKQ	0:00	...katate otoshi	片手落	one hand drop
+https://www.youtube.com/watch?v=lxli1Kyv23I	0:00	...yuragi otoshi	揺らぎ落	tremor drop
+https://www.youtube.com/watch?v=7FwXHp4WY54	0:00	...aya guruma	綾車	diagonal wheel
+https://www.youtube.com/watch?v=MqWvPFzEUOI&list=PL7olHEoyJXI3YHCqTGrlUTQn7mZccpzm8&index=9	0:00	..idori	居捕	sitting capture
+https://www.youtube.com/watch?v=MqWvPFzEUOI	0:00	...aiki nage	合気投	aiki throw
+https://www.youtube.com/watch?v=S7PPzlUchfk	0:00	...aiki age	合気上	aiki raise
+https://www.youtube.com/watch?v=9WDv6styjq0&list=PL7olHEoyJXI3YHCqTGrlUTQn7mZccpzm8&index=11	0:00	..ushiro-dori	後捕	rear capture
+https://www.youtube.com/watch?v=9WDv6styjq0	0:00	...sofuku	粗服	plain clothes (?)
+https://www.youtube.com/watch?v=MIzzg4HBGAY	0:00	....		fragment
+https://www.youtube.com/watch?v=wVNcC2ecgNg	0:00	...tamanokoshi	球乗腰	ball-ride lower-back
+https://www.youtube.com/watch?v=MIzzg4HBGAY	0:04	....		fragment
+https://www.youtube.com/watch?v=uoJowAkX4DQ	0:00	...sanju	三十	thirty (?)
+https://www.youtube.com/watch?v=HBF71R6JEts	0:00	....details
+https://www.youtube.com/watch?v=amChPirQY9c	0:00	...karamegake	搦掛	tangle hang
+https://www.youtube.com/watch?v=TLJuuJt5YV0	0:00	...jumonji	十文字	cross-shape

@@ -5,7 +5,7 @@ use Data::Dumper;
 
 my $indent = -1;
 
-my ($video, $time);
+my ($link, $time);
 
 my $class0 = "field";
 my @classes = qw(romaji nihongo english attack);
@@ -13,20 +13,20 @@ my @classes = qw(romaji nihongo english attack);
 while (defined (my $line=<STDIN>)) {
 	chomp $line;
 	next if $line =~ /^\s*#/;
-	my ($video1, $time1, @fields) = split /\t/, $line, -1;
-	if ($video1) {
-		$video = $video1;
+	my ($link1, $time1, @fields) = split /\t/, $line, -1;
+	if ($link1) {
+		$link = $link1;
 	}
 	if ($time1) {
 		$time = $time1;
 	}
 	$fields[0] ||= '';
 	$fields[0] =~ s/^(\.*)//;
-	my $link = "";
+	my $row = "";
 	my $i = 0;
 	for (@fields) {
 		my $class = $classes[$i++] || "";
-		$link .= qq{ <span class="$class0 $class">$_</span>};
+		$row .= qq{ <span class="$class0 $class">$_</span>};
 	}
 	my $indent1 = length($1);
 	while ($indent < $indent1) {
@@ -37,23 +37,18 @@ while (defined (my $line=<STDIN>)) {
 		print "</ul>\n";
 		--$indent;
 	}
-	if ($time ne "") {
+	if (@fields <= 1 && $fields[0] eq '') {
+		print qq{<li style="visibility: hidden;">\n};
+	} elsif ($time ne "" && $time ne "-" && $link =~ m{watch\?v=}) {
 		my $yt_time = "${time}s";
 		$yt_time =~ s/(.*):/$1m/;
 		$yt_time =~ s/(.*):/$1h/;
-		if (@fields > 1 || $fields[0] ne '') {
-			print qq{<li><A href="$video&t=$yt_time#t=$yt_time">$link</A>\n};
-		} else {
-			print qq{<li style="visibility: hidden;">\n};
-		}
+		print qq{<li><A href="$link&t=$yt_time#t=$yt_time">$row</A>\n};
+	} elsif ($link =~ m{://}) {
+		print qq{<li><A href="$link">$row</A>\n};
+	} else {
+		print qq{<li>$row\n};
 	}
-# else {
-# 		if ($link ne "") {
-# 			print "<li>$link\n";
-# 		} else {
-# 			print qq{<li style="visibility: hidden;">};
-# 		}
-# 	}
 }
 while ($indent > -1) {
 	print "</ul>\n";
