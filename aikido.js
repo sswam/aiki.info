@@ -111,5 +111,6 @@ $('#search').on('keyup', function(event) {
 $('#search_clear').on('click', search_clear);
 $(window).hashchange(on_hash_change);
 $(function() {
+	$('#search').focus();
 	on_hash_change();
 });
