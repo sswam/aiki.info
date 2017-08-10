@@ -45,6 +45,7 @@
 * ./Daito_Ryu.html techniques with video links
     ./ikkajo, ./nikajo, ./sankajo, ./yonkajo, ./gokajo,
     ./aiki-no-jutsu, ./uragata
+* ./Daito_Ryu_flashcards for ./Anki.
 
 
 *Yoga:*
