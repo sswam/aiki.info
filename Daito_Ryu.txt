@@ -257,7 +257,7 @@ https://www.youtube.com/watch?v=HTkFIcdb56M	0:00	Hakuhō-ryu Aiki-jūjutsu UK	�
 	0:27	....gyaku ude dori	逆腕捕	reverse arm capture	katate mune dori
 	0:48	....hiji gaeshi	肘返	elbow flip	katate mune dori
 	1:04	....kuruma daoshi	車倒	wheel topple	yokomen uchi
-	1:16	....shime gaeshi (shibori gaeshi)	絞返	choke flip	emon jime
+	1:16	....shime gaeshi	絞返	choke flip	emon jime
 	1:31	....daki jime	抱締	hug clamp	emon jime
 	1:47	....karame nage	搦投	tangle throw	mune dori shomen uchi
 	2:08	....kote gaeshi	小手返	forearm flip	ryote dori (pull)
