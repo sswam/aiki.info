@@ -430,7 +430,7 @@ https://www.youtube.com/watch?v=cRTye-wq5yI	0:00	Nihon Daitō-ryū Aikibudō Sei
 	28:41	....kote dzume	小手詰	forearm jam	shomen uchi
 	30:00	....gyaku dasuki	逆襷	reverse sash	shomen uchi
 	30:46	....hiji kujiki	肘挫	elbow bend-back	yokomen uchi
-	31:44	....koba gaeshi (konoha gaeshi)	木葉返	leaf flip	kakete (no attack, block strike)
+	31:44	....koba gaeshi	木葉返	leaf flip	kakete (no attack, block strike)
 	32:45	....shutou dzume	手刀詰	knife-hand jam	katate dori (hold)
 	33:36	....kubi hineri	頸捻	neck twist	emon jime
 	34:33	....kote gaeshi	小手返	forearm flip	katate kata dori (block strike)
@@ -697,7 +697,7 @@ https://www.youtube.com/watch?v=eNfhjUbvj6c	0:00	.Kudengokui	口伝極意編	ora
 	20:44	....hiji kujiki	肘挫	elbow bend-back	yokomen uchi
 	21:02	.....ura	裏	secret
 	21:11	.....kasetsu	解説	explanation
-	24:08	....koba gaeshi (konoha gaeshi)	木葉返	leaf flip	kakete (no attack, block strike)
+	24:08	....koba gaeshi	木葉返	leaf flip	kakete (no attack, block strike)
 	24:21	.....ura	裏	secret
 	24:33	.....kasetsu	解説	explanation
 	25:47	....shutou dzume	手刀詰	knife-hand jam	katate dori (hold)
