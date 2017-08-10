@@ -43,7 +43,8 @@ while (defined (my $line=<STDIN>)) {
 		my $yt_time = "${time}s";
 		$yt_time =~ s/(.*):/$1m/;
 		$yt_time =~ s/(.*):/$1h/;
-		print qq{<li><A href="$link&t=$yt_time#t=$yt_time">$row</A>\n};
+		my $yt_link = "$link&t=$yt_time#t=$yt_time";
+		print qq{<li><A href="$yt_link">$row</A>\n};
 	} elsif ($link =~ m{://}) {
 		print qq{<li><A href="$link">$row</A>\n};
 	} else {
