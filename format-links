@@ -22,12 +22,6 @@ while (defined (my $line=<STDIN>)) {
 	}
 	$fields[0] ||= '';
 	$fields[0] =~ s/^(\.*)//;
-	my $row = "";
-	my $i = 0;
-	for (@fields) {
-		my $class = $classes[$i++] || "";
-		$row .= qq{ <span class="$class0 $class">$_</span>};
-	}
 	my $indent1 = length($1);
 	while ($indent < $indent1) {
 		print "<ul>\n";
@@ -36,6 +30,12 @@ while (defined (my $line=<STDIN>)) {
 	while ($indent > $indent1) {
 		print "</ul>\n";
 		--$indent;
+	}
+	my $row = "";
+	my $i = 0;
+	for (@fields) {
+		my $class = $classes[$i++] || "";
+		$row .= qq{ <span class="$class0 $class">$_</span>};
 	}
 	if (@fields <= 1 && $fields[0] eq '') {
 		print qq{<li style="visibility: hidden;">\n};
