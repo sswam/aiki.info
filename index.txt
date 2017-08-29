@@ -37,6 +37,7 @@
 * ./Yoshinkan.html Aikido: Complete Techniques
     ./kihon+dosa, ./ukemi, ./jiyu-waza, ./oyo-waza
 * ./Aikido.html Techniques - a large index
+* ./Aikido_Shudokan.html additional techniques
 * Yoshinkan flashcards (16): ./cards-1.pdf, ./cards-2.pdf
 
 
@@ -51,6 +52,11 @@
 *Yoga:*
 
 * Five simple ./Yoga exercises for a healthy back
+
+
+*Resources:*
+
+* A lending ./library of books and DVDs about budo.
 
 
 [FB-f-Logo__blue_29.png]  ./discussion_group

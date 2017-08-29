@@ -2,7 +2,7 @@
 
 #all: perms $(shell find . -maxdepth 1 -path '*/.*' -prune -o -name '*.txt' -type f -print | sed 's/\.txt$$/.html/') $(shell find . -maxdepth 1 -path '*/.*' -prune -o \( -name '*.png' -o -name '*.jpg' \) -type f -print | sed 's,\(.*/\),\1tn/,;')
 
-all: html labs+ Aikido.html Kihon_Waza.html notes_html waza-nihongo.txt waza-english.txt vocab.html Daito_Ryu.html
+all: html labs+ Aikido.html Kihon_Waza.html notes_html waza-nihongo.txt waza-english.txt vocab.html Daito_Ryu.html Aikido_Shudokan.html
 # html: $(patsubst %.txt,%.html,$(wildcard *.txt))
 html: index.html
 
@@ -45,5 +45,9 @@ vocab.html: vocab.txt
 
 Daito_Ryu.html: Daito_Ryu.html.head Daito_Ryu.html.tail Daito_Ryu.txt format-links
 	(cat Daito_Ryu.html.head ; ./format-links < Daito_Ryu.txt ; cat Daito_Ryu.html.tail) >$@
+
+Aikido_Shudokan.html: Aikido_Shudokan.html.head Aikido_Shudokan.html.tail Aikido_Shudokan.txt format-links
+	(cat Aikido_Shudokan.html.head ; ./format-links < Aikido_Shudokan.txt ; cat Aikido_Shudokan.html.tail) >$@
+
 
 .PHONY: all html

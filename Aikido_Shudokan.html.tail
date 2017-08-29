@@ -1,0 +1,29 @@
+
+</div>
+
+<div style="float:right; min-width: 280px;" class="links no-print">
+	<div style="float:right" class="japanese vertical">合気道修道館</div>
+	<p><img src="aikido_shudokan.png"></p>
+
+	<p>text index: &nbsp; <A href="Aikido_Shudokan.txt">Aikido_Shudokan.txt</A>
+
+	<p>home: &nbsp; <A href="/">aiki.info</A>
+
+	<p><img src="FB-f-Logo__blue_29.png" alt="FB-f-Logo  blue 29" title="FB-f-Logo  blue 29">&nbsp; <a href="https://www.facebook.com/groups/aiki.info/">discussion group</a></p>
+</div>
+
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="jquery.ba-hashchange.min.js"></script>
+<script>
+$(main);
+function main() {
+	fix_table();
+}
+function fix_table() {
+	$('span.romaji').each(function (){
+		var $x = $(this);
+		$x.width(390 - $x.offset().left);
+	});
+}
+</script>
+<script type="text/javascript" src="aikido.js"></script>

@@ -32,7 +32,7 @@
 1	29:02		koho ukemi
 1	29:02			koho ukemi
 1	29:39				application
-1	30:21			koho kaiten ukemi	
+1	30:21			koho kaiten ukemi
 1	31:00		zenpo ukemi
 1	31:18			zenpo kaiten ukemi
 1	31:57				application
