@@ -39,14 +39,14 @@
 * ./Aikido.html Techniques - a large index
 * ./Aikido_Shudokan.html additional techniques
 * Yoshinkan flashcards (16): ./cards-1.pdf, ./cards-2.pdf
-* ./Yoshinkan_flashcards for ./Anki.
+* 408 ./Yoshinkan_flashcards for ./Anki.
 
 *Daitō-ryū Aiki-jūjutsu:*
 
 * ./Daito_Ryu.html techniques with video links
     ./ikkajo, ./nikajo, ./sankajo, ./yonkajo, ./gokajo,
     ./aiki-no-jutsu, ./uragata
-* ./Daito_Ryu_flashcards for ./Anki.
+* 156 ./Daito_Ryu_flashcards for ./Anki.
 
 
 *Yoga:*
