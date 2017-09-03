@@ -234,7 +234,7 @@ https://www.youtube.com/watch?v=m0Nc07fkdWg	0:00	..yonkajo	四ヶ条	section fou
 	0:00	....ura gote	裏小手	rear forearm	shomen uchi
 	0:19	....uchi gote	内小手	inside forearm	yokomen uchi
 	0:35	....kakae kubi	抱首	hug neck	katate dori
-	0:53	....temakura dzume	手枕詰	hand pillow	yokomen uchi
+	0:53	....temakura dzume	手枕詰	hand pillow jam	yokomen uchi
 	1:10	....waki dori (omote)	脇捕（表）	side capture (front)	shomen uchi
 	1:32	....waki dori (ura)	脇捕（裏）	side capture (rear)	yokomen uchi
 	1:52	....ire chigai	入違	pass each other	koshi obi dori
@@ -508,7 +508,7 @@ https://www.youtube.com/watch?v=QbQ2n-C6mDY	0:00	..		start part 3
 	3:28	....ura gote	裏小手	rear forearm	shomen uchi
 	4:35	....uchi gote	内小手	inside forearm	yokomen uchi
 	5:35	....kakae kubi	抱首	hug neck	katate dori
-	6:44	....temakura dzume	手枕詰	hand pillow	yokomen uchi
+	6:44	....temakura dzume	手枕詰	hand pillow jam	yokomen uchi
 	7:35	....waki dori (omote)	脇捕（表）	side capture (front)	shomen uchi
 	8:16	....waki dori (ura)	脇捕（裏）	side capture (rear)	yokomen uchi
 	8:58	....ire chigai	入違	pass each other	koshi obi dori

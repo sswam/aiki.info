@@ -38,7 +38,7 @@
     ./kihon+dosa, ./ukemi, ./jiyu-waza, ./oyo-waza
 * ./Aikido.html Techniques - a large index
 * ./Aikido_Shudokan.html additional techniques
-* Yoshinkan flashcards (16): ./cards-1.pdf, ./cards-2.pdf
+* 16 Yoshinkan flashcards: ./cards-1.pdf, ./cards-2.pdf
 * 408 ./Yoshinkan_flashcards for ./Anki.
 
 *Daitō-ryū Aiki-jūjutsu:*
