@@ -29,18 +29,6 @@
 #
 #
 ;
-*Aikidō:*
-
-* Yoshinkan ./Kihon_Waza.html chart with video links
-    ./kyu, ./shodan, ./nidan, ./to-shodan, ./to-nidan
-#small pdf charts: ./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
-* ./Yoshinkan.html Aikido: Complete Techniques
-    ./kihon+dosa, ./ukemi, ./jiyu-waza, ./oyo-waza
-* ./Aikido.html Techniques - a large index
-* ./Aikido_Shudokan.html additional techniques
-* 16 Yoshinkan flashcards: ./cards-1.pdf, ./cards-2.pdf
-* 408 ./Yoshinkan_flashcards for ./Anki.
-
 *Daitō-ryū Aiki-jūjutsu:*
 
 * ./Daito_Ryu.html techniques with video links
@@ -48,11 +36,25 @@
     ./aiki-no-jutsu, ./uragata
 * 156 ./Daito_Ryu_flashcards for ./Anki.
 
+*Aikidō Yoshinkan:*
+
+* Yoshinkan ./Kihon_Waza.html chart with video links
+    ./kyu, ./shodan, ./nidan, ./to-shodan, ./to-nidan
+#small pdf charts: ./aikido-1kyu.pdf - ./aikido-1dan.pdf - ./aikido-2dan.pdf
+* ./Yoshinkan.html Aikido: Complete Techniques
+    ./kihon+dosa, ./ukemi, ./jiyu-waza, ./oyo-waza
+* ./Aikido_Shudokan.html additional techniques
+* 16 Yoshinkan flashcards: ./cards-1.pdf, ./cards-2.pdf
+* 408 ./Yoshinkan_flashcards for ./Anki.
+
+*Aikidō:*
+
+* ./Iwama_Ryu.html - Morihiro Saito
+* ./Aikido.html Techniques - a large index
 
 *Yoga:*
 
 * Five simple ./Yoga exercises for a healthy back
-
 
 *Resources:*
 
