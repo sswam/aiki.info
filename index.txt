@@ -35,6 +35,7 @@
     ./ikkajo, ./nikajo, ./sankajo, ./yonkajo, ./gokajo,
     ./aiki-no-jutsu, ./uragata
 * 156 ./Daito_Ryu_flashcards for ./Anki.
+* ./Daito_Ryu_sampler.html with 21 techniques
 
 *Aikidō Yoshinkan:*
 
