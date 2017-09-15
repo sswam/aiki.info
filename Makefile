@@ -4,7 +4,7 @@
 
 all: html labs+ Aikido.html Kihon_Waza.html notes_html waza-nihongo.txt waza-english.txt vocab.html Daito_Ryu.html
 # html: $(patsubst %.txt,%.html,$(wildcard *.txt))
-html: index.html
+html: index-base.html
 
 labs+:
 	cd labs; $(MAKE)

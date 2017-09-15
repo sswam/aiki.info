@@ -1,5 +1,5 @@
 (
-*Eight Virtues of Bushidō:*
+*Eight Virtues of Bushidō 武士道:*
 
 義	gi	justice
 勇	yū	courage
@@ -29,7 +29,7 @@
 #
 #
 ;
-*Aikidō:*
+*合気道 - Aikidō:*
 
 * Yoshinkan ./Kihon_Waza.html chart with video links
     ./kyu, ./shodan, ./nidan, ./to-shodan, ./to-nidan
@@ -40,7 +40,7 @@
 * Yoshinkan flashcards (16): ./cards-1.pdf, ./cards-2.pdf
 
 
-*Daitō-ryū Aiki-jūjutsu:*
+*大東流合気柔術 - Daitō-ryū Aiki-jūjutsu:*
 
 * ./Daito_Ryu.html techniques with video links
     ./ikkajo, ./nikajo, ./sankajo, ./yonkajo, ./gokajo,
@@ -48,7 +48,7 @@
 * ./Daito_Ryu_flashcards for ./Anki.
 
 
-*Yoga:*
+*योग - Yoga:*
 
 * Five simple ./Yoga exercises for a healthy back
 
