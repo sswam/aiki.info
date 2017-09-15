@@ -34,7 +34,7 @@
 * ./Daito_Ryu.html techniques with video links
     ./ikkajo, ./nikajo, ./sankajo, ./yonkajo, ./gokajo,
     ./aiki-no-jutsu, ./uragata
-* 156 ./Daito_Ryu_flashcards for ./Anki.
+* 156 ./Daito_Ryu_flashcards for ./Anki
 * ./Daito_Ryu_sampler.html with 21 techniques
 
 *Aikidō Yoshinkan:*
@@ -46,11 +46,11 @@
     ./kihon+dosa, ./ukemi, ./jiyu-waza, ./oyo-waza
 * ./Aikido_Shudokan.html additional techniques
 * 16 Yoshinkan flashcards: ./cards-1.pdf, ./cards-2.pdf
-* 408 ./Yoshinkan_flashcards for ./Anki.
+* 408 ./Yoshinkan_flashcards for ./Anki
 
 *Aikidō:*
 
-* ./Iwama_Ryu.html - Morihiro Saito
+* ./Iwama_Ryu.html - Morihiro Saito (WIP)
 * ./Aikido.html Techniques - a large index
 
 *Yoga:*
@@ -59,7 +59,7 @@
 
 *Resources:*
 
-* A lending ./library of books and DVDs about budo.
+* A lending ./library of books and DVDs about budo
 
 
 [FB-f-Logo__blue_29.png]  ./discussion_group
