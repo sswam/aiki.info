@@ -151,8 +151,9 @@ table.principles, table.principles td {
 	vertical-align: middle;
 }
 a.home {
-	background: beige;
+	background: white;
 	border-radius: 10px;
 	padding: 6px;
 	border: 1px solid green;
+	color: green;
 }
