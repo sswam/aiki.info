@@ -29,7 +29,7 @@ function main() {
 function fix_table() {
 	$('span.romaji').each(function (){
 		var $x = $(this);
-		$x.width(390 - $x.offset().left);
+		$x.width(400 - $x.offset().left);
 	});
 }
 </script>
