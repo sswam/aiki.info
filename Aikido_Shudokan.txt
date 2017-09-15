@@ -1,0 +1,36 @@
+-	-	go-waza
+https://www.youtube.com/watch?v=igv6xTwxB40	0:00	.shomen-uchi	正面打ち	front-strike
+https://www.youtube.com/watch?v=zPzNbrn210o	0:00	.shōmen-tsuki	正面突き	front-thrust
+https://www.youtube.com/watch?v=NXFfGi4-f9A	6:36	.katate-mochi	片手持ち	1-hand hold
+-	-	.katate-aya-mochi	片手綾持ち	cross-hand hold
+-	-	.yokomen-uchi	横面打ち	side-strike
+-	-	Kumite
+-	-	.Obata Toshishiro Sensei
+https://www.youtube.com/watch?v=BlH8Qmo79w8	21:50	..ippon me	一本目	1st
+	23:22	..nihon me	二本目	2nd
+	22:28	..sanbon me	三本目	3rd
+	24:18	..yonhon me	四本目	4th
+-	-	.Aikido Shudokan
+https://www.youtube.com/watch?v=dAX4s7G2TK0	0:00	..ippon me	一本目	1st
+-	-	..nihon me	二本目	2nd
+https://www.youtube.com/watch?v=M4p17kOOv0Y	0:00	..sanbon me	三本目	3rd
+https://www.youtube.com/watch?v=Pur4BinI9nU	0:08	..yonhon me	四本目	4th
+-	-	Aiki Ken
+http://www.facebook.com/theshudokan/videos/1047140251967559/	-	.from 2015 demonstration
+https://www.youtube.com/watch?v=SefcGIUBr_w	0:00	.from 2006 demonstration
+	0:04	..ippon me	一本目	1st
+	0:12	..nihon me	二本目	2nd
+	0:19	..sanbon me	三本目	3rd
+	0:26	..yonhon me	四本目	4th
+	0:36	..gohon me	五本目	5th
+	0:44	..roppon me	六本目	6th
+	0:51	..nanahon me	七本目	7th
+	1:01	..happon me	八本目	8th
+	1:12	..kyūhon me	九本目	9th
+	1:22	..juppon me	十本目	10th
+	1:36	..ju-ippon me	十一本目	11th
+	1:45	..ju-nihon me	十二本目	12th
+	1:57	..ju-sanbon me	十三本目	13th
+	2:07	..ju-yonhon me	十四本目	14th
+	2:16	..ju-gohon me	十五本目	15th
+	2:29	..ending

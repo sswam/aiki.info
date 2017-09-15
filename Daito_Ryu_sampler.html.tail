@@ -1,0 +1,34 @@
+
+</div>
+
+<div style="float:right; min-width: 250px;" class="links no-print">
+	<div style="float:right" class="japanese vertical">大東流合気柔術</div>
+	<p><img src="takeda-mon.png"></p>
+	<br>
+	<p><A href="http://aikido-sydney.com.au/store/otherdvd/daito-ryu-aikijujitsu-katsuyuki-kondo-sensei">Purchase DVD: Daito Ryu Aikijujitsu<br>Katsuyuki Kondo</A> <A href="https://www.google.com.au/search?q=%22SPD-8501%22">(SPD-8501)</A></p>
+
+	<p><A href="https://www.budovideos.com/products/daito-ryu-aikijujutsu-hiden-mokuroku-dvd-vol-1">Purchase DVDs: Daito Ryu Aikijujutsu<br>Hiden Mokuroku - Nihon Daito Ryu Aikibudo<br>Seishin Kai</A> <A href="https://www.budogu.com/ProductDetails.asp?ProductCode=MBhid-set">(MBHID-SET)</A></p>
+
+	<p>text index: &nbsp; <A href="Daito_Ryu_sampler.txt">Daito_Ryu_sampler.txt</A>
+
+	<p>home: &nbsp; <A href="/">aiki.info</A>
+
+	<p><img src="FB-f-Logo__blue_29.png" alt="FB-f-Logo  blue 29" title="FB-f-Logo  blue 29">&nbsp; <a href="https://www.facebook.com/groups/aiki.info/">discussion group</a></p>
+</div>
+
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="jquery.ba-hashchange.min.js"></script>
+<script>
+$(main);
+function main() {
+	fix_table();
+}
+function fix_table() {
+	$('span.romaji').each(function (){
+		var $x = $(this);
+		$x.width(300 - $x.offset().left);
+	});
+	$('a').prop('target', '_blank');
+}
+</script>
+<script type="text/javascript" src="aikido.js"></script>
