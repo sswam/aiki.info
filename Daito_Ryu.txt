@@ -340,7 +340,6 @@ https://www.youtube.com/watch?v=89ISDCUudO4	0:00	.aiki-no-jutsu	合気之術	the
 		...myaku no fure	脈の触れ	pulse touch
 		...waki no sukui	脇掬	side scoop
 		...kasumi nage no koma kuzushi	霞投の駒崩し	mist throw chess-piece unbalancing
-		# or spinning-top unbalancing?
 		...maki dzume no koma kuzushi	巻詰の駒崩し	wind-up jam chess-piece unbalancing	
 		...mukae otoshi	迎え落	meeting drop
 		...rakuyo	落葉	fallen leaves
@@ -353,7 +352,7 @@ https://www.youtube.com/watch?v=89ISDCUudO4	0:00	.aiki-no-jutsu	合気之術	the
 		...ni ho goshi	二歩越し	two step crossing
 		...koshimi	越し身	crossing body
 		...myaku gaeshi	脈返	pulse flip
-		...tatsu maki		rising wind-up
+		...tatsumaki	竜巻	tornado
 		...shakkotsu gaeshi	尺骨返	ulna flip
 https://www.youtube.com/watch?v=89ISDCUudO4	0:00	..ryote dori	両手取	both hands take
 	0:03	...ushiro date	後伊	rear under-belt

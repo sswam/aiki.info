@@ -1,0 +1,382 @@
+#!/usr/bin/perl
+
+# TODO somehow use <p> </p> instead of <br><br> to make lynx happy
+
+use strict; use warnings;
+
+use HTML::Entities;
+use Cwd;
+use File::Basename;
+use L;
+
+my $title = $ARGV[0] || "";
+$title =~ s/^(.*)\.(.*)$/$1/;
+$title =~ s{/?index$}{};
+if ($title eq "") { $title = basename(getcwd()); }
+$title =~ s/[_-]/ /g;
+$title = encode_entities($title);
+
+my $head_extra_file = $ARGV[0];
+$head_extra_file =~ s/\.[^.]+$//;
+$head_extra_file .= ".head";
+my $head_extra = "";
+if (-f $head_extra_file) {
+	$head_extra = slurp($head_extra_file);
+	chomp $head_extra;
+}
+
+print <<End;
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta charset="utf-8">
+<title>$title</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="/styles.css">
+<link rel="stylesheet" type="text/css" href="/print.css" media="print" />
+$head_extra
+</head>
+<body>
+End
+
+use Cwd;
+
+my $hrefbase = "";
+my $www = "/www";  # vhosts are under this
+(my $www_root = getcwd) =~ s{^($www/.*?)/.*}{$1};
+my $ref_base = "";
+my $rel = "";
+
+my @table = ();
+my $in_tab_table = 0;
+my $in_tab_table_blank_lines = 0;
+my $in_pre = 0;
+
+while (<>) {
+	if (/^#/) { next; }
+
+	sub ahref {  # normal (external) hyperlink
+		my $href = $_[0];
+		my $cruft = '';
+		if ($href =~ s/([,.:;!?])$//) {
+			$cruft = $1;
+		}
+		my $text = $href;
+		$text =~ s/\?$//;
+		$text =~ s/\/$//;
+		$text =~ s/[-_+]/ /g;
+		$text =~ s/\.(html|htm|txt|pdf|doc|rtf|jpe?g|png|gif|cgi)$// unless $text =~ m{://};
+		if ($href =~ /@/) {
+			$href = "mailto:$href";
+		} elsif ($href =~ s{^/}{}) {
+			$text =~ s{^/|/$}{}g;
+			if (-d "$www_root/$href") { $href =~ s{/?$}{/}; }
+			$href="$hrefbase/$href";
+		} elsif ($href =~ s{^\./}{}) {
+			$text =~ s{^\./}{};
+			$text =~ s{/$}{};
+			if (-d $href) { $href =~ s{/?$}{/}; }
+			if (! -e $href && -e lc $href) { 
+				$href = lc $href;
+			}
+			if (-l $href) {
+				my $link_target = readlink $href;
+				if ($link_target =~ m{://} or $link_target =~ m{^/}) {
+					$href = $link_target;
+				}
+			}
+			$href="$href";
+		} else {
+			if ($href !~ m|://|) {
+				if ($href !~ m:/:) {
+					$href .= "/";
+				}
+				if ($href =~ /^ftp/) {
+					$href = "ftp://$href";
+				} else {
+					$href = "http://$href";
+				}
+			}
+#			if ($href !~ /cards\.(sf|sourceforge)\.net/) {
+#				($hrefbase = $href) =~ s,([a-z]+://[^])\@'\s/]+).*,$1,;  #' keep editor happy
+#			}
+		}
+		my $href_ee = encode_entities($href);
+		return qq{<a href="$href_ee">$text</a>$cruft};
+	}
+	sub href {  # generic hyperlink  - TODO relative?
+		if ($_[0] =~ /^[0-9\W]$/) { return $_[0]; }
+		#  XXX this is broken
+		my @args = split /;\s*/, $_[0], 3;
+		my ($text, $rel, $object);
+		$rel = "";  # XXX this is broken, fix it!
+		if (@args == 1) {
+			$text = $object = $args[0];
+			$text =~ s/^\.//; $text =~ s/\.$//;
+		} elsif (@args == 2) {
+			$text = $args[0];
+			# $rel = $text (implicit)
+			$object = $args[1];
+		} else {
+			($text, $rel, $object) = @args;
+		}
+		if ($object !~ m|://|) {
+			$object = canonicalise_ref($object);
+			$object = "/cgi-bin/view?$object";
+		}
+		if ($rel ne "") { $rel = qq{ rel="$rel"} }
+		return qq{<a href="$object"$rel>$text</a>};
+	}
+	sub ghref {  # group
+		my @args = split /;\s*/, $_[0], 2;
+		my ($text, $object);
+		if (@args == 1) {
+			$text = $object = $args[0];
+			$text =~ s/^\.//; $text =~ s/\.$//;
+		} else {
+			($text, $object) = @args;
+		}
+		if ($object !~ m|://|) {
+			$object = canonicalise_ref($object);
+			$object = "/cgi-bin/view?$object";
+		}
+		return qq{<a href="$object" rel="group">$text</a>};
+	}
+	sub phref {  # part
+		my @args = split /;\s*/, $_[0], 2;
+		my ($text, $object);
+		if (@args == 1) {
+			$text = $object = $args[0];
+			$text =~ s/^\.//; $text =~ s/\.$//;
+		} else {
+			($text, $object) = @args;
+		}
+		if ($object !~ m|://|) {
+			$object = canonicalise_ref($object);
+			$object = "/cgi-bin/view?$object";
+		}
+		return qq{<a href="$object" rel="part">$text</a>};
+	}
+
+#	s/^\t+//;
+
+	tr/\r//d;
+	s/ +$//mg;
+
+	s/\&/&amp;/g;
+
+	s/<->/&harr;/g;
+	s/->/&rarr;/g;
+	s/<-/&larr;/g;
+
+	s/</&lt;/g;
+	s/>/&gt;/g;
+
+	if (!$in_pre) {
+
+	# these are broken XXX 
+	#	s/\[(.*?)\]/href($1)/ge;
+	#	s/<(.*?)>]/ghref($1)/ge;
+	#	s/{(.*?)}]/phref($1)/ge;
+
+		# email links
+		s,([^:\@.\w"<]|^) (          #"
+		  [^\s=<>&;]+\@[\w.]+\.\w+
+		),$1.ahref($2),gex;
+		
+		# normal links
+		s,([^:\@.\w"<*]|^) (          #"
+		  [a-z]+://[^])\@'\s]+ |  #'
+		  www\.[^])\@'=\s]+ |
+		  [^][^()\@`'=\s*~]+\.(net|com|org|info|gov|id|ki|de|se|ws)(\.\w\w)?(/[^])\@'\s]+|\b) |
+		  /[^])\@'\s]+/? |	#'
+		  \./[^])\@'\s]+/?	#'
+		),$1.ahref($2),gex;
+
+	#	our $wrap_delim = '[^:\@.\w"<=*]|^|$';
+		our $wrap_delim = '[^\@\w"<=*]|^|$';
+		our %wrap_rx;
+		sub wrap2 {
+			my ($x, $tag) = @_;
+			(my $close = $tag) =~ s{(\S+).*}{</$1>};
+			my $open = "<$tag>";
+			my $return = "$open$x$close";
+			return $return;
+		}
+		sub wrap {
+			my ($char, $tag) = @_;
+			my $rx = $wrap_rx{$char} ||= qr{($wrap_delim)\Q$char\E(\S(?:.*?\S)?)\Q$char\E($wrap_delim)};
+			1 while s{$rx}{$1.wrap2($2, $tag).$3}ges;
+		}
+		
+		s{^____$}{<hr/>};
+		s{^________$}{<hr class="pagebreak"/>};
+
+		wrap("=", "h1");
+		1 while s{(<h1>.*?)</?a\b.*?>(.*?</h1>)}{$1$2};
+		wrap("*", "b");
+		wrap("_", "u");
+		wrap("~", "i");
+		wrap("!", 'span class="hi"');
+
+		sub object {
+			my ($src, $align) = @_;
+			my ($ext) = $src =~ /.*\.(.*)$/;
+			$ext ||= '';
+			if ($ext =~ /^(png|jpg|jpeg|gif)$/i) {
+				return img($src, $align);
+			} elsif ($ext =~ /^(html|htm)$/i) {
+				open my $file, "<$src" or die "can't open $src";
+				return join "", <$file>;
+			} elsif ($ext =~ /^(txt)$/i) {
+				open my $file, "<$src" or die "can't open $src";
+				return join "", <$file>;
+			}
+		}
+		sub img {
+			my ($src, $align) = @_;
+			my $attr = "";
+			if ($align) {
+				if ($align eq "&lt;") { $attr = qq{ align="left"}; }
+				elsif ($align eq "&gt;") { $attr = qq{ align="right"}; }
+				$attr .= qq{ hspace="8"};
+			}
+			(my $alt = $src) =~ s/(.*)\..*/$1/;
+			$alt =~ s/_/ /g;
+			my $html = qq{<img src="$src" alt="$alt" title="$alt"$attr>};
+			if ($src =~ m{(/|^)tn/}) {
+				(my $href = $src) =~ s/tn\///;
+				$html = qq{<a href="$href" target="_blank">$html</a>};
+			}
+			if ($align && $align eq "-") { $html = qq{<center>$html</center>}; }
+			return $html;
+		}
+
+		sub input {
+			my ($name, $size, $type) = @_;
+			my $value = "";
+			$size ||= 8;
+			$size = qq{ style="width:${size}em;"};
+			$type ||= "text";
+			if ($type eq "?") { $type = "password"; }
+			if ($type eq "!") { $type = "submit"; $size = ""; ($value = $name) =~ s/_/ /g; }
+			if ($value) { $value = qq{ value="$value"}; }
+			return qq{<input name="$name" type="$type"$size$value>};
+		}
+
+		s{&lt;([?!])?(\d*)(\w+)&gt;}{input($3,$2,$1)}ge;
+	}
+
+	if (s/^(\s*)([][{}()_\|;]|&lt;|&gt;|;;|__)\s*$//) {
+		my $indent = $1;
+		my $level = length($indent);
+		my $what = $2;
+		if ($what eq "[") {
+			print qq{$indent<table class="lines columns"><tr><td>\n};
+			$table[$level] = 1;
+		} elsif ($what eq "{") {
+			print qq{$indent<table class="nolines columns"><tr><td>\n};
+			$table[$level] = 1;
+		} elsif ($what eq "(") {
+			print qq{$indent<div class="column"><div class="col_minwidth"></div>\n};
+			$table[$level] = 1;
+		} elsif ($what eq "]" || $what eq "}") {
+			print "$indent</td></tr></table>\n";
+			$table[$level] = 0;
+		} elsif ($what eq ")") {
+#			print qq{$indent<br></div><div class="clear"></div>\n};
+			print qq{$indent</div><div class="clear"></div>\n};
+			$table[$level] = 0;
+		} elsif ($what eq "_") {
+			print qq{$indent</td></tr><tr><td>\n};
+		} elsif ($what eq "|") {
+			print qq{$indent</td><td>\n};
+		} elsif ($what eq ";") {
+			print qq{$indent<br></div><div class="column"><div class="col_minwidth"></div>\n};
+		} elsif ($what eq ";;") {
+			print qq{$indent<br></div><div class="clear"></div><div class="column"><div class="col_minwidth"></div>\n};
+		} elsif ($what eq "__") {
+			print qq{$indent<br></div><div class="clear"><hr/></div><div class="column"><div class="col_minwidth"></div>\n};
+		} elsif ($what eq "&lt;") {
+			print qq{$indent<pre>};
+			$in_pre = 1;
+		} elsif ($what eq "&gt;") {
+			print qq{$indent</pre>\n};
+			$in_pre = 0;
+		}
+	}
+	if (!$in_pre) {
+		s{\s\|\s}{</td><td>}g;
+		if ($in_tab_table && $_ eq "\t\n") {
+			$_ = "";
+			$in_tab_table_blank_lines++;
+		} elsif (s{\t}{</td><td>}g) {
+			chomp;
+			$_ = qq{<tr><td class="first">$_</td></tr> \n};
+			if (!$in_tab_table) {
+				$in_tab_table = 1;
+				$_ = qq{<table class="nolines"> \n$_};
+			} else {
+				for my $i (1..$in_tab_table_blank_lines) {
+					$_ = qq{<tr><td><br></td></tr> \n$_};
+				}
+			}
+			$in_tab_table_blank_lines = 0;
+		} elsif ($in_tab_table) {
+			$in_tab_table = 0;
+			for my $i (1..$in_tab_table_blank_lines) {
+				$_ = "\n$_";
+			}
+			$_ = "</table> \n$_";
+		}
+
+		s,^(\s*)(\*|-) ,$1&bull; ,;
+
+		s,(^|\S)\n,$1<br>\n,gm;
+
+		s{(.*) \.{4} (.*) \.{4} ?(.*)<br>\n}{<span style="float:left;">$1</span><span style="float:right;">$3</span><center>$2<br class="clear"></center>\n};
+		s{(.*) \.{4} (.*)<br>\n}{<span style="float:left;">$1</span><span style="float:right;">$2</span><br class="clear">\n};
+
+		s{\(\((.*?)\)\)}{<span class="small">$1</span>}g;
+
+		1 while s,  ,&nbsp; ,;
+	#	s,\n,&nbsp;<br>\n,g;
+
+		s, \n,\n,g;
+		s/^( +)/"&nbsp;"x(length($1))/gme;
+
+		s{(\&lt;|\&gt;|-)?\[(.*?)\]}{object($2, $1)}ge;
+
+		s{\bCO2\b}{CO<sub>2</sub>}g;  # special hack for CO2!
+		s{\bH2O\b}{H<sub>2</sub>O}g;  # H20 for free, although I'm not using it yet.  This could get unwieldly!
+
+		s{^--<br>$}{<center>};
+		s{^&larr;<br>$}{<p align="left">};
+		s{^&rarr;<br>$}{<p align="right">};
+		s{&lt;&lt;(.*?)&gt;&gt;}{<span class="mono">$1</span>};
+		s{^&lt;"(.*?)"<br>$}{slurp($1)}e;
+	}
+
+	print;
+#	print encode_entities($_);
+}
+
+if ($in_tab_table) {
+	print "</table>\n";
+}
+
+print "</body></html>\n";
+
+exit;
+
+sub canonicalise_ref {
+	my $object = $_[0];
+	if ($object =~ /\.$/) {
+		$object = join ".", reverse split /\./, $object, -1;
+	}
+	if ($object =~ /^\./) {
+		$object = "$ref_base$object";
+	}
+	$object =~ s/^\.//;
+	return $object;
+}

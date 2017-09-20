@@ -11,12 +11,12 @@
 
 	<p>text index: &nbsp; <A href="Daito_Ryu.txt">Daito_Ryu.txt</A>
 
-	<p>home: &nbsp; <A href="/">aiki.info</A>
-
 	<p>disclaimer: Some of the translations and kanji<br>
 might be incorrect, please send corrections.</p>
 
-	<p><img src="FB-f-Logo__blue_29.png" alt="FB-f-Logo  blue 29" title="FB-f-Logo  blue 29">&nbsp; <a href="https://www.facebook.com/groups/aiki.info/">discussion group</a></p>
+	<br><br><p style="float: right;"><A href="/" class="home">aiki.info</A>
+
+	<p style="padding-top: 8px;"><a href="https://www.facebook.com/groups/aiki.info/"><img id="facebook_logo" src="FB-f-Logo__blue_29.png" alt="FB-f-Logo  blue 29" title="FB-f-Logo  blue 29">&nbsp; discussion group</a></p>
 </div>
 
 <script type="text/javascript" src="jquery.js"></script>
@@ -29,7 +29,7 @@ function main() {
 function fix_table() {
 	$('span.romaji').each(function (){
 		var $x = $(this);
-		$x.width(390 - $x.offset().left);
+		$x.width(400 - $x.offset().left);
 	});
 }
 </script>

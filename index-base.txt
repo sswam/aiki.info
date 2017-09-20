@@ -1,5 +1,5 @@
 (
-*Eight Virtues of Bushidō:*
+*Eight Virtues of Bushidō 武士道:*
 
 義	gi	justice
 勇	yū	courage
@@ -29,15 +29,15 @@
 #
 #
 ;
-*Daitō-ryū Aiki-jūjutsu:*
+*大東流合気柔術 - Daitō-ryū Aiki-jūjutsu:*
 
 * ./Daito_Ryu.html techniques with video links
     ./ikkajo, ./nikajo, ./sankajo, ./yonkajo, ./gokajo,
     ./aiki-no-jutsu, ./uragata
-* 156 ./Daito_Ryu_flashcards for ./Anki.
+* 156 ./Daito_Ryu_flashcards for ./Anki
 * ./Daito_Ryu_sampler.html with 21 techniques
 
-*Aikidō Yoshinkan:*
+*合気道養神館 - Aikidō Yoshinkan:*
 
 * Yoshinkan ./Kihon_Waza.html chart with video links
     ./kyu, ./shodan, ./nidan, ./to-shodan, ./to-nidan
@@ -46,20 +46,20 @@
     ./kihon+dosa, ./ukemi, ./jiyu-waza, ./oyo-waza
 * ./Aikido_Shudokan.html additional techniques
 * 16 Yoshinkan flashcards: ./cards-1.pdf, ./cards-2.pdf
-* 408 ./Yoshinkan_flashcards for ./Anki.
+* 408 ./Yoshinkan_flashcards for ./Anki
 
-*Aikidō:*
+*合気道 - Aikidō:*
 
-* ./Iwama_Ryu.html - Morihiro Saito
+* ./Iwama_Ryu.html - Morihiro Saito (WIP)
 * ./Aikido.html Techniques - a large index
 
-*Yoga:*
+*योग - Yoga:*
 
 * Five simple ./Yoga exercises for a healthy back
 
 *Resources:*
 
-* A lending ./library of books and DVDs about budo.
+* A lending ./library of books and DVDs about budo
 
 
 [FB-f-Logo__blue_29.png]  ./discussion_group
