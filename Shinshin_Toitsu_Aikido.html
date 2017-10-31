@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<meta charset="utf-8">
+<title>
+Shinshin Toitsu Aikido
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="/styles.css">
+<link rel="stylesheet" type="text/css" href="/print.css" media="print" />
+
+
+<div class="treetable">
+<h1>Shinshin Toitsu Aikido</h1>
+<p>search: &nbsp; <input id="search" type="text" size="30"> &nbsp; <span id="search_clear">&times;</span></p>
+
+<ul>
+<li><A href="https://www.youtube.com/watch?v=sCv4RHTRjIk&t=0m00s#t=0m00s"> <span class="field romaji">Taigi 1 Katatetori</span></A>
+<ul>
+<li><A href="https://www.youtube.com/watch?v=sCv4RHTRjIk&t=0m09s#t=0m09s"> <span class="field romaji">Katatetori - Tenkan Kokyunage</span></A>
+<li><A href="https://www.youtube.com/watch?v=sCv4RHTRjIk&t=0m15s#t=0m15s"> <span class="field romaji">Katatetori - Kirikaeshi Zenponage</span></A>
+<li><A href="https://www.youtube.com/watch?v=sCv4RHTRjIk&t=0m22s#t=0m22s"> <span class="field romaji">Katatetori - Zenponage</span></A>
+<li><A href="https://www.youtube.com/watch?v=sCv4RHTRjIk&t=0m28s#t=0m28s"> <span class="field romaji">Katatetori - Tenkan Kaitennage</span></A>
+<li><A href="https://www.youtube.com/watch?v=sCv4RHTRjIk&t=0m37s#t=0m37s"> <span class="field romaji">Katatetori - Shihonage</span></A>
+<li><A href="https://www.youtube.com/watch?v=sCv4RHTRjIk&t=0m44s#t=0m44s"> <span class="field romaji">Katatetori - Tenkan Ikkyo</span></A>
+</ul>
+<li><A href="https://www.youtube.com/watch?v=3RPDiUpm9sY&t=0m00s#t=0m00s"> <span class="field romaji">Taigi 2 Katatetori Ryotemochi</span></A>
+<ul>
+<li><A href="https://www.youtube.com/watch?v=3RPDiUpm9sY&t=0m11s#t=0m11s"> <span class="field romaji">Katatetori Ryotemochi - Kokyunage Tobikomi</span></A>
+<li><A href="https://www.youtube.com/watch?v=3RPDiUpm9sY&t=0m18s#t=0m18s"> <span class="field romaji">Katatetori Ryotemochi - Kokyunage En Undo</span></A>
+<li><A href="https://www.youtube.com/watch?v=3RPDiUpm9sY&t=0m25s#t=0m25s"> <span class="field romaji">Katatetori Ryotemochi - Kokyunage Hachinoji</span></A>
+<li><A href="https://www.youtube.com/watch?v=3RPDiUpm9sY&t=0m34s#t=0m34s"> <span class="field romaji">Katatetori Ryotemochi - Zenponage</span></A>
+<li><A href="https://www.youtube.com/watch?v=3RPDiUpm9sY&t=0m39s#t=0m39s"> <span class="field romaji">Katatetori Ryotemochi - Nikyo</span></A>
+<li><A href="https://www.youtube.com/watch?v=3RPDiUpm9sY&t=0m50s#t=0m50s"> <span class="field romaji">Katatetori Ryotemochi - Koteoroshi</span></A>
+</ul>
+</ul>
+
+</div>
+
+<div style="float:right; min-width: 250px;" class="links no-print">
+	<div style="float:right" class="japanese vertical">心身統一合氣道</div>
+	<p><img src="ki.jpg"></p>
+	<br>
+
+	<p>text index: &nbsp; <A href="Shinshin_Toitsu_Aikido.txt">Shinshin_Toitsu_Aikido.txt</A>
+
+	<br><br><p style="float: right;"><A href="/" class="home">aiki.info</A>
+
+	<p style="padding-top: 8px;"><a href="https://www.facebook.com/groups/aiki.info/"><img id="facebook_logo" src="FB-f-Logo__blue_29.png" alt="FB-f-Logo  blue 29" title="FB-f-Logo  blue 29">&nbsp; discussion group</a></p>
+</div>
+
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="jquery.ba-hashchange.min.js"></script>
+<script>
+$(main);
+function main() {
+	fix_table();
+}
+function fix_table() {
+	$('span.romaji').each(function (){
+		var $x = $(this);
+		$x.width(400 - $x.offset().left);
+	});
+}
+</script>
+<script type="text/javascript" src="aikido.js"></script>

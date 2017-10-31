@@ -1,0 +1,61 @@
+=How to use Anki Flashcards=
+
+I suggest to print these instructions so you can follow them more easily.
+
+*Learn About Anki*
+
+1. On your computer, go to https://apps.ankiweb.net/ or you can search google for "Anki" to find the page.
+2. I suggest to read the introduction on that page.
+3. I suggest to read the start of the "Docs" and watch some of the intro videos there too.
+
+*Installing the computer app*
+
+4. On your computer, go to https://apps.ankiweb.net/ again.
+5. Click "Download".
+6. Choose the tab for your computer's operating system, either Windows, Mac, or Linux/BSD.
+7. Press the "Download Anki ..." button.
+8. After the installer has finished downloading, run the installer.
+9. If your computer asks if you want to allow the program to make changes, click "Yes".
+10. Click "Install", and continue through the install process.
+
+*Signing up to AnkiWeb*
+
+11. Go to https://ankiweb.net/ in your browser.
+12. Click "Sign up", and complete the sign up process.
+13. Log in to anki web.
+14. Start the Anki app on your computer.
+15. Press the "sync" button at the right of the window, it's a grey circle with two white arrows in it.
+16. Sign in using your AnkiWeb ID and password.
+
+*Get a Shared Deck of Flashcards*
+
+17. Go to https://ankiweb.net/
+18. Log in if needed, and click the button "Get Shared Decks". You can search for a deck.
+19. Here are some of the decks I am using:
+  - Daito-ryu Aiki-jujutsu - https://ankiweb.net/shared/info/2033524094
+  - Aikido Yoshinkan - https://ankiweb.net/shared/info/217029191 
+  - All in One Kanji Deck (Heisig's RTK Order, 6th edition) - https://ankiweb.net/shared/info/1862058740
+  - Kanji Radical (Primitive) - https://ankiweb.net/shared/info/1044119361
+20. Press the "Download" button on the shared deck page, then double-click the downloaded file to add it to Anki.
+
+*Study on Your Computer*
+
+21. You can study your deck using the Anki program on your computer.
+22. You can also study on another computer or device on the web at https://ankiweb.net, without installing an app.
+
+*Install Anki on your Phone or Tablet*
+
+23. Go back to https://apps.ankiweb.net/, click "Download", and choose the iPhone/Android tab.
+24. For Android, click "Get AnkiDroid", and install it to your device.  You can also search for "AnkiDroid" on Google Play.
+25. For Apple, I'm sorry to say the "AnkiMobile" app costs $25, it is not free like the other versions.
+  - It is well worth buying it, and you get to feel good for supporting Anki development.
+  - If you can stay online, you could study in your web browser at https://ankiweb.net instead of using the app.
+26. Open the app on your device, and log in by pressing "sync".  Your decks will download, then you can study on the go.
+27. Don't forget to press "sync" from time to time, to keep things consistent on all your devices.
+
+*Become an Anki Power User*
+
+28. Read the rest of the manual to learn how to use all the features of Anki.
+29. If you are up for a big challenge, try learning 2,200 Kanji in 100 days with Anki!  https://nihongoshark.com/learn-kanji/
+30. Make your own deck for learning something useful, and share it with the world.
+
