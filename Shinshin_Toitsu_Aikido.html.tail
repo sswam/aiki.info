@@ -15,16 +15,4 @@
 
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="jquery.ba-hashchange.min.js"></script>
-<script>
-$(main);
-function main() {
-	fix_table();
-}
-function fix_table() {
-	$('span.romaji').each(function (){
-		var $x = $(this);
-		$x.width(400 - $x.offset().left);
-	});
-}
-</script>
 <script type="text/javascript" src="aikido.js"></script>

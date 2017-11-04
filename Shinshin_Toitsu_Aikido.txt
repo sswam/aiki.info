@@ -1,15 +1,70 @@
 # Shin Shin Toitsu Aikido 心身統一合氣道
-https://www.youtube.com/watch?v=sCv4RHTRjIk	0:00	Taigi 1 Katatetori
+https://www.youtube.com/watch?v=sCv4RHTRjIk	0:00	Taigi 1 "Katatetori"
 	0:09	.Katatetori - Tenkan Kokyunage
 	0:15	.Katatetori - Kirikaeshi Zenponage
 	0:22	.Katatetori - Zenponage
 	0:28	.Katatetori - Tenkan Kaitennage
 	0:37	.Katatetori - Shihonage
 	0:44	.Katatetori - Tenkan Ikkyo
-https://www.youtube.com/watch?v=3RPDiUpm9sY	0:00	Taigi 2 Katatetori Ryotemochi
+https://www.youtube.com/watch?v=3RPDiUpm9sY	0:00	Taigi 2 "Katatetori Ryotemochi"
 	0:11	.Katatetori Ryotemochi - Kokyunage Tobikomi
 	0:18	.Katatetori Ryotemochi - Kokyunage En Undo
 	0:25	.Katatetori Ryotemochi - Kokyunage Hachinoji
 	0:34	.Katatetori Ryotemochi - Zenponage
 	0:39	.Katatetori Ryotemochi - Nikyo
 	0:50	.Katatetori Ryotemochi - Koteoroshi
+https://www.youtube.com/watch?v=FAIyfZZqlmE	0:00	Taigi 3 "Yokomenuchi"
+	0:17	.Yokomenuchi - Kokyunage Sudori
+	0:17	.Yokomenuchi - Kokyunage (bow)
+	0:17	.Yokomenuchi - Kokyunage Irimi (1 through 3 are done continuously on both sides)
+	0:27	.Yokomenuchi - Shihonage
+	0:34	.Yokomenuchi - Kokyunage Sudorinage
+	0:41	.Yokomenuchi - Kokyunage Hachinoji
+https://www.youtube.com/watch?v=ZYDD0jsl66k	0:00	Taigi 4 "Ryokatadori"
+	0:00	.Yokomenuchi - Kokyunage (bow)
+	0:04	.Yokomenuchi - Kirikaeshi Zenponage
+	0:12	.Yokomenuchi - Kokyunage (bow twice)
+	0:20	.Yokomenuchi - Sudori
+	0:26	.Yokomenuchi - Nikyo
+	0:39	.Yokomenuchi - Zenponage
+https://www.youtube.com/watch?v=RICAg584CTI	0:00	Taigi 5 "Children's Arts"
+	0:04	.Shomenuchi - Kokyunage
+	0:12	.Yokomenuchi - Shihonage
+	0:21	.Munatsuki - Koteoroshi (Katameru)
+	0:41	.Katadori - Ikkyo (Irimi)
+	0:55	.Ryotetori - Kokyu Dosa
+https://www.youtube.com/watch?v=ly7ghrIHSU8	0:00	Taigi 6 "Ushirotekubidori"
+	0:00	.Ushirodori - Zenponage
+	0:06	.Ushirotekubidori - Kokyunage Uragaeshi
+	0:15	.Ushirotekubidori - Zenponage
+	0:23	.Ushirotekubidori - Koteoroshi Hantai Tenkan
+	0:29	.Ushirotekubidori - Ikkyo
+	0:39	.Ushirotekubidori - Sankyonage
+https://www.youtube.com/watch?v=wE6K4kgnBwk	0:00	Taigi 7 "Munetsuki & Keri"
+	0:00	.Munatsuki - Kokyunage
+	0:04	.Munatsuki - Ikkyo Hantai Tenkan
+	0:14	.Munatsuki - Zenponage
+	0:21	.Maekeri - Kokyunage
+	0:27	.Mawashikeri - Kokyunage
+	0:34	.Munatsuki - Koteoroshi Nage
+https://www.youtube.com/watch?v=D6O5962Sa40	0:00	Taigi 8 "Ryotedori"
+	0:00	.Ryotedori - Tenchinage Irimi
+	0:04	.Ryotedori - Tenchinage Tenkan
+	0:11	.Ryotedori - Kokyunage (Hakucho no Mizuumi)
+	0:18	.Ryotedori - Kokyunage (Dojyo Sukui)
+	0:24	.Ryotedori - Zenponage
+	0:30	.Ryotedori - Kirikaeshi Zenponage
+https://www.youtube.com/watch?v=nhGjvnmCAxU	0:00	Taigi 9 "Shomenuchi"
+	0:00	.Shomenuchi - Ikkyo Irimi
+	0:19	.Shomenuchi - Ikkyo Tenkan
+	0:26	.Shomenuchi - Kokyunage Irimi
+	0:33	.Shomenuchi - Koteoroshi
+	0:40	.Shomenuchi - Kirikaeshi Zenponage
+	0:50	.Shomenuchi - Zenponage
+https://www.youtube.com/watch?v=hDYDjxl5ypA	0:00	Taigi 10 "Katadori Menuchi"
+	0:00	.Katadori Menuchi - Kokyunage Irimi
+	0:08	.Katadori Menuchi - Kokyunage En Undo
+	0:17	.Katadori Menuchi - Kokyunage Hachinoji
+	0:26	.Katadori Menuchi - Nikyo
+	0:40	.Katadori Menuchi - Sankyo
+	0:50	.Katadori Menuchi - Zenponage
