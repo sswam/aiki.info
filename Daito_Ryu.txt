@@ -361,7 +361,7 @@ https://www.youtube.com/watch?v=89ISDCUudO4	0:00	..ryote dori	両手取	both han
 	0:57	...kagi gatame	鉤固	hook pin
 	1:19	...nadare	雪崩	avalanche
 #	1:30	...uke modoshi	受戻し	receive return
-	1:30	...uki modoshi	浮受戻し	float return
+	1:30	...uki modoshi	浮き戻し	float return
 	1:45	...saza nami	細波	ripple
 	2:02	...yobi modoshi	呼び戻し	call return
 	2:14	...hi sho	火暑	fire heat (?)
