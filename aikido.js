@@ -88,7 +88,8 @@ function on_hash_change() {
 	}
 }
 function hash_to_query(hash) {
-	var query = hash.replace(/\+|%20/g, ' ');
+	var query = hash.replace(/\+/g, ' ');
+	query = decodeURIComponent(query);
 	if (query.length) {
 		query = query.substr(1);
 	}
