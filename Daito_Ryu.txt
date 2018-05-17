@@ -702,7 +702,7 @@ https://www.youtube.com/watch?v=eNfhjUbvj6c	0:00	.Kudengokui	口伝極意編	ora
 	25:47	....shutou dzume	手刀詰	knife-hand jam	katate dori (hold)
 	26:05	.....ura	裏	secret
 	26:19	.....kasetsu	解説	explanation
-	28:05 	....kubi hineri	頸捻	neck twist	emon jime
+	28:05	....kubi hineri	頸捻	neck twist	emon jime
 	28:21	.....ura	裏	secret
 	28:35	.....kasetsu	解説	explanation
 	29:39	....kote gaeshi	小手返	forearm flip	katate kata dori (block strike)
@@ -854,15 +854,15 @@ https://www.youtube.com/watch?v=s5WxD5qmVKc	-	.ushiro ukemi	後受身	16 back fa
 https://www.youtube.com/watch?v=snZUdrQEQMs	-	.yoko ukemi	横受身	17 side falls
 https://www.youtube.com/watch?v=VZpuHQG1CRY	-	.kaiten ukemi	回転受身	18 rolls
 https://www.youtube.com/watch?v=Jrj1PA53els	-	.seiza	正座	19 kneeling
-https://www.youtube.com/watch?v=XrOfZSWozwI	-	.namba aruki	なんば歩き	20 walking with same arm and leg moving together
+https://www.youtube.com/watch?v=XrOfZSWozwI	-	.namba aruki	なんば歩き	20 walking, same arm and leg together
 https://www.youtube.com/watch?v=2azBzMuAFJA	-	.aiki age	合気上	21 aiki raising
 https://www.youtube.com/watch?v=lYF1UNmg2S0	-	.shōmen uchi	正面打	22 front strike
 https://www.youtube.com/watch?v=CpW0SLie0Jk	-	.karada o hiraku	体を開く	23 body opening
 https://www.youtube.com/watch?v=DQ5XBuFc7yw	-	.zuite iku	随いて行く	24 moving together
 https://www.youtube.com/watch?v=Bkm5jGtabhk	-	.kote dzume	小手詰	25 forearm jam
-https://www.youtube.com/watch?v=JNIkEgCPpZ8	-	.tachi-ai chudan tsuki 	立合中段突	26 standing middle thrust
-https://www.youtube.com/watch?v=nk6AKKX7akc	-	.tekubi no jūnan (ichi)	手首の柔軟（一）27 flexible wrists (1)
-https://www.youtube.com/watch?v=44ktgQ23MxQ	-	.tekubi no jūnan (ni)	手首の柔軟（二）28 flexible wrists (2)
+https://www.youtube.com/watch?v=JNIkEgCPpZ8	-	.tachi-ai chudan tsuki	立合中段突	26 standing middle thrust
+https://www.youtube.com/watch?v=nk6AKKX7akc	-	.tekubi no jūnan (ichi)	手首の柔軟（一）	27 flexible wrists (1)
+https://www.youtube.com/watch?v=44ktgQ23MxQ	-	.tekubi no jūnan (ni)	手首の柔軟（二）	28 flexible wrists (2)
 https://www.youtube.com/watch?v=7YvmSqB-bMA	-	.shutou dzume (shisei)	手刀詰(姿勢）	29 knife-hand jam (posture)
 https://www.youtube.com/watch?v=l9nn1KwqF4c	-	.shutou dzume (datsu ryoku)	手刀詰（脱力）	30 knife-hand jam (removing power)
 https://www.youtube.com/watch?v=tSPxIUUejj4	-	.hikkakeru	引っかける	31 hanging / hooking
@@ -890,7 +890,7 @@ https://www.youtube.com/watch?v=RR1Ahl38fO4	-	.ura otoshi	裏落	52 rear drop
 https://www.youtube.com/watch?v=vAAJ0ILi_5k	-	.katsugu	担ぐ	53 shoulder carry
 https://www.youtube.com/watch?v=a0UyfdE2_RM	-	.kojin keiko ura otoshi	個人稽古 裏落	54 personal training rear drop
 https://www.youtube.com/watch?v=CccYWAM-JH0	-	.chikara o makitsukeru	（力を）巻きつける	55 wrap around (the power)
-https://www.youtube.com/watch?v=YAfE3l8iKG8	-	.jōge ni wakeru 	上下に分ける	56 split up and down
+https://www.youtube.com/watch?v=YAfE3l8iKG8	-	.jōge ni wakeru	上下に分ける	56 split up and down
 https://www.youtube.com/watch?v=b4Um_O70FRM	-	.unsoku	運足	57 ? avoiding footwork
 https://www.youtube.com/watch?v=cyi1YKtbC4E	-	.seizato rei	正座と礼	58 sitting bow (throw)
 https://www.youtube.com/watch?v=G_WQAIKJcVk	-	.mae ni deru	前に出る	59 going forward
@@ -928,7 +928,7 @@ https://www.youtube.com/watch?v=rAX0Y-r78kU	-	.kuruma daoshi shoukai	車倒詳�
 https://www.youtube.com/watch?v=6Ghudbhm9qY	-	.kuruma daoshi shoukai (zoku)	車倒詳解（続）	91 wheel topple detailed explanation (continued)
 https://www.youtube.com/watch?v=J9krZz9wEGI	-	.idori shutou dzume	居捕手刀詰	92 sitting knife-hand jam
 https://www.youtube.com/watch?v=wmHyE0oPbj4	-	.tekubi o doru	手首を捕る	93 holding the wrist
-https://www.youtube.com/watch?v=4M6KS25wg_Y	-	.koyubi no shime 	小指の締め	94 little finger clamp
+https://www.youtube.com/watch?v=4M6KS25wg_Y	-	.koyubi no shime	小指の締め	94 little finger clamp
 https://www.youtube.com/watch?v=n1RKeIWmQVQ	-	.jiku o tsukuru	軸を作る	95 make an axis / center
 https://www.youtube.com/watch?v=iGny4njBqRo	-	.shizunde tomeru	沈んで止める	96 sink and stop
 https://www.youtube.com/watch?v=sH55QZC1gRA	-	.ura otoshi shoukai	裏落詳解	97 rear drop detailed explanation
@@ -936,7 +936,7 @@ https://www.youtube.com/watch?v=b1gNtOjwKx8	-	.ura otoshi shoukai (zoku)	裏落�
 https://www.youtube.com/watch?v=WtEfbRZJMNc	-	.ushiro ni kuzusu	後ろに崩す	99 unbalance to the rear
 https://www.youtube.com/watch?v=FNDlbRywd8M	-	.aiki age	合気上げ	100 aiki raising
 https://www.youtube.com/watch?v=pOqITBWo4QM	-	.hiji gaeshi	肘返	101 elbow flip
-https://www.youtube.com/watch?v=X6NtbYLCXEk	-	.te o hiraku 	手を開く	102 opening the hands
+https://www.youtube.com/watch?v=X6NtbYLCXEk	-	.te o hiraku	手を開く	102 opening the hands
 https://www.youtube.com/watch?v=bORv0yq0MXY	-	.rendou suru (ichi)	連動する（一）	103 moving (the body) together (1)
 https://www.youtube.com/watch?v=pT8ZQDfrXIs	-	.rendou suru (ni)	連動する（二）	104 moving (the body) together (2)
 https://www.youtube.com/watch?v=4NFSo4t6lTM	-	.shihou nage	四方投げ	105 four directions throw
@@ -993,10 +993,10 @@ https://www.youtube.com/watch?v=FbGpKlRKrEU	-	.ryote dori shihou nage	両手捕�
 https://www.youtube.com/watch?v=YZGJn9sb9fw	-	.oyayubi o kakeru	親指をかける	156 ? put thumb
 https://www.youtube.com/watch?v=AWz4Wx0y8KU	-	.kote o doru	小手を捕る	157 forearm / hand hold
 https://www.youtube.com/watch?v=XbdMXjRczgA	-	.hasamu	はさむ	158 hold between
-https://www.youtube.com/watch?v=O320yahNSl8	-	.hiji o seisuru	(gyaku ude dori) 肘を制する(逆腕捕）	159 control the elbow (reverse arm capture)
-https://www.youtube.com/watch?v=arYiuMXoJd4	-	.hiji o seisuru	(hiji gaeshi)	肘を制する（肘返）	160 control the elbow (elbow flip)
+https://www.youtube.com/watch?v=O320yahNSl8	-	.hiji o seisuru (gyaku ude dori)	肘を制する(逆腕捕）	159 control the elbow (reverse arm capture)
+https://www.youtube.com/watch?v=arYiuMXoJd4	-	.hiji o seisuru (hiji gaeshi)	肘を制する（肘返）	160 control the elbow (elbow flip)
 https://www.youtube.com/watch?v=YGEajy9IhIk	-	.hiji o seisuru (ura otoshi)	肘を制する(裏落）	161 control the elbow (rear drop)
-https://www.youtube.com/watch?v=OAzeT-_7MsQ	-	.hiji o nobasu 	肘を伸ばす	162 extend the elbow
+https://www.youtube.com/watch?v=OAzeT-_7MsQ	-	.hiji o nobasu	肘を伸ばす	162 extend the elbow
 https://www.youtube.com/watch?v=esOiLUNTgqo	-	.gyaku ude ni doru	逆腕に捕る	163 holding the reversed arm
 https://www.youtube.com/watch?v=eRNmRz8OM24	-	.idori gyaku ude dori	居捕逆腕捕	164 sitting reverse arm capture
 https://www.youtube.com/watch?v=guDr1vB2JPg	-	.nukite dori	抜手捕	165 pull out hand capture
@@ -1005,13 +1005,13 @@ https://www.youtube.com/watch?v=ua8YHYvcI34	-	.mashita ni shizumu	真下に沈�
 https://www.youtube.com/watch?v=svwla_GZwEg	-	.ryote dori shihou nage (ura)	両手捕四方投（裏）	168 both hands take four directions throw (rear)
 https://www.youtube.com/watch?v=34NpFal-1zw	-	.jōge ni wakeru	上下に分ける	169 split up and down
 https://www.youtube.com/watch?v=LuXUqGv96lE	-	.tekubi o kitaeru	手首を鍛える	170 train the wrists
-https://www.youtube.com/watch?v=dR7CV8ie8mo	-	.kuzusu	(katate dori)	崩す（片手捕）	171 unbalancing (one hand take)
-https://www.youtube.com/watch?v=HpKJtasx8Jk	-	.kuzusu	(ryote dori)	崩す（両手捕）	172 unbalancing (both hands take)
+https://www.youtube.com/watch?v=dR7CV8ie8mo	-	.kuzusu (katate dori)	崩す（片手捕）	171 unbalancing (one hand take)
+https://www.youtube.com/watch?v=HpKJtasx8Jk	-	.kuzusu (ryote dori)	崩す（両手捕）	172 unbalancing (both hands take)
 https://www.youtube.com/watch?v=asl_7KlIHCY	-	.sawareru	触れる	173 touching
 https://www.youtube.com/watch?v=DLq-YS_rAg0	-	.shimeru	絞る	174 pinning
 https://www.youtube.com/watch?v=0uo0HWOmqqA	-	.tsukikomu	突きこむ	175 thrust into
-https://www.youtube.com/watch?v=cRlycarVkGw	-	.oyayubi o semeru 	親指を攻める	176 attack the thumb
-https://www.youtube.com/watch?v=AW1LxzK7EmM	-	.tekubi o nobasu 	手首を伸ばす	177 extend the wrist
+https://www.youtube.com/watch?v=cRlycarVkGw	-	.oyayubi o semeru	親指を攻める	176 attack the thumb
+https://www.youtube.com/watch?v=AW1LxzK7EmM	-	.tekubi o nobasu	手首を伸ばす	177 extend the wrist
 https://www.youtube.com/watch?v=nfta5QQhFio	-	.mune dori kote dzume	胸捕小手詰	178 chest hold forearm jam
 https://www.youtube.com/watch?v=avtXWdY6ulE	-	.mune dori kote gaeshi	胸捕小手返	179 chest hold forearm flip
 https://www.youtube.com/watch?v=clqOcHzf7Sc	-	.mune dori ura otoshi	胸捕裏落	180 chest hold rear drop
