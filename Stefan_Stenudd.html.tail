@@ -3,7 +3,7 @@
 
 <div style="float:right; min-width: 250px;" class="links no-print">
 	<div style="float:right" class="japanese vertical">合気道合気会</div>
-	<p><img src="aikido.jpg"></p>
+	<p><img src="aikido-small.jpg"></p>
 	<br>
 
 	<p>text index: &nbsp; <A href="Stefan_Stenudd.txt">Stefan_Stenudd.txt</A>
@@ -17,14 +17,5 @@
 <script type="text/javascript" src="jquery.ba-hashchange.min.js"></script>
 <script>
 $(main);
-function main() {
-	fix_table();
-}
-function fix_table() {
-	$('span.romaji').each(function (){
-		var $x = $(this);
-		$x.width(400 - $x.offset().left);
-	});
-}
 </script>
 <script type="text/javascript" src="aikido.js"></script>
