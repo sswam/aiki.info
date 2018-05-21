@@ -1,0 +1,50 @@
+@font-face {
+	font-family: "KanjiKoohiVG";
+	src: url("fonts/KanjiKoohiVG.woff2");
+}
+@font-face {
+	font-family: "Pangolin";
+	src: url("fonts/PANGOLIN.TTF");
+}
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+c {
+	display: block;
+	float: left;
+	width: 18.8mm;
+	height: 18.8mm;
+	text-align: center;
+	page-break-inside: avoid;
+}
+k {
+	font-family: "KanjiKoohiVG", "MS Mincho";
+	display: block;
+	width: 18.8mm;
+	height: 9.4mm;
+	font-size: 18.8pt;
+	vertical-align: middle;
+	line-height: 9.4mm;
+}
+e {
+	display: block;
+	width: 18.8mm;
+	height: 9.4mm;
+	font-size: 7.52pt;
+	padding-top: 1.88pt;
+}
+p {
+	font-family: "Pangolin";
+	display: block;
+	width: 18.8mm;
+	height: 9.4mm;
+	font-size: 18.8pt;
+	vertical-align: middle;
+	line-height: 9.4mm;
+}
+k, e, p {
+	border: 1px solid black;
+}

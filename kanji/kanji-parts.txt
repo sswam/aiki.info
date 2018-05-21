@@ -1,0 +1,234 @@
+!	a drop of
+"	walking stick
+#	straightened hook
+$	hook
+%	clothes hanger
+&	divining rod
+'	animal legs
+(	human legs
+)	bound up
+*	bound up small
++	horns
+,	by one's side
+-	saber
+.	cliff
+/	hood
+0	umbrella
+1	crown
+2	top hat
+3	belt
+4	ice
+5	ice
+6	reclining
+7	arm
+8	elbow
+9	person
+:	plow
+;	shovel
+<	spear
+=	snare
+>	slingshot
+?	stamp
+@	chop-seal
+A	chop-seal small
+B	fingerprint
+C	sheaf
+D	cornucopia
+E	key
+F	box
+G	box small
+H	fence posts
+I	drag
+J	drag
+K	tool
+L	little
+M	river
+O	river
+N	water
+P	house
+Q	flower
+R	turtle
+S	pack of dogs
+T	meeting
+U	road
+V	walking legs
+W	arrow
+X	stretch
+Y	towel
+Z	scorpion
+[	pent in
+\	cave
+]	state of mind
+^	finger
+_	genius
+`	wall
+a	going
+b	flag
+c	broom
+d	broom
+e	pinnacle
+f	cocoon
+h	receipt
+g	receipt
+i	cornstalk
+j	potato
+k	shape
+l	city walls
+m	lock of hair
+n	owl
+o	mama
+p	mama
+q	fire
+r	tree
+s	pole
+t	cow
+u	cow
+v	whirlwind
+w	taskmaster
+x	quiver
+y	fiesta
+z	scarf
+{	unhooked scarf
+|	rising cloud
+}	heaven
+~	porter
+¡	valentine
+¢	two hands
+£	two hands
+¤	missile
+¥	vulture
+¦	infant
+§	bone
+¨	assembly line
+©	monocle
+ª	rag
+«	altar
+¬	rake
+®	mop
+¯	salad
+°	old man
+±	paper punch
+²	staples
+³	waitress
+´	earthworm
+µ	grow up
+¶	bushes
+·	bushes
+¸	guillotine
+¹	sparkler
+º	mosaic
+»	hair pin
+¼	eye
+½	tall
+¾	schoolhouse
+¿	parade
+À	mending
+Á	zoo
+Â	zoo
+Ã	cloak
+Ä	apron
+Å	buckle
+Æ	eel
+Ç	piglet
+È	spool
+É	gully
+Ê	wheat
+Ë	grains of rice
+Ì	saw
+Í	haystack
+Î	dollar sign
+Ï	dollar sign
+Ð	mailbox
+Ò	silver
+Ó	rice seedling
+Ô	celery
+Õ	resin
+Ö	bonsai
+×	sickness
+Ø	teepee
+Ù	purse
+Ú	shelf
+Û	scrapbook
+Ü	calling card
+Ý	staple gun
+Þ	tail feathers
+ß	mane
+à	lidded crock
+á	brush
+â	brush
+ã	thanksgiving
+ä	march
+å	float
+æ	top hat and scarf
+ç	sheep
+è	wings
+é	birdhouse
+ê	puzzle
+ë	banner
+ì	comb
+í	quarter
+î	scissors
+ï	maestro
+ð	silver
+ñ	good
+ò	Christmas tree
+ó	silage
+ô	west
+õ	apple
+ö	tub
+÷	row
+ø	mountain goat
+ù	tiger
+ú	golden calf
+û	mortar
+ü	devil
+ý	gnats
+þ	sow
+ÿ	wool
+Ā	fledgeling
+ā	sunglasses
+Ă	caverns
+ă	dog tag
+Ą	animal tracks
+ą	hair
+Ć	skunk
+ć	deer
+Ĉ	mist
+ĉ	spring
+Ċ	siesta
+ċ	rain
+Č	muzzle
+č	turkey
+Ď	outhouse
+ď	sieve
+Đ	straw man
+đ	awl
+Ē	bushel basket
+ē	upside down in a row
+Ĕ	wealth
+ĕ	butcher
+Ė	double back
+ė	piggy bank
+Ę	jawbone
+ę	drum
+Ě	red pepper
+ě	migrating ducks
+Ĝ	talking cricket
+ĝ	condor
+Ğ	acupuncturist
+ğ	graveyard
+Ġ	turkey coop
+ġ	cabbage
+Ģ	scarecrow
+ģ	locket
+Ĥ	funnel
+ĥ	antique
+Ħ	mirror
+ħ	pegasus
+Ĩ	mandala
+ĩ	angel
+Ī	kazoo
+ī	shredder
+Ĭ	pup tent
+ĭ	ketchup
+Į	grass skirt
