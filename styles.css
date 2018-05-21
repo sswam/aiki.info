@@ -24,9 +24,10 @@ table.columns > tbody > tr > td {
 	max-width: 500px;
 	min-width: 300px;
 }
-td {
+td, th {
 	padding: 3px 16px 3px 16px;
 	vertical-align: top;
+	text-align: left;
 }
 h1 {
 	display: inline;
