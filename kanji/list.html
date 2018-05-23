@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<title>Kanji List</title>
+<link rel="stylesheet" href="lib/slick.grid.css" type="text/css"/>
+<link rel="stylesheet" href="lib/slick-default-theme.css" type="text/css"/>
+<style>
+@font-face {
+	font-family: "KanjiKoohiVG";
+	src: url("fonts/KanjiKoohiVG.woff2");
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: White;
+	overflow: auto;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	font: 11px Helvetica, Arial, sans-serif;
+	display: flex;
+	flex-direction: column;
+}
+#container {
+	flex: 1;
+}
+
+/*
+#container {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+*/
+
+.slick-header-columns {
+	background: #eee;
+	border-bottom: 1px solid silver;
+}
+
+.slick-header-column {
+	background: #eee;
+	border-right: 1px solid silver;
+}
+
+.slick-header-column:hover, .slick-header-column-active {
+	background: #ddd;
+}
+
+.slick-column-name {
+	font-weight: bold;
+}
+
+.kanji {
+	font-family: "KanjiKoohiVG", "MS Mincho";
+	font-size: 40px;
+}
+
+.kanji a:link { color: black; text-decoration:none; }
+.kanji a:visited { color: black; text-decoration:none; }
+
+.slick-cell {
+	line-height: 40px;
+}
+</style>
+</head>
+<body>
+<input id="search">
+<div id="container"></div>
+
+<script src="lib/jquery-1.11.2.min.js"></script>
+<script src="lib/jquery.event.drag-2.3.0.js"></script>
+<script src="lib/jquery-ui-1.11.3.min.js"></script>
+<script src="lib/slick.core.js"></script>
+<script src="lib/slick.dataview.js"></script>
+<script src="lib/slick.autotooltips.js"></script>
+<script src="lib/slick.grid.js"></script>
+
+<script>
+var grid, data_view, lines;
+var query = "";
+function kanji_link_formatter(row, cell, value, columnDef, dataContext) {
+	return '<a href="//jisho.org/kanji/details/' + value + '">' + value + '</a>';
+}
+function row_count_changed(e, args) {
+	grid.updateRowCount();
+	grid.render();
+}
+function rows_changed(e, args) {
+	grid.invalidateRows(args.rows);
+	grid.render();
+}
+function filter(item) {
+	var c = grid.getColumns();
+	if (lines[item.id].indexOf(query) >= 0) {
+		return true;
+	}
+	return false;
+}
+function load_done(tsv) {
+	lines = tsv.split("\n");
+	while (lines[lines.length-1] == "")
+		lines.pop();
+
+	var headers = lines.shift().split("\t");
+
+	var widths = [ 50, 50, 120, 200, 200, 50, 120, 50, 120 ];
+
+	var columns = [];
+	for (var i = 0; i < headers.length; ++i) {
+		var n = headers[i];
+		columns.push({ id: n, name: n, field: n, width: widths[i] });
+	}
+	columns[1].cssClass = "kanji";
+	columns[1].formatter = kanji_link_formatter;
+
+	var options = {
+		enableCellNavigation: false,
+		enableColumnReorder: true,
+		enableTextSelectionOnCells: true,
+		rowHeight: 43,
+		explicitInitialization: true
+		};
+
+	var data = [];
+	for (var i = 0; i < lines.length; ++i) {
+		var a = lines[i].split("\t");
+		var d = { id: i };
+		for (var j = 0; j < headers.length; ++j) {
+			d[headers[j]] = a[j];
+		}
+		data[i] = d;
+	}
+
+	data_view = new Slick.Data.DataView();
+
+	grid = new Slick.Grid("#container", data_view, columns, options);
+	plugin = new Slick.AutoTooltips({ enableForHeaderCells: true });
+	grid.registerPlugin(plugin);
+
+	grid.init();
+
+	data_view.onRowCountChanged.subscribe(row_count_changed);
+	data_view.onRowsChanged.subscribe(rows_changed);
+
+	data_view.beginUpdate();
+	data_view.setItems(data);
+	data_view.setFilter(filter);
+	data_view.endUpdate();
+}
+function load_fail() {
+	alert("load failed");
+}
+function search(e) {
+	query = $.trim($('#search').val());
+	data_view.refresh();
+}
+function main() {
+	$.ajax({
+		url: "k.tsv",
+	}).done(load_done).fail(load_fail);
+	$('#search').focus();
+	$('#search').on("change keyup", search);
+}
+$(main);
+</script>
+</body>
+</html>

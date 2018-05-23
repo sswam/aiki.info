@@ -1,0 +1,3040 @@
+i	kanji	keyword	ON	kun	joyo	lesson	i_old	kw_old
+1	一	one	イチ　　イツ	ひと・つ　　ひと	yes	1	1	one
+2	二	two	ニ	ふた・つ　　ふた	yes		2	two
+3	三	three	サン	みっ・つ　　み・つ　　み	yes		3	three
+4	四	four	シ	よっ・つ　　よ・つ　　よ　　よん	yes		4	four
+5	五	five	ゴ	いつ・つ　　いつ	yes		5	five
+6	六	six	ロク	むっ・つ　　む　　む・つ　　むいr	yes		6	six
+7	七	seven	シチ	なな・つ　　なな　　なのr	yes		7	seven
+8	八	eight	ハチ	やっ・つ　　や　　や・つ　　ようr	yes		8	eight
+9	九	nine	キュウ　　ク	ここの・つ　　ここの	yes		9	nine
+10	十	ten	ジュウ　　ジッ	とお　　と	yes		10	ten
+11	口	mouth	コウ　　ク	くち	yes		11	mouth
+12	日	day	ニチ　　ジツ	ひ　　か	yes		12	day
+13	月	month	ゲツ　　ガツ	つき	yes		13	month
+14	田	rice field	デン	た	yes		14	rice field
+15	目	eye	モク　　ボクr	め　　まr	yes		15	eye
+16	古	old	コ	ふる・い　　ふる・す	yes	2	16	old
+17	吾	I	ゴ	わ・が　　われ	no		17	I
+18	冒	risk	ボウ	おか・す	yes		18	risk
+19	朋	companion	ホウ	とも	no		19	companion
+20	明	bright	メイ　　ミョウ	あ・かり　　あか・るい　　あか・るむ　　あか・らむ　　あき・らか　　あ・ける　　あ・く　　あ・くる　　あ・かす	yes		20	bright
+21	唱	chant	ショウ	とな・える	yes		21	chant
+22	晶	sparkle	ショウ		yes		22	sparkle
+23	品	goods	ヒン	しな	yes		23	goods
+24	呂	spine	ロ		yes		24	spine
+25	昌	prosperous	ショウ	まさ	no		25	prosperous
+26	早	early	ソウ　　サッr	はや・い　　はや・まる　　はや・める	yes		26	early
+27	旭	rising sun	キョク	あさひ	no		27	rising sun
+28	世	generation	セ　　セイ	よ	yes		28	generation
+29	胃	stomach	イ		yes		29	stomach
+30	旦	nightbreak	タン　　ダン		yes		30	nightbreak
+31	胆	gall bladder	タン		yes		31	gall bladder
+32	亘	span	コウ	わた・る	no		32	span
+33	凹	concave	オウ		yes		33	concave
+34	凸	convex	トツ		yes		34	convex
+35	旧	olden times	キュウ		yes	3	35	olden times
+36	自	oneself	ジ　　シ	みずか・ら	yes		36	oneself
+37	白	white	ハク　　ビャク	しろ　　しろ・い　　しらr	yes		37	white
+38	百	hundred	ヒャク		yes		38	hundred
+39	中	in	チュウ　　ジュウ r	なか	yes		39	in
+40	千	thousand	セン	ち	yes		40	thousand
+41	舌	tongue	ゼツ	した	yes		41	tongue
+42	升	measuring box	ショウ	ます	yes		42	measuring box
+43	昇	rise up	ショウ	のぼ・る	yes		43	rise up
+44	丸	round	ガン	まる・い　　まる　　まる・める	yes		44	round
+45	寸	measurement	スン		yes		45	measurement
+46	肘	elbow		ひじ	yes		2464	elbow
+47	専	specialty	セン	もっぱ・ら	yes		46	specialty
+48	博	Dr.	ハク　　バクr		yes		47	Dr.
+49	占	fortune-telling	セン	し・める　　うらな・う	yes		48	fortune-telling
+50	上	above	ジョウ　　ショウr	うえ　　うわr　　かみ　　あ・げる　　あ・がる　　のぼ・る　　のぼ・す　　のぼ・せる	yes		49	above
+51	下	below	カ　　ゲ	した　　しも　　もと　　さ・げる　　さ・がる　　くだ・る　　くだ・す　　くだ・さる　　お・ろす　　お・りる	yes		50	below
+52	卓	eminent	タク		yes		51	eminent
+53	朝	morning	チョウ	あさ	yes		52	morning
+54	嘲	derision	チョウ	あざけ・る	yes		2155	derision
+55	只	only		ただ	no	4	53	only
+56	貝	shellfish		かい	yes		54	shellfish
+57	唄	pop song		うたr	yes		2178	pop song
+58	貞	upright	テイ		yes		55	upright
+59	員	employee	イン		yes		56	employee
+60	貼	post a bill	チョウ	は・る	yes		2736	affix
+61	見	see	ケン	み・る　　み・える　　み・せる	yes		57	see
+62	児	newborn babe	ジ　　ニr		yes		58	newborn babe
+63	元	beginning	ゲン　　ガン	もと	yes		59	beginning
+64	頁	page		ページ	no		60	page
+65	頑	stubborn	ガン		yes		61	stubborn
+66	凡	mediocre	ボン　　ハンr		yes		62	mediocre
+67	負	defeat	フ	ま・ける　　ま・かす　　お・う	yes		63	defeat
+68	万	ten thousand	マン　　バン		yes		64	ten thousand
+69	句	phrase	ク		yes		65	phrase
+70	肌	texture		はだ	yes		66	texture
+71	旬	decameron	ジュン　　シュン r		yes		67	decameron
+72	勺	ladle	シャク		no		68	ladle
+73	的	bull's eye	テキ	まと	yes		69	bull's eye
+74	首	neck	シュ	くび	yes		70	neck
+75	乙	fish guts	オツ		yes	5	71	fish guts
+76	乱	riot	ラン	みだ・す　　みだ・れる	yes		72	riot
+77	直	straightaway	チョク　　ジキ	なお・す　　なお・る　　ただ・ちに	yes		73	straightaway
+78	具	tool	グ		yes		74	tool
+79	真	true	シン	ま	yes		75	true
+80	工	craft	コウ　　ク		yes		76	craft
+81	左	left	サ	ひだり	yes		77	left
+82	右	right	ウ　　ユウ	みぎ	yes		78	right
+83	有	possess	ユウ　　ウ	あ・る	yes		79	possess
+84	賄	bribe	ワイ	まかな・う	yes		80	bribe
+85	貢	tribute	コウ　　クr	みつ・ぐ	yes		81	tribute
+86	項	paragraph	コウ		yes		82	paragraph
+87	刀	sword	トウ	かたな	yes		83	sword
+88	刃	blade	ジン	は	yes		84	blade
+89	切	cut	セツ　　サイr	き・る　　き・れる	yes		85	cut
+90	召	seduce	ショウ	め・す	yes		86	seduce
+91	昭	shining	ショウ		yes		87	shining
+92	則	rule	ソク		yes		88	rule
+93	副	vice-	フク		yes		89	vice-
+94	別	separate	ベツ	わか・れる	yes		90	separate
+95	丁	street	チョウ　　テイ		yes		91	street
+96	町	village	チョウ	まち	yes		92	village
+97	可	can	カ		yes		93	can
+98	頂	place on the head	チョウ	いただ・く　　いただき	yes		94	place on the head
+99	子	child	シ　　ス	こ	yes	6	95	child
+100	孔	cavity	コウ		yes		96	cavity
+101	了	complete	リョウ		yes		97	complete
+102	女	woman	ジョ　　ニョ　　ニョウr	おんな　　め	yes		98	woman
+103	好	fond	コウ	この・む　　す・く	yes		99	fond
+104	如	likeness	ジョ　　ニョ		yes		100	likeness
+105	母	mama	ボ	はは	yes		101	mama
+106	貫	pierce	カン	つらぬ・く	yes		102	pierce
+107	兄	elder brother	ケイ　　キョウr	あに	yes		103	elder brother
+108	呪	curse	ジュ	のろ・う	yes		2169	curse
+109	克	overcome	コク		yes		104	overcome
+110	小	little	ショウ	ちい・さい　　こ　　お	yes	7	105	little
+111	少	few	ショウ	すこ・し　　すく・ない	yes		106	few
+112	大	large	ダイ　　タイ	おお　　おお・きい　　おお・いに	yes		107	large
+113	多	many	タ	おお・い	yes		108	many
+114	夕	evening	セキ	ゆう	yes		109	evening
+115	汐	eventide	セキ	しお	no		110	eventide
+116	外	outside	ガイ　　ゲ	そと　　ほか　　はず・す　　はず・れる	yes		111	outside
+117	名	name	メイ　　ミョウ	な	yes		112	name
+118	石	stone	セキ　　シャク　　コクr	いし	yes		113	stone
+119	肖	resemblance	ショウ		yes		114	resemblance
+120	硝	nitrate	ショウ		yes		115	nitrate
+121	砕	smash	サイ	くだ・く　　くだ・ける	yes		116	smash
+122	砂	sand	サ　　シャ	すな	yes		117	sand
+123	妬	jealous	ト	ねた・む	yes		2195	jealous
+124	削	plane	サク	けず・る	yes		118	plane
+125	光	ray	コウ	ひか・る　　ひかり	yes		119	ray
+126	太	plump	タイ　　タ	ふと・い　　ふと・る	yes		120	plump
+127	器	utensil	キ	うつわ	yes		121	utensil
+128	臭	stinking	シュウ	くさ・い　　にお・う 	yes		122	stinking
+129	嗅	sniff	キュウ	か・ぐ	yes		3008	sniff
+130	妙	exquisite	ミョウ		yes		123	exquisite
+131	省	focus	ショウ　　セイ	かえり・みる　　はぶ・く	yes		124	focus
+132	厚	thick	コウ	あつ・い	yes		125	thick
+133	奇	strange	キ		yes		126	strange
+134	川	stream	セン	かわ	yes	8	127	stream
+135	州	state	シュウ	す	yes		128	state
+136	順	obey	ジュン		yes		129	obey
+137	水	water	スイ	みず	yes		130	water
+138	氷	icicle	ヒョウ	こおり　　ひ	yes		131	icicle
+139	永	eternity	エイ	なが・い	yes		132	eternity
+140	泉	spring	セン	いずみ	yes		133	spring
+141	腺	gland	セン		yes		2466	gland
+142	原	meadow	ゲン	はら	yes		134	meadow
+143	願	petition	ガン	ねが・う	yes		135	petition
+144	泳	swim	エイ	およ・ぐ	yes		136	swim
+145	沼	marsh	ショウ	ぬま	yes		137	marsh
+146	沖	open sea	チュウ	おき	yes		138	open sea
+147	汎	pan-	ハン		yes		2327	pan-
+148	江	creek	コウ	え	yes		139	creek
+149	汰	cleanse	タ		yes		2316	cleanse
+150	汁	soup	ジュウ	しる	yes		140	soup
+151	沙	grains of sand	サ		yes		2296	grains of sand
+152	潮	tide	チョウ	しお	yes		141	tide
+153	源	source	ゲン	みなもと	yes		142	source
+154	活	lively	カツ		yes		143	lively
+155	消	extinguish	ショウ	け・す　　き・える	yes		144	extinguish
+156	況	but of course	キョウ		yes		145	but of course
+157	河	river	カ	かわ	yes		146	river
+158	泊	overnight	ハク	と・まる　　と・める	yes		147	overnight
+159	湖	lake	コ	みずうみ	yes		148	lake
+160	測	fathom	ソク	はか・る	yes		149	fathom
+161	土	soil	ド　　ト	つち	yes		150	soil
+162	吐	spit	ト	は・く	yes		151	spit
+163	圧	pressure	アツ		yes		152	pressure
+164	埼	cape		さい	yes		153	cape
+165	垣	hedge		かき	yes		154	hedge
+166	填	inlay	テン		yes		2190	stuff up
+167	圭	squared jewel	ケイ		no		155	squared jewel
+168	封	seal	フウ　　ホウ		yes		156	seal
+169	涯	horizon	ガイ		yes		157	horizon
+170	寺	Buddhist temple	ジ	てら	yes		158	Buddhist temple
+171	時	time	ジ	とき	yes		159	time
+172	均	level	キン		yes		160	level
+173	火	fire	カ	ひ　　ほr	yes		161	fire
+174	炎	inflammation	エン	ほのお	yes		162	inflammation
+175	煩	anxiety	ハン　　ボンr	わずら・う  　わずら・わす	yes		163	anxiety
+176	淡	thin	タン	あわ・い	yes		164	thin
+177	灯	lamp	トウ	ひ	yes		165	lamp
+178	畑	farm		はた　　はたけ	yes		166	farm
+179	災	disaster	サイ	わざわ・い	yes		167	disaster
+180	灰	ashes	カイ	はい	yes		168	ashes
+181	点	spot	テン		yes		169	spot
+182	照	illuminate	ショウ	て・らす　　て・る　　て・れる	yes		170	illuminate
+183	魚	fish	ギョ	さかな　　うお	yes		171	fish
+184	漁	fishing	ギョ　　リョウ		yes		172	fishing
+185	里	ri	リ	さと	yes	9	173	ri
+186	黒	black	コク	くろ　　くろ・い	yes		174	black
+187	墨	black ink	ボク	すみ	yes		175	black ink
+188	鯉	carp		こい	no		176	carp
+189	量	quantity	リョウ	はか・る	yes		177	quantity
+190	厘	rin	リン		yes		178	rin
+191	埋	bury	マイ	う・める　　う・まる　　う・もれる	yes		179	bury
+192	同	same	ドウ	おな・じ	yes		180	same
+193	洞	den	ドウ	ほら	yes		181	den
+194	胴	trunk	ドウ		yes		182	trunk
+195	向	yonder	コウ	む・く　　む・ける　　む・かう　　む・こう	yes		183	yonder
+196	尚	esteem	ショウ		yes		184	esteem
+197	字	character	ジ	あざ	yes		185	character
+198	守	guard	シュ　　スr	まも・る　　もり	yes		186	guard
+199	完	perfect	カン		yes		187	perfect
+200	宣	proclaim	セン		yes		188	proclaim
+201	宵	wee hours	ショウ	よい	yes		189	wee hours
+202	安	relax	アン	やす・い	yes		190	relax
+203	宴	banquet	エン		yes		191	banquet
+204	寄	draw near	キ	よ・せる　　よ・る	yes		192	draw near
+205	富	wealth	フ　　フウr	と・む　　とみ	yes		193	wealth
+206	貯	savings	チョ		yes		194	savings
+207	木	tree	モク　　ボク	き　　こr	yes	10	195	tree
+208	林	grove	リン	はやし	yes		196	grove
+209	森	forest	シン	もり	yes		197	forest
+210	桂	Japanese Judas-tree	ケイ	かつら	no		198	Japanese Judas-tree
+211	柏	oak		かしわ	no		199	oak
+212	枠	frame		わく	yes		200	frame
+213	梢	treetops	ショウ	こずえ	no		201	treetops
+214	棚	shelf		たな	yes		202	shelf
+215	杏	apricot	アン	あんず	no		203	apricot
+216	桐	paulownia	トウ	きり	no		204	paulownia
+217	植	plant	ショク	う・える 　う・わる	yes		205	plant
+218	椅	chair	イ		yes		2480	chair
+219	枯	wither	コ	か・らす　　か・れる	yes		206	wither
+220	朴	crude	ボク		yes		207	crude
+221	村	town	ソン	むら	yes		208	town
+222	相	inter-	ソウ　　ショウ	あい	yes		209	inter-
+223	机	desk	キ	つくえ	yes		210	desk
+224	本	book	ホン	もと	yes		211	book
+225	札	tag	サツ	ふだ	yes		212	tag
+226	暦	calendar	レキ	こよみ	yes		213	calendar
+227	案	plan	アン		yes		214	plan
+228	燥	parch	ソウ		yes		215	parch
+229	未	not yet	ミ		yes		216	not yet
+230	末	extremity	マツ　　バツ	すえ	yes		217	extremity
+231	昧	obscure	マイ		yes		2445	obscure
+232	沫	splash	マツ		no		218	splash
+233	味	flavor	ミ	あじ　　あじ・わう	yes		219	flavor
+234	妹	younger sister	マイ	いもうと	yes		220	younger sister
+235	朱	vermilion	シュ		yes		221	vermilion
+236	株	stocks		かぶ	yes		222	stocks
+237	若	young	ジャク　　ニャクr	わか・い　　も・しくわ	yes		223	young
+238	草	grass	ソウ	くさ	yes		224	grass
+239	苦	suffering	ク	くる・しい　　くる・しむ　　くる・しめる　　にが・い　　にが・る	yes		225	suffering
+240	苛	bullying	カ		yes		2373	bullying
+241	寛	tolerant	カン		yes		226	tolerant
+242	薄	dilute	ハク	うす・い　　うす・める　　うす・まる　　うす・らぐ　　うす・れる	yes		227	dilute
+243	葉	leaf	ヨウ	は	yes		228	leaf
+244	模	imitation	ボ　　モ		yes		229	imitation
+245	漠	vague	バク		yes		230	vague
+246	墓	grave	ボ	はか	yes		231	grave
+247	暮	livelihood	ボ	く・らす　　く・れる	yes		232	livelihood
+248	膜	membrane	マク		yes		233	membrane
+249	苗	seedling	ビョウ	なえ　　なわr	yes		234	seedling
+250	兆	portent	チョウ	きざ・し　　きざ・す	yes	11	235	portent
+251	桃	peach tree	トウ	もも	yes		236	peach tree
+252	眺	stare	チョウ	なが・める	yes		237	stare
+253	犬	dog	ケン	いぬ	yes		238	dog
+254	状	status quo	ジョウ		yes		239	status quo
+255	黙	silence	モク	だま・る	yes		240	silence
+256	然	sort of thing	ゼン　　ネン		yes		241	sort of thing
+257	荻	reed		おぎ	no		242	reed
+258	狩	hunt	シュ	か・る　　か・り	yes		243	hunt
+259	猫	cat	ビョウ	ねこ	yes		244	cat
+260	牛	cow	ギュウ	うし	yes		245	cow
+261	特	special	トク		yes		246	special
+262	告	revelation	コク	つ・げる	yes		247	revelation
+263	先	before	セン	さき	yes		248	before
+264	洗	wash	セン	あら・う	yes		249	wash
+265	介	jammed in	カイ		yes	12	250	jammed in
+266	界	world	カイ		yes		251	world
+267	茶	tea	チャ　　サ		yes		252	tea
+268	脊	spinal column	セキ		yes		2071	spinal column
+269	合	fit	ゴウ　　ガッ　　カッr	あ・う　　あ・わす　　あ・わせる	yes		253	fit
+270	塔	pagoda	トウ		yes		254	pagoda
+271	王	king	オウ		yes		255	king
+272	玉	jewel	ギョク	たま	yes		256	jewel
+273	宝	treasure	ホウ	たから	yes		257	treasure
+274	珠	pearl	シュ		yes		258	pearl
+275	現	present	ゲン	あらわ・す　　あらわ・れる	yes		259	present
+276	玩	toy	ガン		yes		2567	toy
+277	狂	lunatic	キョウ	くる・う　　くる・おしい	yes		260	lunatic
+278	旺	effulgent	オウ		yes		2450	effulgent
+279	皇	emperor	コウ　　オウ		yes		261	emperor
+280	呈	display	テイ		yes		262	display
+281	全	whole	ゼン	まった・く　　すべ・て 	yes		263	whole
+282	栓	plug	セン		yes		264	plug
+283	理	logic	リ		yes		265	logic
+284	主	lord	シュ　　スr	おも　　ぬし	yes		266	lord
+285	注	pour	チュウ	そそ・ぐ	yes		267	pour
+286	柱	pillar	チュウ	はしら	yes		268	pillar
+287	金	gold	キン　　コン	かね　　かなr	yes		269	gold
+288	銑	pig iron	セン		no		270	pig iron
+289	鉢	bowl	ハチ　　ハツr		yes		271	bowl
+290	銅	copper	ドウ		yes		272	copper
+291	釣	angling	チョウ	つ・る	yes		273	angling
+292	針	needle	シン	はり	yes		274	needle
+293	銘	inscription	メイ		yes		275	inscription
+294	鎮	tranquillize	チン	しず・める　　しず・まる	yes		276	tranquillize
+295	道	road-way	ドウ　　トウr	みち	yes	13	277	road-way
+296	導	guidance	ドウ	みちび・く	yes		278	guidance
+297	辻	crossing		つじ	no		279	crossing
+298	迅	swift	ジン		yes		280	swift
+299	造	create	ゾウ	つく・る	yes		281	create
+300	迫	urge	ハク	せま・る	yes		282	urge
+301	逃	escape	トウ	に・げる　　に・がす　　のが・す　　のが・れる	yes		283	escape
+302	辺	environs	ヘン	べ　　あた・り	yes		284	environs
+303	巡	patrol	ジュン	めぐ・る	yes		285	patrol
+304	車	car	シャ	くるま	yes		286	car
+305	連	take along	レン	つら・なる　　つら・ねる　　つ・れる	yes		287	take along
+306	軌	rut	キ		yes		288	rut
+307	輸	transport	ユ		yes		289	transport
+308	喩	metaphor	ユ		yes		3009	metaphor
+309	前	in front	ゼン	まえ	yes		290	in front
+310	煎	roast	セン	い・る	yes		2548	roast
+311	各	each	カク	おのおの	yes		291	each
+312	格	status	カク　　コウr		yes		292	status
+313	賂	graft	ロ		yes		2738	graft
+314	略	abbreviation	リャク		yes		293	abbreviation
+315	客	guest	キャク　　カク		yes		294	guest
+316	額	forehead	ガク	ひたい	yes		295	forehead
+317	夏	summer	カ　　ゲr	なつ	yes		296	summer
+318	処	dispose	ショ		yes		297	dispose
+319	条	twig	ジョウ		yes		298	twig
+320	落	fall	ラク	お・ちる　　お・とす	yes		299	fall
+321	冗	superfluous	ジョウ		yes	14	300	superfluous
+322	冥	Hades	メイ　　ミョウ		yes		2841	Hades
+323	軍	army	グン		yes		301	army
+324	輝	radiance	キ	かがや・く	yes		302	radiance
+325	運	carry	ウン	はこ・ぶ	yes		303	carry
+326	冠	crown	カン	かんむり	yes		304	crown
+327	夢	dream	ム	ゆめ	yes		305	dream
+328	坑	pit	コウ		yes		306	pit
+329	高	tall	コウ	たか・い　　たか　　たか・まる　　たか・める	yes		307	tall
+330	享	receive	キョウ		yes		308	receive
+331	塾	cram school	ジュク		yes		309	cram school
+332	熟	mellow	ジュク	う・れる	yes		310	mellow
+333	亭	pavilion	テイ		yes		311	pavilion
+334	京	capital	キョウ　　ケイ		yes		312	capital
+335	涼	refreshing	リョウ	すず・しい　　すず・む	yes		313	refreshing
+336	景	scenery	ケイ		yes		314	scenery
+337	鯨	whale	ゲイ	くじら	yes		315	whale
+338	舎	cottage	シャ		yes		316	cottage
+339	周	circumference	シュウ	まわ・り	yes		317	circumference
+340	週	week	シュウ		yes		318	week
+341	士	gentleman	シ		yes		319	gentleman
+342	吉	good luck	キチ　　キツ		yes		320	good luck
+343	壮	robust	ソウ		yes		321	robust
+344	荘	villa	ソウ		yes		322	villa
+345	売	sell	バイ	う・る　　う・れる	yes		323	sell
+346	学	study	ガク	まな・ぶ	yes	15	324	study
+347	覚	memorize	カク	おぼ・える　　さ・ます　　さ・める	yes		325	memorize
+348	栄	flourish	エイ	さか・える　　は・え　　は・える	yes		326	flourish
+349	書	write	ショ	か・く	yes		327	write
+350	津	haven	シン	つ	yes		328	haven
+351	牧	breed	ボク	まき	yes		329	breed
+352	攻	aggression	コウ	せ・める	yes		330	aggression
+353	敗	failure	ハイ	やぶ・れる	yes		331	failure
+354	枚	a sheet of	マイ		yes		332	sheet of
+355	故	happenstance	コ	ゆえ	yes		333	happenstance
+356	敬	awe	ケイ	うやま・う	yes		334	awe
+357	言	say	ゲン　　ゴン	い・う　　こと	yes		335	say
+358	警	admonish	ケイ		yes		336	admonish
+359	計	plot	ケイ	はか・る　　はか・らう	yes		337	plot
+360	詮	elucidate	セン		yes		2717	elucidate
+361	獄	prison	ゴク		yes		338	prison
+362	訂	revise	テイ		yes		339	revise
+363	訃	obituary	フ		yes		3010	obituary
+364	討	chastise	トウ	う・つ	yes		340	chastise
+365	訓	instruction	クン		yes		341	instruction
+366	詔	imperial edict	ショウ	みことのり	yes		342	imperial edict
+367	詰	packed	キツ	つ・める　　つ・まる　　つ・む	yes		343	packed
+368	話	tale	ワ	はなし　　はな・す	yes		344	tale
+369	詠	recitation	エイ	よ・む	yes		345	recitation
+370	詩	poem	シ		yes		346	poem
+371	語	word	ゴ	かた・らう　　かた・る	yes		347	word
+372	読	read	ドク　　トク　　トウr	よ・む	yes		348	read
+373	調	tune	チョウ	しら・べる　　ととの・う　　ととの・える	yes		349	tune
+374	談	discuss	ダン		yes		350	discuss
+375	諾	consent	ダク		yes		351	consent
+376	諭	rebuke	ユ	さと・す	yes		352	rebuke
+377	式	style	シキ		yes	16	353	style
+378	試	test	シ	こころ・みる　　ため・す	yes		354	test
+379	弐	II (two)	ニ		yes		355	II (two)
+380	域	range	イキ		yes		356	range
+381	賊	burglar	ゾク		yes		357	burglar
+382	栽	plantation	サイ		yes		358	plantation
+383	載	load	サイ	の・せる　　の・る	yes		359	load
+384	茂	overgrown	モ	しげ・る	yes		360	overgrown
+385	戚	relatives	セキ		yes		2882	relatives
+386	成	turn into	セイ　　ジョウr	な・す　　な・る	yes		361	turn into
+387	城	castle	ジョウ	しろ	yes		362	castle
+388	誠	sincerity	セイ	まこと	yes		363	sincerity
+389	威	intimidate	イ		yes		364	intimidate
+390	滅	destroy	メツ	ほろ・びる　　ほろ・ぼす	yes		365	destroy
+391	減	dwindle	ゲン	へ・らす　　へ・る	yes		366	dwindle
+392	蔑	revile	ベツ	さげす・む	yes		2390	revile
+393	桟	scaffold	サン		yes		367	scaffold
+394	銭	coin	セン	ぜに	yes		368	coin
+395	浅	shallow	セン	あさ・い	yes		369	shallow
+396	止	stop	シ	と・まる　　と・める	yes	17	370	stop
+397	歩	walk	ホ　　ブ　　フr	あゆ・む　　ある・く	yes		371	walk
+398	渉	ford	ショウ		yes		372	ford
+399	頻	repeatedly	ヒン		yes		373	repeatedly
+400	肯	agreement	コウ		yes		374	agreement
+401	企	undertake	キ	くわだ・てる	yes		375	undertake
+402	歴	curriculum	レキ		yes		376	curriculum
+403	武	warrior	ブ　　ム		yes		377	warrior
+404	賦	levy	フ		yes		378	levy
+405	正	correct	セイ　　ショウ	ただ・しい　　ただ・す　　まさ	yes		379	correct
+406	証	evidence	ショウ		yes		380	evidence
+407	政	politics	セイ　　 ショウr	まつりごと	yes		381	politics
+408	定	determine	テイ　　ジョウ	さだ・か　　さだ・める　　さだ・まる	yes		382	determine
+409	錠	lock	ジョウ		yes		383	lock
+410	走	run	ソウ	はし・る	yes		384	run
+411	超	transcend	チョウ	こ・す　　こ・える	yes		385	transcend
+412	赴	proceed	フ	おもむ・く	yes		386	proceed
+413	越	surpass	エツ	こ・す　　こ・える	yes		387	surpass
+414	是	just so	ゼ		yes		388	just so
+415	題	topic	ダイ		yes		389	topic
+416	堤	dike	テイ	つつみ	yes		390	dike
+417	建	build	ケン　　コンr	た・つ　　た・てる	yes		391	build
+418	鍵	key	ケン	かぎ	yes		2761	key
+419	延	prolong	エン	の・ばす　　の・びる　　の・べる	yes		392	prolong
+420	誕	nativity	タン		yes		393	nativity
+421	礎	cornerstone	ソ	いしずえ	yes		394	cornerstone
+422	婿	bridegroom	セイ	むこ	yes		395	bridegroom
+423	衣	garment	イ	ころも	yes	18	396	garment
+424	裁	tailor	サイ	さば・く　　た・つ	yes		397	tailor
+425	装	attire	ソウ　　ショウ	よそお・う	yes		398	attire
+426	裏	back	リ	うら	yes		399	back
+427	壊	demolition	カイ	こわ・す　　こわ・れる	yes		400	demolition
+428	哀	pathetic	アイ	あわ・れ　　あわ・れむ	yes		401	pathetic
+429	遠	distant	エン　　オンr	とお・い	yes		402	distant
+430	猿	monkey	エン	さる	yes		403	monkey
+431	初	first time	ショ	はじ・め　　はじ・めて　　はつ　　そ・める　　うい	yes		404	first time
+432	巾	towel	キン		yes		2101	towel
+433	布	linen	フ	ぬの	yes		405	linen
+434	帆	sail	ハン	ほ	yes		406	sail
+435	幅	hanging scroll	フク	はば	yes		407	hanging scroll
+436	帽	cap	ボウ		yes		408	cap
+437	幕	curtain	マク　　バク		yes		409	curtain
+438	幌	canopy		ほろ	no		410	canopy
+439	錦	brocade	キン	にしき	yes		411	brocade
+440	市	market	シ	いち	yes		412	market
+441	柿	persimmon		かき	yes		2481	persimmon
+442	姉	elder sister	シ	あね	yes		413	elder sister
+443	肺	lungs	ハイ		yes		414	lungs
+444	帯	sash	タイ	おび　　お・びる	yes		415	sash
+445	滞	stagnate	タイ	とどこお・る	yes		416	stagnate
+446	刺	thorn	シ	さ・す　　さ・さる	yes		417	thorn
+447	制	system	セイ		yes		418	system
+448	製	made in...	セイ		yes		419	made in...
+449	転	revolve	テン	ころ・ぶ　　ころ・がる　　ころ・げる　　ころ・がす	yes		420	revolve
+450	芸	technique	ゲイ		yes		421	technique
+451	雨	rain	ウ	あめ　　あまr	yes		422	rain
+452	雲	cloud	ウン	くも	yes		423	cloud
+453	曇	cloudy weather	ドン	くも・る	yes		424	cloudy weather
+454	雷	thunder	ライ	かみなり	yes		425	thunder
+455	霜	frost	ソウ	しも	yes		426	frost
+456	冬	winter	トウ	ふゆ	yes		427	winter
+457	天	heavens	テン	あめ　　あまr	yes		428	heavens
+458	妖	bewitched	ヨウ	あや・しい	yes		2078	bewitched
+459	沃	irrigate	ヨク		yes		2079	irrigate
+460	橋	bridge	キョウ	はし	yes		429	bridge
+461	嬌	attractive	キョウ		no		430	attractive
+462	立	stand up	リツ　　リュウr	た・つ　　た・てる	yes		431	stand up
+463	泣	cry	キュウ	な・く	yes		432	cry
+464	章	badge	ショウ		yes		433	badge
+465	競	vie	キョウ　　ケイ	きそ・う　　せ・る	yes		434	vie
+466	帝	sovereign	テイ		yes		435	sovereign
+467	諦	renunciation	テイ	あきら・める	yes		2716	give up
+468	童	juvenile	ドウ	わらべ	yes		436	juvenile
+469	瞳	pupil	ドウ	ひとみ	yes		437	pupil
+470	鐘	bell	ショウ	かね	yes		438	bell
+471	商	make a deal	ショウ	あきな・う	yes		439	make a deal
+472	嫡	legitimate wife	チャク		yes		440	legitimate wife
+473	適	suitable	テキ		yes		441	suitable
+474	滴	drip	テキ	しずく　　したた・る	yes		442	drip
+475	敵	enemy	テキ	かたき	yes		443	enemy
+476	匕	spoon	ヒ	さじ	no		444	spoon
+477	叱	scold	シツ	しか・る	yes		2179	scold
+478	匂	aroma		にお・う	yes		2147	aroma
+479	頃	about that time		ころ	yes		2791	about that time
+480	北	north	ホク	きた	yes		445	north
+481	背	stature	ハイ	せ　　せい　　そむ・く　　そむ・ける	yes		446	stature
+482	比	compare	ヒ	くら・べる	yes		447	compare
+483	昆	descendants	コン		yes		448	descendants
+484	皆	all	カイ	みな	yes		449	all
+485	楷	block letters	カイ		yes		3011	block letters
+486	諧	orderliness	カイ		yes		3012	orderliness
+487	混	mix	コン	ま・ぜる　　ま・ざる　　ま・じる　　こ・む	yes		450	mix
+488	渇	thirst	カツ	かわ・く	yes		451	thirst
+489	謁	audience	エツ		yes		452	audience
+490	褐	brown	カツ		yes		453	brown
+491	喝	hoarse	カツ		yes		454	hoarse
+492	葛	kudzu	カツ	くず	yes		2398	kudzu
+493	旨	delicious	シ	むね	yes		455	delicious
+494	脂	fat	シ	あぶら	yes		456	fat
+495	詣	visit a shrine	ケイ	もう・でる	yes		2715	visit a shrine
+496	壱	I (one)	イチ		yes		457	I (one)
+497	毎	every	マイ		yes		458	every
+498	敏	cleverness	ビン		yes		459	cleverness
+499	梅	plum	バイ	うめ	yes		460	plum
+500	海	sea	カイ	うみ	yes		461	sea
+501	乞	beg		こ・う	yes		462	beg
+502	乾	drought	カン	かわ・かす　　かわ・く	yes		463	drought
+503	腹	abdomen	フク	はら	yes		464	abdomen
+504	複	duplicate	フク		yes		465	duplicate
+505	欠	lack	ケツ	か・く　　か・ける	yes		466	lack
+506	吹	blow	スイ	ふ・く	yes		467	blow
+507	炊	cook	スイ	た・く	yes		468	cook
+508	歌	song	カ	うた・う　　うた	yes		469	song
+509	軟	soft	ナン	やわ・らか　　やわ・らかい	yes		470	soft
+510	次	next	ジ　　シ	つ・ぐ　　つぎ	yes		471	next
+511	茨	briar		いばらr	yes		472	briar
+512	資	assets	シ		yes		473	assets
+513	姿	figure	シ	すがた	yes		474	figure
+514	諮	consult with	シ	はか・る	yes		475	consult with
+515	賠	compensation	バイ		yes	19	476	compensation
+516	培	cultivate	バイ	つちか・う	yes		477	cultivate
+517	剖	divide	ボウ		yes		478	divide
+518	音	sound	オン　　イン	おと　　ね	yes		479	sound
+519	暗	darkness	アン	くら・い	yes		480	darkness
+520	韻	rhyme	イン		yes		481	rhyme
+521	識	discriminating	シキ		yes		482	discriminating
+522	鏡	mirror	キョウ	かがみ	yes		483	mirror
+523	境	boundary	キョウ　　ケイr	さかい	yes		484	boundary
+524	亡	deceased	ボウ　　モウr	な・い	yes		485	deceased
+525	盲	blind	モウ		yes		486	blind
+526	妄	delusion	モウ　　ボウ		yes		487	delusion
+527	荒	laid waste	コウ	あら・い　　あ・らす　　あ・れる	yes		488	laid waste
+528	望	ambition	ボウ　　モウ	のぞ・む	yes		489	ambition
+529	方	direction	ホウ	かた	yes		490	direction
+530	妨	disturb	ボウ	さまた・げる	yes		491	disturb
+531	坊	boy	ボウ　 ボッr		yes		492	boy
+532	芳	perfumed	ホウ	かんば・しい	yes		493	perfumed
+533	肪	obese	ボウ		yes		494	obese
+534	訪	call on	ホウ	おとず・れる　　たず・ねる	yes		495	call on
+535	放	set free	ホウ	はな・す　　はな・つ　　はな・れる　　ほう・る 	yes		496	set free
+536	激	violent	ゲキ	はげ・しい	yes		497	violent
+537	脱	undress	ダツ	ぬ・ぐ　　ぬ・げる	yes		498	undress
+538	説	explanation	セツ　　ゼイr	と・く	yes		499	rumor / explanation
+539	鋭	pointed	エイ	するど・い	yes		500	pointed
+540	曽	formerly	ソウ　　ゾr		yes		501	formerly
+541	増	increase	ゾウ	ふ・える　　ふ・やす　　ま・す	yes		502	increase
+542	贈	presents	ゾウ　　ソウr	おく・る	yes		503	presents
+543	東	east	トウ	ひがし	yes		504	east
+544	棟	ridgepole	トウ	むね　　むなr	yes		505	ridgepole
+545	凍	frozen	トウ	こお・る　　こご・える	yes		506	frozen
+546	妊	pregnancy	ニン		yes		507	pregnancy
+547	廷	courts	テイ		yes		508	courts
+548	染	dye	セン	そ・まる　　そ・める　　し・み　　し・みる	yes	20	509	dye
+549	燃	burn	ネン	も・える　　も・やす　　も・す	yes		510	burn
+550	賓	V.I.P.	ヒン		yes		511	V.I.P.
+551	歳	year-end	サイ　　セイr		yes		512	year-end
+552	県	prefecture	ケン		yes		513	prefecture
+553	栃	horse chestnut		とち	yes		514	horse chestnut
+554	地	ground	チ　　ジ		yes	21	515	ground
+555	池	pond	チ	いけ	yes		516	pond
+556	虫	insect	チュウ	むし	yes		517	insect
+557	蛍	lightning bug	ケイ	ほたる	yes		518	lightning bug
+558	蛇	snake	ジャ　　ダ	へび	yes		519	snake
+559	虹	rainbow		にじ	yes		520	rainbow
+560	蝶	butterfly	チョウ		no		521	butterfly
+561	独	single	ドク	ひと・り	yes		522	single
+562	蚕	silkworm	サン	かいこ	yes		523	silkworm
+563	風	wind	フウ　　フr	かぜ　　かざr	yes		524	wind
+564	己	self	コ　　キ	おのれ	yes		525	self
+565	起	rouse	キ	お・きる　　お・こす　　お・こる	yes		526	rouse
+566	妃	queen	ヒ		yes		527	queen
+567	改	reformation	カイ	あらた・まる　　あらた・める	yes		528	reformation
+568	記	scribe	キ	しる・す	yes		529	scribe
+569	包	wrap	ホウ	つつ・む	yes		530	wrap
+570	胞	placenta	ホウ		yes		531	placenta
+571	砲	cannon	ホウ		yes		532	cannon
+572	泡	bubble	ホウ	あわ	yes		533	bubbles
+573	亀	tortoise	キ	かめ	yes		534	tortoise
+574	電	electricity	デン		yes		535	electricity
+575	竜	dragon	リュウ	たつ	yes		536	dragon
+576	滝	waterfall		たき	yes		537	waterfall
+577	豚	pork	トン	ぶた	yes		538	pork
+578	逐	pursue	チク		yes		539	pursue
+579	遂	consummate	スイ	と・げる	yes		540	consummate
+580	家	house	カ　　ケ	いえ　　や	yes		541	house
+581	嫁	marry into	カ	よめ　　とつ・ぐ	yes		542	marry into
+582	豪	overpowering	ゴウ		yes		543	overpowering
+583	腸	intestines	チョウ		yes		544	intestines
+584	場	location	ジョウ	ば	yes		545	location
+585	湯	hot water	トウ	ゆ	yes		546	hot water
+586	羊	sheep	ヨウ	ひつじ	yes		547	sheep
+587	美	beauty	ビ	うつく・しい	yes		548	beauty
+588	洋	ocean	ヨウ		yes		549	ocean
+589	詳	detailed	ショウ	くわ・しい	yes		550	detailed
+590	鮮	fresh	セン	あざ・やか	yes		551	fresh
+591	達	accomplished	タツ		yes		552	accomplished
+592	羨	envious	セン	うらや・ましい　　うらや・む	yes		553	envious
+593	差	distinction	サ	さ・す	yes		554	distinction
+594	着	don	チャク　　ジャクr	き・る　　き・せる　　つ・く　　つ・ける	yes		555	don
+595	唯	solely	ユイ　　イr		yes		556	solely
+596	堆	piled high	タイ		yes		2185	piled high
+597	椎	sweet oak	ツイ		yes		2505	sweet oak
+598	誰	who?		だれ	yes		2712	who?
+599	焦	char	ショウ	こ・げる　　こ・がす　　こ・がれる　　あせ・る	yes		557	char
+600	礁	reef	ショウ		yes		558	reef
+601	集	gather	シュウ	あつ・まる　　あつ・める　　つど・う	yes		559	gather
+602	准	quasi-	ジュン		yes		560	quasi-
+603	進	advance	シン	すす・む　　すす・める	yes		561	advance
+604	雑	miscellaneous	ザツ　　ゾウ		yes		562	miscellaneous
+605	雌	female	シ	めす　　め	yes		563	feminine
+606	準	semi-	ジュン		yes		564	semi-
+607	奮	stirred up	フン	ふる・う	yes		565	stirred up
+608	奪	rob	ダツ	うば・う	yes		566	rob
+609	確	assurance	カク	たし・か　　たし・かめる	yes		567	assurance
+610	午	noon	ゴ		yes		568	noon
+611	許	permit	キョ	ゆる・す	yes		569	permit
+612	歓	delight	カン		yes		570	delight
+613	権	authority	ケン　　ゴンr		yes		571	authority
+614	観	outlook	カン		yes		572	outlook
+615	羽	feathers	ウ	は　　はね	yes		573	feathers
+616	習	learn	シュウ	なら・う	yes		574	learn
+617	翌	the following	ヨク		yes		575	the following
+618	曜	weekday	ヨウ		yes		576	weekday
+619	濯	laundry	タク		yes		577	laundry
+620	曰	sayeth		いわ・く	no	22	578	sayeth
+621	困	quandary	コン	こま・る	yes		579	quandary
+622	固	harden	コ	かた・い　　かた・まる　　かた・める	yes		580	harden
+623	錮	weld	コ		yes		3013	weld
+624	国	country	コク	くに	yes		581	country
+625	団	group	ダン　　トンr		yes		582	group
+626	因	cause	イン	よ・る	yes		583	cause
+627	姻	matrimony	イン		yes		584	matrimony
+628	咽	windpipe	イン		yes		2159	windpipe
+629	園	park	エン	その	yes		585	park
+630	回	-times	カイ　　エr	まわ・す　　まわ・る	yes		586	-times
+631	壇	podium	ダン　タンr		yes		587	podium
+632	店	store	テン	みせ	yes		588	store
+633	庫	warehouse	コ　　クr		yes		589	warehouse
+634	庭	courtyard	テイ	にわ	yes		590	courtyard
+635	庁	government office	チョウ		yes		591	government office
+636	床	bed	ショウ	とこ　　ゆか	yes		592	bed
+637	麻	hemp	マ	あさ	yes		593	hemp
+638	磨	grind	マ	みが・く	yes		594	grind
+639	心	heart	シン	こころ	yes		595	heart
+640	忘	forget	ボウ	わす・れる	yes		596	forget
+641	恣	selfish	シ		yes		3014	selfish
+642	忍	endure	ニン	しの・ぶ　　しの・ばせる	yes		597	endure
+643	認	acknowledge	ニン	みと・める	yes		598	acknowledge
+644	忌	mourning	キ	い・む　　い・まわしい	yes		599	mourning
+645	志	intention	シ	こころざし　　こころざ・す	yes		600	intention
+646	誌	document	シ		yes		601	document
+647	芯	wick	シン		yes		2368	wick
+648	忠	loyalty	チュウ		yes		602	loyalty
+649	串	shish kebab		くし	yes		603	shish kebab
+650	患	afflicted	カン	わずら・う	yes		604	afflicted
+651	思	think	シ	おも・う	yes		605	think
+652	恩	grace	オン		yes		606	grace
+653	応	apply	オウ	こた・える 	yes		607	apply
+654	意	idea	イ		yes		608	idea
+655	臆	cowardice	オク		yes		2460	cowardice
+656	想	concept	ソウ　　ソr		yes		609	concept
+657	息	breath	ソク	いき	yes		610	breath
+658	憩	recess	ケイ	いこ・い　　いこ・う	yes		611	recess
+659	恵	favor	エ　　ケイ	めぐ・む	yes		612	favor
+660	恐	fear	キョウ	おそ・れる　　おそ・ろしい	yes		613	fear
+661	惑	beguile	ワク	まど・う	yes		614	beguile
+662	感	emotion	カン		yes		615	emotion
+663	憂	melancholy	ユウ	う・い　　うれ・い　　うれ・える	yes		616	melancholy
+664	寡	widow	カ		yes		617	widow
+665	忙	busy	ボウ	いそが・しい	yes		618	busy
+666	悦	ecstasy	エツ		yes		619	ecstasy
+667	恒	constancy	コウ		yes		620	constancy
+668	悼	lament	トウ	いた・む	yes		621	lament
+669	悟	enlightenment	ゴ	さと・る	yes		622	enlightenment
+670	怖	dreadful	フ	こわ・い	yes		623	dreadful
+671	慌	disconcerted	コウ	あわ・てる　　あわ・ただしい	yes		624	disconcerted
+672	悔	repent	カイ	く・いる　　くや・しい　　く・やむ	yes		625	repent
+673	憎	hate	ゾウ	にく・む　　にく・い　　にく・しみ　　にく・らしい	yes		626	hate
+674	慣	accustomed	カン	な・れる　　な・らす	yes		627	accustomed
+675	愉	pleasure	ユ		yes		628	pleasure
+676	惰	lazy	ダ		yes		629	lazy
+677	慎	humility	シン	つつし・む	yes		630	humility
+678	憾	remorse	カン		yes		631	remorse
+679	憶	recollection	オク		yes		632	recollection
+680	惧	disquieting	グ		yes		3015	disquieting
+681	憧	yearn	ショウ	あこが・れる	yes		2280	yearn
+682	憬	hanker	ケイ		yes		3016	hanker
+683	慕	pining	ボ	した・う	yes		633	pining
+684	添	annexed	テン	そ・える　　そ・う	yes		634	annexed
+685	必	invariably	ヒツ	かなら・ず	yes		635	invariably
+686	泌	ooze	ヒツ　　ヒ		yes		636	ooze
+687	手	hand	シュ	て　　たr	yes	23	637	hand
+688	看	watch over	カン		yes		638	watch over
+689	摩	chafe	マ		yes		639	chafe
+690	我	ego	ガ	われ　　わ	yes		640	ego
+691	義	righteousness	ギ		yes		641	righteousness
+692	議	deliberation	ギ		yes		642	deliberation
+693	犠	sacrifice	ギ		yes		643	sacrifice
+694	抹	rub	マツ		yes		644	rub
+695	拭	wipe	ショク	ぬぐ・う　　ふ・く	yes		2254	wipe
+696	拉	yank	ラ		yes		3017	yank
+697	抱	embrace	ホウ	だ・く　　いだ・く　　かか・える	yes		645	embrace
+698	搭	board	トウ		yes		646	board
+699	抄	extract	ショウ		yes		647	extract
+700	抗	confront	コウ		yes		648	confront
+701	批	criticism	ヒ		yes		649	criticism
+702	招	beckon	ショウ	まね・く	yes		650	beckon
+703	拓	clear the land	タク		yes		651	clear the land
+704	拍	clap	ハク　　ヒョウr		yes		652	clap
+705	打	strike	ダ	う・つ	yes		653	strike
+706	拘	arrest	コウ		yes		654	arrest
+707	捨	discard	シャ	す・てる	yes		655	discard
+708	拐	kidnap	カイ		yes		656	kidnap
+709	摘	pinch	テキ	つ・む	yes		657	pinch
+710	挑	challenge	チョウ	いど・む	yes		658	challenge
+711	指	finger	シ	ゆび　　さ・す	yes		659	finger
+712	持	hold	ジ	も・つ	yes		660	hold
+713	拶	imminent	サツ		yes		2261	imminent
+714	括	fasten	カツ		yes		661	fasten
+715	揮	brandish	キ		yes		662	brandish
+716	推	conjecture	スイ	お・す	yes		663	conjecture
+717	揚	hoist	ヨウ	あ・げる　　あ・がる	yes		664	hoist
+718	提	propose	テイ	さ・げる	yes		665	propose
+719	損	damage	ソン	そこ・なう　　そこ・ねる	yes		666	damage
+720	拾	pick up	シュウ　　ジュウ	ひろ・う	yes		667	pick up
+721	担	shouldering	タン	かつ・ぐ　　にな・う	yes		668	shouldering
+722	拠	foothold	キョ　　コ		yes		669	foothold
+723	描	sketch	ビョウ	えが・く　　か・く	yes		670	sketch
+724	操	maneuver	ソウ	あやつ・る　　みさお	yes		671	maneuver
+725	接	touch	セツ	つ・ぐ	yes		672	touch
+726	掲	put up a notice	ケイ	かか・げる	yes		673	put up a notice
+727	掛	hang		か・ける　　か・かる　　かかり	yes		674	hang
+728	捗	make headway	チョク		yes		2269	make headway
+729	研	polish	ケン	と・ぐ	yes		675	polish
+730	戒	commandment	カイ	いまし・める	yes		676	commandment
+731	弄	tinker with	ロウ	もてあそ・ぶ	yes		2558	tinker with
+732	械	contraption	カイ		yes		677	contraption
+733	鼻	nose	ビ	はな	yes		678	nose
+734	刑	punish	ケイ		yes		679	punish
+735	型	mould	ケイ	かた	yes		680	mold
+736	才	genius	サイ		yes		681	genius
+737	財	property	ザイ　　サイr		yes		682	property
+738	材	lumber	ザイ		yes		683	lumber
+739	存	suppose	ソン　　ゾン		yes		684	suppose
+740	在	exist	ザイ	あ・る	yes		685	exist
+741	乃	from	ナイ	の	no		686	from
+742	携	portable	ケイ	たずさ・える　　たずさ・わる	yes		687	portable
+743	及	reach out	キュウ	およ・び　　およ・ぶ　　およ・ぼす 	yes		688	reach out
+744	吸	suck	キュウ	す・う	yes		689	suck
+745	扱	handle		あつか・う	yes		690	handle
+746	丈	length	ジョウ	たけ	yes		691	length
+747	史	history	シ		yes		692	history
+748	吏	officer	リ		yes		693	officer
+749	更	grow late	コウ	さら　　ふ・かす　　ふ・ける	yes		694	grow late
+750	硬	stiff	コウ	かた・い	yes		695	stiff
+751	梗	spiny	コウ		yes		2498	spiny
+752	又	or again		また	yes		696	or again
+753	双	pair	ソウ	ふた	yes		697	pair
+754	桑	mulberry	ソウ	くわ	yes		698	mulberry
+755	隻	vessels	セキ		yes		699	vessels
+756	護	safeguard	ゴ		yes		700	safeguard
+757	獲	seize	カク	え・る	yes		701	seize
+758	奴	guy	ド		yes		702	guy
+759	怒	angry	ド	いか・る　　おこ・る	yes		703	angry
+760	友	friend	ユウ	とも	yes		704	friend
+761	抜	slip out	バツ	ぬ・く　　ぬ・ける　　ぬ・かす　　ぬ・かる	yes		705	slip out
+762	投	throw	トウ	な・げる	yes		706	throw
+763	没	drown	ボツ		yes		707	drown
+764	股	thigh	コ	また	yes		2454	thigh
+765	設	establishment	セツ	もう・ける	yes		708	establishment
+766	撃	beat	ゲキ	う・つ	yes		709	beat
+767	殻	husk	カク	から	yes		710	husk
+768	支	branch	シ	ささ・える	yes		711	branch
+769	技	skill	ギ	わざ	yes		712	skill
+770	枝	bough	シ	えだ	yes		713	bough
+771	肢	limb	シ		yes		714	limb
+772	茎	stalk	ケイ	くき	yes		715	stalk
+773	怪	suspicious	カイ	あや・しい　　あや・しむ	yes		716	suspicious
+774	軽	lightly	ケイ	かる・い　　かろ・やか	yes		717	lightly
+775	叔	uncle	シュク		yes		718	uncle
+776	督	coach	トク		yes		719	coach
+777	寂	loneliness	ジャク　　セキr	さび・しい　　さび　　さび・れる	yes		720	loneliness
+778	淑	graceful	シュク		yes		721	graceful
+779	反	anti-	ハン　　ホン　　タンr	そ・らす　　そ・る	yes		722	anti-
+780	坂	slope	ハン	さか	yes		723	slope
+781	板	plank	ハン　　バン	いた	yes		724	plank
+782	返	return	ヘン	かえ・す　　かえ・る	yes		725	return
+783	販	marketing	ハン		yes		726	marketing
+784	爪	claw		つめ　　つまr	yes		727	claw
+785	妥	gentle	ダ		yes		728	gentle
+786	乳	milk	ニュウ	ち　　ちち	yes		729	milk
+787	浮	floating	フ	う・かぶ　　う・かべる　　う・かれる　　う・く	yes		730	floating
+788	淫	lewd	イン	みだ・ら	yes		2298	lewd
+789	将	leader	ショウ		yes		731	leader
+790	奨	exhort	ショウ		yes		732	exhort
+791	采	grab	サイ		yes		2090	grab
+792	採	pick	サイ	と・る	yes		733	pick
+793	菜	vegetable	サイ	な	yes		734	vegetable
+794	受	accept	ジュ	う・ける　　う・かる	yes		735	accept
+795	授	impart	ジュ	さず・かる　　さず・ける	yes		736	impart
+796	愛	love	アイ		yes		737	love
+797	曖	unclear	アイ		yes		2437	equivocal
+798	払	pay	フツ	はら・う	yes		738	pay
+799	広	wide	コウ	ひろ・い　　ひろ・がる　　ひろ・げる　　ひろ・まる　　ひろ・める	yes		739	wide
+800	勾	hooked	コウ		yes		2148	flexed
+801	拡	broaden	カク		yes		740	broaden
+802	鉱	mineral	コウ		yes		741	mineral
+803	弁	valve	ベン		yes		742	valve
+804	雄	male	ユウ	おす　　お	yes		743	masculine
+805	台	pedestal	ダイ　　タイ		yes		744	pedestal
+806	怠	neglect	タイ	おこた・る　　なま・ける	yes		745	neglect
+807	治	reign	ジ　　チ	おさ・まる　　おさ・める　　なお・す　　なお・る	yes		746	reign
+808	冶	metallurgy	ヤ		yes		2137	metallurgy
+809	始	commence	シ	はじ・まる　　はじ・める	yes		747	commence
+810	胎	womb	タイ		yes		748	womb
+811	窓	window	ソウ	まど	yes		749	window
+812	去	gone	キョ　　コ	さ・る	yes		750	gone
+813	法	method	ホウ　　ハッ　　ホッr		yes		751	method
+814	会	meeting	カイ　　エ	あ・う	yes		752	meeting
+815	至	climax	シ	いた・る	yes		753	climax
+816	室	room	シツ	むろ	yes		754	room
+817	到	arrival	トウ		yes		755	arrival
+818	致	doth	チ	いた・す	yes		756	doth
+819	互	mutually	ゴ	たが・い	yes		757	mutually
+820	棄	abandon	キ		yes		758	abandon
+821	育	bring up	イク	そだ・てる　　そだ・つ　　はぐく・む 	yes		759	bring up
+822	撤	remove	テツ		yes		760	remove
+823	充	allot	ジュウ	あ・てる	yes		761	allot
+824	銃	gun	ジュウ		yes		762	gun
+825	硫	sulfur	リュウ		yes		763	sulfur
+826	流	current	リュウ　　ルr	なが・す　　なが・れる	yes		764	current
+827	允	license	イン		no		765	license
+828	唆	tempt	サ	そそのか・す	yes		766	tempt
+829	出	exit	シュツ　　スイr	だ・す　　で・る	yes	24	767	exit
+830	山	mountain	サン	やま	yes		768	mountain
+831	拙	bungling	セツ	つたな・い	yes		769	bungling
+832	岩	boulder	ガン	いわ	yes		770	boulder
+833	炭	charcoal	タン	すみ	yes		771	charcoal
+834	岐	branch off	キ		yes		772	branch off
+835	峠	mountain pass		とうげ	yes		773	mountain peak
+836	崩	crumble	ホウ	くず・す　　くず・れる	yes		774	crumble
+837	密	secrecy	ミツ		yes		775	secrecy
+838	蜜	honey	ミツ		yes		776	honey
+839	嵐	storm		あらし	yes		777	storm
+840	崎	promontory		さき	yes		778	promontory
+841	崖	bluffs	ガイ	がけ	yes		2227	bluffs
+842	入	enter	ニュウ	はい・る　　い・れる　　い・る	yes		779	enter
+843	込	crowded		こ・む　　こ・める	yes		780	crowded
+844	分	part	ブン　　フン　　ブ	わ・かる　　わ・ける　　わ・かれる　　わ・かつ	yes		781	part
+845	貧	poverty	ヒン　　ビン	まず・しい	yes		782	poverty
+846	頒	partition	ハン		yes		783	partition
+847	公	public	コウ	おおやけ	yes		784	public
+848	松	pine tree	ショウ	まつ	yes		785	pine tree
+849	翁	venerable old man	オウ		yes		786	venerable old man
+850	訟	sue	ショウ		yes		787	sue
+851	谷	valley	コク	たに	yes		788	valley
+852	浴	bathe	ヨク	あ・びる　　あ・びせる	yes		789	bathe
+853	容	contain	ヨウ		yes		790	contain
+854	溶	melt	ヨウ	と・く　　と・ける　　と・かす	yes		791	melt
+855	欲	longing	ヨク	ほ・しい　　ほっ・する	yes		792	longing
+856	裕	abundant	ユウ		yes		793	abundant
+857	鉛	lead (metal)	エン	なまり	yes		794	lead (metal)
+858	沿	run alongside	エン	そ・う	yes		795	run alongside
+859	賞	prize	ショウ		yes	25	796	prize
+860	党	party	トウ		yes		797	party
+861	堂	hall	ドウ		yes		798	public chamber
+862	常	usual	ジョウ	つね　　とこ	yes		799	usual
+863	裳	skirt	ショウ	も	no		800	skirt
+864	掌	manipulate	ショウ		yes		801	manipulate
+865	皮	pelt	ヒ	かわ	yes		802	pelt
+866	波	waves	ハ	なみ	yes		803	waves
+867	婆	old woman	バ		yes		804	old woman
+868	披	expose	ヒ		yes		805	expose
+869	破	rend	ハ	やぶ・る　　やぶ・れる	yes		806	rend
+870	被	incur	ヒ	こうむ・る	yes		807	incur
+871	残	remainder	ザン	のこ・す　　のこ・る	yes		808	remainder
+872	殉	martyrdom	ジュン		yes		809	martyrdom
+873	殊	particularly	シュ	こと	yes		810	particularly
+874	殖	augment	ショク	ふ・える　　ふ・やす	yes		811	augment
+875	列	file	レツ		yes		812	file
+876	裂	split	レツ	さ・く　　さ・ける	yes		813	split
+877	烈	ardent	レツ		yes		814	ardent
+878	死	death	シ	し・ぬ	yes		815	death
+879	葬	interment	ソウ	ほうむ・る	yes		816	interment
+880	瞬	wink	シュン	またた・く	yes		817	wink
+881	耳	ear	ジ	みみ	yes		818	ear
+882	取	take	シュ	と・る	yes		819	take
+883	趣	gist	シュ	おもむき	yes		820	gist
+884	最	utmost	サイ	もっと・も	yes		821	utmost
+885	撮	snapshot	サツ	と・る	yes		822	snapshot
+886	恥	shame	チ	は・ずかしい　　はじ　　は・じらう　　は・じる	yes		823	shame
+887	職	post	ショク		yes		824	post
+888	聖	holy	セイ		yes		825	holy
+889	敢	daring	カン		yes		826	daring
+890	聴	listen	チョウ	き・く	yes		827	listen
+891	懐	pocket	カイ	なつ・かしい　　なつ・かしむ　　なつ・く　　なつ・ける　　ふところ	yes		828	pocket
+892	慢	ridicule	マン		yes		829	ridicule
+893	漫	loose	マン		yes		830	loose
+894	買	buy	バイ	か・う	yes		831	buy
+895	置	placement	チ	お・く	yes		832	placement
+896	罰	penalty	バツ　　バチ		yes		833	penalty
+897	寧	rather	ネイ		yes		834	rather
+898	濁	voiced	ダク	にご・す　　にご・る	yes		835	voiced
+899	環	ring	カン		yes		836	ring
+900	還	send back	カン		yes		837	send back
+901	夫	husband	フ　　フウr	おっと	yes		838	husband
+902	扶	aid	フ		yes		839	aid
+903	渓	mountain stream	ケイ		yes		840	mountain stream
+904	規	standard	キ		yes		841	standard
+905	替	exchange	タイ	か・える　　か・わる	yes		842	exchange
+906	賛	approve	サン		yes		843	approve
+907	潜	submerge	セン	もぐ・る　　ひそ・む	yes		844	submerge
+908	失	lose	シツ	うしな・う	yes		845	lose
+909	鉄	iron	テツ		yes		846	iron
+910	迭	alternate	テツ		yes		847	alternate
+911	臣	retainer	シン　　ジン		yes		848	retainer
+912	姫	princess		ひめ	yes		849	princess
+913	蔵	storehouse	ゾウ	くら	yes		850	storehouse
+914	臓	entrails	ゾウ		yes		851	entrails
+915	賢	intelligent	ケン	かしこ・い	yes		852	intelligent
+916	腎	kidney	ジン		yes		2453	kidney
+917	堅	strict	ケン	かた・い	yes		853	strict
+918	臨	look to	リン	のぞ・む	yes		854	look to
+919	覧	perusal	ラン		yes		855	perusal
+920	巨	gigantic	キョ		yes		856	gigantic
+921	拒	repel	キョ	こば・む	yes		857	repel
+922	力	power	リョク　　リキ	ちから	yes		858	power
+923	男	man	ダン　　ナン	おとこ	yes		859	male
+924	労	labor	ロウ		yes		860	labor
+925	募	recruit	ボ	つの・る	yes		861	recruit
+926	劣	inferiority	レツ	おと・る	yes		862	inferiority
+927	功	achievement	コウ　　クr		yes		863	achievement
+928	勧	persuade	カン	すす・める	yes		864	persuade
+929	努	toil	ド	つと・める	yes		865	toil
+930	勃	uprising	ボツ		yes		2858	erection
+931	励	encourage	レイ	はげ・ます　　はげ・む	yes		866	encourage
+932	加	add	カ	くわ・える　　くわ・わる	yes		867	add
+933	賀	congratulations	ガ		yes		868	congratulations
+934	架	erect	カ	か・かる　　か・ける	yes		869	erect
+935	脇	armpit		わき	yes		870	armpit
+936	脅	threaten	キョウ	おど・す　　おど・かす　　おびや・かす	yes		871	threaten
+937	協	co-	キョウ		yes		872	co-
+938	行	going	コウ　　ギョウ　　アンr	い・く　　ゆ・く　　おこな・う	yes		873	going
+939	律	rhythm	リツ 　　リチr		yes		874	rhythm
+940	復	restore	フク		yes		875	restore
+941	得	gain	トク	う・る　　え・る	yes		876	gain
+942	従	accompany	ジュウ　　ジュ　　ショウr	したが・う　　したが・える	yes		877	accompany
+943	徒	junior	ト		yes		878	junior
+944	待	wait	タイ	ま・つ	yes		879	wait
+945	往	journey	オウ		yes		880	journey
+946	征	subjugate	セイ		yes		881	subjugate
+947	径	diameter	ケイ		yes		882	diameter
+948	彼	he	ヒ	かれ　　かのr	yes		883	he
+949	役	duty	ヤク　　エキ		yes		884	duty
+950	徳	benevolence	トク		yes		885	benevolence
+951	徹	penetrate	テツ		yes		886	penetrate
+952	徴	indications	チョウ		yes		887	indications
+953	懲	penal	チョウ	こ・らす　　こ・らしめる　　こ・りる	yes		888	penal
+954	微	delicate	ビ		yes		889	delicate
+955	街	boulevard	ガイ　　カイr	まち	yes		890	boulevard
+956	桁	girder		けた	yes		2483	girder
+957	衡	equilibrium	コウ		yes		891	equilibrium
+958	稿	draft	コウ		yes	26	892	draft
+959	稼	earnings	カ	かせ・ぐ	yes		893	earnings
+960	程	extent	テイ	ほど	yes		894	extent
+961	税	tax	ゼイ		yes		895	tax
+962	稚	immature	チ		yes		896	immature
+963	和	harmony	ワ　　オr	なご・む　　なご・やか　　やわ・らぐ　　やわ・らげる	yes		897	harmony
+964	移	shift	イ	うつ・す　　うつ・る	yes		898	shift
+965	秒	second	ビョウ		yes		899	second
+966	秋	autumn	シュウ	あき	yes		900	autumn
+967	愁	distress	シュウ	うれ・い　　うれ・える	yes		901	distress
+968	私	private	シ	わたくし　　わたし	yes		902	private
+969	秩	regularity	チツ		yes		903	regularity
+970	秘	secret	ヒ	ひ・める	yes		904	secret
+971	称	appellation	ショウ		yes		905	appellation
+972	利	profit	リ	き・く	yes		906	profit
+973	梨	pear tree		なし	yes		907	pear tree
+974	穫	harvest	カク		yes		908	harvest
+975	穂	ear of a plant	スイ	ほ	yes		909	ear of a plant
+976	稲	rice plant	トウ	いね　　いなr	yes		910	rice plant
+977	香	incense	コウ　　キョウr	か　　かお・り　　かお・る	yes		911	incense
+978	季	seasons	キ		yes		912	seasons
+979	委	committee	イ	ゆだ・ねる 	yes		913	committee
+980	秀	excel	シュウ	ひい・でる	yes		914	excel
+981	透	transparent	トウ	す・かす　　す・く　　す・ける	yes		915	transparent
+982	誘	entice	ユウ	さそ・う	yes		916	entice
+983	稽	training	ケイ		yes		2088	training
+984	穀	cereals	コク		yes		917	cereals
+985	菌	germ	キン		yes		918	germ
+986	萎	numb	イ	な・える	yes		2355	numb
+987	米	rice	ベイ　　マイ	こめ	yes		919	rice
+988	粉	flour	フン	こな　　こ	yes		920	flour
+989	粘	sticky	ネン	ねば・る	yes		921	sticky
+990	粒	grains	リュウ	つぶ	yes		922	grains
+991	粧	cosmetics	ショウ		yes		923	cosmetics
+992	迷	astray	メイ	まよ・う	yes		924	astray
+993	粋	chic	スイ	いき	yes		925	chic
+994	謎	riddle		なぞ	yes		2709	riddle
+995	糧	provisions	リョウ　　ロウr	かて	yes		926	provisions
+996	菊	chrysanthemum	キク		yes		927	chrysanthemum
+997	奥	core	オウ	おく	yes		928	core
+998	数	number	スウ　　スr	かず　　かぞ・える	yes		929	number
+999	楼	watchtower	ロウ		yes		930	watchtower
+1000	類	sort	ルイ	たぐ・い 	yes		931	sort
+1001	漆	lacquer	シツ	うるし	yes		932	lacquer
+1002	膝	knee		ひざ	yes		2461	knee
+1003	様	Esq.	ヨウ	さま	yes		933	Esq.
+1004	求	request	キュウ	もと・める	yes		934	request
+1005	球	ball	キュウ	たま	yes		935	ball
+1006	救	salvation	キュウ	すく・う	yes		936	salvation
+1007	竹	bamboo	チク	たけ	yes		937	bamboo
+1008	笑	laugh	ショウ	わら・う　　え・む	yes		938	laugh
+1009	笠	bamboo hat		かさ	no		939	bamboo hat
+1010	笹	bamboo grass		ささ	no		940	bamboo grass
+1011	箋	stationery	セン		yes		2991	stationary
+1012	筋	muscle	キン	すじ	yes		941	muscle
+1013	箱	box		はこ	yes		942	box
+1014	筆	writing brush	ヒツ	ふで	yes		943	writing brush
+1015	筒	cylinder	トウ	つつ	yes		944	cylinder
+1016	等	etc.	トウ	ひと・しい	yes		945	etc.
+1017	算	calculate	サン		yes		946	calculate
+1018	答	solution	トウ	こた・え　　こた・える	yes		947	solution
+1019	策	scheme	サク		yes		948	scheme
+1020	簿	register	ボ		yes		949	register
+1021	築	fabricate	チク	きず・く	yes		950	fabricate
+1022	篭	basket	ロウ	こ・もる　　かご	no		2638	cage
+1023	人	person	ジン　　ニン	ひと	yes	27	951	person
+1024	佐	assistant	サ		yes		952	assistant
+1025	侶	partner	リョ		yes		2121	partner
+1026	但	however		ただ・し	yes		953	however
+1027	住	dwell	ジュウ	す・む　　す・まう	yes		954	dwell
+1028	位	rank	イ	くらい	yes		955	rank
+1029	仲	go-between	チュウ	なか	yes		956	go-between
+1030	体	body	タイ　　テイ	からだ	yes		957	body
+1031	悠	remote	ユウ		yes		958	remote
+1032	件	affair	ケン		yes		959	affair
+1033	仕	attend	シ　　ジr	つか・える	yes		960	attend
+1034	他	other	タ	ほか 	yes		961	other
+1035	伏	prostrated	フク	ふ・す　　ふ・せる	yes		962	prostrated
+1036	伝	transmit	デン	つた・える　　つた・わる　　つた・う	yes		963	transmit
+1037	仏	Buddha	ブツ	ほとけ	yes		964	Buddha
+1038	休	rest	キュウ	やす・む　　やす・まる　　やす・める	yes		965	rest
+1039	仮	provisional	カ　　ケr	かり	yes		966	provisional
+1040	伎	performing artist	キ		yes		2122	performing artist
+1041	伯	chief	ハク		yes		967	chief
+1042	俗	vulgar	ゾク		yes		968	vulgar
+1043	信	faith	シン		yes		969	faith
+1044	佳	excellent	カ		yes		970	excellent
+1045	依	reliant	イ　　エr		yes		971	reliant
+1046	例	example	レイ	たと・える	yes		972	example
+1047	個	individual	コ		yes		973	individual
+1048	健	healthy	ケン	すこ・やか	yes		974	healthy
+1049	側	side	ソク	がわ 	yes		975	side
+1050	侍	waiter	ジ	さむらい	yes		976	waiter
+1051	停	halt	テイ		yes		977	halt
+1052	値	price	チ	あたい　　ね	yes		978	price
+1053	倣	emulate	ホウ	なら・う	yes		979	emulate
+1054	傲	arrogance	ゴウ		yes		3018	arrogance
+1055	倒	overthrow	トウ	たお・す　　たお・れる	yes		980	overthrow
+1056	偵	spy	テイ		yes		981	spy
+1057	僧	Buddhist priest	ソウ		yes		982	Buddhist priest
+1058	億	hundred million	オク		yes		983	hundred million
+1059	儀	ceremony	ギ		yes		984	ceremony
+1060	償	reparation	ショウ	つぐな・う	yes		985	reparation
+1061	仙	hermit	セン		yes		986	hermit
+1062	催	sponsor	サイ	もよお・す	yes		987	sponsor
+1063	仁	humanity	ジン　　ニr		yes		988	humanity
+1064	侮	scorn	ブ	あなど・る	yes		989	scorn
+1065	使	use	シ	つか・う	yes		990	use
+1066	便	convenience	ベン　　ビン	たよ・り	yes		991	convenience
+1067	倍	double	バイ		yes		992	double
+1068	優	tenderness	ユウ	やさ・しい　　すぐ・れる	yes		993	tenderness
+1069	伐	fell	バツ		yes		994	fell
+1070	宿	inn	シュク	やど　　やど・す　　やど・る	yes		995	inn
+1071	傷	wound	ショウ	きず　　いた・む　　いた・める	yes		996	wound
+1072	保	protect	ホ	たも・つ	yes		997	protect
+1073	褒	praise	ホウ	ほ・める	yes		998	praise
+1074	傑	greatness	ケツ		yes		999	greatness
+1075	付	adhere	フ	つ・く　　つ・ける	yes		1000	adhere
+1076	符	token	フ		yes		1001	token
+1077	府	municipality	フ		yes		1002	municipality
+1078	任	responsibility	ニン	まか・す　　まか・せる	yes		1003	responsibility
+1079	賃	fare	チン		yes		1004	fare
+1080	代	substitute	ダイ　　タイ	か・える　　か・わる　　しろ　　よ	yes		1005	substitute
+1081	袋	sack	タイ	ふくろ	yes		1006	sack
+1082	貸	lend	タイ	か・す	yes		1007	lend
+1083	化	change	カ　　ケ	ば・かす　　ば・ける	yes		1008	change
+1084	花	flower	カ	はな	yes		1009	flower
+1085	貨	freight	カ		yes		1010	freight
+1086	傾	lean	ケイ	かたむ・く　　かたむ・ける	yes		1011	lean
+1087	何	what	カ	なに　　なんr	yes		1012	what
+1088	荷	baggage	カ	に	yes		1013	baggage
+1089	俊	sagacious	シュン		yes		1014	sagacious
+1090	傍	bystander	ボウ	かたわ・ら	yes		1015	bystander
+1091	俺	myself		おれ	yes		2058	myself
+1092	久	long time	キュウ　　クr	ひさ・しい	yes		1016	long time
+1093	畝	furrow		うね　	yes		1017	furrow
+1094	囚	captured	シュウ		yes		1018	captured
+1095	内	inside	ナイ　　ダイr	うち	yes		1019	inside
+1096	丙	third class	ヘイ		yes		1020	third class
+1097	柄	design	ヘイ	がら　　え	yes		1021	design
+1098	肉	meat	ニク		yes		1022	meat
+1099	腐	rot	フ	くさ・る　　くさ・れる　　くさ・らす	yes		1023	rot
+1100	座	sit	ザ	すわ・る	yes		1024	sit
+1101	挫	sprain	ザ		yes		2845	sprain
+1102	卒	graduate	ソツ		yes		1025	graduate
+1103	傘	umbrella	サン	かさ	yes		1026	umbrella
+1104	匁	monme		もんめ	no	28	1027	monme
+1105	以	by means of	イ		yes		1028	by means of
+1106	似	similar	ジ	に・る	yes		1029	similar
+1107	併	join	ヘイ	あわ・せる	yes		1030	join
+1108	瓦	tile	ガ	かわら	yes		1031	tile
+1109	瓶	flower pot	ビン		yes		1032	flower pot
+1110	宮	Shinto shrine	キュウ　　グウ　　クr	みや	yes		1033	Shinto shrine
+1111	営	occupation	エイ	いとな・む	yes		1034	occupation
+1112	善	virtuous	ゼン	よ・い	yes		1035	virtuous
+1113	膳	dining tray	ゼン		yes		2468	dining tray
+1114	年	year	ネン	とし	yes		1036	year
+1115	夜	night	ヤ	よ　　よる	yes		1037	night
+1116	液	fluid	エキ		yes		1038	fluid
+1117	塚	hillock		つか	yes		1039	hillock
+1118	幣	cash	ヘイ		yes		1040	cash
+1119	蔽	cover over	ヘイ		yes		2358	cover over
+1120	弊	abuse	ヘイ		yes		1041	abuse
+1121	喚	yell	カン		yes		1042	yell
+1122	換	interchange	カン	か・える　　か・わる	yes		1043	interchange
+1123	融	dissolve	ユウ		yes		1044	dissolve
+1124	施	alms	シ　　セ	ほどこ・す	yes	29	1045	alms
+1125	旋	rotation	セン		yes		1046	rotation
+1126	遊	play	ユウ　　ユr	あそ・ぶ	yes		1047	play
+1127	旅	trip	リョ	たび	yes		1048	trip
+1128	勿	not	モチ		no		1049	not
+1129	物	thing	ブツ　　モツ	もの	yes		1050	thing
+1130	易	easy	エキ　　イ	やさ・しい	yes		1051	easy
+1131	賜	grant	シ	たまわ・る	yes		1052	grant
+1132	尿	urine	ニョウ		yes		1053	urine
+1133	尼	nun	ニ	あま	yes		1054	nun
+1134	尻	buttocks		しり	yes		2220	buttocks
+1135	泥	mud	デイ	どろ	yes		1055	mud
+1136	塀	fence	へい		yes		1056	fence
+1137	履	footgear	リ	は・く	yes		1057	footgear
+1138	屋	roof	オク	や	yes		1058	roof
+1139	握	grip	アク	にぎ・る	yes		1059	grip
+1140	屈	yield	クツ		yes		1060	yield
+1141	掘	dig	クツ	ほ・る	yes		1061	dig
+1142	堀	ditch		ほり	yes		1062	ditch
+1143	居	reside	キョ	い・る	yes		1063	reside
+1144	据	set		す・える　　す・わる	yes		1064	set
+1145	裾	hem		すそ	yes		2624	hem
+1146	層	stratum	ソウ		yes		1065	stratum
+1147	局	bureau	キョク		yes		1066	bureau
+1148	遅	slow	チ	おそ・い　　おく・れる　　おく・らす	yes		1067	slow
+1149	漏	leak	ロウ	も・らす　　も・る　　も・れる	yes		1068	leak
+1150	刷	printing	サツ	す・る	yes		1069	printing
+1151	尺	shaku	シャク		yes		1070	shaku
+1152	尽	exhaust	ジン	つ・かす　　つ・くす　　つ・きる	yes		1071	exhaust
+1153	沢	swamp	タク	さわ	yes		1072	swamp
+1154	訳	translate	ヤク	わけ	yes		1073	translate
+1155	択	choose	タク		yes		1074	choose
+1156	昼	daytime	チュウ	ひる	yes		1075	daytime
+1157	戸	door	コ	と	yes		1076	door
+1158	肩	shoulder	ケン	かた	yes		1077	shoulder
+1159	房	tassel	ボウ	ふさ	yes		1078	tassel
+1160	扇	fan	セン	おうぎ	yes		1079	fan
+1161	炉	hearth	ロ		yes		1080	hearth
+1162	戻	re-	レイ	もど・す　　もど・る	yes		1081	re-
+1163	涙	tears	ルイ	なみだ	yes		1082	tears
+1164	雇	employ	コ	やと・う	yes		1083	employ
+1165	顧	look back	コ	かえり・みる	yes		1084	look back
+1166	啓	disclose	ケイ		yes		1085	disclose
+1167	示	show	ジ　　シ	しめ・す	yes	30	1086	show
+1168	礼	salutation	レイ　　ライ		yes		1087	salutation
+1169	祥	auspicious	ショウ		yes		1088	auspicious
+1170	祝	celebrate	シュク　　シュウr	いわ・う	yes		1089	celebrate
+1171	福	blessing	フク		yes		1090	blessing
+1172	祉	welfare	シ		yes		1091	welfare
+1173	社	company	シャ	やしろ	yes		1092	company
+1174	視	inspection	シ		yes		1093	inspection
+1175	奈	Nara	ナ		yes		1094	Nara
+1176	尉	military officer	イ		yes		1095	military officer
+1177	慰	consolation	イ	なぐさ・む　　なぐさ・める	yes		1096	consolation
+1178	款	goodwill	カン		yes		1097	goodwill
+1179	禁	prohibition	キン		yes		1098	prohibition
+1180	襟	collar	キン	えり	yes		1099	collar
+1181	宗	religion	シュウ　　ソウ		yes		1100	religion
+1182	崇	adore	スウ		yes		1101	adore
+1183	祭	ritual	サイ	まつ・り　　まつ・る	yes		1102	ritual
+1184	察	guess	サツ		yes		1103	guess
+1185	擦	grate	サツ	す・る　　す・れる	yes		1104	grate
+1186	由	wherefore	ユ　　ユウ　 ユイr	よし	yes		1105	wherefore
+1187	抽	pluck	チュウ		yes		1106	pluck
+1188	油	oil	ユ	あぶら	yes		1107	oil
+1189	袖	sleeve	シュウ	そで	yes		1108	sleeve
+1190	宙	mid-air	チュウ		yes		1109	mid-air
+1191	届	deliver		とど・く　　とど・ける	yes		1110	deliver
+1192	笛	flute	テキ	ふえ	yes		1111	flute
+1193	軸	axis	ジク		yes		1112	axis
+1194	甲	armor	コウ　　カン		yes		1113	armor
+1195	押	push	オウ	お・す　　お・さえる	yes		1114	push
+1196	岬	headland		みさき	yes		1115	headland
+1197	挿	insert	ソウ	さ・す	yes		1116	insert
+1198	申	speaketh	シン	もう・す	yes		1117	speaketh
+1199	伸	expand	シン	の・ばす　　の・びる　　の・べる 	yes		1118	expand
+1200	神	gods	シン　　ジン	かみ　　かん　　こうr	yes		1119	gods
+1201	捜	search	ソウ	さが・す	yes		1120	search
+1202	果	fruit	カ	は・たす　　は・て　　は・てる	yes		1121	fruit
+1203	菓	confectionary	カ		yes		1122	candy
+1204	課	chapter	カ		yes		1123	chapter
+1205	裸	naked	ラ	はだか	yes		1124	naked
+1206	斤	ax	キン		yes	31	1125	ax
+1207	析	chop	セキ		yes		1126	chop
+1208	所	place	ショ	ところ	yes		1127	place
+1209	祈	pray	キ	いの・る	yes		1128	pray
+1210	近	near	キン	ちか・い	yes		1129	near
+1211	折	fold	セツ	お・る　　お・れる　　おり	yes		1130	fold
+1212	哲	philosophy	テツ		yes		1131	philosophy
+1213	逝	departed	セイ	ゆ・く　　い・く	yes		1132	departed
+1214	誓	vow	セイ	ちか・う	yes		1133	vow
+1215	斬	chop off	ザン		yes		2092	chop off
+1216	暫	temporarily	ザン	き・る	yes		1134	temporarily
+1217	漸	steadily	ゼン		yes		1135	steadily
+1218	断	severance	ダン	ことわ・る　　た・つ	yes		1136	severance
+1219	質	substance	シツ　　シチ　　チr		yes		1137	substance
+1220	斥	reject	セキ		yes		1138	reject
+1221	訴	accusation	ソ	うった・える	yes		1139	accusation
+1222	昨	yesterday	サク		yes		1140	yesterday
+1223	詐	lie	サ		yes		1141	lie
+1224	作	make	サク　　サ	つく・る	yes		1142	make
+1225	雪	snow	セツ	ゆき	yes		1143	snow
+1226	録	record	ロク		yes		1144	record
+1227	剥	peel off	ハク	は・がす　　は・ぐ　　は・げる　　は・がれる	yes		2145	peel off
+1228	尋	inquire	ジン	たず・ねる	yes		1145	inquire
+1229	急	hurry	キュウ	いそ・ぐ	yes		1146	hurry
+1230	穏	calm	オン	おだ・やか	yes		1147	calm
+1231	侵	encroach	シン	おか・す	yes		1148	encroach
+1232	浸	immersed	シン	ひた・す　　ひた・る	yes		1149	immersed
+1233	寝	lie down	シン	ね・る　　ね・かす	yes		1150	lie down
+1234	婦	lady	フ		yes		1151	lady
+1235	掃	sweep	ソウ	は・く	yes		1152	sweep
+1236	当	hit	トウ	あ・たる　　あ・てる	yes		1153	hit
+1237	彙	glossary	イ		yes		2997	glossary
+1238	争	contend	ソウ	あらそ・う	yes		1154	contend
+1239	浄	clean	ジョウ		yes		1155	clean
+1240	事	matter	ジ　　ズr	こと	yes		1156	matter
+1241	唐	T'ang	トウ	から	yes		1157	T'ang
+1242	糖	sugar	トウ		yes		1158	sugar
+1243	康	sane	コウ		yes		1159	sane
+1244	逮	apprehend	タイ		yes		1160	apprehend
+1245	伊	Italy	イ		no		1161	Italy
+1246	君	old boy	クン	きみ	yes		1162	old boy
+1247	群	flock	グン	む・れ　　む・れる　　むらr	yes		1163	flock
+1248	耐	-proof	タイ	た・える	yes		1164	proof
+1249	需	demand	ジュ		yes		1165	demand
+1250	儒	Confucian	ジュ		yes		1166	Confucian
+1251	端	edge	タン	はし　　は　　はた	yes		1167	edge
+1252	両	both	リョウ		yes		1168	both
+1253	満	full	マン	み・たす　　み・ちる	yes		1169	full
+1254	画	brush-stroke	ガ　　カク		yes		1170	brush-stroke
+1255	歯	tooth	シ	は	yes		1171	tooth
+1256	曲	bend	キョク	ま・げる　　ま・がる	yes		1172	bend
+1257	曹	cadet	ソウ		yes		1173	cadet
+1258	遭	encounter	ソウ	あ・う	yes		1174	encounter
+1259	漕	rowing	ソウ	こ・ぐ	no		1175	rowing
+1260	槽	vat	ソウ		yes		1176	vat
+1261	斗	Big Dipper	ト		yes		1177	Big Dipper
+1262	料	fee	リョウ		yes		1178	fee
+1263	科	department	カ		yes		1179	department
+1264	図	map	ズ　　ト	はか・る	yes		1180	map
+1265	用	utilize	ヨウ	もち・いる	yes		1181	utilize
+1266	庸	comfortable	ヨウ		yes		1182	comfortable
+1267	備	equip	ビ	そな・える　　さな・わる	yes		1183	equip
+1268	昔	once upon a time	セキ　　シャクr	むかし	yes	32	1184	once upon a time
+1269	錯	confused	サク		yes		1185	confused
+1270	借	borrow	シャク	か・りる	yes		1186	borrow
+1271	惜	pity	セキ	お・しむ　　お・しい	yes		1187	pity
+1272	措	set aside	ソ		yes		1188	set aside
+1273	散	scatter	サン	ち・る　　ち・らす　　ち・らかす　　ち・らかる	yes		1189	scatter
+1274	廿	twenty		にじゅう	no		1190	twenty
+1275	庶	commoner	ショ		yes		1191	commoner
+1276	遮	intercept	シャ	さえぎ・る	yes		1192	intercept
+1277	席	seat	セキ		yes		1193	seat
+1278	度	degrees	ド　　ト　　タクr	たび	yes		1194	degrees
+1279	渡	transit	ト	わた・す　　わた・る	yes		1195	transit
+1280	奔	bustle	ホン		yes		1196	bustle
+1281	噴	erupt	フン	ふ・く	yes		1197	erupt
+1282	墳	tomb	フン		yes		1198	tomb
+1283	憤	aroused	フン	いきどお・る	yes		1199	aroused
+1284	焼	bake	ショウ	や・く　　や・ける	yes		1200	bake
+1285	暁	daybreak	ギョウ	あかつき	yes		1201	daybreak
+1286	半	half	ハン	なか・ば	yes		1202	half
+1287	伴	consort	ハン　　バン	ともな・う	yes		1203	consort
+1288	畔	paddy ridge	ハン		yes		1204	paddy ridge
+1289	判	judgment	ハン　　バン		yes		1205	judgment
+1290	拳	fist	ケン	こぶし	yes		2917	fist
+1291	券	ticket	ケン		yes		1206	ticket
+1292	巻	scroll	カン	まき　　ま・く	yes		1207	scroll
+1293	圏	sphere	ケン		yes		1208	sphere
+1294	勝	victory	ショウ	か・つ　　まさ・る	yes		1209	victory
+1295	藤	wisteria	トウ	ふじ	yes		1210	wisteria
+1296	謄	facsimilie	トウ		yes		1211	facsimilie
+1297	片	one-sided	ヘン	かた	yes		1212	one-sided
+1298	版	printing block	ハン		yes		1213	printing block
+1299	之	of		の	no		1214	of
+1300	乏	destitution	ボウ	とぼ・しい	yes		1215	destitution
+1301	芝	turf		しば	yes		1216	turf
+1302	不	negative	フ　　ブ		yes		1217	negative
+1303	否	negate	ヒ	いな	yes		1218	negate
+1304	杯	cupfuls	ハイ	さかずき	yes		1219	cupfuls
+1305	矢	dart	シ	や	yes	33	1220	dart
+1306	矯	rectify	キョウ	た・める	yes		1221	rectify
+1307	族	tribe	ゾク		yes		1222	tribe
+1308	知	know	チ	し・る	yes		1223	know
+1309	智	wisdom	チ		no		1224	wisdom
+1310	挨	shove	アイ		yes		2248	shove
+1311	矛	halberd	ム	ほこ	yes		1225	halberd
+1312	柔	tender	ジュウ　　ニュウ	やわ・らか　　やわ・らかい	yes		1226	tender
+1313	務	task	ム	つと・める　　つと・まる 	yes		1227	task
+1314	霧	fog	ム	きり	yes		1228	fog
+1315	班	squad	ハン		yes		1229	squad
+1316	帰	homecoming	キ	かえ・る　　かえ・す	yes		1230	homecoming
+1317	弓	bow	キュウ	ゆみ	yes		1231	bow
+1318	引	pull	イン	ひ・く　　ひ・ける	yes		1232	pull
+1319	弔	condolences	チョウ	とむら・う	yes		1233	condolences
+1320	弘	vast	コウ	ひろ	no		1234	vast
+1321	強	strong	キョウ　　ゴウ	つよ・い　　つよ・まる　　つよ・める　　し・いる	yes		1235	strong
+1322	弥	more and more		や	yes		2241	more and more
+1323	弱	weak	ジャク	よわ・い　　よわ・まる　　よわ・める　　よわ・る	yes		1236	weak
+1324	溺	drowning	デキ	おぼ・れる	yes		2308	drowning
+1325	沸	seethe	フツ	わ・く　　わ・かす	yes		1237	seethe
+1326	費	expense	ヒ	つい・やす　　つい・える	yes		1238	expense
+1327	第	No.	ダイ		yes		1239	No.
+1328	弟	younger brother	テイ　　ダイ　　デr	おとうと	yes		1240	younger brother
+1329	巧	adroit	コウ	たく・み	yes		1241	adroit
+1330	号	nickname	ゴウ		yes		1242	nickname
+1331	朽	decay	キュウ	く・ちる	yes		1243	decay
+1332	誇	boast	コ	ほこ・る	yes		1244	boast
+1333	顎	chin	ガク	あご	yes		2795	chin
+1334	汚	dirty	オ	きたな・い　　けが・す　　けが・らわしい　　けが・れる　　よご・す　　よご・れる	yes		1245	dirty
+1335	与	bestow	ヨ	あた・える	yes		1246	bestow
+1336	写	copy	シャ	うつ・す　　うつ・る	yes		1247	copy
+1337	身	somebody	シン	み	yes	34	1248	somebody
+1338	射	shoot	シャ	い・る	yes		1249	shoot
+1339	謝	apologize	シャ	あやま・る	yes		1250	apologize
+1340	老	old man	ロウ	お・いる　　ふ・ける	yes		1251	old man
+1341	考	consider	コウ	かんが・える	yes		1252	consider
+1342	孝	filial piety	コウ		yes		1253	filial piety
+1343	教	teach	キョウ	おし・える　　おそ・わる	yes		1254	teach
+1344	拷	torture	ゴウ		yes		1255	torture
+1345	者	someone	シャ	もの	yes		1256	someone
+1346	煮	boil	シャ	に・る　　に・える　　に・やす	yes		1257	boil
+1347	著	renowned	チョ	いちじる・しい　　あらわ・す	yes		1258	renowned
+1348	箸	chopsticks		はし	yes		2640	chopsticks
+1349	署	signature	ショ		yes		1259	signature
+1350	暑	sultry	ショ	あつ・い	yes		1260	sultry
+1351	諸	various	ショ		yes		1261	various
+1352	猪	boar	チョ	いのしし	no		1262	boar
+1353	渚	strand		なぎさ	no		1263	strand
+1354	賭	gamble	ト	か・ける	yes		1264	gamble
+1355	峡	gorge	キョウ		yes		1265	gorge
+1356	狭	cramped	キョウ	せま・い　　せば・まる　　せば・める	yes		1266	cramped
+1357	挟	sandwiched	キョウ	はさ・まる　　はさ・む	yes		1267	sandwiched
+1358	頬	cheek		ほお	yes		2792	cheek
+1359	追	chase	ツイ	お・う	yes		1268	chase
+1360	阜	large hill	フr		yes		2928	large hill
+1361	師	expert	シ		yes		1269	expert
+1362	帥	commander	スイ		yes		1270	commander
+1363	官	bureaucrat	カン		yes		1271	bureaucrat
+1364	棺	coffin	カン		yes		1272	coffin
+1365	管	pipe	カン	くだ	yes		1273	pipe
+1366	父	father	フ	ちち	yes		1274	father
+1367	釜	cauldron		かま	yes		2332	cauldron
+1368	交	mingle	コウ	ま・ざる　　ま・ぜる　　ま・じる　　まじ・える　　まじ・わる　　か・う　　か・わす	yes		1275	mingle
+1369	効	merit	コウ	き・く	yes		1276	merit
+1370	較	contrast	カク		yes		1277	contrast
+1371	校	exam	コウ		yes		1278	exam
+1372	足	leg	ソク	あし　　た・す　　た・りる　　た・る	yes		1279	leg
+1373	促	stimulate	ソク	うなが・す	yes		1280	stimulate
+1374	捉	nab	ソク	とら・える	yes		2260	nab
+1375	距	long-distance	キョ		yes		1281	long-distance
+1376	路	path	ロ	じ	yes		1282	path
+1377	露	dew	ロ　　ロウr	つゆ	yes		1283	dew
+1378	跳	hop	チョウ	は・ねる　　と・ぶ	yes		1284	hop
+1379	躍	leap	ヤク	おど・る	yes		1285	leap
+1380	践	tread	セン		yes		1286	tread
+1381	踏	step	トウ	ふ・む　　ふ・まえる	yes		1287	step
+1382	踪	trail	ソウ		yes		3019	trail
+1383	骨	skeleton	コツ	ほね	yes		1288	skeleton
+1384	滑	slippery	カツ　　コツ 	すべ・る　　なめ・らか	yes		1289	slippery
+1385	髄	marrow	ズイ		yes		1290	marrow
+1386	禍	calamity	カ		yes		1291	calamity
+1387	渦	whirlpool	カ	うず	yes		1292	whirlpool
+1388	鍋	pot		なべ	yes		2757	pot
+1389	過	overdo	カ	す・ぎる　　す・ごす　　あやま・ち　　あやま・つ	yes		1293	overdo
+1390	阪	Heights	ハン		yes	35	1294	Heights
+1391	阿	Africa	ア		no		1295	Africa
+1392	際	occasion	サイ	きわ	yes		1296	occasion
+1393	障	hinder	ショウ	さわ・る	yes		1297	hinder
+1394	隙	chink	ゲキ	すき	yes		2426	chink
+1395	随	follow	ズイ		yes		1298	follow
+1396	陪	auxiliary	バイ		yes		1299	auxiliary
+1397	陽	sunshine	ヨウ		yes		1300	sunshine
+1398	陳	line up	チン		yes		1301	line up
+1399	防	ward off	ボウ	ふせ・ぐ	yes		1302	ward off
+1400	附	affixed	フ		yes		1303	affixed
+1401	院	Inst.	イン		yes		1304	Inst.
+1402	陣	camp	ジン		yes		1305	camp
+1403	隊	regiment	タイ		yes		1306	regiment
+1404	墜	crash	ツイ		yes		1307	crash
+1405	降	descend	コウ	ふ・る　　お・りる　　お・ろす	yes		1308	descend
+1406	階	story	カイ		yes		1309	story
+1407	陛	highness	ヘイ		yes		1310	highness
+1408	隣	neighboring	リン	となり　　とな・る	yes		1311	neighboring
+1409	隔	isolate	カク	へだ・たる　　へだ・てる	yes		1312	isolate
+1410	隠	conceal	イン	かく・す　　かく・れる	yes		1313	conceal
+1411	堕	degenerate	ダ		yes		1314	degenerate
+1412	陥	collapse	カン	おちい・る　　おとしい・れる	yes		1315	collapse
+1413	穴	hole	ケツ	あな	yes		1316	hole
+1414	空	empty	クウ	そら　　から　　あ・く　　あ・ける	yes		1317	empty
+1415	控	withdraw	コウ	ひか・える	yes		1318	withdraw
+1416	突	stab	トツ	つ・く	yes		1319	stab
+1417	究	research	キュウ	きわ・める	yes		1320	research
+1418	窒	plug up	チツ		yes		1321	plug up
+1419	窃	stealth	セツ		yes		1322	stealth
+1420	窟	cavern	クツ		yes		2615	cavern
+1421	窪	depression		くぼ	no		1323	depression
+1422	搾	squeeze	サク	しぼ・る	yes		1324	squeeze
+1423	窯	kiln	ヨウ	かま	yes		1325	kiln
+1424	窮	hard up	キュウ	きわ・める　　きわ・まる	yes		1326	hard up
+1425	探	grope	タン	さが・す　　さぐ・る	yes		1327	grope
+1426	深	deep	シン	ふか・い　　ふか・まる　　ふか・める	yes		1328	deep
+1427	丘	hill	キュウ	おか	yes		1329	hill
+1428	岳	Point	ガク	たけ	yes		1330	Point
+1429	兵	soldier	ヘイ　　ヒョウ		yes		1331	soldier
+1430	浜	seacoast	ヒン	はま	yes		1332	seacoast
+1431	糸	thread	シ	いと	yes	36	1333	thread
+1432	織	weave	ショク　　シキ	お・る	yes		1334	weave
+1433	繕	darning	ゼン	つくろ・う	yes		1335	darning
+1434	縮	shrink	シュク	ちぢ・まる　　ちぢ・む　　ちぢ・める　　ちぢ・らす　　ちぢ・れる	yes		1336	shrink
+1435	繁	luxuriant	ハン		yes		1337	luxuriant
+1436	縦	vertical	ジュウ	たて	yes		1338	vertical
+1437	緻	fine	チ		yes		3020	fine
+1438	線	line	セン		yes		1339	line
+1439	綻	come apart at the seams	タン	ほころ・びる	yes		2670	come apart at the seams
+1440	締	tighten	テイ	し・まる　　し・める	yes		1340	tighten
+1441	維	fiber	イ		yes		1341	fiber
+1442	羅	gauze	ラ		yes		1342	gauze
+1443	練	practice	レン	ね・る	yes		1343	practice
+1444	緒	thong	ショ　　チョr	お	yes		1344	thong
+1445	続	continue	ゾク	つづ・く　　つづ・ける	yes		1345	continue
+1446	絵	picture	カイ　　エ		yes		1346	picture
+1447	統	overall	トウ	す・べる	yes		1347	overall
+1448	絞	strangle	コウ	し・まる　　し・める　　しぼ・る	yes		1348	strangle
+1449	給	salary	キュウ		yes		1349	salary
+1450	絡	entwine	ラク	から・まる　　から・む　　から・める 	yes		1350	entwine
+1451	結	tie	ケツ	むす・ぶ　　ゆ・う　　ゆ・わえる	yes		1351	tie
+1452	終	end	シュウ	お・える　　お・わる	yes		1352	end
+1453	級	class	キュウ		yes		1353	class
+1454	紀	chronicle	キ		yes		1354	chronicle
+1455	紅	crimson	コウ　　クr	くれない　　べに	yes		1355	crimson
+1456	納	settlement	ノウ　　トウ　　ナ　　ナツ　　ナンr	おさ・まる　　おさ・める	yes		1356	settlement
+1457	紡	spinning	ボウ	つむ・ぐ	yes		1357	spinning
+1458	紛	distract	フン	まぎ・れる　　まぎ・らす　　まぎ・らわしい　　まぎ・らわす	yes		1358	distract
+1459	紹	introduce	ショウ		yes		1359	introduce
+1460	経	sutra	ケイ　　キョウ	へ・る	yes		1360	sutra
+1461	紳	sire	シン		yes		1361	sire
+1462	約	promise	ヤク		yes		1362	promise
+1463	細	dainty	サイ	ほそ・い　　ほそ・る　　こま・か　　こま・かい	yes		1363	dainty
+1464	累	accumulate	ルイ		yes		1364	accumulate
+1465	索	cord	サク		yes		1365	cord
+1466	総	general	ソウ		yes		1366	general
+1467	綿	cotton	メン	わた	yes		1367	cotton
+1468	絹	silk	ケン	きぬ	yes		1368	silk
+1469	繰	winding		く・る	yes		1369	winding
+1470	継	inherit	ケイ	つ・ぐ	yes		1370	inherit
+1471	緑	green	リョク　　ロクr	みどり	yes		1371	green
+1472	縁	affinity	エン	ふち	yes		1372	affinity
+1473	網	netting	モウ	あみ	yes		1373	netting
+1474	緊	tense	キン		yes		1374	tense
+1475	紫	purple	シ	むらさき	yes		1375	purple
+1476	縛	truss	バク	しば・る	yes		1376	truss
+1477	縄	straw rope	ジョウ	なわ	yes		1377	straw rope
+1478	幼	infancy	ヨウ	おさな・い	yes		1378	infancy
+1479	後	behind	ゴ　　コウ	あと　　のち　　うし・ろ　　おく・れる	yes		1379	behind
+1480	幽	faint	ユウ		yes		1380	faint
+1481	幾	how many	キ	いく	yes		1381	how many
+1482	機	mechanism	キ	はた	yes		1382	mechanism
+1483	畿	capital suburbs	キ		yes		2887	capital suburbs
+1484	玄	mysterious	ゲン		yes		1383	mysterious
+1485	畜	livestock	チク		yes		1384	livestock
+1486	蓄	amass	チク	たくわ・える	yes		1385	amass
+1487	弦	bowstring	ゲン	つる	yes		1386	bowstring
+1488	擁	hug	ヨウ		yes		1387	hug
+1489	滋	nourishing	ジ		yes		1388	nourishing
+1490	慈	mercy	ジ	いつく・しむ	yes		1389	mercy
+1491	磁	magnet	ジ		yes		1390	magnet
+1492	系	lineage	ケイ		yes		1391	lineage
+1493	係	person in charge	ケイ	かか・る　　かかり	yes		1392	person in charge
+1494	孫	grandchild	ソン	まご	yes		1393	grandchild
+1495	懸	suspend	ケン　　ケr	か・ける　　か・かる	yes		1394	suspend
+1496	遜	modest	ソン		yes		2422	modest
+1497	却	instead	キャク		yes	37	1395	instead
+1498	脚	shins	キャク　　キャr	あし	yes		1396	shins
+1499	卸	wholesale		おろ・す　　おろし	yes		1397	wholesale
+1500	御	honorable	ゴ　　ギョ	おん	yes		1398	honorable
+1501	服	clothing	フク		yes		1399	clothing
+1502	命	fate	メイ　　ミョウ	いのち	yes		1400	fate
+1503	令	orders	レイ		yes		1401	orders
+1504	零	zero	レイ		yes		1402	zero
+1505	齢	age	レイ		yes		1403	age
+1506	冷	cool	レイ	ひ・や　　ひ・やす　　ひ・やかす　　ひ・える　　つめ・たい　　さ・ます　　さ・める	yes		1404	cool
+1507	領	jurisdiction	リョウ		yes		1405	jurisdiction
+1508	鈴	small bell	レイ　　リン	すず	yes		1406	small bell
+1509	勇	courage	ユウ	いさ・む	yes		1407	courage
+1510	湧	bubble up	ユウ	わ・く	yes		2284	bubble up
+1511	通	traffic	ツウ　　ツr	とお・す　　とお・る　　かよ・う	yes		1408	traffic
+1512	踊	jump	ヨウ	おど・る　　おど・り	yes		1409	jump
+1513	疑	doubt	ギ	うたが・う	yes		1410	doubt
+1514	擬	mimic	ギ		yes		1411	mimic
+1515	凝	congeal	ギョウ	こ・る　　こ・らす	yes		1412	congeal
+1516	範	pattern	ハン		yes		1413	pattern
+1517	犯	crime	ハン	おか・す	yes		1414	crime
+1518	氾	widespread	ハン		yes		2301	widespread
+1519	厄	unlucky	ヤク		yes		1415	unlucky
+1520	危	dangerous	キ	あぶ・ない　　あや・うい　　あや・ぶむ	yes		1416	dangerous
+1521	宛	address		あ・てる	yes		1417	address
+1522	腕	arm	ワン	うで	yes		1418	arm
+1523	苑	garden	エン	その	no		1419	garden
+1524	怨	grudge	オン　　エン		yes		1420	grudge
+1525	柳	willow	リュウ	やなぎ	yes		1421	willow
+1526	卵	egg	ラン	たまご	yes		1422	egg
+1527	留	detain	リュウ　　ルr	と・まる　　と・める	yes		1423	detain
+1528	瑠	marine blue	ル		yes		2555	marine blue
+1529	貿	trade	ボウ		yes		1424	trade
+1530	印	stamp	イン	しるし	yes		1425	stamp
+1531	臼	mortar	キュウ	うす	yes		2063	mortar
+1532	毀	break	キ		yes		2067	break
+1533	興	entertain	コウ　　キョウ	おこ・す　　おこ・る	yes		1426	entertain
+1534	酉	sign of the bird		とり	no	38	1427	sign of the bird
+1535	酒	sake	シュ	さけ　　さかr	yes		1428	sake
+1536	酌	bartending	シャク	く・む	yes		1429	bartending
+1537	酎	hooch	チュウ		yes		2748	hooch
+1538	酵	fermentation	コウ		yes		1430	fermentation
+1539	酷	cruel	コク		yes		1431	cruel
+1540	酬	repay	シュウ		yes		1432	repay
+1541	酪	dairy products	ラク		yes		1433	dairy products
+1542	酢	vinegar	サク	す	yes		1434	vinegar
+1543	酔	drunk	スイ	よ・う	yes		1435	drunk
+1544	配	distribute	ハイ	くば・る	yes		1436	distribute
+1545	酸	acid	サン	す・い	yes		1437	acid
+1546	猶	waver	ユウ		yes		1438	waver
+1547	尊	revered	ソン	たっと・い　　たっと・ぶ　　とうと・い　　とうと・ぶ	yes		1439	revered
+1548	豆	beans	トウ　　ズr	まめ	yes		1440	beans
+1549	頭	head	トウ　　ズ　　トr	あたま　　かしら	yes		1441	head
+1550	短	short	タン	みじか・い	yes		1442	short
+1551	豊	bountiful	ホウ	ゆた・か	yes		1443	bountiful
+1552	鼓	drum	コ	つづみ	yes		1444	drum
+1553	喜	rejoice	キ	よろこ・ぶ	yes		1445	rejoice
+1554	樹	timber-trees	ジュ		yes		1446	timber-trees
+1555	皿	dish		さら	yes		1447	dish
+1556	血	blood	ケツ	ち	yes		1448	blood
+1557	盆	basin	ボン		yes		1449	basin
+1558	盟	alliance	メイ		yes		1450	alliance
+1559	盗	steal	トウ	ぬす・む	yes		1451	steal
+1560	温	warm	オン	あたた・か　　あたた・かい　　あたた・まる　　あたた・める	yes		1452	warm
+1561	蓋	lid	ガイ	ふた	yes		2388	lid
+1562	監	oversee	カン		yes		1453	oversee
+1563	濫	overflow	ラン		yes		1454	overflow
+1564	鑑	specimen	カン	かんが・みる 	yes		1455	specimen
+1565	藍	indigo	ラン	あい	yes		2371	indigo
+1566	猛	fierce	モウ		yes		1456	fierce
+1567	盛	boom	セイ　　ジョウr	さか・る　　さか・ん　　も・る	yes		1457	boom
+1568	塩	salt	エン	しお	yes		1458	salt
+1569	銀	silver	ギン		yes		1459	silver
+1570	恨	resentment	コン	うら・む　　うら・めしい	yes		1460	resentment
+1571	根	root	コン	ね	yes		1461	root
+1572	即	instant	ソク		yes		1462	instant
+1573	爵	baron	シャク		yes		1463	baron
+1574	節	node	セツ　　セチr	ふし	yes		1464	node
+1575	退	retreat	タイ	しりぞ・く　　しりぞ・ける	yes		1465	retreat
+1576	限	limit	ゲン	かぎ・る	yes		1466	limit
+1577	眼	eyeball	ガン　　ゲンr	まなこ	yes		1467	eyeball
+1578	良	good	リョウ	よ・い	yes		1468	good
+1579	朗	melodious	ロウ	ほが・らか	yes		1469	melodious
+1580	浪	wandering	ロウ		yes		1470	wandering
+1581	娘	daughter		むすめ	yes		1471	daughter
+1582	食	eat	ショク　　ジキr	た・べる　　く・う　　く・らう	yes		1472	eat
+1583	飯	meal	ハン	めし	yes		1473	meal
+1584	飲	drink	イン	の・む	yes		1474	drink
+1585	飢	hungry	キ	う・える	yes		1475	hungry
+1586	餓	starve	ガ		yes		1476	starve
+1587	飾	decorate	ショク	かざ・る	yes		1477	decorate
+1588	餌	feed	ジ	え　　えさ	yes		2797	feed
+1589	館	Bldg.	カン	やかた 	yes		1478	Bldg.
+1590	餅	mochi	ヘイ	もち	yes		2802	mochi
+1591	養	foster	ヨウ	やしな・う	yes		1479	foster
+1592	飽	sated	ホウ	あ・きる　　あ・かす	yes		1480	sated
+1593	既	previously	キ	すで・に	yes		1481	previously
+1594	概	outline	ガイ		yes		1482	outline
+1595	慨	rue	ガイ		yes		1483	rue
+1596	平	even	ヘイ　　ビョウ	たい・ら　　ひら	yes	39	1484	even
+1597	呼	call	コ	よ・ぶ	yes		1485	call
+1598	坪	two-mat area		つぼ	yes		1486	two-mat area
+1599	評	evaluate	ヒョウ		yes		1487	evaluate
+1600	刈	reap		か・る	yes		1488	reap
+1601	刹	moment	サツ　　セツ		yes		2144	moment
+1602	希	hope	キ		yes		1489	hope
+1603	凶	villain	キョウ		yes		1490	villain
+1604	胸	bosom	キョウ	むね　　むなr	yes		1491	bosom
+1605	離	detach	リ	はな・す　　はな・れる	yes		1492	detach
+1606	璃	crystal	リ		yes		2048	crystal
+1607	殺	kill	サツ　　セツ　　サイr	ころ・す	yes		1493	kill
+1608	爽	bracing	ソウ	さわ・やか	yes		2855	bracing
+1609	純	genuine	ジュン		yes		1494	genuine
+1610	頓	immediate	トン		yes		2788	immediate
+1611	鈍	dull	ドン	にぶ・い　　にぶ・る	yes		1495	dull
+1612	辛	spicy	シン	から・い	yes		1496	spicy
+1613	辞	resign	ジ	や・める	yes		1497	resign
+1614	梓	catalpa	シ	あずさ	no		1498	catalpa
+1615	宰	superintend	サイ		yes		1499	superintend
+1616	壁	wall	ヘキ	かべ	yes		1500	wall
+1617	璧	holed gem	ヘキ		yes		3021	holed gem
+1618	避	evade	ヒ	さ・ける	yes		1501	evade
+1619	新	new	シン	あたら・しい　　あら・た　　にい	yes		1502	new
+1620	薪	firewood	シン	たきぎ	yes		1503	firewood
+1621	親	parent	シン	おや　　した・しい　　した・しむ	yes		1504	parent
+1622	幸	happiness	コウ	さいわ・い　　さち　　しあわ・せ	yes		1505	happiness
+1623	執	tenacious	シツ　　シュウ	と・る	yes		1506	tenacious
+1624	摯	clasp	シ		yes		3022	clasp
+1625	報	report	ホウ	むく・いる	yes		1507	report
+1626	叫	shout	キョウ	さけ・ぶ	yes		1508	shout
+1627	糾	twist	キュウ		yes		1509	twist
+1628	収	income	シュウ	おさ・まる　　おさ・める	yes		1510	income
+1629	卑	lowly	ヒ	いや・しい　　いや・しむ　　いや・しめる	yes		1511	lowly
+1630	碑	tombstone	ヒ		yes		1512	tombstone
+1631	陸	land	リク		yes		1513	land
+1632	睦	intimate	ボク		yes		1514	intimate
+1633	勢	forces	セイ	いきお・い	yes		1515	forces
+1634	熱	heat	ネツ	あつ・い	yes		1516	heat
+1635	菱	diamond		ひし	no		1517	diamond
+1636	陵	mausoleum	リョウ	みささぎ	yes		1518	mausoleum
+1637	亥	sign of the hog		い	no		1519	sign of the hog
+1638	核	nucleus	カク		yes		1520	nucleus
+1639	刻	engrave	コク	きざ・む	yes		1521	engrave
+1640	該	above-stated	ガイ		yes		1522	above-stated
+1641	骸	remains	ガイ		yes		2874	remains
+1642	劾	censure	ガイ		yes		1523	censure
+1643	述	mention	ジュツ	の・べる	yes		1524	mention
+1644	術	art	ジュツ		yes		1525	art
+1645	寒	cold	カン	さむ・い	yes		1526	cold
+1646	塞	block up	サイ　　ソク	ふさ・がる　　ふさ・ぐ	yes		2214	block up
+1647	醸	brew	ジョウ	かも・す	yes		1527	brew
+1648	譲	defer	ジョウ	ゆず・る	yes		1528	defer
+1649	壌	lot	ジョウ　		yes		1529	lot
+1650	嬢	lass	ジョウ		yes		1530	lass
+1651	毒	poison	ドク		yes	40	1531	poison
+1652	素	elementary	ソ　　ス		yes		1532	elementary
+1653	麦	barley	バク	むぎ	yes		1533	barley
+1654	青	blue	セイ　　ショウr	あお　　あお・い	yes		1534	blue
+1655	精	refined	セイ　　ショウr		yes		1535	refined
+1656	請	solicit	セイ　　シンr	う・ける　　こ・う	yes		1536	solicit
+1657	情	feelings	ジョウ　セイr	なさ・け	yes		1537	feelings
+1658	晴	clear up	セイ	は・れる　　は・らす	yes		1538	clear up
+1659	清	pure	セイ　　ショウr	きよ・い　　きよ・まる　　きよ・める	yes		1539	pure
+1660	静	quiet	セイ　　ジョウr	しず　　しず・か　　しず・まる　　しず・める	yes		1540	quiet
+1661	責	blame	セキ	せ・める	yes		1541	blame
+1662	績	exploits	セキ		yes		1542	exploits
+1663	積	volume	セキ	つ・む　　つ・もる	yes		1543	volume
+1664	債	bond	サイ		yes		1544	bond
+1665	漬	pickling		つ・かる　　つ・ける	yes		1545	pickling
+1666	表	surface	ヒョウ	あらわ・す　　あらわ・れる　　おもて	yes		1546	surface
+1667	俵	bag	ヒョウ	たわら	yes		1547	bag
+1668	潔	undefiled	ケツ	いさぎよ・い	yes		1548	undefiled
+1669	契	pledge	ケイ	ちぎ・る	yes		1549	pledge
+1670	喫	consume	キツ		yes		1550	consume
+1671	害	harm	ガイ		yes		1551	harm
+1672	轄	control	カツ		yes		1552	control
+1673	割	proportion	カツ	さ・く　　わり　　わ・る　　わ・れる	yes		1553	proportion
+1674	憲	constitution	ケン		yes		1554	constitution
+1675	生	life	セイ　　ショウ	い・かす　　い・きる　　い・ける　　う・まれる　　う・む　　お・う　　き　　なま　　は・える　　は・やす	yes		1555	life
+1676	星	star	セイ　　ショウr	ほし	yes		1556	star
+1677	醒	awakening	セイ		yes		2750	awakening
+1678	姓	surname	セイ　　ショウ		yes		1557	surname
+1679	性	sex	セイ　　ショウ		yes		1558	sex
+1680	牲	animal sacrifice	セイ		yes		1559	animal sacrifice
+1681	産	products	サン	う・む　　う・まれる　　うぶ	yes		1560	products
+1682	隆	hump	リュウ		yes		1561	hump
+1683	峰	summit	ホウ	みね	yes		1562	summit
+1684	蜂	bee	ホウ	はち	yes		2687	bee
+1685	縫	sew	ホウ	ぬ・う	yes		1563	sew
+1686	拝	worship	ハイ	おが・む	yes		1564	worship
+1687	寿	longevity	ジュ	ことぶき	yes		1565	longevity
+1688	鋳	casting	チュウ	い・る	yes		1566	casting
+1689	籍	enroll	セキ		yes		1567	enroll
+1690	春	springtime	シュン	はる	yes		1568	springtime
+1691	椿	camellia		つばき	no		1569	camellia
+1692	泰	peaceful	タイ		yes		1570	peaceful
+1693	奏	play music	ソウ	かな・でる	yes		1571	play music
+1694	実	reality	ジツ	み　　みの・る	yes		1572	reality
+1695	奉	dedicate	ホウ　　ブr	たてまつ・る	yes		1573	dedicate
+1696	俸	stipend	ホウ		yes		1574	stipend
+1697	棒	rod	ボウ		yes		1575	rod
+1698	謹	discreet	キン	つつし・む	yes		1576	discreet
+1699	僅	trifle	キン	わず・か	yes		2116	trifle
+1700	勤	diligence	キン　　ゴンr	つと・まる　　つと・める	yes		1577	diligence
+1701	漢	Sino-	カン		yes		1578	Sino-
+1702	嘆	sigh	タン	なげ・く　　なげ・かわしい	yes		1579	sigh
+1703	難	difficult	ナン	むずか・しい　　かた・い	yes		1580	difficult
+1704	華	splendor	カ　　ケr	はな	yes		1581	splendor
+1705	垂	droop	スイ	た・らす　　た・れる	yes		1582	droop
+1706	唾	saliva	スイ		yes		2165	saliva
+1707	睡	drowsy	ダ	つば	yes		1583	drowsy
+1708	錘	spindle	スイ	つむ	no		1584	spindle
+1709	乗	ride	ジョウ	の・せる　　の・る	yes		1585	ride
+1710	剰	surplus	ジョウ		yes		1586	surplus
+1711	今	now	コン　　キン	いま	yes	41	1587	now
+1712	含	include	ガン	ふく・む　　ふく・める	yes		1588	include
+1713	貪	covet	ドン	むさぼ・る	yes		3023	covet
+1714	吟	versify	ギン		yes		1589	versify
+1715	念	wish	ネン		yes		1590	wish
+1716	捻	wrench	ネン		yes		2251	wrenching
+1717	琴	harp	キン	こと	yes		1591	harp
+1718	陰	shade	イン	かげ　　かげ・る	yes		1592	shade
+1719	予	beforehand	ヨ		yes		1593	beforehand
+1720	序	preface	ジョ		yes		1594	preface
+1721	預	deposit	ヨ	あず・かる　　あず・ける	yes		1595	deposit
+1722	野	plains	ヤ	の	yes		1596	plains
+1723	兼	concurrently	ケン	か・ねる	yes		1597	concurrently
+1724	嫌	dislike	ケン　　ゲンr	いや　　きら・う	yes		1598	dislike
+1725	鎌	sickle		かま	yes		1599	sickle
+1726	謙	self-effacing	ケン		yes		1600	self-effacing
+1727	廉	bargain	レン		yes		1601	bargain
+1728	西	west	セイ　　サイ	にし	yes		1602	west
+1729	価	value	カ	あたい	yes		1603	value
+1730	要	need	ヨウ	い・る　　かなめ 	yes		1604	need
+1731	腰	loins	ヨウ	こし	yes		1605	loins
+1732	票	ballot	ヒョウ		yes		1606	ballot
+1733	漂	drift	ヒョウ	ただよ・う	yes		1607	drift
+1734	標	signpost	ヒョウ		yes		1608	signpost
+1735	栗	chestnut		くり	no		1609	chestnut
+1736	慄	shudder	リツ		yes		3024	shudder
+1737	遷	transition	セン		yes		1610	transition
+1738	覆	capsize	フク	おお・う　　くつがえ・る　　くつがえ・す	yes		1611	capsize
+1739	煙	smoke	エン	けむり　　けむ・い　　けむ・る	yes		1612	smoke
+1740	南	south	ナン　　ナr	みなみ	yes		1613	south
+1741	楠	camphor tree		くすのき	no		1614	camphor tree
+1742	献	offering	ケン　　コンr		yes		1615	offering
+1743	門	gates	モン	かど	yes	42	1616	gates
+1744	問	question	モン	と・う　　と・い　　とんr	yes		1617	question
+1745	閲	review	エツ		yes		1618	review
+1746	閥	clique	バツ		yes		1619	clique
+1747	間	interval	カン　　ケン	あいだ　　ま	yes		1620	interval
+1748	闇	pitch dark		やみ	yes		2777	pitch dark
+1749	簡	simplicity	カン		yes		1621	simplicity
+1750	開	open	カイ	あ・く　　あ・ける　　ひら・く　　ひら・ける	yes		1622	open
+1751	閉	closed	ヘイ	し・まる　　し・める　　と・じる　　と・ざす	yes		1623	closed
+1752	閣	tower	カク		yes		1624	tower
+1753	閑	leisure	カン		yes		1625	leisure
+1754	聞	hear	ブン　　モン	き・く　　き・こえる	yes		1626	hear
+1755	潤	wet	ジュン	うるお・う　　うるお・す　　うる・む	yes		1627	wet
+1756	欄	column	ラン		yes		1628	column
+1757	闘	fight	トウ	たたか・う	yes		1629	fight
+1758	倉	godown	ソウ	くら	yes		1630	godown
+1759	創	genesis	ソウ	つく・る 	yes		1631	genesis
+1760	非	un-	ヒ		yes		1632	un-
+1761	俳	haiku	ハイ		yes		1633	haiku
+1762	排	repudiate	ハイ		yes		1634	repudiate
+1763	悲	sad	ヒ	かな・しい　　かな・しむ	yes		1635	sad
+1764	罪	guilt	ザイ	つみ	yes		1636	guilt
+1765	輩	comrade	ハイ		yes		1637	comrade
+1766	扉	front door	ヒ	とびら	yes		1638	front door
+1767	侯	marquis	コウ		yes		1639	marquis
+1768	喉	throat	コウ	のど	yes		2164	throat
+1769	候	climate	コウ	そうろう	yes		1640	climate
+1770	決	decide	ケツ	き・まる　　き・める	yes		1641	decide
+1771	快	cheerful	カイ	こころよ・い	yes		1642	cheerful
+1772	偉	admirable	イ	えら・い	yes		1643	admirable
+1773	違	difference	イ	ちが・う　　ちが・える	yes		1644	difference
+1774	緯	horizontal	イ		yes		1645	horizontal
+1775	衛	defense	エイ		yes		1646	defense
+1776	韓	Korea	カン		yes		1647	Korea
+1777	干	dry	カン	ほ・す　　ひ・る	yes	43	1648	dry
+1778	肝	liver	カン	きも	yes		1649	liver
+1779	刊	publish	カン		yes		1650	publish
+1780	汗	sweat	カン	あせ	yes		1651	sweat
+1781	軒	flats	ケン	のき	yes		1652	flats
+1782	岸	beach	ガン	きし	yes		1653	beach
+1783	幹	tree trunk	カン	みき	yes		1654	tree trunk
+1784	芋	potato		いも	yes		1655	potato
+1785	宇	eaves	ウ		yes		1656	eaves
+1786	余	too much	ヨ	あま・る　　あま・す	yes		1657	too much
+1787	除	exclude	ジョ　　ジr	のぞ・く	yes		1658	exclude
+1788	徐	gradually	ジョ		yes		1659	gradually
+1789	叙	confer	ジョ		yes		1660	confer
+1790	途	route	ト		yes		1661	route
+1791	斜	diagonal	シャ	なな・め	yes		1662	diagonal
+1792	塗	paint	ト	ぬ・る	yes		1663	paint
+1793	束	bundle	ソク	たば	yes		1664	bundle
+1794	頼	trust	ライ	たの・む　　たの・もしい　　たよ・る	yes		1665	trust
+1795	瀬	rapids		せ	yes		1666	rapids
+1796	勅	imperial order	チョク		yes		1667	imperial order
+1797	疎	alienate	ソ	うと・い　　うと・む	yes		1668	alienate
+1798	辣	bitter	ラツ		yes		3025	bitter
+1799	速	quick	ソク	はや・い　　はや・める　　すみ・やか　　はや・まる 	yes		1669	quick
+1800	整	organize	セイ	ととの・う　　ととの・える	yes		1670	organize
+1801	剣	saber	ケン	つるぎ	yes		1671	saber
+1802	険	precipitous	ケン	けわ・しい	yes		1672	precipitous
+1803	検	examination	ケン		yes		1673	examination
+1804	倹	frugal	ケン		yes		1674	frugal
+1805	重	heavy	ジュウ　　チョウ	おも・い　　かさ・なる　　かさ・ねる　　え	yes		1675	heavy
+1806	動	move	ドウ	うご・く　　うご・かす	yes		1676	move
+1807	腫	tumor	シュ	は・らす　　は・れる	yes		2467	tumor
+1808	勲	meritorious deed	クン		yes		1677	meritorious deed
+1809	働	work	ドウ	はたら・く	yes		1678	work
+1810	種	species	シュ	たね	yes		1679	species
+1811	衝	collide	ショウ		yes		1680	collide
+1812	薫	fragrant	クン	かお・る	yes		1681	fragrant
+1813	病	ill	ビョウ　　ヘイr	や・む　　やまい	yes	44	1682	ill
+1814	痴	stupid	チ		yes		1683	stupid
+1815	痘	pox	トウ		yes		1684	pox
+1816	症	symptoms	ショウ		yes		1685	symptoms
+1817	瘍	carbuncle	ヨウ		yes		3026	carbuncle
+1818	痩	lose weight	ソウ	や・せる	yes		2577	lose weight
+1819	疾	rapidly	シツ		yes		1686	rapidly
+1820	嫉	envy	シツ		yes		2202	envy
+1821	痢	diarrhea	リ		yes		1687	diarrhea
+1822	痕	scar	コン	あと	yes		2578	scar
+1823	疲	tired	ヒ	つか・れる	yes		1688	tired
+1824	疫	epidemic	エキ　　ヤクr		yes		1689	epidemic
+1825	痛	pain	ツウ	いた・い　　いた・む　　いた・める	yes		1690	pain
+1826	癖	mannerism	ヘキ	くせ	yes		1691	mannerism
+1827	匿	hide	トク		yes		1692	hide
+1828	匠	artisan	ショウ		yes		1693	artisan
+1829	医	doctor	イ		yes		1694	doctor
+1830	匹	equal	ヒツ	ひき	yes		1695	equal
+1831	区	ward	ク		yes		1696	ward
+1832	枢	hinge	スウ		yes		1697	hinge
+1833	殴	assault	オウ	なぐ・る	yes		1698	assault
+1834	欧	Europe	オウ		yes		1699	Europe
+1835	抑	repress	ヨク	おさ・える	yes		1700	repress
+1836	仰	faceup	ギョウ　　コウr	あお・ぐ　　おお・せ	yes		1701	faceup
+1837	迎	welcome	ゲイ	むか・える	yes		1702	welcome
+1838	登	ascend	トウ　　ト	のぼ・る	yes		1703	ascend
+1839	澄	lucidity	チョウ	す・む　　す・ます	yes		1704	lucidity
+1840	発	discharge	ハツ　　ホツ		yes		1705	discharge
+1841	廃	abolish	ハイ	すた・る　　すた・れる	yes		1706	abolish
+1842	僚	colleague	リョウ		yes		1707	colleague
+1843	瞭	obvious	リョウ		yes		2582	obvious
+1844	寮	dormitory	リョウ		yes		1708	dormitory
+1845	療	heal	リョウ		yes		1709	heal
+1846	彫	carve	チョウ	ほ・る	yes	45	1710	carve
+1847	形	shape	ケイ　　ギョウ	かたち　　かた	yes		1711	shape
+1848	影	shadow	エイ	かげ	yes		1712	shadow
+1849	杉	cedar		すぎ	yes		1713	cedar
+1850	彩	coloring	サイ	いろど・る	yes		1714	coloring
+1851	彰	patent	ショウ		yes		1715	patent
+1852	彦	lad		ひこ	no		1716	lad
+1853	顔	face	ガン	かお	yes		1717	face
+1854	須	ought	ス		yes		1718	ought
+1855	膨	swell	ボウ	ふく・らむ　　ふく・れる	yes		1719	swell
+1856	参	visit	サン	まい・る	yes		1720	visit
+1857	惨	wretched	サン　　ザン	みじ・め	yes		1721	wretched
+1858	修	discipline	シュウ　　シュr	おさ・まる　　おさ・める	yes		1722	discipline
+1859	珍	rare	チン	めずら・しい	yes		1723	rare
+1860	診	checkup	シン	み・る	yes		1724	checkup
+1861	文	sentence	ブン　　モン	ふみ	yes		1725	sentence
+1862	対	vis-a-vis	タイ　　ツイ		yes		1726	vis-a-vis
+1863	紋	family crest	モン		yes		1727	family crest
+1864	蚊	mosquito		か	yes		1728	mosquito
+1865	斑	speckled	ハン		yes		2556	speckled
+1866	斉	adjusted	セイ		yes		1729	adjusted
+1867	剤	dose	ザイ		yes		1730	dose
+1868	済	finish	サイ	す・む　　す・ます	yes		1731	finish
+1869	斎	purification	サイ		yes		1732	purification
+1870	粛	solemn	シュク		yes		1733	solemn
+1871	塁	bases	ルイ		yes		1734	bases
+1872	楽	music	ガク　　ラク	たの・しい　　たの・しむ	yes		1735	music
+1873	薬	medicine	ヤク	くすり	yes		1736	medicine
+1874	率	ratio	ソツ　　リツ	ひき・いる	yes		1737	ratio
+1875	渋	astringent	ジュウ	しぶ　　しぶ・い　　しぶ・る	yes		1738	astringent
+1876	摂	vicarious	セツ		yes		1739	vicarious
+1877	央	center	オウ		yes		1740	center
+1878	英	England	エイ		yes		1741	England
+1879	映	reflect	エイ	うつ・す　　うつ・る　　は・える	yes		1742	reflect
+1880	赤	red	セキ　　シャクr	あか　　あか・い　　あか・らむ　　あか・らめる	yes		1743	red
+1881	赦	pardon	シャ		yes		1744	pardon
+1882	変	unusual	ヘン	か・える　　か・わる	yes		1745	unusual
+1883	跡	tracks	セキ	あと	yes		1746	tracks
+1884	蛮	barbarian	バン		yes		1747	barbarian
+1885	恋	romance	レン	こい　　こ・う　　こい・しい	yes		1748	romance
+1886	湾	gulf	ワン		yes		1749	gulf
+1887	黄	yellow	コウ　　オウ	き　　こr	yes		1750	yellow
+1888	横	sideways	オウ	よこ	yes		1751	sideways
+1889	把	grasp	ハ		yes		1752	grasp
+1890	色	color	ショク　　シキ	いろ	yes		1753	color
+1891	絶	discontinue	ゼツ	た・える　　た・つ　　た・やす	yes		1754	discontinue
+1892	艶	glossy	エン	つや	yes		1755	glossy
+1893	肥	fertilizer	ヒ	こえ　　こ・える　　こ・やし　　こ・やす	yes		1756	fertilizer
+1894	甘	sweet	カン	あま・い　　あま・える　　あま・やかす	yes	46	1757	sweet
+1895	紺	navy blue	コン		yes		1758	navy blue
+1896	某	so-and-so	ボウ		yes		1759	so-and-so
+1897	謀	conspire	ボウ　　ムr	はか・る	yes		1760	conspire
+1898	媒	mediator	バイ		yes		1761	mediator
+1899	欺	deceit	ギ	あざむ・く	yes		1762	deceit
+1900	棋	chess piece	キ		yes		1763	chess piece
+1901	旗	national flag	キ	はた	yes		1764	national flag
+1902	期	period	キ　　ゴr		yes		1765	period
+1903	碁	Go	ゴ		yes		1766	Go
+1904	基	fundamentals	キ	もと　　もとい	yes		1767	fundamentals
+1905	甚	tremendously	ジン	はなは・だ　　はなは・だしい	yes		1768	tremendously
+1906	勘	intuition	カン		yes		1769	intuition
+1907	堪	withstand	カン	た・える	yes		1770	withstand
+1908	貴	precious	キ	たっと・い　　たっと・ぶ　　とうと・い　　とうと・ぶ	yes		1771	precious
+1909	遺	bequeath	イ　　ユイr		yes		1772	bequeath
+1910	遣	dispatch	ケン	つか・う　　つか・わす	yes		1773	dispatch
+1911	潰	defile	カイ	つぶ・す　　つぶ・れる	yes		2319	defile
+1912	舞	dance	ブ	ま・う　　まい	yes		1774	dance
+1913	無	nothingness	ム　　ブ	な・い	yes		1775	nothingness
+1914	組	association	ソ	くみ　　く・む	yes	47	1776	association
+1915	粗	coarse	ソ	あら・い	yes		1777	coarse
+1916	租	tariff	ソ		yes		1778	tariff
+1917	狙	aim at	ソ	ねら・う	yes		2344	aim at
+1918	祖	ancestor	ソ		yes		1779	ancestor
+1919	阻	thwart	ソ	はば・む	yes		1780	thwart
+1920	査	investigate	サ		yes		1781	investigate
+1921	助	help	ジョ	たす・かる　　たす・ける　　すけ	yes		1782	help
+1922	宜	best regards	ギ		yes		1783	best regards
+1923	畳	tatami mat	ジョウ	 たたみ　　たた・む	yes		1784	tatami mat
+1924	並	row	ヘイ	なら・ぶ　　なら・べる　　なら・びに　　なみ	yes		1785	row
+1925	普	universal	フ		yes		1786	universal
+1926	譜	musical score	フ		yes		1787	musical score
+1927	湿	damp	シツ	しめ・る　　しめ・す	yes		1788	damp
+1928	顕	appear	ケン		yes		1789	appear
+1929	繊	slender	セン		yes		1790	slender
+1930	霊	spirits	レイ　　リョウ	たま	yes		1791	spirits
+1931	業	profession	ギョウ　　ゴウ	わざ	yes		1792	profession
+1932	撲	slap	ボク		yes		1793	slap
+1933	僕	me	ボク		yes		1794	me
+1934	共	together	キョウ	とも	yes		1795	together
+1935	供	submit	キョウ　　クr	そな・える　　とも	yes		1796	submit
+1936	異	uncommon	イ	こと	yes		1797	uncommon
+1937	翼	wing	ヨク	つばさ	yes		1798	wing
+1938	戴	accept humbly	タイ		yes		2702	accept humbly
+1939	洪	deluge	コウ		yes		1799	deluge
+1940	港	harbor	コウ	みなと	yes		1800	harbor
+1941	暴	outburst	ボウ　　バクr	あば・く　　あば・れる	yes		1801	outburst
+1942	爆	bomb	バク		yes		1802	bomb
+1943	恭	respect	キョウ	うやうや・しい	yes		1803	respect
+1944	選	elect	セン	えら・ぶ	yes		1804	elect
+1945	殿	Mr.	デン　　テン	との　　どの	yes		1805	Mr.
+1946	井	well	セイ　　ショウr	い	yes	48	1806	well
+1947	丼	donburi		どんぶり　　どんr	yes		2884	domburi
+1948	囲	surround	イ	かこ・む　　かこ・う	yes		1807	surround
+1949	耕	till	コウ	たがや・す	yes		1808	till
+1950	亜	Asia	ア		yes		1809	Asia
+1951	悪	bad	アク　　オ	わる・い	yes		1810	bad
+1952	円	circle	エン	まる・い	yes		1811	circle
+1953	角	angle	カク	かど　　つの	yes		1812	angle
+1954	触	contact	ショク	さわ・る　　ふ・れる	yes		1813	contact
+1955	解	unravel	カイ    ゲ	と・く　　と・かす　　と・ける	yes		1814	unravel
+1956	再	again	サイ　　サr	ふたた・び	yes		1815	again
+1957	講	lecture	コウ		yes		1816	lecture
+1958	購	subscription	コウ		yes		1817	subscription
+1959	構	posture	コウ	かま・う　　かま・える	yes		1818	posture
+1960	溝	gutter	コウ	みぞ	yes		1819	gutter
+1961	論	argument	ロン		yes		1820	argument
+1962	倫	ethics	リン		yes		1821	ethics
+1963	輪	wheel	リン	わ	yes		1822	wheel
+1964	偏	partial	ヘン	かたよ・る	yes		1823	partial
+1965	遍	everywhere	ヘン		yes		1824	everywhere
+1966	編	compilation	ヘン	あ・む	yes		1825	compilation
+1967	冊	tome	サツ　　サク		yes		1826	tome
+1968	柵	palisade	サク		yes		2507	palisade
+1969	典	code	テン		yes		1827	code
+1970	氏	family name	シ	うじ	yes	49	1828	family name
+1971	紙	paper	シ	かみ	yes		1829	paper
+1972	婚	marriage	コン		yes		1830	marriage
+1973	低	lower	テイ	ひく・い　　ひく・まる　　ひく・める	yes		1831	lower
+1974	抵	resist	テイ		yes		1832	resist
+1975	底	bottom	テイ	そこ	yes		1833	bottom
+1976	民	people	ミン	たみ	yes		1834	people
+1977	眠	sleep	ミン	ねむ・る　　ねむ・い	yes		1835	sleep
+1978	捕	catch	ホ	つか・まえる　　つか・まる　　と・る　　と・らえる　　と・らわれる	yes		1836	catch
+1979	哺	suckle	ホ		yes		3027	suckle
+1980	浦	bay		うら	yes		1837	bay
+1981	蒲	bullrush		がま　　かま　　かば	no		1838	bullrush
+1982	舗	shop	ホ		yes		1839	shop
+1983	補	supplement	ホ	おぎな・う	yes		1840	supplement
+1984	邸	residence	テイ		yes		1841	residence
+1985	郭	enclosure	カク		yes		1842	enclosure
+1986	郡	county	グン		yes		1843	county
+1987	郊	outskirts	コウ		yes		1844	outskirts
+1988	部	section	ブ		yes		1845	section
+1989	都	metropolis	ト　　ツ	みやこ	yes		1846	metropolis
+1990	郵	mail	ユウ		yes		1847	mail
+1991	邦	home country	ホウ		yes		1848	home country
+1992	那	interrogative	ナ		yes		2960	interrogative
+1993	郷	hometown	キョウ　　ゴウ		yes		1849	hometown
+1994	響	echo	キョウ	ひび・く	yes		1850	echo
+1995	郎	son	ロウ		yes		1851	son
+1996	廊	corridor	ロウ		yes		1852	corridor
+1997	盾	shield	ジュン	たて	yes	50	1853	shield
+1998	循	sequential	ジュン		yes		1854	sequential
+1999	派	faction	ハ		yes		1855	faction
+2000	脈	vein	ミャク		yes		1856	vein
+2001	衆	masses	シュウ　　シュr		yes		1857	masses
+2002	逓	parcel post	テイ		yes		1858	parcel post
+2003	段	grade	ダン		yes		1859	grade
+2004	鍛	forge	タン	きた・える	yes		1860	forge
+2005	后	empress	コウ		yes		1861	empress
+2006	幻	phantasm	ゲン	まぼろし	yes		1862	phantasm
+2007	司	director	シ		yes		1863	director
+2008	伺	pay respects	シ	うかが・う	yes		1864	pay respects
+2009	詞	parts of speech	シ		yes		1865	parts of speech
+2010	飼	domesticate	シ	か・う	yes		1866	domesticate
+2011	嗣	heir	シ		yes		1867	heir
+2012	舟	boat	シュウ	ふね　　ふなr	yes		1868	boat
+2013	舶	liner	ハク		yes		1869	liner
+2014	航	navigate	コウ		yes		1870	navigate
+2015	舷	gunwale	ゲン		yes		2675	gunwale
+2016	般	carrier	ハン		yes		1871	carrier
+2017	盤	tray	バン		yes		1872	tray
+2018	搬	conveyor	ハン		yes		1873	conveyor
+2019	船	ship	セン	ふね　　ふなr	yes		1874	ship
+2020	艦	warship	カン		yes		1875	warship
+2021	艇	rowboat	テイ		yes		1876	rowboat
+2022	瓜	melon	カ	うり	no		1877	melon
+2023	弧	arc	コ		yes		1878	arc
+2024	孤	orphan	コ		yes		1879	orphan
+2025	繭	cocoon	ケン	まゆ	yes	51	1880	cocoon
+2026	益	benefit	エキ　　ヤクr		yes		1881	benefit
+2027	暇	spare time	カ	ひま	yes		1882	spare time
+2028	敷	spread	フ	し・く	yes		1883	spread
+2029	来	come	ライ	く・る　　きた・す　　きた・る	yes		1884	come
+2030	気	spirit	キ　　ケ		yes		1885	spirit
+2031	汽	vapor	キ		yes		1886	vapor
+2032	飛	fly	ヒ	と・ぶ　　と・ばす	yes		1887	fly
+2033	沈	sink	チン	しず・む　　しず・める	yes		1888	sink
+2034	枕	pillow		まくら	yes		2472	pillow
+2035	妻	wife	サイ	つま	yes		1889	wife
+2036	凄	nifty	セイ		yes		2133	nifty
+2037	衰	decline	スイ	おとろ・える	yes		1890	decline
+2038	衷	inmost	チュウ		yes		1891	inmost
+2039	面	mask	メン	おもて　　おも　　つら	yes		1892	mask
+2040	麺	noodles	メン		yes		2752	noodles
+2041	革	leather	カク	かわ	yes		1893	leather
+2042	靴	shoes	カ	くつ	yes		1894	shoes
+2043	覇	hegemony	ハ		yes		1895	hegemony
+2044	声	voice	セイ　　ショウr	こえ　　こわr	yes		1896	voice
+2045	眉	eyebrow	ビ　　ミr	まゆ	yes		2583	eyebrow
+2046	呉	give	ゴ		yes		1897	give
+2047	娯	recreation	ゴ		yes		1898	recreation
+2048	誤	mistake	ゴ	あやま・る	yes		1899	mistake
+2049	蒸	steam	ジョウ	む・す　　む・らす　　む・れる	yes		1900	steam
+2050	承	acquiesce	ショウ	うけたまわ・る	yes		1901	acquiesce
+2051	函	bin	カン	はこ	no		1902	bin
+2052	極	poles	キョク　　ゴク	きわ・み　　きわ・まる　　きわ・める	yes		1903	poles
+2053	牙	tusk	ガ　　ゲr	きば	yes	52	1904	tusk
+2054	芽	bud	ガ	め	yes		1905	bud
+2055	邪	wicked	ジャ		yes		1906	wicked
+2056	雅	gracious	ガ		yes		1907	gracious
+2057	釈	interpretation	シャク		yes		1908	explanation
+2058	番	turn	バン		yes		1909	turn
+2059	審	hearing	シン		yes		1910	hearing
+2060	翻	flip	ホン	ひるがえ・す　　ひるがえ・る	yes		1911	flip
+2061	藩	clan	ハン		yes		1912	clan
+2062	毛	fur	モウ	け	yes		1913	fur
+2063	耗	decrease	モウ　　コウr		yes		1914	decrease
+2064	尾	tail	ビ	お	yes		1915	tail
+2065	宅	home	タク		yes		1916	home
+2066	託	consign	タク		yes		1917	consign
+2067	為	do	イ		yes		1918	do
+2068	偽	falsehood	ギ	いつわ・る　　にせ	yes		1919	falsehood
+2069	畏	apprehensive	イ	おそ・れる	yes		2569	apprehensive
+2070	長	long	チョウ	なが・い	yes		1920	long
+2071	張	lengthen	チョウ	は・る	yes		1921	lengthen
+2072	帳	notebook	チョウ		yes		1922	notebook
+2073	脹	dilate	チョウ		no		1923	dilate
+2074	髪	hair of the head	ハツ	かみ	yes		1924	hair of the head
+2075	展	unfold	テン		yes		1925	unfold
+2076	喪	miss	ソウ	も	yes		1926	miss
+2077	巣	nest	ソウ	す	yes	53	1927	nest
+2078	単	simple	タン		yes		1928	simple
+2079	戦	war	セン	たたか・う　　いくさ	yes		1929	war
+2080	禅	Zen	ゼン		yes		1930	Zen
+2081	弾	bullet	ダン	たま　　はず・む　　ひ・く	yes		1931	bullet
+2082	桜	cherry tree	オウ	さくら	yes		1932	cherry tree
+2083	獣	animal	ジュウ	けもの	yes		1933	animal
+2084	脳	brain	ノウ		yes		1934	brain
+2085	悩	trouble	ノウ	なや・む　　なや・ます	yes		1935	trouble
+2086	厳	stern	ゲン　　ゴンr	きび・しい　　おごそ・か	yes		1936	stern
+2087	鎖	chain	サ	くさり	yes		1937	chain
+2088	挙	raise	キョ	あ・がる　　あ・げる	yes		1938	raise
+2089	誉	reputation	ヨ	ほま・れ	yes		1939	reputation
+2090	猟	game hunting	リョウ		yes		1940	game hunting
+2091	鳥	bird	チョウ	とり	yes		1941	bird
+2092	鳴	chirp	メイ	な・く　　な・る　　な・らす	yes		1942	chirp
+2093	鶴	crane		つる	yes		1943	crane
+2094	烏	crow	ウ	からす	no		1944	crow
+2095	蔦	vine		つた	no		1945	vine
+2096	鳩	pigeon		はと	no		1946	pigeon
+2097	鶏	chicken	ケイ	にわとり	yes		1947	chicken
+2098	島	island	トウ	しま	yes		1948	island
+2099	暖	warmth	ダン	あたた・か　　あたた・かい　　あたた・まる　　あたた・める	yes		1949	warmth
+2100	媛	beautiful woman	エン	ひめr	yes		1950	beautiful woman
+2101	援	abet	エン		yes		1951	abet
+2102	緩	slacken	カン	ゆる・い　　ゆる・む　　ゆる・める　　ゆる・やか	yes		1952	slacken
+2103	属	belong	ゾク		yes		1953	belong
+2104	嘱	entrust	ショク		yes		1954	entrust
+2105	偶	accidentally	グウ		yes		1955	accidentally
+2106	遇	interview	グウ		yes		1956	interview
+2107	愚	foolish	グ	おろ・か	yes		1957	foolish
+2108	隅	corner	グウ	すみ	yes		1958	corner
+2109	逆	inverted	ギャク	さか　　さか・らう	yes		1959	inverted
+2110	塑	model	ソ		yes		1960	model
+2111	遡	go upstream	ソ	さかのぼ・る	yes		2847	go upstream
+2112	岡	Mount		おかr	yes		1961	Mount
+2113	鋼	steel	コウ	はがね	yes		1962	steel
+2114	綱	hawser	コウ	つな	yes		1963	hawser
+2115	剛	sturdy	ゴウ		yes		1964	sturdy
+2116	缶	tin can	カン		yes		1965	tin can
+2117	陶	pottery	トウ		yes		1966	pottery
+2118	揺	swing	ヨウ	ゆ・れる　　ゆ・る　　ゆ・らぐ　　ゆ・るぐ　　ゆ・さぶる　　ゆ・すぶる　　　ゆ・する	yes		1967	swing
+2119	謡	Noh chanting	ヨウ	うたい　　うた・う	yes		1968	Noh chanting
+2120	鬱	gloom	ウツ		yes		3030	gloom
+2121	就	concerning	シュウ　　ジュr	つ・く　　つ・ける	yes		1969	concerning
+2122	蹴	kick	シュウ	け・る	yes		2742	kick
+2123	懇	sociable	コン	ねんご・ろ	yes		1970	sociable
+2124	墾	groundbreaking	コン		yes		1971	groundbreaking
+2125	貌	countenance	ボウ		yes		2733	countenance
+2126	免	excuse	メン	まぬか・れる	yes		1972	excuse
+2127	逸	elude	イツ		yes		1973	elude
+2128	晩	nightfall	バン		yes		1974	nightfall
+2129	勉	exertion	ベン		yes		1975	exertion
+2130	象	elephant	ショウ　　ゾウ		yes		1976	elephant
+2131	像	statue	ゾウ		yes		1977	statue
+2132	馬	horse	バ	うま　　まr	yes	54	1978	horse
+2133	駒	pony		こま	yes		1979	pony
+2134	験	verification	ケン　ゲンr		yes		1980	verification
+2135	騎	equestrian	キ		yes		1981	equestrian
+2136	駐	parking	チュウ		yes		1982	parking
+2137	駆	drive	ク	か・ける　　か・る	yes		1983	drive
+2138	駅	station	エキ		yes		1984	station
+2139	騒	boisterous	ソウ	さわ・ぐ	yes		1985	boisterous
+2140	駄	burdensome	ダ		yes		1986	burdensome
+2141	驚	wonder	キョウ	おどろ・く　　おどろ・かす	yes		1987	wonder
+2142	篤	fervent	トク		yes		1988	fervent
+2143	罵	insult	バ	ののし・る	yes		2699	insult
+2144	騰	inflation	トウ		yes		1989	inflation
+2145	虎	tiger	コ	とら	yes		1990	tiger
+2146	虜	captive	リョ		yes		1991	captive
+2147	膚	skin	フ		yes		1992	skin
+2148	虚	void	キョ　　コr		yes		1993	void
+2149	戯	frolic	ギ	たわむ・れる	yes		1994	frolic
+2150	虞	uneasiness		おそれ	yes		1995	uneasiness
+2151	慮	prudence	リョ		yes		1996	prudence
+2152	劇	drama	ゲキ		yes		1997	drama
+2153	虐	tyrannize	ギャク	しいた・げる	yes		1998	tyrannize
+2154	鹿	deer		しか　　かr	yes		1999	deer
+2155	麓	foot of a mountain	ロク	ふもと    	yes		2839	foot of a mountain
+2156	薦	recommend	セン	すす・める	yes		2000	recommend
+2157	慶	jubilation	ケイ		yes		2001	jubilation
+2158	麗	lovely	レイ	うるわ・しい	yes		2002	lovely
+2159	熊	bear		くま	yes		2003	bear
+2160	能	ability	ノウ		yes		2004	ability
+2161	態	attitude	タイ		yes		2005	attitude
+2162	寅	sign of the tiger		とら	no	55	2006	sign of the tiger
+2163	演	performance	エン		yes		2007	performance
+2164	辰	sign of the dragon		たつ	no		2008	sign of the dragon
+2165	辱	embarrass	ジョク	はずかし・める	yes		2009	embarrass
+2166	震	quake	シン	ふる・う　　ふる・える	yes		2010	quake
+2167	振	shake	シン	ふ・る　　ふ・るう　　ふ・れる	yes		2011	shake
+2168	娠	with child	シン		yes		2012	with child
+2169	唇	lips	シン	くちびる	yes		2013	lips
+2170	農	agriculture	ノウ		yes		2014	agriculture
+2171	濃	concentrated	ノウ	こ・い	yes		2015	concentrated
+2172	送	send off	ソウ	おく・る	yes		2016	send off
+2173	関	connection	カン	せき　　かか・わる 	yes		2017	connection
+2174	咲	blossom		さ・く	yes		2018	blossom
+2175	鬼	ghost	キ	おに	yes		2019	ghost
+2176	醜	ugly	シュウ	みにく・い	yes		2020	ugly
+2177	魂	soul	コン	たましい	yes		2021	soul
+2178	魔	witch	マ		yes		2022	witch
+2179	魅	fascination	ミ		yes		2023	fascination
+2180	塊	clod	カイ	かたまり	yes		2024	clod
+2181	襲	attack	シュウ	おそ・う	yes		2025	attack
+2182	嚇	upbraid	カク		yes	56	2026	upbraid
+2183	朕	majestic plural	チン		yes		2027	majestic plural
+2184	雰	atmosphere	フン		yes		2028	atmosphere
+2185	箇	item	カ		yes		2029	item
+2186	錬	tempering	レン		yes		2030	tempering
+2187	遵	abide by	ジュン		yes		2031	abide by
+2188	罷	quit	ヒ		yes		2032	quit
+2189	屯	barracks	トン		yes		2033	barracks
+2190	且	moreover		か・つ	yes		2034	moreover
+2191	藻	seaweed	ソウ	も	yes		2035	seaweed
+2192	隷	slave	レイ		yes		2036	slave
+2193	癒	healing	ユ	い・やす 　　い・える 	yes		2037	healing
+2194	璽	imperial seal	ジ		yes		2075	imperial seal
+2195	潟	lagoon	タン		yes		2039	lagoon
+2196	丹	cinnabar		かた	yes		2038	cinnabar
+2197	丑	sign of the cow		うし	no		2040	sign of the cow
+2198	羞	humiliate	シュウ		yes		3029	humiliate
+2199	卯	sign of the hare		う	no		2041	sign of the hare
+2200	巳	sign of the snake		み	no		2042	sign of the snake
+2201	此	this here			no	RTK3 New Prim	2043	this here
+2202	柴	brushwood			no		2044	brushwood
+2203	些	whit			no		2046	whit
+2204	砦	fort			no		2045	fort
+2205	髭	beard			no		2047	beard
+2206	禽	fowl			no		2049	fowl
+2207	檎	apple			no		2050	apple
+2208	憐	sympathize with			no		2051	sympathize with
+2209	燐	phosphorus			no		2052	phosphorus
+2210	麟	camelopard			no		2053	camelopard
+2211	鱗	scaled			no		2054	scaled
+2212	奄	encompassing			no		2055	encompassing
+2213	庵	hermitage			no		2056	hermitage
+2214	掩	shrouded			no		2057	shrouded
+2215	悛	make amends			no		2059	make amends
+2216	駿	steed			no		2060	steed
+2217	峻	steep			no		2061	steep
+2218	竣	complete a job			no		2062	complete a job
+2219	犀	rhinoceros			no		2069	rhinoceros
+2220	皐	lunar month			no		2070	lunar month
+2221	畷	rice-field footpath			no		2072	rice-field footpath
+2222	綴	mend			no		2073	mend
+2223	鎧	suit of armor			no		2076	suit of armor
+2224	凱	triumph			no		2077	triumph
+2225	呑	quaff			no		2080	quaff
+2226	韮	leek			no		2081	leek
+2227	籤	lottery			no		2082	lottery
+2228	懺	penitential			no		2083	penitential
+2229	芻	hay			no		2084	hay
+2230	雛	chick			no		2085	chick
+2231	趨	scurry			no		2086	scurry
+2232	尤	understandably			no		2087	understandably
+2233	厖	immense			no		2089	immense
+2234	或	a  (a certain)			no		2091	a  (a certain)
+2235	兎	rabbit			no		2093	rabbit
+2236	也	est			no		2094	est
+2237	巴	comma-design			no		2096	comma-design
+2238	疋	critters			no		2098	critters
+2239	菫	violet			no		2099	violet
+2240	曼	mandala			no		2100	mandala
+2241	云	quote			no		2102	quote
+2242	莫	shalt			no		2105	shalt
+2243	而	and then			no		3006	and then
+2244	倭	Yamato			no	Major Prim Elements	2106	Yamato
+2245	侠	chivalry			no		2107	chivalry
+2246	倦	fed up			no		2108	fed up
+2247	俄	abrupt			no		2110	abrupt
+2248	佃	work a field			no		2111	work a field
+2249	仔	animal offspring			no		2113	animal offspring
+2250	仇	foe			no		2114	foe
+2251	伽	look after			no		2115	look after
+2252	儲	make a profit			no		2118	make a profit
+2253	僑	emigrant			no		2120	emigrant
+2254	倶	mate			no		2124	mate
+2255	侃	forthright			no		2123	integrity
+2256	偲	memorial			no		2129	memorial
+2257	侭	as is			no		2125	as is
+2258	脩	dried meat			no		2130	dried meat
+2259	倅	my son			no		2131	my son
+2260	做	make do			no		2132	make do
+2261	冴	sharp			no		2134	sharp
+2262	凋	wilt			no		2135	wilt
+2263	凌	pull through			no		2136	pull through
+2264	凛	stately			no		2138	stately
+2265	凧	kite			no		2139	kite
+2266	凪	lull			no		2140	lull
+2267	夙	earlybird			no		2141	earlybird
+2268	鳳	phoenix			no		2142	phoenix
+2269	剽	menace			no		9998	(not in)
+2270	劉	slaughter			no		2143	slaughter
+2271	剃	shave			no		2146	shave
+2272	厭	despondent			no		2149	despondent
+2273	雁	wild goose			no		2150	wild goose
+2274	贋	counterfeit			no		2151	counterfeit
+2275	厨	kitchen			no		2152	kitchen
+2276	仄	insinuate			no		2153	insinuate
+2277	哨	scout			no		2154	scout
+2278	咎	reprehend			no		2156	reprehend
+2279	囁	whisper			no		2157	whisper
+2280	喋	chatter			no		2158	chatter
+2281	嘩	quarrel			no		2160	quarrel
+2282	噂	gossip			no		2161	gossip
+2283	咳	cough			no		2162	cough
+2284	喧	clamor			no		2163	clamor
+2285	叩	bash			no		2166	bash
+2286	嘘	fib			no		2167	fib
+2287	啄	peck at			no		2168	peck at
+2288	吠	barking			no		2170	barking
+2289	吊	dangle			no		2171	dangle
+2290	噛	chew			no		2172	chew
+2291	叶	within my ability			no		2173	within my ability
+2292	吻	sides of the mouth			no		2174	sides of the mouth
+2293	吃	stammer			no		2175	stammer
+2294	噺	spin a tale			no		2176	spin a tale
+2295	噌	miso			no		2177	miso
+2296	邑	city walls			no		2180	city walls
+2297	呆	dumbfounded			no		2181	dumbfounded
+2298	喰	ingest			no		2182	ingest
+2299	埴	clay			no		2183	clay
+2300	坤	authochthonous			no		2184	authochthonous
+2301	壕	dugout			no		2186	dugout
+2302	垢	blemish			no		2187	blemish
+2303	坦	flat			no		2188	flat
+2304	埠	wharf			no		2189	wharf
+2305	堰	dam			no		2191	dam
+2306	堵	railing			no		2192	railing
+2307	嬰	suckling infant			no		2193	suckling infant
+2308	姦	violate			no		2194	violate
+2309	婢	handmaiden			no		2196	handmaiden
+2310	婉	well finished			no		2197	well finished
+2311	娼	harlot			no		2198	harlot
+2312	妓	courtesan			no		2199	courtesan
+2313	娃	fair			no		2200	fair
+2314	姪	niece			no		2201	niece
+2315	嬬	mistress			no		2203	mistress
+2316	姥	aged woman			no		2204	aged woman
+2317	姑	mother-in-law			no		2205	mother-in-law
+2318	姐	young miss			no		2206	young miss
+2319	嬉	overjoyed			no		2207	overjoyed
+2320	孕	expecting			no		2208	expecting
+2321	孜	assiduous			no		2209	assiduous
+2322	宥	soothe			no		2210	soothe
+2323	寓	imply			no		2211	imply
+2324	宏	extensive			no		2212	extensive
+2325	牢	jail			no		2213	jail
+2326	宋	Sung dynasty			no		2215	Sung dynasty
+2327	宍	venison			no		2216	venison
+2328	屠	butchering			no		2217	butchering
+2329	屁	fart			no		2218	fart
+2330	屑	rubbish			no		2219	rubbish
+2331	屡	frequently			no		2221	frequently
+2332	屍	corpse			no		2222	corpse
+2333	屏	folding screen			no		2223	folding screen
+2334	嵩	high-reaching			no		2224	high-reaching
+2335	崚	rugged mountains			no		2225	rugged mountains
+2336	嶺	mountaintop			no		2228	mountaintop
+2337	嵌	fit into			no		2229	fit into
+2338	帖	quire			no		2231	quire
+2339	幡	banner			no		2232	banner
+2340	幟	pennant			no		2233	pennant
+2341	庖	cleaver			no		2234	cleaver
+2342	廓	licensed quarters			no		2235	licensed quarters
+2343	庇	overhang			no		2236	overhang
+2344	鷹	hawk			no		2237	hawk
+2345	庄	shire			no		2238	shire
+2346	廟	tomb sanctuary			no		2239	tomb sanctuary
+2347	彊	strengthen			no		2240	strengthen
+2348	弛	loosen			no		2242	loosen
+2349	粥	rice gruel			no		2243	rice gruel
+2350	挽	lathe			no		2244	lathe
+2351	撞	bump into			no		2245	bump into
+2352	扮	disguise			no		2246	disguise
+2353	捏	fabrication			no		9998	(not in)
+2354	掴	clutch			no		2249	clutch
+2355	捺	impress			no		2250	impress
+2356	掻	scratch			no		2252	scratch
+2357	撰	assortment			no		2253	assortment
+2358	揃	muster			no		2255	muster
+2359	捌	deal with			no		2256	deal with
+2360	按	press down on			no		2259	press down on
+2361	播	disseminate			no		2262	disseminate
+2362	揖	collect			no		2263	interpretation
+2363	托	receptacle			no		2264	receptable
+2364	捧	devote			no		2265	dedicate
+2365	撚	twirl			no		2266	twirl
+2366	挺	counter for tools			no		2267	counter for tools
+2367	擾	commotion			no		2268	commotion
+2368	撫	petting			no		2270	petting
+2369	撒	sprinkle			no		2271	sprinkle
+2370	擢	outstanding			no		2272	outstanding
+2371	摺	rubbing			no		2258	rubbing
+2372	捷	spoils			no		2273	spoils
+2373	抉	gouge out			no		2274	gouge out
+2374	怯	wince			no		2275	wince
+2375	惟	ponder			no		2276	ponder
+2376	惚	infatuation			no		2277	infatuation
+2377	怜	quickwitted			no		2278	quickwitted
+2378	惇	considerate			no		2279	considerate
+2379	恰	as if			no		2281	as if
+2380	恢	enlarge			no		2282	enlarge
+2381	悌	respect for elders			no		2283	respect for elders
+2382	澪	canal			no		2285	canal
+2383	洸	glistening			no		2286	glistening
+2384	滉	bounding main			no		2287	bounding main
+2385	漱	gargle			no		2288	gargle
+2386	洲	continent			no		2289	continent
+2387	洵	swirling waters			no		2290	swirling waters
+2388	滲	seep			no		2291	seep
+2389	洒	rinse			no		2292	rinse
+2390	沐	douse			no		2293	douse
+2391	泪	teardrops			no		2294	teardrops
+2392	渾	gushing			no		2295	gushing
+2393	涜	blaspheme			no		2297	blaspheme
+2394	梁	roofbeam			no		2299	roofbeam
+2395	澱	sediment			no		2300	sediment
+2396	洛	old Kyoto			no		2302	old Kyoto
+2397	汝	thou			no		2303	thou
+2398	漉	filter			no		2304	filter
+2399	瀕	on the verge of			no		2305	on the verge of
+2400	濠	moat			no		2306	moat
+2401	溌	spray			no		2307	spray
+2402	湊	port			no		2309	port
+2403	淋	solitude			no		2310	solitude
+2404	浩	abounding			no		2311	abounding
+2405	汀	water’s edge			no		2312	water’s edge
+2406	鴻	large goose			no		2313	large goose
+2407	潅	souse			no		2314	souse
+2408	溢	brimming			no		2315	brimming
+2409	湛	inundate			no		2317	inundate
+2410	淳	immaculate			no		2318	immaculate
+2411	渥	moisten			no		2320	moisten
+2412	灘	rough seas			no		2321	rough seas
+2413	汲	draw water			no		2322	draw water
+2414	瀞	river pool			no		2323	river pool
+2415	溜	cumulation			no		2324	cumulation
+2416	渕	abyss			no		2325	abyss
+2417	沌	chaos			no		2326	chaos
+2418	濾	strainer			no		2328	strainer
+2419	濡	drench			no		2329	drench
+2420	淀	eddy			no		2330	eddy
+2421	涅	black soil			no		2331	fabrication
+2422	斧	hatchet			no		2333	hatchet
+2423	爺	grandpa			no		2334	grandpa
+2424	猾	sly			no		2335	sly
+2425	猥	indecent			no		2336	indecent
+2426	狡	cunning			no		2337	cunning
+2427	狸	racoon dog			no		2338	racoon dog
+2428	狼	wolf			no		2339	wolf
+2429	狽	flustered			no		2340	flustered
+2430	狗	pup			no		2341	pup
+2431	狐	fox			no		2342	fox
+2432	狛	a-un			no		2343	a-un
+2433	獅	lion			no		2345	lion
+2434	狒	baboon			no		2346	baboon
+2435	莨	tobacco			no		2347	tobacco
+2436	茉	jasmine			no		2348	jasmine
+2437	莉	hawthorn			no		2349	hawthorn
+2438	苺	strawberry			no		2350	strawberry
+2439	萩	bush clover			no		2351	bush clover
+2440	藝	technique (old)			no		2352	technique (old)
+2441	薙	trim			no		2353	trim
+2442	蓑	straw raincoat			no		2354	straw raincoat
+2443	苔	moss			no		2356	moss
+2444	蕩	prodigal			no		2357	prodigal
+2445	蔓	tendril			no		2359	tendril
+2446	蓮	lotus			no		2360	lotus
+2447	芙	lotus flower			no		2361	lotus flower
+2448	蓉	lotus blossom			no		2362	lotus blossom
+2449	蘭	orchid			no		2363	orchid
+2450	芦	hollow reed			no		2364	hollow reed
+2451	薯	yam			no		2365	yam
+2452	菖	iris			no		2366	iris
+2453	蕉	banana			no		2367	banana
+2454	蕎	buckwheat			no		2369	buckwheat
+2455	蕗	butterbur			no		2370	butterbur
+2456	茄	eggplant			no		2372	eggplant
+2457	蔭	behind the scenes			no		2374	behind the scenes
+2458	蓬	wormwood			no		2375	wormwood
+2459	芥	mustard			no		2376	mustard
+2460	萌	germinate			no		2377	germinate
+2461	葡	grape			no		2378	grape
+2462	萄	grape vine			no		2379	grape vine
+2463	蘇	resurrect			no		2380	resurrect
+2464	蕃	grow wild			no		2381	grow wild
+2465	苓	cocklebur			no		2382	cocklebur
+2466	菰	rush mat			no		2383	rush mat
+2467	蒙	darken			no		2384	darken
+2468	茅	grassy reed			no		2385	grassy reed
+2469	芭	plantain			no		2386	plantain
+2470	苅	mow			no		2387	mow
+2471	葱	onion			no		2389	onion
+2472	葵	hollyhock			no		2391	hollyhock
+2473	葺	shingling			no		2392	shingling
+2474	蕊	stamen			no		2393	stamen
+2475	茸	mushroom			no		2394	mushroom
+2476	蒔	sowing			no		2395	sowing
+2477	芹	parsley			no		2396	parsley
+2478	苫	thatching			no		2397	thatching
+2479	蒼	pale blue			no		2399	pale blue
+2480	藁	straw			no		2400	straw
+2481	蕪	turnip			no		2401	turnip
+2482	藷	sweet potato			no		2402	sweet potato
+2483	薮	quack			no		2403	quack
+2484	蒜	garlic			no		2404	garlic
+2485	蕨	bracken			no		2405	bracken
+2486	蔚	grow plentiful			no		2406	grow plentiful
+2487	茜	madder red			no		2407	madder red
+2488	莞	candle rush			no		2408	candle rush
+2489	蒐	collector			no		2409	collector
+2490	菅	sedge			no		2410	sedge
+2491	葦	ditch reed			no		2411	ditch reed
+2492	迪	Way			no		2412	Way
+2493	辿	track down			no		2413	track down
+2494	這	crawl			no		2414	crawl
+2495	迂	detour			no		2415	detour
+2496	遁	shirk			no		2416	elude
+2497	逢	tryst			no		2417	tryst
+2498	遥	far off			no		2418	far off
+2499	遼	faraway			no		2419	remote
+2500	逼	pressing			no		2420	pressing
+2501	迄	until			no		2421	until
+2502	逗	standstill			no		2423	standstill
+2503	鄭	courtesy			no		2425	courtesy
+2504	隕	falling			no		9998	(not in)
+2505	隈	nook			no		2427	nook
+2506	憑	possessed			no		2428	possessed
+2507	惹	attract			no		2429	attract
+2508	悉	without exception			no		2430	without exception
+2509	忽	instantaneously			no		2431	instantaneously
+2510	惣	firstborn son			no		2432	firstborn son
+2511	愈	in the nick of time			no		2433	in the nick of time
+2512	恕	sensitive			no		2434	sensitive
+2513	昴	overarching			no		2435	overarching
+2514	晋	progress			no		2436	progress
+2515	晟	aglow			no		2438	aglow
+2516	暈	halo			no		2439	halo
+2517	暉	glitter			no		2440	glitter
+2518	旱	dry weather			no		2441	dry weather
+2519	晏	clear skies			no		2442	clear skies
+2520	晨	morrow			no		2443	morrow
+2521	晒	bleaching			no		2444	bleaching
+2522	晃	limpid			no		2446	limpid
+2523	曝	air out			no		2447	air out
+2524	曙	dawn			no		2448	dawn
+2525	昂	elevate			no		2449	elevate
+2526	昏	dusk			no		2451	dusk
+2527	晦	last day of the month			no		2452	last day of the month
+2528	膿	pus			no		2455	pus
+2529	腑	viscera			no		2456	viscera
+2530	胱	bladder			no		2457	bladder
+2531	胚	embryo			no		2458	embryo
+2532	肛	anus			no		2459	anus
+2533	脆	fragile			no		2462	fragile
+2534	肋	rib			no		2463	rib
+2535	腔	body cavity			no		2465	body cavity
+2536	肱	armrest			no		2469	armrest
+2537	胡	uncivilized			no		2470	uncivilized
+2538	楓	maple tree			no		2471	maple tree
+2539	楊	purple willow			no		2473	purple willow
+2540	椋	Oriental elm			no		2474	Oriental elm
+2541	榛	hazel			no		2475	hazel
+2542	櫛	comb			no		2476	comb
+2543	槌	wooden hammer			no		2477	wooden hammer
+2544	樵	mallet			no		2478	mallet
+2545	梯	ladder			no		2479	ladder
+2546	柑	citrus tree			no		2482	citrus tree
+2547	杭	picket			no		2484	picket
+2548	柊	holly			no		2485	holly
+2549	柚	citron			no		2486	citron
+2550	椀	wooden bowl			no		2487	wooden bowl
+2551	栂	hemlock			no		2488	hemlock
+2552	柾	spindle tree			no		2489	spindle tree
+2553	榊	sacred tree			no		2490	sacred Shinto tree
+2554	樫	evergreen oak			no		2491	evergreen oak
+2555	槙	black pine			no		2492	Chinese black pine
+2556	楢	Japanese oak			no		2493	Japanese oak
+2557	橘	mandarin orange			no		2494	mandarin orange
+2558	桧	Japanese cypress			no		2495	Japanese cypress
+2559	棲	roost			no		2496	roost
+2560	栖	nestle			no		2497	nestle
+2561	桔	bellflower			no		2499	bellflower
+2562	杜	temple grove			no		2500	temple grove
+2563	杷	grain rake			no		2501	grain rake
+2564	梶	oar			no		2502	oar
+2565	杵	wooden pestle			no		2503	wooden pestle
+2566	杖	cane			no		2504	cane
+2567	樽	barrel			no		2506	barrel
+2568	櫓	turret			no		2508	turret
+2569	橿	sturdy oak			no		2509	sturdy oak
+2570	杓	wooden ladle			no		2510	wooden ladle
+2571	李	damson			no		2511	damson
+2572	棉	raw cotton			no		2512	raw cotton
+2573	楯	escutcheon			no		2513	escutcheon
+2574	榎	hackberry			no		2514	hackberry
+2575	樺	birch			no		2515	birch
+2576	槍	lance			no		2516	lance
+2577	柘	wild mulberry			no		2517	wild mulberry
+2578	梱	bale			no		2518	bale
+2579	枇	loquat			no		2519	loquat
+2580	樋	downspout			no		2520	downspout
+2581	橇	sled			no		2521	sled
+2582	槃	enjoyment			no		2522	enjoyment
+2583	栞	bookmark			no		2523	bookmark
+2584	椰	coconut tree			no		2524	coconut tree
+2585	檀	sandalwood			no		2525	sandalwood
+2586	樗	sumac			no		2526	plotosid
+2587	槻	zelkova			no		2527	zelkova
+2588	椙	cryptomeria			no		2528	cryptomeria
+2589	彬	copious			no		2529	copious
+2590	桶	bucket			no		2530	bucket
+2591	楕	ellipse			no		2531	ellipse
+2592	樒	star-anise			no		2532	star-anise
+2593	毬	furball			no		2533	furball
+2594	燿	twinkle			no		2534	twinkle
+2595	燎	watchfire			no		2535	watchfire
+2596	炬	torch			no		2536	torch
+2597	焚	kindle			no		2537	kindle
+2598	灸	moxa			no		2538	moxa
+2599	煽	fanning			no		2540	fanning
+2600	煤	soot			no		2541	soot
+2601	煉	firing			no		2542	firing
+2602	燦	dazzling			no		2543	dazzling
+2603	灼	refulgent			no		2544	refulgent
+2604	烙	branding			no		2545	branding
+2605	焔	flames			no		2546	flames
+2606	烹	stew			no		2549	stew
+2607	牽	tug			no		2550	tug
+2608	牝	female animal			no		2551	female animal
+2609	牡	male animal			no		2552	male animal
+2610	琳	chime			no		2554	chime
+2611	琉	lapis lazuli			no		2557	lapis lazuli
+2612	瑳	burnish			no		2559	burnish
+2613	琢	hone			no		2560	hone
+2614	珊	coral			no		2561	coral
+2615	瑚	coral reef			no		2562	coral reef
+2616	瑞	fortunate			no		2563	fortunate
+2617	玖	jet			no		2565	jet
+2618	瑛	crystal stone			no		2566	crystal stone
+2619	玲	tinkling			no		2568	tinkling
+2620	畢	lastly			no		2570	lastly
+2621	畦	paddy-field ridge			no		2571	paddy-field ridge
+2622	痒	itch			no		2572	itch
+2623	痰	phlegm			no		2573	phlegm
+2624	疹	measles			no		2574	measles
+2625	痔	hemorrhoids			no		2575	hemorrhoids
+2626	癌	cancer			no		2576	cancer
+2627	痺	paralysis			no		2579	paralysis
+2628	眸	apple of the eye			no		2580	apple of the eye
+2629	眩	dizzy			no		2581	dizzy
+2630	雉	pheasant			no		2584	pheasant
+2631	矩	carpenter’s square			no		2585	carpenter’s square
+2632	磐	crag			no		2586	crag
+2633	碇	grapnel			no		2587	grapnel
+2634	碧	blue-green			no		2588	blue-green
+2635	硯	inkstone			no		2589	inkstone
+2636	砥	grindstone			no		2590	grindstone
+2637	碗	teacup			no		2591	teacup
+2638	碍	obstacle			no		2592	obstacle
+2639	碩	illustrious			no		2593	illustrious
+2640	磯	rocky beach			no		2594	rocky beach
+2641	砺	whetstone			no		2595	whetstone
+2642	碓	mill			no		2596	mill
+2643	禦	fend off			no		2597	fend off
+2644	祷	beseech			no		2598	beseech
+2645	祐	ancestral tablet			no		2599	ancestral tablet
+2646	祇	local god			no		2600	local god
+2647	祢	ancestral shrine			no		2601	ancestral shrine
+2648	禄	salarium			no		2602	salarium
+2649	禎	felicitation			no		2603	felicitation
+2650	秤	balancing scales			no		2604	balancing scales
+2651	黍	millet			no		2605	millet
+2652	禿	bald			no		2606	bald
+2653	稔	bear fruit			no		2607	bear fruit
+2654	稗	crabgrass			no		2608	crabgrass
+2655	穣	bumper crop			no		2609	bumper crop
+2656	稜	imperial authority			no		2610	imperial authority
+2657	稀	sparse			no		2611	sparse
+2658	穆	obeisant			no		2612	obeisant
+2659	窺	peep			no		2613	peep
+2660	窄	tight			no		2614	tight
+2661	穿	drill			no		2616	drill
+2662	竃	kitchen stove			no		2617	kitchen stove
+2663	竪	longness			no		2618	longness
+2664	颯	rustling			no		2619	rustling
+2665	站	outpost			no		2620	outpost
+2666	靖	repose			no		2621	repose
+2667	妾	concubine			no		2622	concubine
+2668	衿	lapel			no		2623	lapel
+2669	袷	lined kimono			no		2625	lined kimono
+2670	袴	pleated skirt			no		2626	pleated skirt
+2671	襖	sliding door			no		2627	sliding door
+2672	笙	Chinese panpipe			no		2628	Chinese panpipe
+2673	筏	raft			no		2629	raft
+2674	簾	bamboo blinds			no		2630	bamboo blinds
+2675	箪	rattan box			no		2631	rattan box
+2676	竿	pole			no		2632	pole
+2677	箆	spatula			no		2633	spatula
+2678	箔	foil			no		2634	foil
+2679	笥	wardrobe			no		2635	wardrobe
+2680	箭	arrow shaft			no		2636	arrow shaft
+2681	筑	ancient harp			no		2637	ancient harp
+2682	篠	slender bamboo			no		2639	slender bamboo
+2683	纂	redaction			no		2641	redaction
+2684	竺	bamboo cane			no		2642	bamboo cane
+2685	箕	winnowing fan			no		2643	winnowing fan
+2686	笈	backpack			no		2644	backpack
+2687	篇	livraison			no		2645	livraison
+2688	筈	should			no		2646	should
+2689	簸	winnow			no		2647	winnow
+2690	粕	settlings			no		2648	settlings
+2691	糟	lees			no		2649	lees
+2692	糊	paste			no		2650	paste
+2693	籾	unhulled rice			no		2651	unhulled rice
+2694	糠	rice bran			no		2652	rice bran
+2695	糞	excrement			no		2653	excrement
+2696	粟	foxtail millet			no		2654	foxtail millet
+2697	繋	link up			no		2655	link up
+2698	綸	twine			no		2656	twine
+2699	絨	carpet yarn			no		2657	carpet yarn
+2700	絆	ties			no		2658	ties
+2701	緋	scarlet			no		2659	scarlet
+2702	綜	synthesis			no		2660	synthesis
+2703	紐	string			no		2661	string
+2704	紘	chinstrap			no		2662	chinstrap
+2705	纏	summarize			no		2663	summarize
+2706	絢	gorgeous			no		2664	gorgeous
+2707	繍	embroidery			no		2665	embroidery
+2708	紬	pongee			no		2666	pongee
+2709	綺	ornate			no		2667	ornate
+2710	綾	damask			no		2668	damask
+2711	絃	catgut			no		2669	catgut
+2712	縞	stripe			no		2671	stripe
+2713	綬	gimp			no		2672	gimp
+2714	紗	gossamer			no		2673	gossamer
+2715	舵	rudder			no		2674	rudder
+2716	聯	strung together			no		2676	strung together
+2717	聡	attentive			no		2677	attentive
+2718	聘	summons			no		2678	summons
+2719	耽	addiction			no		2679	addiction
+2720	耶	exclamation			no		2680	exclamation
+2721	蚤	flea			no		2681	flea
+2722	蟹	crab			no		2682	crab
+2723	蛋	protein			no		2683	protein
+2724	蟄	hibernation			no		2684	hibernation
+2725	蝿	housefly			no		2685	housefly
+2726	蟻	ant			no		2686	ant
+2727	蝋	wax			no		2688	wax
+2728	蝦	shrimp			no		2689	shrimp
+2729	蛸	octopus			no		2690	octopus
+2730	螺	screw			no		2691	screw
+2731	蝉	cicada			no		2692	cicada
+2732	蛙	frog			no		2693	frog
+2733	蛾	moth			no		2694	moth
+2734	蛤	clam			no		2695	clam
+2735	蛭	leech			no		2696	leech
+2736	蛎	oyster			no		2697	oyster
+2737	罫	ruled lines			no		2698	ruled lines
+2738	袈	stole			no		2700	stole
+2739	裟	monk’s sash			no		2701	monk’s sash
+2740	截	incision			no		2703	incision
+2741	哉	I wonder			no		2704	I wonder
+2742	詢	counsel			no		2705	counsel
+2743	諄	polite			no		2706	polite
+2744	讐	vendetta			no		2707	vendetta
+2745	諌	remonstrate			no		2708	remonstrate
+2746	諒	verify			no		2710	verify
+2747	讃	compliment			no		2711	compliment
+2748	訊	query			no		2713	query
+2749	訣	split up			no		2714	split up
+2750	詫	beg another’s pardon			no		2721	beg pardon
+2751	誼	familiarity			no		2719	familiarity
+2752	謬	fallible			no		2720	fallible
+2753	訝	wary			no		9998	(not in)
+2754	諺	proverb			no		2723	proverb
+2755	誹	slander			no		2724	slander
+2756	謂	so-called			no		2725	so-called
+2757	諜	secret agent			no		2726	secret agent
+2758	註	footnote			no		2727	footnote
+2759	譬	parable			no		2728	parable
+2760	轟	rumble			no		2729	rumble
+2761	輔	reinforce			no		2730	reinforce
+2762	輻	spoke			no		2731	spoke
+2763	輯	assemble			no		2732	assemble
+2764	豹	panther			no		2734	panther
+2765	賎	despicable			no		2735	despicable
+2766	貰	get			no		2737	get
+2767	賑	bustling			no		2739	bustling
+2768	贖	expiate			no		9998	(not in)
+2769	躓	stumble			no		2740	stumble
+2770	蹄	hoof			no		2741	hoof
+2771	蹟	vestiges			no		2743	vestiges
+2772	跨	straddle			no		2744	straddle
+2773	跪	kneel			no		2745	kneel
+2774	醤	soy sauce			no		2746	soy sauce
+2775	醍	whey			no		2747	whey
+2776	醐	ghee			no		2749	ghee
+2777	醇	strong sake			no		2751	strong sake
+2778	麹	malt			no		2753	malt
+2779	釦	button			no		2754	button
+2780	銚	keg			no		2755	keg
+2781	鋤	plow			no		2756	plow
+2782	鋸	hand saw			no		2759	hand saw
+2783	錐	awl			no		2760	awl
+2784	鍬	hoe			no		2762	hoe
+2785	鋲	rivet			no		2763	rivet
+2786	錫	tin			no		2764	tin
+2787	錨	anchor			no		2765	anchor
+2788	釘	nail			no		2766	nail
+2789	鑓	javelin			no		2767	javelin
+2790	鋒	sword’s point			no		2768	sword’s point
+2791	鎚	hammer			no		2769	hammer
+2792	鉦	carillion			no		2770	carillion
+2793	錆	rust			no		2771	rust
+2794	鍾	cluster			no		2772	cluster
+2795	鋏	scissors			no		2773	scissors
+2796	閃	flash			no		2774	flash
+2797	悶	agony			no		2775	agony
+2798	閤	side gate			no		2776	side gate
+2799	雫	trickle			no		2778	trickle
+2800	霞	haze			no		2779	haze
+2801	翰	quill			no		2780	quill
+2802	斡	auspices			no		2781	auspices
+2803	鞍	saddle			no		2782	saddle
+2804	鞭	whip			no		2783	whip
+2805	鞘	saddle straps			no		2784	saddle straps
+2806	鞄	briefcase			no		2785	briefcase
+2807	靭	pliable			no		2786	pliable
+2808	鞠	terminate			no		2787	terminate
+2809	顛	overturn			no		2789	overturn
+2810	穎	brush tip			no		2790	brush tip
+2811	頗	exceedingly			no		2793	exceedingly
+2812	頌	accolade			no		2794	accolade
+2813	頚	neck and throat			no		2796	neck and throat
+2814	餐	repast			no		2798	repast
+2815	饗	feast			no		2799	feast
+2816	蝕	eclipse			no		2800	eclipse
+2817	飴	sweets			no		2801	sweets
+2818	駕	stretcher			no		2803	stretcher
+2819	騨	piebald			no		2804	piebald
+2820	馳	rush			no		2805	rush
+2821	騙	cheat			no		2806	cheat
+2822	馴	tame			no		2807	tame
+2823	駁	rebuttal			no		2808	rebuttal
+2824	駈	gallop			no		2809	gallop
+2825	驢	donkey			no		2810	donkey
+2826	鰻	eel			no		2811	eel
+2827	鯛	sea bream			no		2812	sea bream
+2828	鰯	sardine			no		2813	sardine
+2829	鱒	trout			no		2814	trout
+2830	鮭	salmon			no		2815	salmon
+2831	鮪	tuna			no		2816	tuna
+2832	鮎	sweet smelt			no		2817	sweet smelt
+2833	鯵	horse mackerel			no		2818	horse mackerel
+2834	鱈	cod			no		2819	cod
+2835	鯖	mackerel			no		2820	mackerel
+2836	鮫	shark			no		2821	shark
+2837	鰹	bonito			no		2822	bonito
+2838	鰍	bullhead			no		2823	bullhead
+2839	鰐	alligator			no		2824	alligator
+2840	鮒	crucian carp			no		2825	crucian
+2841	鮨	sushi			no		2826	sushi
+2842	鰭	fish fin			no		2827	fish fin
+2843	鴎	seagull			no		2828	seagull
+2844	鵬	roc			no		2829	roc
+2845	鸚	parakeet			no		2830	parakeet
+2846	鵡	parrot			no		2831	parrot
+2847	鵜	cormorant			no		2832	cormorant
+2848	鷺	heron			no		2833	heron
+2849	鷲	eagle			no		2834	eagle
+2850	鴨	wild duck			no		2835	wild duck
+2851	鳶	black kite			no		2836	kite falcon
+2852	梟	owl			no		2837	owl
+2853	塵	dust			no		2838	dust
+2854	麒	giraffe			no		2840	giraffe
+2855	舅	father-in-law			no		2064	father-in-law
+2856	鼠	mouse			no		2065	mouse
+2857	鑿	bore			no		2066	bore
+2858	艘	small craft			no		2068	small craft
+2859	瞑	close the eyes			no	Miscellaneous Kanji	2842	close the eyes
+2860	暝	murky			no		2843	murky
+2861	坐	sitting in meditation			no		2844	sitting in meditation
+2862	朔	first day of the month			no		2846	first day of the month
+2863	曳	tow			no		2848	drag
+2864	洩	dribble out			no		2849	dribble out
+2865	彗	comet			no		2850	comet
+2866	慧	astute			no		2851	astute
+2867	爾	let it be			no		2074	let it be
+2868	嘉	applaud			no		2852	applaud
+2869	兇	evil			no		2853	evil
+2870	兜	helmet			no		2854	helmet
+2871	靄	mist			no		9998	(not in)
+2872	劫	kalpa			no		2857	kalpa
+2873	歎	bemoan			no		2859	bemoan
+2874	輿	palanquin			no		2860	palanquin
+2875	歪	warped			no		2862	warped
+2876	翠	jade green			no		2863	jade green
+2877	黛	blue-black			no		2864	blue-black
+2878	鼎	tripod			no		2865	tripod
+2879	鹵	rocksalt			no		2866	rocksalt
+2880	鹸	lye			no		2867	lye
+2881	虔	reserved			no		2868	reserved
+2882	燕	swallow			no		2869	swallow
+2883	嘗	lick			no		2870	lick
+2884	殆	almost			no		2871	almost
+2885	牌	mahjong tiles			no		2873	mahjong tiles
+2886	覗	peek			no		2875	peek
+2887	齟	disagree			no		9998	(not in)
+2888	齬	discord			no		9998	(not in)
+2889	秦	Manchu dynasty			no		2877	Manchu dynasty
+2890	雀	sparrow			no		2878	sparrow
+2891	隼	peregrine falcon			no		2879	peregrine falcon
+2892	耀	shimmering			no		2880	shimmering
+2893	夷	ebisu			no		2881	ebisu
+2894	嚢	cyst			no		2883	cyst
+2895	暢	carefree			no		2885	carefree
+2896	廻	circling			no		2886	circling
+2897	欣	elation			no		2888	elation
+2898	毅	stalwart			no		2889	stalwart
+2899	斯	this			no		2890	this
+2900	匙	wooden spoon			no		2891	wooden spoon
+2901	匡	set straight			no		2892	set straight
+2902	肇	founding			no		2893	founding
+2903	麿	Utamaro			no		2894	Utamaro
+2904	叢	conglomerate			no		2895	conglomerate
+2905	肴	entreat			no		2896	entreat
+2906	斐	symmetrically patterned			no		2897	symmetrically patterned
+2907	卿	magistrate			no		2898	magistrate
+2908	翫	fiddle with			no		2899	fiddle with
+2909	於	within			no		2900	within
+2910	套	hackneyed			no		2901	hackneyed
+2911	叛	rebellion			no		2902	rebellion
+2912	尖	sharp point			no		2903	sharp point
+2913	壷	crock			no		2904	crock
+2914	叡	sapience			no		2905	sapience
+2915	酋	chieftain			no		2906	chieftain
+2916	鴬	nightingale			no		2907	nightingale
+2917	赫	incandescent			no		2908	incandescent
+2918	臥	supinate			no		2909	supinate
+2919	甥	nephew			no		2910	nephew
+2920	瓢	gourd			no		2911	gourd
+2921	琵	biwa			no		2912	biwa
+2922	琶	lute			no		2913	lute
+2923	叉	forked			no		2914	forked
+2924	乖	disobey			no		9998	(not in)
+2925	畠	dry field			no		2916	dry field
+2926	圃	vegetable patch			no		2918	vegetable patch
+2927	丞	helping hand			no		2919	helping hand
+2928	亮	translucent			no		2920	translucent
+2929	胤	blood relative			no		2921	blood relative
+2930	疏	transcription			no		2922	transcription
+2931	膏	ointment			no		2923	ointment
+2932	魁	pioneer			no		2924	pioneer
+2933	馨	ambrosial			no		2925	ambrosial
+2934	牒	label			no		2926	label
+2935	瞥	glimpse			no		2927	glimpse
+2936	睾	testicle			no		2929	testicle
+2937	巫	sorceress			no		2930	sorceress
+2938	敦	empathetic			no		2931	empathetic
+2939	奎	Andromeda			no		2932	Andromeda
+2940	翔	soar			no		2933	soar
+2941	皓	beaming			no		2934	beaming
+2942	黎	tenebrous			no		2935	tenebrous
+2943	赳	bold			no		2936	bold
+2944	已	stop short			no		2937	stop short
+2945	棘	thornbush			no		2938	thornbush
+2946	祟	haunt			no		2945	cast a spell
+2947	甦	resuscitate			no		2940	resuscitate
+2948	剪	pruning			no		2941	pruning
+2949	躾	upbringing			no		2942	upbringing
+2950	夥	plentiful			no		2943	plentiful
+2951	鼾	snore			no		2944	snore
+2952	陀	steeply inclined			no		2955	Shakyamuni Buddha
+2953	粁	kilometer			no	Western Measurements	2946	kilometer
+2954	糎	centimeter			no		2947	centimeter
+2955	粍	millimeter			no		2948	millimeter
+2956	噸	ton			no		2949	ton
+2957	哩	mile			no		2950	mile
+2958	浬	nautical mile			no		2951	nautical mile
+2959	吋	inch			no		2952	inch
+2960	呎	foot			no		2953	feet
+2961	梵	brahman			no	Phonetic Characters	2954	brahman
+2962	薩	bodhisattva			no		2956	bodhisattva
+2963	菩	bo tree			no		2957	bo tree
+2964	唖	babble			no		2958	babble
+2965	牟	moo			no		2961	moo
+2966	迦	Sanskrit ka			no		2959	Sanskrit ka
+2967	珈	jeweled hairpin			no		2962	jeweled hairpin
+2968	琲	beaded hairpin			no		2963	beaded hairpin
+2969	檜	Japanese cypress (old)			no	Old & Alt forms	2964	Japanese cypress (old)
+2970	轡	tinkling bell			no		2965	bridle’s bit
+2971	淵	abyss (old)			no		2966	abyss (old)
+2972	伍	V			no		2967	V
+2973	什	X			no		2968	X
+2974	萬	ten thousand (old)			no		2969	ten thousand (old)
+2975	邁	pass through			no		2970	pass through
+2976	燭	candlelight			no		2539	candlelight
+2977	逞	tough			no		2971	tough
+2978	燈	lamp (old)			no		2972	lamp (old)
+2979	裡	back (old)			no		2973	back (old)
+2980	薗	park (alternate)			no		2974	park (alternate)
+2981	鋪	shop (alternate)			no		2975	shop (alternate)
+2982	嶋	island (alternate)			no		2976	island (alternate)
+2983	峯	summit (alternate)			no		2977	summit (alternate)
+2984	埜	plains (old)			no		2979	plains (old)
+2985	龍	dragon (old)			no		2981	dragon (old)
+2986	寵	patronage			no		2982	patronage
+2987	聾	deafness			no		2983	deafness
+2988	慾	longing (old)			no		2984	longing (old)
+2989	嶽	Point (old)			no		2987	Point (old)
+2990	國	country (old)			no		2988	country (old)
+2991	脛	shin			no		2989	shin
+2992	勁	formidable			no		2990	formidable
+2993	祀	enshrine			no		2992	enshrine
+2994	祓	exorcism			no		2993	exorcism
+2995	躇	dither			no		2994	dither
+2996	壽	longevity (old)			no		2995	longevity (old)
+2997	躊	hesitate			no		2996	hesitate
+2998	饅	bean jam			no		2998	bean jam
+2999	嘔	retch			no		2999	retch
+3000	鼈	snapping turtle			no		3000	snapping turtle
+9999	亙	(not in)			no	(not in)	2985	span (old)
+9999	亨	(not in)			no	(not in)	3001	go smoothly
+9999	伶	(not in)			no	(not in)	2112	minstrel
+9999	佑	(not in)			no	(not in)	2126	adjutant
+9999	佼	(not in)			no	(not in)	2109	comely
+9999	侑	(not in)			no	(not in)	3002	condone
+9999	俣	(not in)			no	(not in)	2127	fork in a road
+9999	倖	(not in)			no	(not in)	2119	bliss
+9999	傭	(not in)			no	(not in)	2128	hire
+9999	僻	(not in)			no	(not in)	2117	biased
+9999	卜	(not in)			no	(not in)	2103	augury
+9999	喬	(not in)			no	(not in)	2104	heaven-high
+9999	孟	(not in)			no	(not in)	2872	start
+9999	尭	(not in)			no	(not in)	2095	lofty
+9999	峨	(not in)			no	(not in)	2226	high mountain
+9999	嵯	(not in)			no	(not in)	2230	rocky
+9999	巌	(not in)			no	(not in)	2978	boulder (old)
+9999	巽	(not in)			no	(not in)	2861	southeast
+9999	彪	(not in)			no	(not in)	2876	mottled
+9999	掟	(not in)			no	(not in)	3007	mandate
+9999	掠	(not in)			no	(not in)	2247	pillage
+9999	撹	(not in)			no	(not in)	2257	churn up
+9999	梧	(not in)			no	(not in)	3003	parasol tree
+9999	欝	(not in)			no	(not in)	2856	depressed
+9999	欽	(not in)			no	(not in)	3004	circumspect
+9999	煕	(not in)			no	(not in)	3005	cheer
+9999	熔	(not in)			no	(not in)	2547	fuse metal
+9999	珪	(not in)			no	(not in)	2564	silicon
+9999	瑶	(not in)			no	(not in)	2553	precious stone
+9999	甫	(not in)			no	(not in)	2097	offspring
+9999	籠	(not in)	ロウ	こ・もる　　かご	yes	(not in)	3028	cage (Joyo version)
+9999	聚	(not in)			no	(not in)	2939	crowd
+9999	舘	(not in)			no	(not in)	2980	Bldg. (old)
+9999	舜	(not in)			no	(not in)	2915	rose of Sharon
+9999	詑	(not in)			no	(not in)	2718	prevarication
+9999	諏	(not in)			no	(not in)	2722	advise
+9999	躯	(not in)			no	(not in)	2986	body (old)
+9999	郁	(not in)			no	(not in)	2424	cultured
+9999	鏑	(not in)			no	(not in)	2758	arrowhead
