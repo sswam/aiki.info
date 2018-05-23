@@ -1,4 +1,4 @@
-#!perl
+#!/usr/bin/perl
 while (<>) {
 	chomp;
 	($part, $keyword) = split /\t/, $_;

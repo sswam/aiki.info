@@ -1,0 +1,11 @@
+#!/bin/bash
+(
+	echo $'japanese\tkana\tenglish'
+	tail -n+2 | perl -pe 's/ /\t/; s/\//\t\//;'
+) |
+process -m '
+	$kana =~ s/^\[|\]? *$//g;
+	$english =~ s{^/}{};
+	$english =~ s{/Ent[^/]+/$}{};
+	$english =~ s{/}{ / }g;
+'

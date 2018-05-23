@@ -1,4 +1,4 @@
-#!perl
+#!/usr/bin/perl
 while (<>) {
 	++$line;
 	next if $line < 3;

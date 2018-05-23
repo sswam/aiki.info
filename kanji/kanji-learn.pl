@@ -1,4 +1,4 @@
-#!perl
+#!/usr/bin/perl
 while (<>) {
 	chomp;
 	($kanji, $keyword) = split /\t/, $_;
