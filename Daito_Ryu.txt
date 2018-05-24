@@ -834,7 +834,7 @@ https://www.youtube.com/watch?v=HBF71R6JEts	0:00	....details
 https://www.youtube.com/watch?v=amChPirQY9c	0:00	...karamegake	搦掛	tangle hang
 https://www.youtube.com/watch?v=TLJuuJt5YV0	0:00	...jumonji	十文字	cross-shape
 
-https://www.youtube.com/channel/UCDuhQ6l_EgLTInETqWbOFgA/	-	Daitō-ryū Aiki-jūjutsu - Tokyō Keiko-Kai - Takumakai - Yamamoto Atsushi 	大東流合気柔術 東京稽古会 琢磨会 山本敦史
+https://www.youtube.com/channel/UCDuhQ6l_EgLTInETqWbOFgA/	-	Daitō-ryū Aiki-jūjutsu - Tokyō Keiko-Kai - Takumakai - Yamamoto Atsushi 	大東流合気柔術 - 東京稽古会 - 琢磨会 - 山本敦史
 https://www.youtube.com/watch?v=PpBBXYIi5xQ	-	.suwari kata	座り方	1 how to sit
 https://www.youtube.com/watch?v=J8skHanKC4U	-	.tachi kata	立ち方	2 how to stand
 https://www.youtube.com/watch?v=VkK3xGTf9oQ	-	.chikara o nuku	力を抜く	3 relax (withdraw power)
@@ -964,7 +964,7 @@ https://www.youtube.com/watch?v=6qdPvj85IFQ	-	.mune dori kara ippon dori	胸捕�
 https://www.youtube.com/watch?v=c4d0_1DYHdk	-	.te kagami	手鏡	127 hand-mirror
 https://www.youtube.com/watch?v=VhU-CospSlE	-	.hara de tomeru	肚で止める	128 stop with belly
 https://www.youtube.com/watch?v=OaFhoiZCKxA	-	.shichiri biki	七里引	129 seven-league pull
-https://www.youtube.com/watch?v=v3RiyTRgOZc	-	.koyubi o kakeru	小指をかける	130 ? put little finger
+https://www.youtube.com/watch?v=v3RiyTRgOZc	-	.koyubi o kakeru	小指をかける	130 placing the little finger
 https://www.youtube.com/watch?v=n-X7jCF2MJY	-	.oyayubi o tsukau (hiji gaeshi)	親指を使う（肘返）	131 use the thumb (elbow flip)
 https://www.youtube.com/watch?v=B-bXkPWSC0I	-	.shime to hiraki	締めと開き	132 clamp and open
 https://www.youtube.com/watch?v=eHxUv80yCaQ	-	.kote dzume	小手詰	133 forearm jam
@@ -985,12 +985,12 @@ https://www.youtube.com/watch?v=PXLsg_n5R-8	-	.ken o tsukau (tachi-ai)	剣を使
 https://www.youtube.com/watch?v=qbPG3PZyEf4	-	.kousa dori kote gaeshi	交叉捕小手返	148 crossing hold forearm flip
 https://www.youtube.com/watch?v=kNB9qQSTr2g	-	.osaeru	押さえる	149 pushing down
 https://www.youtube.com/watch?v=HF09TjhWmK0	-	.te o toru	手をとる	150 holding the hands
-https://www.youtube.com/watch?v=2qGK3tNoURs	-	.koyubi oka ni kakeru	小指丘にかける	151 ? little finger, put on a hill
+https://www.youtube.com/watch?v=2qGK3tNoURs	-	.koyubi oka ni kakeru	小指丘にかける	151 ? placing the base of the little finger
 https://www.youtube.com/watch?v=dsoitH6ple8	-	.kuttsukeru	くっつける	152 stick together
 https://www.youtube.com/watch?v=3Q2X4aFpUJI	-	.ryote dori kote gaeshi	両手捕小手返	153 both hands take forearm flip
 https://www.youtube.com/watch?v=r9Fk3Rn_anE	-	.koshi de ugoku	腰で動く	154 moving the hips / lower-back
 https://www.youtube.com/watch?v=FbGpKlRKrEU	-	.ryote dori shihou nage	両手捕四方投	155 both hands take four directions throw
-https://www.youtube.com/watch?v=YZGJn9sb9fw	-	.oyayubi o kakeru	親指をかける	156 ? put thumb
+https://www.youtube.com/watch?v=YZGJn9sb9fw	-	.oyayubi o kakeru	親指をかける	156 ? placing the thumb
 https://www.youtube.com/watch?v=AWz4Wx0y8KU	-	.kote o doru	小手を捕る	157 forearm / hand hold
 https://www.youtube.com/watch?v=XbdMXjRczgA	-	.hasamu	はさむ	158 hold between
 https://www.youtube.com/watch?v=O320yahNSl8	-	.hiji o seisuru (gyaku ude dori)	肘を制する(逆腕捕）	159 control the elbow (reverse arm capture)
