@@ -12,8 +12,10 @@ html, body {
 	height: 100%;
 }
 
+body, input {
+	font: 12pt Helvetica, Arial, sans-serif;
+}
 body {
-	font: 11px Helvetica, Arial, sans-serif;
 	display: flex;
 	flex-direction: column;
 }

@@ -2297,7 +2297,7 @@
 呆	dumbfounded
 喰	ingest
 埴	clay
-坤	authochthonous
+坤	autochthonous
 壕	dugout
 垢	blemish
 坦	flat
