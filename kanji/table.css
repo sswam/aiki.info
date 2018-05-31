@@ -61,3 +61,10 @@ body {
 }
 .kanji a:link { color: black; text-decoration:none; }
 .kanji a:visited { color: black; text-decoration:none; }
+
+.loading {
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}

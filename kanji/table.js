@@ -1,5 +1,6 @@
 var grid, data_view, lines;
 var query_rx = /./;
+var loading_delay = 1000;
 function format_kanji(row, cell, value, columnDef, dataContext) {
 	return '<a href="//jisho.org/kanji/details/' + value + '">' + value + '</a>';
 	// TODO a pop-up menu to allow to choose koohii link, edict link, etc
@@ -88,14 +89,42 @@ function search(e) {
 	query_rx = new RegExp('^' + terms.map(rx_lookahead_anywhere).join(''), 'i');
 	data_view.refresh();
 }
+var loading_timeout;
+function loading(on_off) {
+	var el = document.getElementById("loading");
+	if (!el) {
+		el = document.createElement("div");
+		el.id = "loading";
+		el.style.display = 'none';
+		el.className = 'loading';
+		el.innerText = 'Loading...';
+		document.body.prepend(el);
+	}
+	if (on_off) {
+		loading(false);
+		setTimeout(function() {
+			el.style.display = 'block';
+			loading_timeout = null;
+		}, loading_delay);
+	} else {
+		if (loading_timeout) {
+			clearTimeout(loading_timeout);
+			el.style.display = 'none';
+			loading_timeout = null;
+		}
+	}
+}
 function init(file, config) {
+	loading(true);
 	var ajax = $.ajax({
 		url: file,
 	});
 	ajax.fail(function() {
+		loading(false);
 		alert("load failed");
 	});
 	ajax.done(function(tsv) {
+		loading(false);
 		setup_grid(tsv, config);
 		$('#search').focus();
 		$('#search').on("change keyup", search);
