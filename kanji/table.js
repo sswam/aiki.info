@@ -102,16 +102,16 @@ function loading(on_off) {
 	}
 	if (on_off) {
 		loading(false);
-		setTimeout(function() {
+		loading_timeout = setTimeout(function() {
 			el.style.display = 'block';
 			loading_timeout = null;
 		}, loading_delay);
 	} else {
 		if (loading_timeout) {
 			clearTimeout(loading_timeout);
-			el.style.display = 'none';
 			loading_timeout = null;
 		}
+		el.style.display = 'none';
 	}
 }
 function init(file, config) {
