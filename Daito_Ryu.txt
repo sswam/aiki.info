@@ -1,111 +1,111 @@
 https://www.youtube.com/watch?v=x7BKyi7a2gs	00:00:00	Kondō Katsuyuki - Daitō-ryū Aiki-jūjutsu	近藤勝之 - 大東流合気柔術
 	00:00:00	.Daito-ryu shi	大東流史	Daito-ryu history
-	00:31:07	.reihō	礼法	etiquette
-	00:33:24	.hiden mokuroku	秘伝目録	secret syllabus
-	00:39:35	.idori hanza-handachi tachi-ai ushiro-dori	居捕 半座半立 立合 後捕
-	00:48:46	.gihō kaisetsu	技法解説	Technical Explanations
-	00:48:49	..ippon dori	一本捕	one arm capture	shomen uchi
-	00:54:05	..shihou-nage	四方投	four directions throw	ryote dori
-	00:59:36	..ikkajo	一ヶ条	section one
-	00:59:39	...idori	居捕	sitting capture
-	00:59:46	....ippon dori	一本捕	one arm capture	shomen uchi
-	01:00:13	....gyaku ude dori	逆腕捕	reverse arm capture	katate mune dori
-	01:00:27	....hiji gaeshi	肘返	elbow flip	katate mune dori
-	01:00:34	....kuruma daoshi	車倒	wheel topple	yokomen uchi
-	01:00:41	....shime gaeshi	絞返	choke flip	emon jime
-	01:00:51	....daki jime	抱締	hug clamp	emon jime
-	01:00:57	....karame nage	搦投	tangle throw	mune dori shomen uchi
-	01:01:07	....kote gaeshi	小手返	forearm flip	ryote dori (pull)
-	01:01:16	....nukite dori	抜手捕	pull out hand capture	ryote dori (hold)
-	01:01:23	....hiza jime	膝締	knee clamp	ryote dori (push)
-	01:01:30	...hanza-handachi goho-no-jin	半座半立・五法の陣	half-sitting half-standing five methods' form
-	01:01:38	....hanmi nage	半身投	half-body throw	migite dori (pull)
-	01:02:00	....ura otoshi	裏落	rear drop	hidarite dori (push)
-	01:02:24	....izori	居反	sitting throw back	ryote dori (push)
-	01:02:39	....kata otoshi	肩落	shoulder drop	kubi jime
-	01:02:53	....irimi nage	入身投	enter-body throw	ryote dori (pull)
-	01:03:04	...tachi-ai	立合	both standing
-	01:03:09	....ippon dori	一本捕	one arm capture	shomen uchi
-	01:03:20	....kuruma daoshi	車倒	wheel topple	yokomen uchi
-	01:03:27	....gyaku ude dori	逆腕捕	reverse arm capture	katate mune dori
-	01:03:36	....koshi guruma	腰車	lower-back wheel	emon jime
-	01:03:44	....karame nage	搦投	tangle throw	mune dori shomen uchi
-	01:03:54	....ura otoshi	裏落	rear drop	katate sode dori (pull)
-	01:04:00	....obi otoshi	帯落	belt drop	emon jime
-	01:04:07	....kiri kaeshi	切返	cut flip	ryosode dori
-	01:04:16	....kote gaeshi	小手返	forearm flip	ryote dori (pull)
-	01:04:24	....shihou nage (omote)	四方投（表）	four directions throw (front)	ryote dori (hold)
-	01:04:30	....shihou nage (ura)	四方投（裏）	four directions throw (rear)	ryote dori (hold)
-	01:04:38	...ushiro-dori	後捕	rear capture
-	01:04:43	....tachi eri dori	立襟捕	standing-collar capture	katate tachi-eri dori
-	01:04:54	....ryo kata hineri	両肩捻	both shoulders twist	ryokata dori
-	01:05:02	....ryo hiji gaeshi	両肘返	both elbows flip	ryohiji dori
-	01:05:10	....daki jime dori	抱締捕	hug clamp capture	daki jime
-	01:05:19	....kata otoshi	肩落	shoulder drop	katate kubi jime
-	01:05:42	..nikajo	二ヶ条	section two
-	01:05:45	...idori	居捕	sitting capture
-	01:05:45	....kote dzume	小手詰	forearm jam	shomen uchi
-	01:06:06	....gyaku dasuki	逆襷	reverse sash	shomen uchi
-	01:06:27	....hiji kujiki	肘挫	elbow bend-back	yokomen uchi
-	01:06:44	....koba gaeshi	木葉返	leaf flip	kakete (no attack, block strike)
-	01:07:04	.....		explanation
-	01:08:12	....shutou dzume	手刀詰	knife-hand jam	katate dori (hold)
-	01:08:31	....kubi hineri	頸捻	neck twist	emon jime
-	01:08:51	....kote gaeshi	小手返	forearm flip	katate kata dori (block strike)
-	01:09:15	....kataha dori	片羽捕	one wing capture	tsuki
-	01:09:39	....kamate dzume	鎌手詰	sickle hand jam	tsuki
-	01:10:02	....gyaku gote	逆小手	reverse forearm	katate mune dori (block strike)
-	01:10:24	...hanza-handachi	半座半立	half-sitting half-standing
-	01:10:24	....shutou dzume	手刀詰	knife-hand jam	katate dori (pull)
-	01:10:45	....irimi dzume	入身詰	enter-body jam	morote dori (pull)
-	01:11:04	....suso dori	裾捕	hem capture	shomen uchi
-	01:11:20	.....		explanation
-	01:12:19	....kote gaeshi	小手返	forearm flip	sokumen uchi
-	01:12:42	....hiji kujiki	肘挫	elbow bend-back	tachi-eri dori
-	01:13:05	...tachi-ai	立合	both standing
-	01:13:05	....gyaku dasuki	逆襷	reverse sash	shomen uchi
-	01:13:26	....hiki otoshi	引落	pull drop	yokomen uchi
-	01:13:40	....kubi nage	首投	neck throw	sode dori
-	01:13:51	....suso barai	裾拂 or 裾払	hem sweep	sode dori
-	01:14:07	....seoi nage	背負投	back-carry throw	emon jime
-	01:14:25	....shutou dzume	手刀詰	knife-hand jam	katate dori
-	01:14:44	....kote gaeshi	小手返	forearm flip	shomen uchi
-	01:15:06	.....		explanation
-	01:17:06	....kata guruma	肩車	shoulder wheel	shomen uchi
-	01:17:21	....koshi guruma	腰車	lower-back wheel	yokomen uchi
-	01:17:33	....se kujiki	背挫	back bend-back	emon jime
-	01:17:50	...ushiro-dori	後捕	rear capture
-	01:17:50	....tsuki taoshi	突倒	thrust topple	tachi-eri dori
-	01:18:08	....sukui nage	掬投	scoop throw	ryohiji dori
-	01:18:22	....gyaku gote	逆小手	reverse forearm	kataha jime
-	01:18:36	.....		explanation
-	01:19:50	....kubi nage	首投	neck throw	hagai jime (full nelson)
-	01:20:04	....hiji kujiki	肘挫	elbow bend-back	ryosode dori
-	01:20:16	..sankajo	三ヶ条	section three
-	01:20:20	...idori	居捕	sitting capture
-	01:20:20	....maki dzume	巻詰	wind-up jam	shomen uchi
-	01:21:02	....karame dzume	搦詰	tangle jam	mune dori shomen uchi
-	01:21:19	...hanza-handachi	半座半立	half-sitting half-standing
-	01:21:19	....ashi jime	足締	leg clamp	shomen uchi
-	01:21:45	...tachi-ai	立合	both standing
-	01:21:45	....ganseki otoshi	岩石落	rock drop	ryote dori
-	01:21:57	....shichiri biki	七里引	seven-league pull (27.5 km)	katate dori
-	01:22:28	...ushiro-dori	後捕	rear capture
-	01:22:28	....ude gaeshi	腕返	arm flip	ryote dori
-	01:22:55	..yonkajo	四ヶ条	section four
-	01:22:58	...ura gote	裏小手	rear forearm	shomen uchi
-	01:23:51	...uchi gote	内小手	inside forearm	yokomen uchi
-	01:24:28	..gokajo	五ヶ条	section five
-	01:24:32	...shumoku	撞木	bell hammer (wooden)	yokomen uchi
-	01:24:46	...jo dori	杖取	staff take
-	01:24:59	...taki otoshi	滝落	waterfall drop	kakete (block strike)
-	01:25:17	...tasuu dori	多数捕	many capture
-	01:26:13	.aiki to wa nani ka?	合気とは何か？	What is Aiki?
-	01:32:11	.goshinyo no te	御信用之手	the techniques of self defence
-	01:33:48	.embu kai	演武会	demonstration
-	01:43:21	.kobudo toshite no seito se	古武道としての正統性	Legitimacy of Succession
-	01:46:06	.kaigai e no hiyaku	海外への飛躍	Daito-Ryu Abroad
-	01:47:47	.gendai ni okeru kobudo no igi	現代における古武道の意義	Significance of Classical Budo in the Modern World
+	00:31:05	.reihō	礼法	etiquette
+	00:33:22	.hiden mokuroku	秘伝目録	secret syllabus
+	00:39:33	.idori hanza-handachi tachi-ai ushiro-dori	居捕 半座半立 立合 後捕
+	00:48:44	.gihō kaisetsu	技法解説	Technical Explanations
+	00:48:47	..ippon dori	一本捕	one arm capture	shomen uchi
+	00:54:03	..shihou-nage	四方投	four directions throw	ryote dori
+	00:59:34	..ikkajo	一ヶ条	section one
+	00:59:37	...idori	居捕	sitting capture
+	00:59:44	....ippon dori	一本捕	one arm capture	shomen uchi
+	01:00:11	....gyaku ude dori	逆腕捕	reverse arm capture	katate mune dori
+	01:00:25	....hiji gaeshi	肘返	elbow flip	katate mune dori
+	01:00:32	....kuruma daoshi	車倒	wheel topple	yokomen uchi
+	01:00:39	....shime gaeshi	絞返	choke flip	emon jime
+	01:00:49	....daki jime	抱締	hug clamp	emon jime
+	01:00:55	....karame nage	搦投	tangle throw	mune dori shomen uchi
+	01:01:05	....kote gaeshi	小手返	forearm flip	ryote dori (pull)
+	01:01:14	....nukite dori	抜手捕	pull out hand capture	ryote dori (hold)
+	01:01:21	....hiza jime	膝締	knee clamp	ryote dori (push)
+	01:01:28	...hanza-handachi goho-no-jin	半座半立・五法の陣	half-sitting half-standing five methods' form
+	01:01:36	....hanmi nage	半身投	half-body throw	migite dori (pull)
+	01:01:58	....ura otoshi	裏落	rear drop	hidarite dori (push)
+	01:02:22	....izori	居反	sitting throw back	ryote dori (push)
+	01:02:37	....kata otoshi	肩落	shoulder drop	kubi jime
+	01:02:51	....irimi nage	入身投	enter-body throw	ryote dori (pull)
+	01:03:02	...tachi-ai	立合	both standing
+	01:03:07	....ippon dori	一本捕	one arm capture	shomen uchi
+	01:03:18	....kuruma daoshi	車倒	wheel topple	yokomen uchi
+	01:03:25	....gyaku ude dori	逆腕捕	reverse arm capture	katate mune dori
+	01:03:34	....koshi guruma	腰車	lower-back wheel	emon jime
+	01:03:42	....karame nage	搦投	tangle throw	mune dori shomen uchi
+	01:03:52	....ura otoshi	裏落	rear drop	katate sode dori (pull)
+	01:03:58	....obi otoshi	帯落	belt drop	emon jime
+	01:04:05	....kiri kaeshi	切返	cut flip	ryosode dori
+	01:04:14	....kote gaeshi	小手返	forearm flip	ryote dori (pull)
+	01:04:22	....shihou nage (omote)	四方投（表）	four directions throw (front)	ryote dori (hold)
+	01:04:28	....shihou nage (ura)	四方投（裏）	four directions throw (rear)	ryote dori (hold)
+	01:04:36	...ushiro-dori	後捕	rear capture
+	01:04:41	....tachi eri dori	立襟捕	standing-collar capture	katate tachi-eri dori
+	01:04:52	....ryo kata hineri	両肩捻	both shoulders twist	ryokata dori
+	01:05:00	....ryo hiji gaeshi	両肘返	both elbows flip	ryohiji dori
+	01:05:08	....daki jime dori	抱締捕	hug clamp capture	daki jime
+	01:05:17	....kata otoshi	肩落	shoulder drop	katate kubi jime
+	01:05:40	..nikajo	二ヶ条	section two
+	01:05:43	...idori	居捕	sitting capture
+	01:05:43	....kote dzume	小手詰	forearm jam	shomen uchi
+	01:06:04	....gyaku dasuki	逆襷	reverse sash	shomen uchi
+	01:06:25	....hiji kujiki	肘挫	elbow bend-back	yokomen uchi
+	01:06:42	....koba gaeshi	木葉返	leaf flip	kakete (no attack, block strike)
+	01:07:02	.....		explanation
+	01:08:10	....shutou dzume	手刀詰	knife-hand jam	katate dori (hold)
+	01:08:29	....kubi hineri	頸捻	neck twist	emon jime
+	01:08:49	....kote gaeshi	小手返	forearm flip	katate kata dori (block strike)
+	01:09:13	....kataha dori	片羽捕	one wing capture	tsuki
+	01:09:37	....kamate dzume	鎌手詰	sickle hand jam	tsuki
+	01:10:00	....gyaku gote	逆小手	reverse forearm	katate mune dori (block strike)
+	01:10:22	...hanza-handachi	半座半立	half-sitting half-standing
+	01:10:22	....shutou dzume	手刀詰	knife-hand jam	katate dori (pull)
+	01:10:43	....irimi dzume	入身詰	enter-body jam	morote dori (pull)
+	01:11:02	....suso dori	裾捕	hem capture	shomen uchi
+	01:11:18	.....		explanation
+	01:12:17	....kote gaeshi	小手返	forearm flip	sokumen uchi
+	01:12:40	....hiji kujiki	肘挫	elbow bend-back	tachi-eri dori
+	01:13:03	...tachi-ai	立合	both standing
+	01:13:03	....gyaku dasuki	逆襷	reverse sash	shomen uchi
+	01:13:24	....hiki otoshi	引落	pull drop	yokomen uchi
+	01:13:38	....kubi nage	首投	neck throw	sode dori
+	01:13:49	....suso barai	裾拂 or 裾払	hem sweep	sode dori
+	01:14:05	....seoi nage	背負投	back-carry throw	emon jime
+	01:14:23	....shutou dzume	手刀詰	knife-hand jam	katate dori
+	01:14:42	....kote gaeshi	小手返	forearm flip	shomen uchi
+	01:15:04	.....		explanation
+	01:17:04	....kata guruma	肩車	shoulder wheel	shomen uchi
+	01:17:19	....koshi guruma	腰車	lower-back wheel	yokomen uchi
+	01:17:31	....se kujiki	背挫	back bend-back	emon jime
+	01:17:48	...ushiro-dori	後捕	rear capture
+	01:17:48	....tsuki taoshi	突倒	thrust topple	tachi-eri dori
+	01:18:06	....sukui nage	掬投	scoop throw	ryohiji dori
+	01:18:20	....gyaku gote	逆小手	reverse forearm	kataha jime
+	01:18:34	.....		explanation
+	01:19:48	....kubi nage	首投	neck throw	hagai jime (full nelson)
+	01:20:02	....hiji kujiki	肘挫	elbow bend-back	ryosode dori
+	01:20:14	..sankajo	三ヶ条	section three
+	01:20:18	...idori	居捕	sitting capture
+	01:20:18	....maki dzume	巻詰	wind-up jam	shomen uchi
+	01:21:00	....karame dzume	搦詰	tangle jam	mune dori shomen uchi
+	01:21:17	...hanza-handachi	半座半立	half-sitting half-standing
+	01:21:17	....ashi jime	足締	leg clamp	shomen uchi
+	01:21:43	...tachi-ai	立合	both standing
+	01:21:43	....ganseki otoshi	岩石落	rock drop	ryote dori
+	01:21:55	....shichiri biki	七里引	seven-league pull (27.5 km)	katate dori
+	01:22:26	...ushiro-dori	後捕	rear capture
+	01:22:26	....ude gaeshi	腕返	arm flip	ryote dori
+	01:22:53	..yonkajo	四ヶ条	section four
+	01:22:56	...ura gote	裏小手	rear forearm	shomen uchi
+	01:23:49	...uchi gote	内小手	inside forearm	yokomen uchi
+	01:24:26	..gokajo	五ヶ条	section five
+	01:24:30	...shumoku	撞木	bell hammer (wooden)	yokomen uchi
+	01:24:44	...jo dori	杖取	staff take
+	01:24:57	...taki otoshi	滝落	waterfall drop	kakete (block strike)
+	01:25:15	...tasuu dori	多数捕	many capture
+	01:26:11	.aiki to wa nani ka?	合気とは何か？	What is Aiki?
+	01:32:09	.goshinyo no te	御信用之手	the techniques of self defence
+	01:33:46	.embu kai	演武会	demonstration
+	01:43:19	.kobudo toshite no seito se	古武道としての正統性	Legitimacy of Succession
+	01:46:04	.kaigai e no hiyaku	海外への飛躍	Daito-Ryu Abroad
+	01:47:45	.gendai ni okeru kobudo no igi	現代における古武道の意義	Significance of Classical Budo in the Modern World
 
 https://www.youtube.com/watch?v=rB0AFm1u-3I	0:00	Daitō-ryū Aiki-jūjutsu Shōyōkan	大東流合気柔術　逍遙館
 	0:00	.Shoden	初伝	first transmission
