@@ -1,0 +1,85 @@
+<style>
+* {
+	font-family: helvetica;
+}
+td {
+	width: 3em;
+	height: 2em;
+	text-align: center;
+}
+.yes { background: #7f7; }
+.maybe { background: #ff7; }
+.no { background: #f77; }
+.right { text-align: right; padding-right: 0.5em; }
+</style>
+
+<table>
+
+<h1>CFFC schedule</h1>
+
+<p>Please call <A href="https://www.facebook.com/sswam">Sam Watkins</a> on <a href="tel:0423975531">0423 975 531</a> to confirm the time and place.</p>
+
+<tr>
+<th>
+<th>Mon
+<th>Tue
+<th>Wed
+<th>Thu
+<th>Fri
+<th>Sat
+<th>Sun
+</tr>
+
+<tr>
+<th class="right">Morning
+<td class="yes">
+<td class="yes">
+<td class="yes">
+<td class="yes">
+<td class="yes">
+<td class="yes">
+<td class="yes">
+</tr>
+
+<tr>
+<th class="right">Daytime
+<td class="no">
+<td class="no">
+<td class="no">
+<td class="no">
+<td class="no">
+<td class="maybe">
+<td class="maybe">
+</tr>
+
+<tr>
+<th class="right">Evening
+<td class="yes">
+<td class="maybe">
+<td class="yes">
+<td class="maybe">
+<td class="yes">
+<td class="yes">
+<td class="yes">
+</tr>
+
+</table>
+
+<p>Morning meets normally start at 6:30am or so, we can vary it.<br>
+Evening meets usually start at 7pm or so, we can vary it.<br>
+Daytime meets could be any time during the day, depending when people are available.
+</p>
+
+<p>We normally meet outside in one of several local parks in the Coburg / Fawkner area,<br>
+such as Mutton Reserve, Bridges Reserve or Coburg Lake Reserve for example.</p>
+
+<p>NB: The meets are not violent or dangerous!</p>
+<script src="js/jquery.js"></script>
+<script>
+function main() {
+	$('.yes').text("yes");
+	$('.maybe').text("maybe");
+	$('.no').text("no");
+}
+$(main);
+</script>
