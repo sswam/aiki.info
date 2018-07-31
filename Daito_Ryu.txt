@@ -521,7 +521,7 @@ https://www.youtube.com/watch?v=QbQ2n-C6mDY	0:00	..		start part 3
 	15:24	....daruma gaeshi	達磨返	dharma flip	ryokata dori
 	16:25	..gokajo	五ヶ条	section five
 	17:34	...rokute	六手	6 moves
-	17:34	....makikomi kujiki	巻込挫	wind-up into bend-back	tsuki
+	17:34	....makikomi kujiki	巻込挫	roll-up bend-back	tsuki
 	18:42	....koban gaeshi	小判返	oval flip	kakete (block strike)
 	20:16	....kannuki dzume	閂詰	bolt jam	ryote dori
 	21:54	....enma	閻魔	lord of Hades	tsuki
@@ -1019,3 +1019,14 @@ https://www.youtube.com/watch?v=QFYjWlfygok	-	.mune dori shihou nage	胸捕四�
 https://www.youtube.com/watch?v=0fcSAhxs28k	-	.tenbin ni kakeru	天秤にかける	182 hang the balances
 https://www.youtube.com/watch?v=wPIeQ5ekxzU	-	.koshi ni noseru	腰に乗せる	183 ride on the lower-back
 https://www.youtube.com/watch?v=KTY0Y-sgJCA	-	.nukeru	抜ける	184 slip out
+https://www.youtube.com/watch?v=HVAmesa7BDY	-	.ude o tateru	腕を立てる	185 stand arms
+https://www.youtube.com/watch?v=nKeed9kB-IE	-	.hikikomu	引き込む	186 pull into
+https://www.youtube.com/watch?v=OwU_quY3K3s	-	.kotei suru	固定する	187 fixing
+https://www.youtube.com/watch?v=DeZeBv-iYO8	-	.mannaka de toru	真中でとる	188 take in the middle
+https://www.youtube.com/watch?v=_oLjaoaQorU	-	.tate ni ugokasu	縦に動かす	189 move vertically
+https://www.youtube.com/watch?v=VSDqN2dASek	-	.mashita ni otosu	縦に動かす	190 drop right under
+https://www.youtube.com/watch?v=mXg7mL0xxDc	-	.ukete no kougeki ni tsuite	受け手の攻撃について	191 about the attack of the receiver
+https://www.youtube.com/watch?v=8VPMsmbggWc	-	.mannaka ni atsumeru	真ん中に集める	192 collect in the middle
+https://www.youtube.com/watch?v=uIB5axtSk40	-	.mine de semeru	峰で攻める	193 attack at the top
+https://www.youtube.com/watch?v=GIj-5dCVoTc	-	.makikomu	巻き込む	194 roll up
+https://www.youtube.com/watch?v=ItSBLXnyK6o	-	.awaseru	巻きこむ	195 matching
