@@ -1,11 +1,11 @@
 # Iwama-ryū 岩間流
-https://www.youtube.com/playlist?list=PLB03A3BDE81179174	-	Morihiro Saito in Jesi, Italy 1992
+https://www.youtube.com/playlist?list=PLB03A3BDE81179174	-	Morihiro Saito Shihan, in Jesi, Italy 1992
 https://www.youtube.com/watch?v=b3JtD6KRMZ0	0:00	.shomen-uchi
 	0:26	..shomen-uchi ikkyo omote-waza
 	0:46	..shomen-uchi ikkyo ura-waza
 	0:56	..shomen-uchi nikyo omote-waza
 	1:14	..shomen-uchi nikyo ura-waza
-	1:28	..shomen-uchi ? (koba-gaeshi)
+	1:28	..? shomen-uchi koba-gaeshi
 	1:33	..shomen-uchi sankyo omote-waza
 	1:54	..shomen-uchi sankyo omote-waza
 	2:16	..shomen-uchi sankyo ura-waza
@@ -68,8 +68,8 @@ https://www.youtube.com/watch?v=FeSrySq9SPQ	0:00	.yokomen-uchi
 	5:40	..yokomen-uchi irimi-nage
 	5:51	..yokomen-uchi ki-no-nagare irimi-nage
 	6:01	..yokomen-uchi irimi-nage henka-waza
-	6:13	..yokomen-uchi kotegaeshi
-	6:29	..yokomen-uchi kotegaeshi henka-waza
+	6:13	..yokomen-uchi kote-gaeshi
+	6:29	..yokomen-uchi kote-gaeshi henka-waza
 	6:44	..yokomen-uchi kaiten-nage
 	6:53	..yokomen-uchi koshi-nage
 	7:05	..yokomen-uchi koshi-nage
@@ -98,12 +98,12 @@ https://www.youtube.com/watch?v=0f1LOIqmNI4	0:00	.katate-dori
 	3:38	..katate-dori shiho-nage henka-waza
 	3:55	..katate-dori ki-no-nagare shiho-nage omote-waza
 	4:12	..katate-dori ki-no-nagare shiho-nage henka-waza
-	4:26	..katate-dori irimi-nage jo-dan
-	4:42	..katate-dori ki-no-nagare irimi-nage jo-dan
-	4:57	..katate-dori irimi-nage ge-dan
-	5:12	..katate-dori irimi-nage ki-no-nagare ge-dan
-	5:27	..katate-dori irimi-nage chu-dan
-	5:45	..katate-dori ki-no-nagare irimi-nage chu-dan
+	4:26	..katate-dori irimi-nage jodan
+	4:42	..katate-dori ki-no-nagare irimi-nage jodan
+	4:57	..katate-dori irimi-nage gedan
+	5:12	..katate-dori irimi-nage ki-no-nagare gedan
+	5:27	..katate-dori irimi-nage chudan
+	5:45	..katate-dori ki-no-nagare irimi-nage chudan
 	5:56	..katate-dori koshi-nage
 	6:08	..katate-dori koshi-nage
 	6:20	..katate-dori kokyu-nage
@@ -116,14 +116,50 @@ https://www.youtube.com/watch?v=0f1LOIqmNI4	0:00	.katate-dori
 	7:31	..katate-dori kokyu-nage
 	7:41	..katate-dori kokyu-nage
 	7:47	..katate-dori kokyu-nage
-	7:56	..? (katate-dori katame-waza)
+	7:56	..? katate-dori katame-waza
 	8:05	..katate-dori katame-waza
 	8:13	..katate-dori hiji-gatame
 	8:24	..katate-dori hiji-gatame
 	8:33	..? katate-dori hiji-gatame
 	8:43	..katate-dori nikyo oyo-waza
-	8:57	..? (shiho-nage oyo-waza)
+	8:57	..? katate-dori shiho-nage oyo-waza
 https://www.youtube.com/watch?v=a--a1fxyHV8	0:00	.ryote-dori
+	0:04	..ryote-dori ikkyo omote-waza
+	0:18	..ryote-dori ikkyo ura-waza
+	0:32	..ryote-dori nikyo omote-waza
+	0:51	..ryote-dori nikyo ura-waza
+	1:03	..ryote-dori sankyo omote-waza
+	1:20	..ryote-dori sankyo ura-waza
+	1:39	..ryote-dori yonkyo omote-waza
+	1:52	..ryote-dori yonkyo ura-waza
+	2:05	..ryote-dori gokyo omote-waza
+	2:18	..ryote-dori gokyo ura-waza
+	2:31	..ryote-dori shiho-nage omote-waza
+	2:44	..ryote-dori shiho-nage ura-waza
+	2:54	..ryote-dori shiho-nage henka
+	3:05	..ryote-dori irimi-nage jodan
+	3:17	..ryote-dori irimi-nage ki-no-nagare jodan
+	3:35	..ryote-dori irimi-nage gedan
+	3:45	..ryote-dori ki-no-nagare irimi-nage gedan
+	3:54	..ryote-dori irimi-nage chudan
+	4:05	..ryote-dori ki-no-nagare irimi-nage chudan
+	4:19 	..ryote-dori kote-gaeshi
+	4:36 	..ryote-dori kote-gaeshi
+	4:49 	..ryote-dori kaiten-nage
+	5:03 	..ryote-dori koshi-nage
+	5:16 	..ryote-dori koshi-nage
+	5:27 	..ryote-dori koshi-nage
+	5:37 	..? ryote-dori tenchi-nage
+	5:45 	..ryote-dori ki-no-nagare tenchi-nage
+	5:55 	..ryote-dori kokyu-nage
+	6:06 	..ryote-dori kokyu-nage
+	6:14 	..ryote-dori kokyu-nage
+	6:22 	..ryote-dori henka-waza
+	6:30 	..ryote-dori nikajo ? (double shutou-dzume)
+	6:40	..ryote-dori ura yonkyo
+	6:48	..? katate-dori kokyu-nage
+	6:52	..? ryote-dori kokyu-nage
+	6:58	..? ryote-dori kokyu-nage
 https://www.youtube.com/watch?v=h7caNGt_QmI	0:00	.muna-dori
 https://www.youtube.com/watch?v=zGs77GCrP7o	0:00	.tsuki
 	0:04	..explanation
@@ -158,12 +194,12 @@ https://www.youtube.com/watch?v=E4ASoRMxcsM	0:00	Takemusu Aikido - Morihiro Sait
 	6:19	.shomen-uchi ikkyo omote-waza
 	6:49	.ni-nin dori kokyu-nage (?)
 	7:00	.san-nin dori aiki-ken, moving away from point of attack
-	7:33	.shomen-uchi kotegaeshi
+	7:33	.shomen-uchi kote-gaeshi
 	7:58	.bokken, jo waza
 	9:05	.nikyo
 	9:31	.kokyu-ho, kokyu-nage
 	9:42	.ushiro morote-dori, kokyu-nage (?)
-	10:05	.katate-dori shihou-nage omote
+	10:05	.katate-dori shiho-nage omote
 	10:28	.bokken cutting 4 directions (name?)
 	10:41	.aiki ken
 	13:23	.6 attackers
