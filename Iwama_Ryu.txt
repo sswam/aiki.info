@@ -21,10 +21,10 @@ https://www.youtube.com/watch?v=b3JtD6KRMZ0	0:00	.shomen uchi
 	4:50	...explanation
 	5:12	..shomen uchi gokyo ura waza
 	5:25	..shomen uchi shiho nage
-	5:40	...ki no nagare
+	5:40	..shomen uchi ki no nagare shiho nage
 	5:51	..shomen uchi irimi nage
 	6:02	..shomen uchi irimi nage
-	6:10	...ki no nagare
+	6:10	..shomen uchi ki no nagare irimi nage
 	6:21	..shomen uchi irimi nage henka
 	6:32	..katate gake no irimi nage
 	6:43	..shomen uchi henka katate gake no nage 
@@ -47,10 +47,10 @@ https://www.youtube.com/watch?v=b3JtD6KRMZ0	0:00	.shomen uchi
 https://www.youtube.com/watch?v=FeSrySq9SPQ	0:00	.yokomen uchi
 	0:04	..yokomen uchi ikkyo omote waza
 	0:17	..yokomen uchi ikkyo ura waza
-	0:32	...ki no nagare
+	0:32	..yokomen uchi ki no nagare ikkyo ura waza
 	0:44	..yokomen uchi nikyo omote waza
 	1:05	..yokomen uchi nikyo ura waza
-	1:23	...ki no nagare
+	1:23	..yokomen uchi ki no nagare nikyo ura waza
 	1:41	..yokomen uchi sankyo omote waza
 	2:08	..yokomen uchi sankyo omote waza
 	2:29	..yokomen uchi sankyo omote waza
