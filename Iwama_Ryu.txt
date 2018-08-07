@@ -1,87 +1,87 @@
 # Iwama-ryū 岩間流
 https://www.youtube.com/playlist?list=PLB03A3BDE81179174	-	Morihiro Saito in Jesi, Italy 1992
-https://www.youtube.com/watch?v=b3JtD6KRMZ0	0:00	.shomen uchi
-	0:26	..shomen uchi ikkyo omote waza
-	0:46	..shomen uchi ikkyo ura waza
-	0:56	..shomen uchi nikyo omote waza
-	1:14	..shomen uchi nikyo ura waza
-	1:28	..shomen uchi ? (koba gaeshi)
-	1:33	..shomen uchi sankyo omote waza
-	1:54	..shomen uchi sankyo omote waza
-	2:16	..shomen uchi sankyo ura waza
-	2:34	..shomen uchi sankyo ura waza
-	2:48	..shomen uchi sankyo henka waza
-	3:02	..shomen uchi sankyo henka waza
-	3:16	..shomen uchi sankyo henka waza
-	3:30	..shomen uchi sankyo henka waza
-	3:42	..shomen uchi sankyo henka waza
-	3:54	..shomen uchi yonkyo omote waza
-	4:06	..shomen uchi yonkyo ura waza
-	4:20	..shomen uchi gokyo omote waza
+https://www.youtube.com/watch?v=b3JtD6KRMZ0	0:00	.shomen-uchi
+	0:26	..shomen-uchi ikkyo omote-waza
+	0:46	..shomen-uchi ikkyo ura-waza
+	0:56	..shomen-uchi nikyo omote-waza
+	1:14	..shomen-uchi nikyo ura-waza
+	1:28	..shomen-uchi ? (koba-gaeshi)
+	1:33	..shomen-uchi sankyo omote-waza
+	1:54	..shomen-uchi sankyo omote-waza
+	2:16	..shomen-uchi sankyo ura-waza
+	2:34	..shomen-uchi sankyo ura-waza
+	2:48	..shomen-uchi sankyo henka-waza
+	3:02	..shomen-uchi sankyo henka-waza
+	3:16	..shomen-uchi sankyo henka-waza
+	3:30	..shomen-uchi sankyo henka-waza
+	3:42	..shomen-uchi sankyo henka-waza
+	3:54	..shomen-uchi yonkyo omote-waza
+	4:06	..shomen-uchi yonkyo ura-waza
+	4:20	..shomen-uchi gokyo omote-waza
 	4:50	...explanation
-	5:12	..shomen uchi gokyo ura waza
-	5:25	..shomen uchi shiho nage
-	5:40	..shomen uchi ki no nagare shiho nage
-	5:51	..shomen uchi irimi nage
-	6:02	..shomen uchi irimi nage
-	6:10	..shomen uchi ki no nagare irimi nage
-	6:21	..shomen uchi irimi nage henka
-	6:32	..katate gake no irimi nage
-	6:43	..shomen uchi henka katate gake no nage 
-	6:57	..shomen uchi irimi nage henka
-	7:07	..shomen uchi kote gaeshi
-	7:22	..shomen uchi kote gaeshi
-	7:26	..shomen uchi kote gaeshi henka waza
-	7:45	..shomen uchi kaiten nage
-	7:53	..shomen uchi kaiten nage
-	8:03	..shomen uchi kaiten nage
-	8:10	..shomen uchi koshi nage
-	8:20	..shomen uchi koshi nage
-	8:31	..shomen uchi juji nage
-	8:51	..shomen uchi kokyu nage
-	8:59	..shomen uchi ganseki otoshi
-	9:09	..shomen uchi kokyu nage
-	9:15	..shomen uchi kokyu nage
-	9:23	..shomen uchi henka waza
-	9:33	..shomen uchi henka waza
-https://www.youtube.com/watch?v=FeSrySq9SPQ	0:00	.yokomen uchi
-	0:04	..yokomen uchi ikkyo omote waza
-	0:17	..yokomen uchi ikkyo ura waza
-	0:32	..yokomen uchi ki no nagare ikkyo ura waza
-	0:44	..yokomen uchi nikyo omote waza
-	1:05	..yokomen uchi nikyo ura waza
-	1:23	..yokomen uchi ki no nagare nikyo ura waza
-	1:41	..yokomen uchi sankyo omote waza
-	2:08	..yokomen uchi sankyo omote waza
-	2:29	..yokomen uchi sankyo omote waza
-	2:52	..yokomen uchi sankyo omote waza
-	3:15	..yokomen uchi yonkyo omote waza
-	3:30	..yokomen uchi yonkyo ura waza
-	3:47	..yokomen uchi ki no nagare sankyo ura waza
-	4:03	..yokomen uchi ki no nagare yonkyo ura waza
-	4:14	..yokomen uchi gokyo omote waza
-	4:34	..yokomen uchi gokyo ura waza
-	4:47	..yokomen uchi ki no nagare gokyo ura waza
-	4:59	..yokomen uchi shiho nage
-	5:13	..yokomen uchi shiho nage henka
-	5:27	..yokomen uchi irimi nage
-	5:40	..yokomen uchi irimi nage
-	5:51	..yokomen uchi ki no nagare irimi nage
-	6:01	..yokomen uchi irimi nage henka waza
-	6:13	..yokomen uchi kotegaeshi
-	6:29	..yokomen uchi kotegaeshi henka waza
-	6:44	..yokomen uchi kaiten nage
-	6:53	..yokomen uchi koshi nage
-	7:05	..yokomen uchi koshi nage
-	7:17	..yokomen uchi kokyu nage
-	7:23	..yokomen uchi kokyu nage
-	7:30	..yokomen uchi kokyu nage
-	7:39	..yokomen uchi kokyu nage
-	7:49	..yokomen uchi oyo waza
-	8:02	..yokomen uchi oyo waza
-	8:11	..yokomen uchi oyo waza
-	8:21	..yokomen uchi oyo waza
-	8:25	..yokomen uchi oyo waza
+	5:12	..shomen-uchi gokyo ura-waza
+	5:25	..shomen-uchi shiho-nage
+	5:40	..shomen-uchi ki-no-nagare shiho-nage
+	5:51	..shomen-uchi irimi-nage
+	6:02	..shomen-uchi irimi-nage
+	6:10	..shomen-uchi ki-no-nagare irimi-nage
+	6:21	..shomen-uchi irimi-nage henka
+	6:32	..katate-gake no irimi-nage
+	6:43	..shomen-uchi henka katate-gake no nage 
+	6:57	..shomen-uchi irimi-nage henka
+	7:07	..shomen-uchi kote-gaeshi
+	7:22	..shomen-uchi kote-gaeshi
+	7:26	..shomen-uchi kote-gaeshi henka-waza
+	7:45	..shomen-uchi kaiten-nage
+	7:53	..shomen-uchi kaiten-nage
+	8:03	..shomen-uchi kaiten-nage
+	8:10	..shomen-uchi koshi-nage
+	8:20	..shomen-uchi koshi-nage
+	8:31	..shomen-uchi juji-nage
+	8:51	..shomen-uchi kokyu-nage
+	8:59	..shomen-uchi ganseki-otoshi
+	9:09	..shomen-uchi kokyu-nage
+	9:15	..shomen-uchi kokyu-nage
+	9:23	..shomen-uchi henka-waza
+	9:33	..shomen-uchi henka-waza
+https://www.youtube.com/watch?v=FeSrySq9SPQ	0:00	.yokomen-uchi
+	0:04	..yokomen-uchi ikkyo omote-waza
+	0:17	..yokomen-uchi ikkyo ura-waza
+	0:32	..yokomen-uchi ki-no-nagare ikkyo ura-waza
+	0:44	..yokomen-uchi nikyo omote-waza
+	1:05	..yokomen-uchi nikyo ura-waza
+	1:23	..yokomen-uchi ki-no-nagare nikyo ura-waza
+	1:41	..yokomen-uchi sankyo omote-waza
+	2:08	..yokomen-uchi sankyo omote-waza
+	2:29	..yokomen-uchi sankyo omote-waza
+	2:52	..yokomen-uchi sankyo omote-waza
+	3:15	..yokomen-uchi yonkyo omote-waza
+	3:30	..yokomen-uchi yonkyo ura-waza
+	3:47	..yokomen-uchi ki-no-nagare sankyo ura-waza
+	4:03	..yokomen-uchi ki-no-nagare yonkyo ura-waza
+	4:14	..yokomen-uchi gokyo omote-waza
+	4:34	..yokomen-uchi gokyo ura-waza
+	4:47	..yokomen-uchi ki-no-nagare gokyo ura-waza
+	4:59	..yokomen-uchi shiho-nage
+	5:13	..yokomen-uchi shiho-nage henka
+	5:27	..yokomen-uchi irimi-nage
+	5:40	..yokomen-uchi irimi-nage
+	5:51	..yokomen-uchi ki-no-nagare irimi-nage
+	6:01	..yokomen-uchi irimi-nage henka-waza
+	6:13	..yokomen-uchi kotegaeshi
+	6:29	..yokomen-uchi kotegaeshi henka-waza
+	6:44	..yokomen-uchi kaiten-nage
+	6:53	..yokomen-uchi koshi-nage
+	7:05	..yokomen-uchi koshi-nage
+	7:17	..yokomen-uchi kokyu-nage
+	7:23	..yokomen-uchi kokyu-nage
+	7:30	..yokomen-uchi kokyu-nage
+	7:39	..yokomen-uchi kokyu-nage
+	7:49	..yokomen-uchi oyo-waza
+	8:02	..yokomen-uchi oyo-waza
+	8:11	..yokomen-uchi oyo-waza
+	8:21	..yokomen-uchi oyo-waza
+	8:25	..yokomen-uchi oyo-waza
 https://www.youtube.com/watch?v=zGs77GCrP7o	0:00	.tsuki
 https://www.youtube.com/watch?v=0f1LOIqmNI4	0:00	.katate dori
 https://www.youtube.com/watch?v=a--a1fxyHV8	0:00	.ryote dori
@@ -91,7 +91,7 @@ https://www.youtube.com/watch?v=eE72EIk4Ppg	0:00	.ai hanmi katate dori
 https://www.youtube.com/watch?v=57QcKKtEb9s	0:00	.ushiro ryote dori
 https://www.youtube.com/watch?v=uUubPeUmTVs	0:00	.ushiro waza
 https://www.youtube.com/watch?v=LgIcPJYY9Qs	0:00	.morote dori
-https://www.youtube.com/watch?v=HoL1zQR88KI	0:00	.shomen uchi, kata dori, katate dori, tai shime dori 
+https://www.youtube.com/watch?v=HoL1zQR88KI	0:00	.shomen-uchi, kata dori, katate dori, tai shime dori 
 https://www.youtube.com/watch?v=nXKg7XBNaZU	0:00	.sode guchi dori
 https://www.youtube.com/watch?v=_ln6dwX_ImI	0:00	.ryo kata dori
 https://www.youtube.com/watch?v=ZAqL3SC-lGw	0:00	.13 tachi dori
