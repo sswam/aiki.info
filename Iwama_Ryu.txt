@@ -160,6 +160,28 @@ https://www.youtube.com/watch?v=a--a1fxyHV8	0:00	.ryote-dori
 	6:48	..? katate-dori kokyu-nage
 	6:52	..? ryote-dori kokyu-nage
 	6:58	..? ryote-dori kokyu-nage
+https://www.youtube.com/watch?v=eE72EIk4Ppg	0:00	.ai-hanmi katate-dori
+	0:04	..ai-hanmi katate-dori ikkyo omote-waza
+	0:19	..ai-hanmi katate-dori ikkyo ura-waza
+	0:32	..ai-hanmi katate-dori nikyo omote-waza
+	0:48	..ai-hanmi katate-dori nikyo ura-waza
+	1:04	..ai-hanmi katate-dori sankyo omote-waza
+	1:24	..ai-hanmi katate-dori sankyo ura-waza
+	1:43	..ai-hanmi katate-dori yonkyo omote-waza
+	2:01	..ai-hanmi katate-dori yonkyo ura-waza
+	2:14	..ai-hanmi katate-dori shiho-nage omote
+	2:29	..ai-hanmi katate-dori shiho-nage ura
+	2:46	..ai-hanmi katate-dori irimi-nage
+	2:59	..ai-hanmi katate-dori irimi-nage
+	3:13	..ai-hanmi katate-dori irimi-nage
+	3:24	..ai-hanmi katate-dori kote-gaeshi
+	3:41	..ai-hanmi katate-dori kote-gaeshi
+	3:55	..ai-hanmi katate-dori ki-no-nagare kote-gaeshi
+	4:07	..ai-hanmi katate-dori koshi-nage
+	4:20	..ai-hanmi katate-dori kokyu-nage
+	4:32	..ai-hanmi katate-dori hiji-gatame
+	4:39	..ai-hanmi katate-dori henka-waza
+	4:53	..ai-hanmi katate-dori henka-waza
 https://www.youtube.com/watch?v=h7caNGt_QmI	0:00	.muna-dori
 	0:09	..muna-dori ikkyo omote-waza
 	0:25	..muna-dori ikkyo ura-waza
@@ -229,28 +251,69 @@ https://www.youtube.com/watch?v=eScBUNVu_I8	0:00	.sode-dori
 	3:20	..sode-dori kokyu-nage
 	3:30	..sode-dori henka-waza
 	3:43	..sode-dori kokyu-nage
-https://www.youtube.com/watch?v=eE72EIk4Ppg	0:00	.ai-hanmi katate-dori
-	0:04	..ai-hanmi katate-dori ikkyo omote-waza
-	0:19	..ai-hanmi katate-dori ikkyo ura-waza
-	0:32	..ai-hanmi katate-dori nikyo omote-waza
-	0:48	..ai-hanmi katate-dori nikyo ura-waza
-	1:04	..ai-hanmi katate-dori sankyo omote-waza
-	1:24	..ai-hanmi katate-dori sankyo ura-waza
-	1:43	..ai-hanmi katate-dori yonkyo omote-waza
-	2:01	..ai-hanmi katate-dori yonkyo ura-waza
-	2:14	..ai-hanmi katate-dori shiho-nage omote
-	2:29	..ai-hanmi katate-dori shiho-nage ura
-	2:46	..ai-hanmi katate-dori irimi-nage
-	2:59	..ai-hanmi katate-dori irimi-nage
-	3:13	..ai-hanmi katate-dori irimi-nage
-	3:24	..ai-hanmi katate-dori kote-gaeshi
-	3:41	..ai-hanmi katate-dori kote-gaeshi
-	3:55	..ai-hanmi katate-dori ki-no-nagare kote-gaeshi
-	4:07	..ai-hanmi katate-dori koshi-nage
-	4:20	..ai-hanmi katate-dori kokyu-nage
-	4:32	..ai-hanmi katate-dori hiji-gatame
-	4:39	..ai-hanmi katate-dori henka-waza
-	4:53	..ai-hanmi katate-dori henka-waza
+https://www.youtube.com/watch?v=nXKg7XBNaZU	0:00	.sode-guchi-dori
+	0:04	..sode-guchi-dori ikkyo omote-waza
+	0:21	..sode-guchi-dori ikkyo ura-waza
+	0:36	..sode-guchi-dori nikyo
+	0:52	..sode-guchi-dori sankyo omote-waza
+	1:13	..sode-guchi-dori sankyo ura-waza
+	1:30	..sode-guchi-dori yonkyo omote-waza
+	1:47	..sode-guchi-dori yonkyo ura-waza
+	2:01	..sode-guchi-dori shiho-nage omote-waza
+	2:14	..sode-guchi-dori shiho-nage ura-waza
+	2:27	..sode-guchi-dori irimi-nage
+	2:38	..sode-guchi-dori kaiten-nage
+	2:51	..? sode-guchi-dori kaiten-nage
+	3:06	..sode-guchi-dori koshi-nage
+	3:15	..sode-guchi-dori kokyu-nage
+	3:25	..sode-guchi-dori kokyu-nage
+	3:33	..sode-guchi-dori kokyu-nage
+	3:40	..sode-guchi-dori kokyu-nage
+	3:52	..? sode-guchi-dori henka-waza
+https://www.youtube.com/watch?v=HoL1zQR88KI	0:00	.miscellaneous
+	0:08	..shomen-uchi koshi-nage
+	0:18	..shomen-uchi koshi-nage
+	0:29	..shomen-uchi juji-nage
+	0:39	..shomen-uchi kokyu-nage
+	0:48	..shomen-uchi kokyu-nage
+	0:58	..shomen-uchi kokyu-nage
+	1:03	..shomen-uchi kokyu-nage
+	1:11	..shomen-uchi henka-waza
+	1:22	..shomen-uchi henka-waza
+	1:28	..kata-dori explanation
+	1:44	..kata-dori ikkyo omote
+	1:54	..kata-dori ikkyo ura
+	2:06	..kata-dori shiho-nage
+	2:19	..kata-dori ki-no-nagare shiho-nage
+	2:28	..kata-dori shiho-nage henka-waza
+	2:46	..kata-dori irimi-nage
+	2:56	..kata-dori ki-no-nagare irimi-nage
+	3:06	..kata-dori ki-no-nagare oyo-waza explanation
+	3:43	..kata-dori kokyu-nage
+	3:53	..kata-dori koshi-nage
+	4:05	..kata-dori koshi-nage
+	4:16	..kata-dori koshi-nage
+	4:28	..kata-dori kote-gaeshi
+	4:43	..kata-dori henka-waza
+	4:54	..kata-dori henka-waza
+	5:04	..kata-dori henka-waza
+	5:12	..katate-dori henka-waza (obi-otoshi)
+	5:30	..katate-dori henka-waza (hiji-kujiki)
+	5:42	..katate-dori ki-no-nagare henka-waza
+	5:52	..tachi-jime shiho-nage
+	6:02	..tachi-jime kubi-nage
+	6:17	..tachi-jime kokyu-nage
+	6:27	..tachi-jime koshi-nage
+	6:37	..tachi-jime ki-no-nagare kokyu-nage
+https://www.youtube.com/watch?v=_ln6dwX_ImI	0:00	.ryo-kata-dori
+	0:05	..ryo-kata-dori explanation
+	0:26	..ryo-kata-dori shiho-nage henka-waza
+	0:39	..ryo-kata-dori kokyu-nage
+	0:50	..ryo-kata-dori kokyu-nage
+	1:01	..ryo-kata-dori ki-no-nagare kokyu-nage
+	1:11	..ryo-kata-dori ki-no-nagare kokyu-nage
+	1:20	..ryo-kata-dori henka-waza
+	1:33	..ryo-kata-dori explanation
 https://www.youtube.com/watch?v=57QcKKtEb9s	0:00	.ushiro-ryote-dori
 	0:09	..explanation
 	0:26	..ushiro-ryote-dori ikkyo omote-waza
@@ -364,65 +427,50 @@ https://www.youtube.com/watch?v=LgIcPJYY9Qs	0:00	.morote-dori
 	7:42	..morote-dori ki-no-nagare kokyu-nage
 	7:50	..morote-dori henka-waza
 	8:01	..morote-dori ki-no-nage henka-waza
-https://www.youtube.com/watch?v=nXKg7XBNaZU	0:00	.sode-guchi-dori
-	0:04	..sode-guchi-dori ikkyo omote-waza
-	0:21	..sode-guchi-dori ikkyo ura-waza
-	0:36	..sode-guchi-dori nikyo
-	0:52	..sode-guchi-dori sankyo omote-waza
-	1:13	..sode-guchi-dori sankyo ura-waza
-	1:30	..sode-guchi-dori yonkyo omote-waza
-	1:47	..sode-guchi-dori yonkyo ura-waza
-	2:01	..sode-guchi-dori shiho-nage omote-waza
-	2:14	..sode-guchi-dori shiho-nage ura-waza
-	2:27	..sode-guchi-dori irimi-nage
-	2:38	..sode-guchi-dori kaiten-nage
-	2:51	..? sode-guchi-dori kaiten-nage
-	3:06	..sode-guchi-dori koshi-nage
-	3:15	..sode-guchi-dori kokyu-nage
-	3:25	..sode-guchi-dori kokyu-nage
-	3:33	..sode-guchi-dori kokyu-nage
-	3:40	..sode-guchi-dori kokyu-nage
-	3:52	..? sode-guchi-dori henka-waza
-https://www.youtube.com/watch?v=_ln6dwX_ImI	0:00	.ryo-kata-dori
-https://www.youtube.com/watch?v=ZAqL3SC-lGw	0:00	.13 tachi-dori
-https://www.youtube.com/watch?v=YM-c-O81r8k	0:00	.12 jo-dori
-https://www.youtube.com/watch?v=lb3WxRCc1Co	0:00	.ni nin-dori
-https://www.youtube.com/watch?v=HGZkWQEHOTQ	0:00	.9 tanken-dori
-https://www.youtube.com/watch?v=HoL1zQR88KI	0:00	.miscellaneous
-	0:08	..shomen-uchi koshi-nage
-	0:18	..shomen-uchi koshi-nage
-	0:29	..shomen-uchi juji-nage
-	0:39	..shomen-uchi kokyu-nage
-	0:48	..shomen-uchi kokyu-nage
-	0:58	..shomen-uchi kokyu-nage
-	1:03	..shomen-uchi kokyu-nage
-	1:11	..shomen-uchi henka-waza
-	1:22	..shomen-uchi henka-waza
-	1:28	..kata-dori explanation
-	1:44	..kata-dori ikkyo omote
-	1:54	..kata-dori ikkyo ura
-	2:06	..kata-dori shiho-nage
-	2:19	..kata-dori ki-no-nagare shiho-nage
-	2:28	..kata-dori shiho-nage henka-waza
-	2:46	..kata-dori irimi-nage
-	2:56	..kata-dori ki-no-nagare irimi-nage
-	3:06	..kata-dori ki-no-nagare oyo-waza explanation
-	3:43	..kata-dori kokyu-nage
-	3:53	..kata-dori koshi-nage
-	4:05	..kata-dori koshi-nage
-	4:16	..kata-dori koshi-nage
-	4:28	..kata-dori kote-gaeshi
-	4:43	..kata-dori henka-waza
-	4:54	..kata-dori henka-waza
-	5:04	..kata-dori henka-waza
-	5:12	..katate-dori henka-waza (obi-otoshi)
-	5:30	..katate-dori henka-waza (hiji-kujiki)
-	5:42	..katate-dori ki-no-nagare henka-waza
-	5:52	..tachi-jime shiho-nage
-	6:02	..tachi-jime kubi-nage
-	6:17	..tachi-jime kokyu-nage
-	6:27	..tachi-jime koshi-nage
-	6:37	..tachi-jime ki-no-nagare kokyu-nage
+https://www.youtube.com/watch?v=ZAqL3SC-lGw	0:00	.tachi-dori
+	0:04	..1
+	0:13	..2
+	0:20	..3
+	0:26	..4
+	0:33	..5
+	0:39	..6
+	0:44	..7
+	0:50	..8
+	0:58	..9
+	1:05	..10
+	1:10	..11
+	1:17	..12
+	1:23	..13
+https://www.youtube.com/watch?v=YM-c-O81r8k	0:00	.jo-dori
+	0:04	..1
+	0:11	..2
+	0:16	..3
+	0:20	..4
+	0:26	..5
+	0:32	..6
+	0:37	..7
+	0:43	..8
+	0:48	..9
+	0:54	..10
+	1:00	..11
+	1:06	..12
+https://www.youtube.com/watch?v=HGZkWQEHOTQ	0:00	.tanken-dori
+	0:02	..1
+	0:08	..2
+	0:15	..3
+	0:20	..4
+	0:28	..5
+	0:35	..6
+	0:43	..7
+	0:47	..8
+	0:54	..9
+https://www.youtube.com/watch?v=lb3WxRCc1Co	0:00	.ni-nin-dori
+	0:08	..ni-nin-dori kokyu-nage
+	0:20	..ni-nin-dori kokyu-nage
+	0:30	..ni-nin-dori kokyu-nage
+	0:38	..ni-nin-dori henka-waza
+	0:46	..ni-nin-dori kokyu-nage irimi-nage
+	0:57	..ni-nin-dori kokyu-nage
 
 https://www.youtube.com/watch?v=E4ASoRMxcsM	0:00	Takemusu Aikido - Morihiro Saito - The Lost Seminars Part 1
 	0:00	.intro
