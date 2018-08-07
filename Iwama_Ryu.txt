@@ -364,13 +364,47 @@ https://www.youtube.com/watch?v=LgIcPJYY9Qs	0:00	.morote-dori
 	7:42	..morote-dori ki-no-nagare kokyu-nage
 	7:50	..morote-dori henka-waza
 	8:01	..morote-dori ki-no-nage henka-waza
-https://www.youtube.com/watch?v=HoL1zQR88KI	0:00	.shomen-uchi, kata-dori, katate-dori, tai-shime-dori 
 https://www.youtube.com/watch?v=nXKg7XBNaZU	0:00	.sode-guchi-dori
 https://www.youtube.com/watch?v=_ln6dwX_ImI	0:00	.ryo-kata-dori
 https://www.youtube.com/watch?v=ZAqL3SC-lGw	0:00	.13 tachi-dori
 https://www.youtube.com/watch?v=YM-c-O81r8k	0:00	.12 jo-dori
 https://www.youtube.com/watch?v=lb3WxRCc1Co	0:00	.ni nin-dori
 https://www.youtube.com/watch?v=HGZkWQEHOTQ	0:00	.9 tanken-dori
+https://www.youtube.com/watch?v=HoL1zQR88KI	0:00	.miscellaneous
+	0:08	..shomen-uchi koshi-nage
+	0:18	..shomen-uchi koshi-nage
+	0:29	..shomen-uchi juji-nage
+	0:39	..shomen-uchi kokyu-nage
+	0:48	..shomen-uchi kokyu-nage
+	0:58	..shomen-uchi kokyu-nage
+	1:03	..shomen-uchi kokyu-nage
+	1:11	..shomen-uchi henka-waza
+	1:22	..shomen-uchi henka-waza
+	1:28	..kata-dori explanation
+	1:44	..kata-dori ikkyo omote
+	1:54	..kata-dori ikkyo ura
+	2:06	..kata-dori shiho-nage
+	2:19	..kata-dori ki-no-nagare shiho-nage
+	2:28	..kata-dori shiho-nage henka-waza
+	2:46	..kata-dori irimi-nage
+	2:56	..kata-dori ki-no-nagare irimi-nage
+	3:06	..kata-dori ki-no-nagare oyo-waza explanation
+	3:43	..kata-dori kokyu-nage
+	3:53	..kata-dori koshi-nage
+	4:05	..kata-dori koshi-nage
+	4:16	..kata-dori koshi-nage
+	4:28	..kata-dori kote-gaeshi
+	4:43	..kata-dori henka-waza
+	4:54	..kata-dori henka-waza
+	5:04	..kata-dori henka-waza
+	5:12	..katate-dori henka-waza (obi-otoshi)
+	5:30	..katate-dori henka-waza (hiji-kujiki)
+	5:42	..katate-dori ki-no-nagare henka-waza
+	5:52	..tachi-jime shiho-nage
+	6:02	..tachi-jime kubi-nage
+	6:17	..tachi-jime kokyu-nage
+	6:27	..tachi-jime koshi-nage
+	6:37	..tachi-jime ki-no-nagare kokyu-nage
 
 https://www.youtube.com/watch?v=E4ASoRMxcsM	0:00	Takemusu Aikido - Morihiro Saito - The Lost Seminars Part 1
 	0:00	.intro
