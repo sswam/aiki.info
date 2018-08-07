@@ -323,6 +323,47 @@ https://www.youtube.com/watch?v=uUubPeUmTVs	0:00	.ushiro-waza
 	8:47	..ushiro-dori henka-waza
 	8:57	..? ushiro-hagai henka-waza
 https://www.youtube.com/watch?v=LgIcPJYY9Qs	0:00	.morote-dori
+	0:04	..morote-dori kokyu-ho (1)
+	0:14	..morote-dori kokyu-ho ki-no-nagare
+	0:23	..morote-dori kokyu-ho (2)
+	0:37	..morote-dori kokyu-ho (3)
+	0:48	..morote-dori kokyu-ho (4)
+	0:59	..morote-dori kokyu-ho (5)
+	1:11	..morote-dori kokyu-ho ikkyo omote-waza
+	1:28	..morote-dori ikkyo ura-waza
+	1:39	..morote-dori ki-no-nagare ikkyo omote-waza
+	1:52	..morote-dori ikkyo ki-no-nagare ura-waza
+	2:02	..morote-dori nikyo
+	2:17	..morote-dori ki-no-nagare nikyo
+	2:28	..morote-dori sankyo
+	2:48	..morote-dori ki-no-nagare sankyo
+	3:02	..morote-dori yonkyo
+	3:17	..morote-dori ki-no-nagare yonkyo
+	3:26	..morote-dori ki-no-nagare shiho-nage
+	3:36	..morote-dori ki-no-nagare shiho-nage
+	3:47	..morote-dori irimi-nage
+	4:00	..morote-dori irimi-nage
+	4:10	..morote-dori ki-no-nagare irimi-nage
+	4:21	..morote-dori ki-no-nagare irimi-nage
+	4:30	..morote-dori kote-gaeshi
+	4:44	..morote-dori ki-no-nagare kote-gaeshi
+	4:56	..morote-dori koshi-nage (1)
+	5:11	..morote-dori koshi-nage (2)
+	5:26	..morote-dori koshi-nage (3)
+	5:39	..morote-dori koshi-nage (4)
+	5:52	..morote-dori koshi-nage (5)
+	6:05	..morote-dori koshi-nage ki-no-nagare (1)
+	6:16	..morote-dori koshi-nage ki-no-nagare (2)
+	6:27	..morote-dori koshi-nage ki-no-nagare (3)
+	6:38	..morote-dori koshi-nage ki-no-nagare (3)
+	6:49	..morote-dori koshi-nage ki-no-nagare (4)
+	7:01	..morote-dori koshi-nage ki-no-nagare (5)
+	7:12	..morote-dori kokyu-nage
+	7:22	..morote-dori kokyu-nage
+	7:33	..morote-dori kokyu-nage
+	7:42	..morote-dori ki-no-nagare kokyu-nage
+	7:50	..morote-dori henka-waza
+	8:01	..morote-dori ki-no-nage henka-waza
 https://www.youtube.com/watch?v=HoL1zQR88KI	0:00	.shomen-uchi, kata-dori, katate-dori, tai-shime-dori 
 https://www.youtube.com/watch?v=nXKg7XBNaZU	0:00	.sode-guchi-dori
 https://www.youtube.com/watch?v=_ln6dwX_ImI	0:00	.ryo-kata-dori
