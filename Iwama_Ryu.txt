@@ -230,6 +230,27 @@ https://www.youtube.com/watch?v=eScBUNVu_I8	0:00	.sode-dori
 	3:30	..sode-dori henka-waza
 	3:43	..sode-dori kokyu-nage
 https://www.youtube.com/watch?v=eE72EIk4Ppg	0:00	.ai-hanmi katate-dori
+	0:04	..ai-hanmi katate-dori ikkyo omote-waza
+	0:19	..ai-hanmi katate-dori ikkyo ura-waza
+	0:32	..ai-hanmi katate-dori nikyo omote-waza
+	0:48	..ai-hanmi katate-dori nikyo ura-waza
+	1:04	..ai-hanmi katate-dori sankyo omote-waza
+	1:24	..ai-hanmi katate-dori sankyo ura-waza
+	1:43	..ai-hanmi katate-dori yonkyo omote-waza
+	2:01	..ai-hanmi katate-dori yonkyo ura-waza
+	2:14	..ai-hanmi katate-dori shiho-nage omote
+	2:29	..ai-hanmi katate-dori shiho-nage ura
+	2:46	..ai-hanmi katate-dori irimi-nage
+	2:59	..ai-hanmi katate-dori irimi-nage
+	3:13	..ai-hanmi katate-dori irimi-nage
+	3:24	..ai-hanmi katate-dori kote-gaeshi
+	3:41	..ai-hanmi katate-dori kote-gaeshi
+	3:55	..ai-hanmi katate-dori ki-no-nagare kote-gaeshi
+	4:07	..ai-hanmi katate-dori koshi-nage
+	4:20	..ai-hanmi katate-dori kokyu-nage
+	4:32	..ai-hanmi katate-dori hiji-gatame
+	4:39	..ai-hanmi katate-dori henka-waza
+	4:53	..ai-hanmi katate-dori henka-waza
 https://www.youtube.com/watch?v=57QcKKtEb9s	0:00	.ushiro-ryote-dori
 https://www.youtube.com/watch?v=uUubPeUmTVs	0:00	.ushiro-waza
 https://www.youtube.com/watch?v=LgIcPJYY9Qs	0:00	.morote-dori
