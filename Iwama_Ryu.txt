@@ -278,6 +278,50 @@ https://www.youtube.com/watch?v=57QcKKtEb9s	0:00	.ushiro-ryote-dori
 	7:55	..ushiro-ryote-dori kokyu-nage
 	8:04	..ushiro-ryote-dori henka-waza
 https://www.youtube.com/watch?v=uUubPeUmTVs	0:00	.ushiro-waza
+	0:08	..ushiro-mune-katate-dori kokyu-nage
+	0:21	..ushiro-mune-katate-dori ki-no-nagare kokyu-nage
+	0:31	..ushiro-mune-katate koshi-nage
+	0:41	..ushiro-mune-katate koshi-nage
+	0:49	..ki-non-nagare ushiro-mune-katate koshi-nage
+	0:57	..ushiro-mune-katate juji-nage
+	1:07	..ushiro-mune-katate juji-nage
+	1:20	..ushiro-mune-katate juji-nage
+	1:29	..ushiro-mune-katate henka-waza
+	1:39	..ushiro-mune-katate henka-waza (kata-otoshi)
+	1:50	..ushiro-eri-dori ikkyo
+	2:08	..ushiro-eri-dori nikyo ura-waza
+	2:20	..ushiro-eri-dori nikyo
+	2:36	..ushiro-eri-dori sankyo
+	2:52	..ushiro-eri-dori yonkyo
+	3:06	..ushiro-eri-dori irimi-nage
+	3:15	..ushiro-eri-dori kokyu-nage
+	3:26	..ushiro-eri-dori shiho-nage
+	3:35	..ushiro-eri-dori kote-gaeshi
+	3:49	..ushiro-eri-dori koshi-nage
+	3:59	..ushiro-eri-dori irimi-nage
+	4:09	..ushiro-eri-dori kokyu-nage
+	4:16	..ushiro-eri-dori henka-waza
+	4:27	..ushiro-eri-katate-dori irimi-nage
+	4:39	..ushiro-ryo-kata-dori ikkyo omote
+	4:59	..ushiro-ryo-kata-dori ikkyo ura-waza
+	5:15	..ushiro-ryo-kata-dori nikyo
+	5:35	..ushiro-ryo-kata-dori sankyo
+	5:53	..ushiro-ryo-kata-dori yonkyo
+	6:08	..ushiro-ryo-kata-dori kokyu-nage
+	6:21	..ushiro-ryo-kata-dori kokyu-nage
+	6:32	..ushiro-ryo-kata-dori juji-nage
+	6:47	..ushiro-ryo-kata-dori kote-gaeshi
+	7:02	..ushiro-ryo-kata-dori henka-waza
+	7:16	..ushiro-ryo-kata-dori henka-waza
+	7:31	..ushiro-ryo-kata-dori henka-waza
+	7:45	..ushiro-ryo-kata-dori ?
+	7:55	..ushiro-ryo-kata-dori ?
+	8:06	..ushiro-ryo-kata-dori ?
+	8:17	..ushiro-ryo-kata-dori ? henka-waza
+	8:28	..ushiro-dori kokyu-nage
+	8:37	..ushiro-dori sankyo
+	8:47	..ushiro-dori henka-waza
+	8:57	..? ushiro-hagai henka-waza
 https://www.youtube.com/watch?v=LgIcPJYY9Qs	0:00	.morote-dori
 https://www.youtube.com/watch?v=HoL1zQR88KI	0:00	.shomen-uchi, kata-dori, katate-dori, tai-shime-dori 
 https://www.youtube.com/watch?v=nXKg7XBNaZU	0:00	.sode-guchi-dori
