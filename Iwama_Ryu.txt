@@ -252,6 +252,31 @@ https://www.youtube.com/watch?v=eE72EIk4Ppg	0:00	.ai-hanmi katate-dori
 	4:39	..ai-hanmi katate-dori henka-waza
 	4:53	..ai-hanmi katate-dori henka-waza
 https://www.youtube.com/watch?v=57QcKKtEb9s	0:00	.ushiro-ryote-dori
+	0:09	..explanation
+	0:26	..ushiro-ryote-dori ikkyo omote-waza
+	0:43	..ushiro-ryote-dori ikkyo ura-waza
+	0:58	...explanation
+	1:24	..ushiro-ryote-dori nikyo omote
+	1:40	..ushiro-ryote-dori nikyo ura-waza
+	1:53	..ushiro-ryote-dori sankyo omote-waza
+	2:08	..ushiro-ryote-dori sankyo ura-waza
+	2:22	..ushiro-ryote-dori yonkyo omote-waza
+	2:33	..ushiro-ryote-dori yonkyo ura-waza
+	2:44	..ushiro-ryote-dori sankyo henka-waza
+	2:57	..ushiro-ryote-dori ki-no-nagare sankyo
+	3:21	..ushiro-ryote-dori shiho-nage (with explanation)
+	4:42	..ushiro-ryote-dori irimi-nage
+	4:53	..ushiro-ryote-dori kote-gaeshi
+	5:08	..ki-no-nagare ushiro-ryote-dori kote-gaeshi
+	5:25	..ushiro-ryote-dori kote-gaeshi (ude-gaeshi)
+	5:59	..ushiro-ryote-dori koshi-nage
+	6:11	..ushiro-ryote-dori koshi-nage
+	6:19	..ki-no-nagare ushiro-ryote-dori koshi-nage
+	6:29	..ushiro-ryote-dori juji-nage
+	6:43	..ushiro-ryote-dori kokyu-ho (with explanation)
+	7:45	..ushiro-ryote-dori kokyu-nage
+	7:55	..ushiro-ryote-dori kokyu-nage
+	8:04	..ushiro-ryote-dori henka-waza
 https://www.youtube.com/watch?v=uUubPeUmTVs	0:00	.ushiro-waza
 https://www.youtube.com/watch?v=LgIcPJYY9Qs	0:00	.morote-dori
 https://www.youtube.com/watch?v=HoL1zQR88KI	0:00	.shomen-uchi, kata-dori, katate-dori, tai-shime-dori 
