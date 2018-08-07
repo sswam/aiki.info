@@ -82,6 +82,49 @@ https://www.youtube.com/watch?v=FeSrySq9SPQ	0:00	.yokomen-uchi
 	8:11	..yokomen-uchi oyo-waza
 	8:21	..yokomen-uchi oyo-waza
 	8:25	..yokomen-uchi oyo-waza
+https://www.youtube.com/watch?v=0f1LOIqmNI4	0:00	.katate-dori
+	0:08	..katate-dori ikkyo omote-waza
+	0:23	..katate-dori ikkyo ura-waza
+	0:34	..katate-dori nikyo omote-waza
+	0:51	..katate-dori nikyo ura-waza
+	1:06	..katate-dori sankyo omote-waza
+	1:25	..katate-dori sankyo ura-waza
+	1:45	..katate-dori yokkyo omote-waza
+	2:03	..katate-dori yokkyo ura-waza
+	2:33	..katate-dori gokyo omote-waza
+	2:50	..katate-dori gokyo ura-waza
+	3:07	..katate-dori shiho-nage omote-waza
+	3:24	..katate-dori shiho-nage ura-waza
+	3:38	..katate-dori shiho-nage henka-waza
+	3:55	..katate-dori ki-no-nagare shiho-nage omote-waza
+	4:12	..katate-dori ki-no-nagare shiho-nage henka-waza
+	4:26	..katate-dori irimi-nage jo-dan
+	4:42	..katate-dori ki-no-nagare irimi-nage jo-dan
+	4:57	..katate-dori irimi-nage ge-dan
+	5:12	..katate-dori irimi-nage ki-no-nagare ge-dan
+	5:27	..katate-dori irimi-nage chu-dan
+	5:45	..katate-dori ki-no-nagare irimi-nage chu-dan
+	5:56	..katate-dori koshi-nage
+	6:08	..katate-dori koshi-nage
+	6:20	..katate-dori kokyu-nage
+	6:30	..katate-dori kokyu-nage
+	6:43	..katate-dori kokyu-nage
+	6:55	..katate-dori kokyu-nage
+	7:05	..katate-dori kokyu-nage
+	7:12	..ki-no-nagare
+	7:22	..katate-dori ki-no-nagare kokyu-nage
+	7:31	..katate-dori kokyu-nage
+	7:41	..katate-dori kokyu-nage
+	7:47	..katate-dori kokyu-nage
+	7:56	..? (katate-dori katame-waza)
+	8:05	..katate-dori katame-waza
+	8:13	..katate-dori hiji-gatame
+	8:24	..katate-dori hiji-gatame
+	8:33	..? katate-dori hiji-gatame
+	8:43	..katate-dori nikyo oyo-waza
+	8:57	..? (shiho-nage oyo-waza)
+https://www.youtube.com/watch?v=a--a1fxyHV8	0:00	.ryote-dori
+https://www.youtube.com/watch?v=h7caNGt_QmI	0:00	.muna-dori
 https://www.youtube.com/watch?v=zGs77GCrP7o	0:00	.tsuki
 	0:04	..explanation
 	0:13	..ikkyo	
@@ -94,21 +137,18 @@ https://www.youtube.com/watch?v=zGs77GCrP7o	0:00	.tsuki
 	1:17	..tsuki no sankyo
 	1:34	..tsuki no hiji-gatame
 	1:42	..tsuki hiji-gatame
-https://www.youtube.com/watch?v=0f1LOIqmNI4	0:00	.katate dori
-https://www.youtube.com/watch?v=a--a1fxyHV8	0:00	.ryote dori
-https://www.youtube.com/watch?v=h7caNGt_QmI	0:00	.muna dori
-https://www.youtube.com/watch?v=eScBUNVu_I8	0:00	.sode dori
-https://www.youtube.com/watch?v=eE72EIk4Ppg	0:00	.ai hanmi katate dori
-https://www.youtube.com/watch?v=57QcKKtEb9s	0:00	.ushiro ryote dori
-https://www.youtube.com/watch?v=uUubPeUmTVs	0:00	.ushiro waza
-https://www.youtube.com/watch?v=LgIcPJYY9Qs	0:00	.morote dori
-https://www.youtube.com/watch?v=HoL1zQR88KI	0:00	.shomen-uchi, kata dori, katate dori, tai shime dori 
-https://www.youtube.com/watch?v=nXKg7XBNaZU	0:00	.sode guchi dori
-https://www.youtube.com/watch?v=_ln6dwX_ImI	0:00	.ryo kata dori
-https://www.youtube.com/watch?v=ZAqL3SC-lGw	0:00	.13 tachi dori
-https://www.youtube.com/watch?v=YM-c-O81r8k	0:00	.12 jo dori
-https://www.youtube.com/watch?v=lb3WxRCc1Co	0:00	.ni nin dori
-https://www.youtube.com/watch?v=HGZkWQEHOTQ	0:00	.9 tanken dori
+https://www.youtube.com/watch?v=eScBUNVu_I8	0:00	.sode-dori
+https://www.youtube.com/watch?v=eE72EIk4Ppg	0:00	.ai-hanmi katate-dori
+https://www.youtube.com/watch?v=57QcKKtEb9s	0:00	.ushiro-ryote-dori
+https://www.youtube.com/watch?v=uUubPeUmTVs	0:00	.ushiro-waza
+https://www.youtube.com/watch?v=LgIcPJYY9Qs	0:00	.morote-dori
+https://www.youtube.com/watch?v=HoL1zQR88KI	0:00	.shomen-uchi, kata-dori, katate-dori, tai-shime-dori 
+https://www.youtube.com/watch?v=nXKg7XBNaZU	0:00	.sode-guchi-dori
+https://www.youtube.com/watch?v=_ln6dwX_ImI	0:00	.ryo-kata-dori
+https://www.youtube.com/watch?v=ZAqL3SC-lGw	0:00	.13 tachi-dori
+https://www.youtube.com/watch?v=YM-c-O81r8k	0:00	.12 jo-dori
+https://www.youtube.com/watch?v=lb3WxRCc1Co	0:00	.ni nin-dori
+https://www.youtube.com/watch?v=HGZkWQEHOTQ	0:00	.9 tanken-dori
 
 https://www.youtube.com/watch?v=E4ASoRMxcsM	0:00	Takemusu Aikido - Morihiro Saito - The Lost Seminars Part 1
 	0:00	.intro
