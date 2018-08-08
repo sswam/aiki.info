@@ -3,11 +3,11 @@ use strict;
 use warnings;
 use Data::Dumper;
 
-our @vids = qw(
-VoW3IBm2-qw
-_COtgJ6vJIY
-l7VelwQqsZE
-);
+# our @vids = qw(
+# VoW3IBm2-qw
+# _COtgJ6vJIY
+# l7VelwQqsZE
+# );
 
 our %hash;
 open my $fh, "<", "yoshinkan-index.txt";
@@ -42,7 +42,7 @@ while ($_ = <STDIN>) {
 		my ($vid, $time, $nihongo, $english) = @{$hash{$name}||[]};
 		my $url;
 		if ($vid) {
-			$url = $vids[$vid-1];
+#			$url = $vids[$vid-1];
 			my $time2 = $time;
 			$time2 =~ s/$/s/;
 			if ($time2 =~ /:.*:/) {
@@ -50,7 +50,8 @@ while ($_ = <STDIN>) {
 			}
 			$time2 =~ s/:/m/;
 #			$url = "http://www.youtube.com/watch?v=$url&t=$time2#t=$time2";
-			$url = "http://www.youtube.com/watch?v=$url&t=$time2";
+#			$url = "http://www.youtube.com/watch?v=$url&t=$time2";
+			$url = "https://aiki.info/y$vid?t=$time2";
 		}
 #		$url ||= '#';
 		my $title = join '&#013;&#010;', $name, $nihongo, $english;
