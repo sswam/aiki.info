@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+
+<style>
+iframe { pointer-events: none; }
+</style>
+
+<script src="js/lib.js"></script>
+<script async src="https://www.youtube.com/iframe_api"></script>
+<script>
+//var log = Function.prototype.bind.call(console.log, console);
+var log = console.log.bind(console);
+
+var data_url = '1.tsv';
+
+var preload_t = 10;
+
+/*
+done:
+- design sequence file
+- load and parse TSV sequence file
+- OO support
+- Player as a separate object, so could have multiple Players in a page
+- OO support - inheritance (not sure if needed?)
+- Player process
+
+todo:
+- Player process
+	- current time / point / t
+	- scheduler, sorted events, single timeout?
+		- resume each second, or only
+		- check "real time"
+	- preload youtube media that are coming up soon (? preload_t = 10)
+	- hide media before their start time
+	- show media at start time
+	- hide media at end time
+	- wait for media to complete, and adjust t
+	- detect 
+	- position media x, y
+	- other media type - image
+	- other media type - html5 video
+	- other media type - vimeo
+	- other media type - html5 audio
+	- other media type - iframe to any html page
+	- other media type - div with any html page
+	- other media type - literal text based on data URL?
+	- keyboard controls - pause
+	- keyboard controls - restart
+	- keyboard controls - seek (? difficult)
+	- options - loop
+	- auto-time for sequential
+*/
+
+function Player() {
+	this.t = 0;
+}
+Player.prototype.load = function(data_url) {
+	get(data_url, loaded);
+};
+
+var youtube_load_time = 10;
+var youtube_id = 1;
+function YouTube() {
+	this.state = "none";
+}
+YouTube.prototype.setTime = function(t) {
+	if (t < this.time - youtube_load_time)
+		return;
+	if (t >= this.time + this.end - this.start) {
+		this.remove();
+		return;
+	}
+	if (this.state == "none") {
+		this.setup();
+		this.state = "loading";
+	}
+}
+YouTube.prototype.setup = function() {
+	// create the div
+	// <div id="player"></div>
+
+	var div = document.createElement("div");
+	this.player_id = div.id = 'youtube_'+youtube_id;
+//	div.style.visibility = 'hidden';
+	div.style.position = 'absolute';
+	div.style.top = this.x + 'px';
+	div.style.left = this.y + 'px';
+	div.style.width = this.width + 'px';
+	div.style.height = this.height + 'px';
+	document.body.appendChild(div);
+
+	var cover = this.cover = document.createElement("div");
+	this.cover_id = cover.id = 'cover_'+youtube_id;
+	cover.style.position = 'absolute';
+	cover.style.top = this.x + 'px';
+	cover.style.left = this.y + 'px';
+	cover.style.width = this.width + 'px';
+	cover.style.height = this.height + 'px';
+	cover.style.background = 'white';
+	document.body.appendChild(cover);
+
+	youtube_id++;
+
+	var x = this;
+	this.player = new YT.Player(this.player_id, {
+		width: this.width,
+		height: this.height,
+		playerVars: {
+			controls: 0,
+			disablekb: 0,
+			iv_load_policy: 3,
+			modestbranding: 1,
+			rel: 0,
+			showinfo: 0
+		},
+		events: {
+			'onReady': function(event) { x.onPlayerReady(event); },
+			'onStateChange': function(event) { x.onPlayerStateChange(event); }
+		}
+	});
+//	var p = document.getElementById(this.player_id);
+//	p.style.visibility = 'hidden';
+//	log("element", p);
+}
+YouTube.prototype.remove = function() {
+	// remove the player
+	this.player.destroy();
+	var p = document.getElementById(this.player_id);
+	remove(p);
+}
+YouTube.prototype.onPlayerReady = function(event) {
+	this.player.cueVideoById(
+		{
+			videoId: this.source,
+			startSeconds: this.start,
+			endSeconds: this.end
+		}
+	);
+	this.player.setVolume(this.volume);
+//	player.playVideo();
+}
+// var done = false;
+
+YouTube.prototype.onPlayerStateChange = function(event) {
+	var x = this;
+	log("state change", event.data);
+	if (event.data == YT.PlayerState.CUED) {
+		this.player.playVideo();
+	}
+	else if (event.data == YT.PlayerState.PLAYING) {
+		if (!this.paused_first_play) {
+			this.player.pauseVideo();
+			var p = document.getElementById(this.player_id);
+//			setTimeout(function() { p.style.visibility = 'hidden'; }, 1000);
+			this.paused_first_play = true;
+			setTimeout(function() { x.play(); }, 1000);
+		}
+	}
+	else if (event.data == YT.PlayerState.ENDED) {
+//		this.player.seekTo(this.start);
+//		this.onPlayerReady();  // TODO fix
+		this.remove();
+	}
+//		setTimeout(stopVideo, 6000);
+//		done = true;
+}
+
+YouTube.prototype.play = function() {
+	remove(this.cover);
+	this.player.playVideo();
+}
+
+// function stopVideo() {
+// 	player.stopVideo();
+// }
+
+var records;
+var player;
+
+function play(vid) {
+	player = new YT.Player('player', {
+		width: vid.width,
+		height: vid.height,
+		playerVars: {
+			controls: 0,
+			disablekb: 0,
+			iv_load_policy: 3,
+			modestbranding: 1,
+			rel: 0,
+			showinfo: 0
+		},
+		events: {
+			'onReady': onPlayerReady,
+			'onStateChange': onPlayerStateChange
+		}
+	});
+}
+
+function step() {
+	if (!(youtube_api_ready && records))
+		return;
+	play(records[0]);
+}
+
+var media_types = {
+	'youtube': YouTube
+};
+
+function start_if_ready() {
+	if (!(youtube_api_ready && records))
+		return;
+	records[0].setTime(0);
+}
+
+function loaded(data) {
+	records = parse_tsv(data, media_types);
+	// create a youtube player for each video
+	player.ready("youtube");
+}
+
+function onYouTubeIframeAPIReady() {
+	player.ready("youtube");
+}
+
+function main() {
+	player = new Player();
+	player.load(data_url, loaded);
+}
+
+window.addEventListener('load', main);
+</script>

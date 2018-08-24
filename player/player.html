@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+
+<style>
+iframe { pointer-events: none; }
+</style>
+
+<script src="/js/lib.js"></script>
+<script async src="https://www.youtube.com/iframe_api"></script>
+<script>
+//var log = Function.prototype.bind.call(console.log, console);
+var log = console.log.bind(console);
+log = function() { };
+var data_url = get_hash() || '1.txt';
+var load_time_youtube = 5;
+var load_time_max = load_time_youtube;
+var play_extra_youtube_end = 1;
+var play_extra_youtube_start = 1;
+// TODO start early for youtube, when we can?
+var player;
+var media_types = {
+	'youtube': YouTube
+};
+var player_dt = 0.1;  // 1
+
+// TODO get rid of globals, use config or something
+
+/*
+done:
+- design sequence file
+- load and parse TSV sequence file
+- OO support
+- Player as a separate object, so could have multiple Players in a page
+- OO support - inheritance (not sure if needed?)
+- Player process
+
+todo:
+- Player process
+	- current time / point / t
+	- scheduler, sorted events, single timeout?
+		- resume each second, or only
+		- check "real time"
+	- preload youtube media that are coming up soon (? preload_t = 10)
+	- hide media before their start time
+	- show media at start time
+	- hide media at end time
+	- wait for media to complete, and adjust t
+	- detect 
+	- position media x, y
+	- other media type - image
+	- other media type - html5 video
+	- other media type - vimeo
+	- other media type - html5 audio
+	- other media type - iframe to any html page
+	- other media type - div with any html page
+	- other media type - literal text based on data URL?
+	- keyboard controls - pause
+	- keyboard controls - restart
+	- keyboard controls - seek (? difficult)
+	- options - loop
+	- auto-time for sequential
+- add speed option: player.setPlaybackRate(suggestedRate:Number):Void
+*/
+
+function Player() {
+	this.ready_list = [];
+	this.state = "new";
+}
+Player.prototype.load = function(data_url) {
+	var o = this;
+	get(data_url, function(data) { o.loaded(data); });
+};
+Player.prototype.loaded = function(data) {
+	this.parts = parse_tsv(data, media_types);
+	this.ready("parts");
+};
+Player.prototype.ready = function(what) {
+	this.ready_list.push(what);
+	if (this.ready_list.length == 2)
+		this.state = "ready";
+	if (this.state == "ready" && this.onready)
+		this.onready();
+};
+Player.prototype.play = function() {
+	this.state = "playing";
+	this.t = -load_time_max;  // TODO check when needed
+	this.now0 = now() - this.t;
+	this.step();
+};
+Player.prototype.step = function() {
+	var o = this;
+	var done = true;
+	for (var i = 0; i < o.parts.length; i++) {
+		var p = o.parts[i];
+		p.setTime(o.t);
+		if (p.state != "done")
+			done = false;
+	}
+	if (done) {
+		o.state = "done";
+		return;
+	}
+	o.t += player_dt;
+	set_timeout_at(o.t + this.now0, function() {
+		o.step();
+	});
+};
+
+var youtube_id = 1;
+function YouTube() {
+	this.set_state("new");
+}
+YouTube.prototype.init = function() {
+	log("init");
+	this.time1 = this.time + this.end - this.start;
+	log(this.time1);
+};
+YouTube.prototype.setTime = function(t) {
+//	log(this.player_id + ' @ ' + t);
+	log(this.player_id, t, this.time, this.time1);
+	if (t < this.time - load_time_youtube) {
+		return;
+	} else if (t >= this.time1 + play_extra_youtube_end) {
+		this.remove();
+	} else if (t >= this.time1) {
+		this.hide();
+	} else if (this.state == "new") {
+		this.setup();
+		this.set_state("loading");
+	} else if (this.state == "ready" && t >= this.time) {
+		this.play();
+	}
+};
+YouTube.prototype.setup = function() {
+	var o = this;
+	var div = document.createElement("div");
+	o.player_id = div.id = 'youtube_'+youtube_id;
+//	div.style.visibility = 'hidden';
+	div.style.position = 'absolute';
+	div.style.left = o.x + 'px';
+	div.style.top = o.y + 'px';
+	div.style.width = o.width + 'px';
+	div.style.height = o.height + 'px';
+	div.style.zIndex = -2;
+	document.body.appendChild(div);
+
+	var cover = o.cover = document.createElement("div");
+	o.cover_id = cover.id = 'youtube_cover_'+youtube_id;
+	cover.style.position = 'absolute';
+	cover.style.left = o.x + 'px';
+	cover.style.top = o.y + 'px';
+	cover.style.width = o.width + 'px';
+	cover.style.height = o.height + 'px';
+	cover.style.background = 'white';
+	cover.style.zIndex = -1;
+	document.body.appendChild(cover);
+
+	youtube_id++;
+
+	o.player = new YT.Player(o.player_id, {
+		width: o.width,
+		height: o.height,
+		playerVars: {
+			controls: 0,
+			disablekb: 0,
+			iv_load_policy: 3,
+			modestbranding: 1,
+			rel: 0,
+			showinfo: 0
+		},
+		events: {
+			'onReady': function(event) { o.onPlayerReady(event); },
+			'onStateChange': function(event) { o.onPlayerStateChange(event); }
+		}
+	});
+};
+YouTube.prototype.hide = function() {
+	if (this.state == "hidden")
+		return;
+	this.set_state("hidden");
+	var p = $(this.player_id);
+	p.style.zIndex = -2;
+	this.player.setVolume(0);
+};
+YouTube.prototype.remove = function() {
+	if (this.state == "done")
+		return;
+	this.set_state("done");
+	this.remove_cover();
+	var p = $(this.player_id);
+	remove(p);
+	this.player.destroy();
+};
+YouTube.prototype.onPlayerReady = function(event) {
+	log("onPlayerReady");
+	this.player.cueVideoById({
+		videoId: this.source,
+		startSeconds: this.start,
+		endSeconds: this.end + play_extra_youtube_end
+	});
+	this.player.setVolume(this.volume);
+};
+
+YouTube.prototype.onPlayerStateChange = function(event) {
+	log("onPlayerStateChange");
+	var o = this;
+	log(o.player_id + " state change", event.data);
+	if (event.data == YT.PlayerState.CUED) {
+		o.player.playVideo();
+	}
+	else if (event.data == YT.PlayerState.PLAYING) {
+		if (o.state == "loading") {
+			o.player.pauseVideo();
+			o.state = "ready";
+		}
+	}
+	else if (event.data == YT.PlayerState.ENDED) {
+		// TODO loop option?  would need to be separate class with two children
+		o.remove();
+	}
+};
+
+YouTube.prototype.remove_cover = function() {
+	if (!this.cover)
+		return;
+	remove(this.cover);
+	this.cover = null;
+}
+
+YouTube.prototype.play = function() {
+	this.set_state("playing");
+	var p = $(this.player_id);
+	p.style.zIndex = 0;
+//	this.remove_cover();
+	this.player.playVideo();
+};
+
+YouTube.prototype.set_state = function(state) {
+	this.state = state;
+	log(this.player_id, state);
+}
+
+function onYouTubeIframeAPIReady() {
+	player.ready("youtube");
+}
+
+function main() {
+	player = new Player();
+	log(player);
+	player.onready = function() {
+		log("player ready");
+		player.play();
+	};
+	player.load(data_url);
+}
+
+main();
+</script>
