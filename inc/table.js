@@ -23,14 +23,16 @@ function setup_grid(tsv, config) {
 	while (lines[lines.length-1] == "")
 		lines.pop();
 
-	var headers = lines.shift().split("\t");
-
+	var header_names = lines.shift().split("\t");
+	var headers = [];
 	var columns = [];
-	for (var i = 0; i < headers.length; ++i) {
-		var n = headers[i];
+	for (var i = 0; i < header_names.length; ++i) {
+		var N = header_names[i];
+		var n = N.toLowerCase().replace(' ', '_');
+		headers[i] = n;
 		var column = {
 			id: n,
-			name: n,
+			name: N,
 			field: n,
 			cssClass: n,
 			width: config.widths[i]
