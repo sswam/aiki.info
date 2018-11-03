@@ -1,4 +1,169 @@
-Japanese	Rōmaji	English definition
-合気	aiki	??? ;)
+term	Rōmaji	English	definition	tags
+合気道	Aikidō	joining energy way		aikido
+大東流	Daitō-ryū	Daitō-style		daito ryu
+合気	aiki	joining energy / blending	???!	aikido, daito ryu
+柔術	jūjutsu	gentle art	a Japanese system of unarmed combat and physical training	daito ryu, jujutsu
+합기도	Hapkido	joining energy way	a Korean martial art characterized by kicking and circular movements	hapkido
+古流	koryū	old school	classical Japanese martial arts
+礼法	reihō	respect		principles
+目付	metsuke	watching		principles
+間合	maai	distancing		principles
+構え	kamae	structure		principles
+合気	aiki	blending		principles
+呼吸	kokyū	timing		principles
+崩し	kuzushi	unbalancing		principles
+残心	zanshin	awareness		principles
+義	gi	integrity		virtues
+勇気	yūki	courage		virtues
+仁	jin	benevolence		virtues
+礼儀	reigi	courtesy		virtues
+誠	makoto	honesty		virtues
+名誉	meiyo	honour		virtues
+忠義	chūgi	loyalty		virtues
+克己	katsumi	discipline		virtues
+一	ichi	1		counting
+二	ni	2		counting
+三	san	3		counting
+四	shiyon	4		counting
+五	go	5		counting
+六	rokyu	6		counting
+七	shichi / nana	7		counting
+八	hachi	8		counting
+九	kyūku	9		counting
+十	jū	10		counting
+十一	jū ichi	11		counting
+二十	ni-jū	20		counting
+百	hyaku	100		counting
+一本目	ippon me	1st		counting
+二本目	nihon me	2nd		counting
+三本目	sanbon me	3rd		counting
+四本目	yonhon me	4th		counting
+五本目	gohon me	5th		counting
+六本目	roppon me	6th		counting
+七本目	nanahon me	7th		counting
+八本目	happon me	8th		counting
+九本目	kyūhon me	9th		counting
+十本目	juppon me	10th		counting
+正面	shōmen	front		attacks
+打ち	uchi	strike		attacks
+横面	yokomen	side		attacks
+突き	tsuki	thrust		attacks
+片	kata	single		attacks
+手	te	hand		attacks
+取り	dori	take / capture		attacks
+持ち	mochi	hold		attacks, Yoshinkan
+両	ryō	both		attacks
+綾	aya	cross		attacks, Yoshinkan
+肩	kata	shoulder		attacks, body
+胸	mune	chest		attacks, body
+肘	hiji	elbow		attacks, body
+後ろ	ushiro	rear		attacks
+襟	eri	neck		attacks, body
+正面打ち	shōmen-uchi	front-strike		attacks
+横面打ち	yokomen-uchi	side-strike		attacks
+正面突き	shōmen-tsuki	front-thrust		attacks
+片手取り	katate-dori	1-hand hold		attacks
+両手取り	ryōte-dori	2-hand hold		attacks
+片手取り	katate-aya-dori	cross-hand hold		attacks
+肩取り	kata-dori	shoulder hold		attacks
+胸取り	mune-dori	chest hold		attacks
+肘取り	hiji-dori	elbow hold		attacks
+後ろ両手取り	ushiro-ryōte-dori	rear 2-hand hold		attacks
+後ろ片手襟取り	ushiro-katate-eri-dori	rear 1-hand, neck hold		attacks
+後ろ両肘取り	ushiro-ryōhiji-dori	rear 2-elbow hold		attacks
+後ろ両肩取り	ushiro-ryōkata-dori	rear 2-shoulder hold		attacks
+後ろ襟取り	ushiro-eri-dori	rear neck hold		attacks
+片手持ち	katate-mochi	1-hand hold		attacks
+両手持ち	ryōte-mochi	2-hand hold		attacks
+片手持ち	katate-aya-mochi	cross-hand hold		attacks
+肩持ち	kata-mochi	shoulder hold		attacks
+胸持ち	mune-mochi	chest hold		attacks
+肘持ち	hiji-mochi	elbow hold		attacks
+後ろ両手持ち	ushiro-ryōte-mochi	rear 2-hand hold		attacks
+後ろ片手襟持ち	ushiro-katate-eri-mochi	rear 1-hand, neck hold		attacks
+後ろ両肘持ち	ushiro-ryōhiji-mochi	rear 2-elbow hold		attacks
+後ろ両肩持ち	ushiro-ryōkata-mochi	rear 2-shoulder hold		attacks
+後ろ襟持ち	ushiro-eri-mochi	rear neck hold		attacks
+教	kyō	teaching
+条	jō	item
+四方	shihō	four direction		techniques
+投げ	nage	throw		techniques
+押え	osae	pin		techniques
+一教	ikkyō	1st control		techniques
+二教	nikyō	2nd control		techniques
+三教	sankyō	3rd control		techniques
+四教	yonkyō	4th control		techniques
+一ケ条	ikkajō	1st control		techniques, Yoshinkan
+二ケ条	nikajō	2nd control		techniques, Yoshinkan
+三ケ条	sankajō	3rd control		techniques, Yoshinkan
+四ケ条	yonkajō	4th control		techniques, Yoshinkan
+側面	sokumen	side		techniques
+入身	irimi	entering		techniques
+正面	shōmen	front		techniques
+肘締め	hiji-shime	elbow tighten		techniques
+肘当て	hiji-ate	elbow strike		techniques
+小手	kote	forearm		techniques
+返し	gaeshi	reversal		techniques
+天地	tenchi	heaven, earth		techniques
+呼吸	kokyū	breath		techniques
+法	hō	method		techniques
+四方投げ	shihō-nage	four direction throw		techniques
+一ケ条押え	ikkajō-osae	1st control pin		techniques, Yoshinkan
+二ケ条押え	nikajō-osae	2nd control pin		techniques, Yoshinkan
+三ケ条押え	sankajō-osae	3rd control pin		techniques, Yoshinkan
+四ケ条押え	yonkajō-osae	4th control pin		techniques, Yoshinkan
+側面入身投げ	sokumen irimi-nage	side entering-throw		techniques, Yoshinkan
+正面入身投げ	shōmen irimi-nage	front entering-throw		techniques, Yoshinkan
+肘締め	hiji-shime	elbow-tighten		techniques, Yoshinkan
+肘当て呼吸投げ	hiji-ate kokyū-nage	elbow-strike breath-throw		techniques, Yoshinkan
+小手返し	kote-gaeshi	forearm reversal		techniques
+天地投げ	tenchi-nage	heaven-and-earth throw		techniques
+呼吸投げ	kokyū-nage	breath-throw		techniques
+呼吸法	kokyū-hō	breath-method		techniques, Yoshinkan
+養神館	Yōshinkan	hall to cultivate spirit		Yoshinkan
+修道館	Shūdōkan	hall to learn the way
+先生	sensei	teacher
+道場	dōjō	place for the way
+道着	dōgi	uniform for the way
+右、左	migi, hidari	right, left
+半身の構え	hanmi no kamae	half-body stance
+正座方	seiza hō	kneeling
+礼法	rei hō	bowing
+膝行法	shikkō hō	knee-walking
+仕手	shite	doer		Yoshinkan
+受け	uke	receiver
+受身	ukemi	receiving, falls
+基本動作	kihon dōsa	basic movements		Yoshinkan
+基本技	kihon waza	basic techniques		Yoshinkan
+武道	budō	martial way
+武士道	bushidō	way of the warrior
 柔術	jūjutsu	gentle art
-古流	koryū	old manners; old style; old school
+相半身	ai-hanmi	same stance
+逆半身	gyaku-hanmi	opposite stance
+立ち技	tachi-waza	standing technique
+座り技	suwari-waza	sitting technique		Yoshinkan
+半身半立ち	hanmi-handachi	1-sitting-1-standing		Yoshinkan
+五技	go-waza	five-techniques		Shudokan
+組手	kumite	grappling hands
+自由技	jiyū-waza	free-techniques		Yoshinkan
+護身術	goshin-jutsu	self-defense art
+当て身	atemi	strike
+短刀	tantō	knife
+木剣	bokken	wooden sword
+体の変更（一）	tai no henkō (ichi)	body change (1)		Yoshikan, kihon dōsa
+体の変更（二）	tai no henkō (ni)	body change (2)		Yoshikan, kihon dōsa
+臂力の養成（一）	hiriki no yōsei (ichi)	elbow power training (1)		Yoshikan, kihon dōsa
+臂力の養成（二）	hiriki no yōsei (ni)	elbow power training (2)		Yoshikan, kihon dōsa
+終末動作（一）	shūmatsu dōsa (ichi)	finishing movement (1)		Yoshikan, kihon dōsa
+終末動作（二）	shūmatsu dōsa (ni)	finishing movement (2)		Yoshikan, kihon dōsa
+入身	irimi	enter		footwork
+転換	tenkan	spin, on front foot		footwork
+回転	kaiten	turn, on balls of feet		footwork
+摺り足	suri-ashi	sliding feet		footwork
+送り足	okuri-ashi	slide: front foot first		footwork
+歩み足	ayumi-ashi	step: like walking		footwork
+開足	hiraki-ashi	open: to side, spin		footwork
+次足	tsugi-ashi	shuffle: back foot first		footwork
+押忍	osu	persevere	Osu is a contraction of the words: 押し oshi meaning "push", and 忍ぶ shinobu meaning "to endure". It means patience, determination and perseverance. We can keep going even when we want to stop. ‘Osu’ is a simple word, it's easy to say it even when breathing heavily in hard exercise. ‘Osu’ shows respect, agreement, obedience, understanding, enthusiasm, striving, perseverance, endurance, patience. ‘Osu’ keeps things simple in the dojo and removes the need for more complex utterances that would distract from the training. We can use the feeling of ‘Osu’ to keep going through other challenges in our lives.
+活人剣	katsujin-ken	the sword that saves	katsujin-ken is ‘saving the enemy’, literally ‘the sword that saves’. It is a principle of non-violence. Aikido can be one of the gentlest martial arts, and it is useful for security, policing, nursing, bouncing, and self-defence, where it is important not to kill or injure anyone. In contrast we have 殺人剣 setsunin-ken, the sword that kills.	philosophy, non-violence
+正勝吾勝勝早日	Masakatsu agatsu katsuhayabi.	True victory is self-victory, victory at the speed of sunlight.	‘Masakatsu agatsu katsuhayabi’. True victory is self-victory, immediate victory - ‘agatsu’ means self-victory, we are trying to improve ourselves through our budo training, and it is a great victory when we can overcome our weaknesses and gain control of ourselves. This is more important than defeating an opponent.	philosophy, Aikido

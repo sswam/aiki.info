@@ -55,7 +55,7 @@ body {
 	line-height: 40px;
 }
 
-.kanji, .japanese {
+.kanji, .japanese, .term {
 	font-family: "KanjiKoohiVG", "MS Mincho";
 	font-size: 40px;
 }

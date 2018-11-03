@@ -52,7 +52,7 @@ function setup_grid(tsv, config) {
 		enableCellNavigation: false,
 		enableColumnReorder: true,
 		enableTextSelectionOnCells: true,
-		rowHeight: 43,
+		rowHeight: 50,
 		explicitInitialization: true
 		};
 
