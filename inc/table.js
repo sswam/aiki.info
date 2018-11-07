@@ -1,4 +1,4 @@
-var grid, data_view, lines;
+var grid, data_view, lines, lines_search;
 var query_rx = /./;
 var loading_delay = 1000;
 function format_kanji(row, cell, value, columnDef, dataContext) {
@@ -16,7 +16,7 @@ function rows_changed(e, args) {
 	grid.render();
 }
 function filter(item) {
-	return lines[item.id].match(query_rx);
+	return lines_search[item.id].match(query_rx);
 }
 function setup_grid(tsv, config) {
 	lines = tsv.split("\n");
@@ -57,7 +57,9 @@ function setup_grid(tsv, config) {
 		};
 
 	var data = [];
+	lines_search = [];
 	for (var i = 0; i < lines.length; ++i) {
+		lines_search[i] = strip_accents(lines[i]);
 		var a = lines[i].split("\t");
 		var d = { id: i };
 		for (var j = 0; j < headers.length; ++j) {
@@ -85,9 +87,13 @@ function setup_grid(tsv, config) {
 function rx_lookahead_anywhere(s) {
 	return "(?=.*(?:" + s + "))";
 }
+function strip_accents(s) {
+	return s.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
+}
 function search(e) {
 	var query = $.trim($('#search').val());
-	var terms = query.split(" ");
+	var q2 = strip_accents(query);
+	var terms = q2.split(" ");
 	query_rx = new RegExp('^' + terms.map(rx_lookahead_anywhere).join(''), 'i');
 	data_view.refresh();
 }

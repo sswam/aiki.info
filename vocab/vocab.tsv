@@ -1,16 +1,17 @@
 term	Rōmaji	English	definition	tags
+武道	budō	martial way
 合気道	Aikidō	joining energy way		aikido
 大東流	Daitō-ryū	Daitō-style		daito ryu
-合気	aiki	joining energy / blending	???!	aikido, daito ryu
 柔術	jūjutsu	gentle art	a Japanese system of unarmed combat and physical training	daito ryu, jujutsu
 합기도	Hapkido	joining energy way	a Korean martial art characterized by kicking and circular movements	hapkido
 古流	koryū	old school	classical Japanese martial arts
-礼法	reihō	respect		principles
+古武道	kobudō	old martial art	classical Japanese martial arts
+礼法	reihō	respect, etiquette, bowing		principles
 目付	metsuke	watching		principles
 間合	maai	distancing		principles
 構え	kamae	structure		principles
-合気	aiki	blending		principles
-呼吸	kokyū	timing		principles
+合気	aiki	joining energy / blending		principles, aikido, daito ryu
+呼吸	kokyū	breathing, timing		principles
 崩し	kuzushi	unbalancing		principles
 残心	zanshin	awareness		principles
 義	gi	integrity		virtues
@@ -64,7 +65,7 @@ term	Rōmaji	English	definition	tags
 正面突き	shōmen-tsuki	front-thrust		attacks
 片手取り	katate-dori	1-hand hold		attacks
 両手取り	ryōte-dori	2-hand hold		attacks
-片手取り	katate-aya-dori	cross-hand hold		attacks
+片手綾取り	katate-aya-dori	cross-hand hold		attacks
 肩取り	kata-dori	shoulder hold		attacks
 胸取り	mune-dori	chest hold		attacks
 肘取り	hiji-dori	elbow hold		attacks
@@ -73,17 +74,17 @@ term	Rōmaji	English	definition	tags
 後ろ両肘取り	ushiro-ryōhiji-dori	rear 2-elbow hold		attacks
 後ろ両肩取り	ushiro-ryōkata-dori	rear 2-shoulder hold		attacks
 後ろ襟取り	ushiro-eri-dori	rear neck hold		attacks
-片手持ち	katate-mochi	1-hand hold		attacks
-両手持ち	ryōte-mochi	2-hand hold		attacks
-片手持ち	katate-aya-mochi	cross-hand hold		attacks
-肩持ち	kata-mochi	shoulder hold		attacks
-胸持ち	mune-mochi	chest hold		attacks
-肘持ち	hiji-mochi	elbow hold		attacks
-後ろ両手持ち	ushiro-ryōte-mochi	rear 2-hand hold		attacks
-後ろ片手襟持ち	ushiro-katate-eri-mochi	rear 1-hand, neck hold		attacks
-後ろ両肘持ち	ushiro-ryōhiji-mochi	rear 2-elbow hold		attacks
-後ろ両肩持ち	ushiro-ryōkata-mochi	rear 2-shoulder hold		attacks
-後ろ襟持ち	ushiro-eri-mochi	rear neck hold		attacks
+片手持ち	katate-mochi	1-hand hold		attacks, Yoshinkan
+両手持ち	ryōte-mochi	2-hand hold		attacks, Yoshinkan
+片手綾持ち	katate-aya-mochi	cross-hand hold		attacks, Yoshinkan
+肩持ち	kata-mochi	shoulder hold		attacks, Yoshinkan
+胸持ち	mune-mochi	chest hold		attacks, Yoshinkan
+肘持ち	hiji-mochi	elbow hold		attacks, Yoshinkan
+後ろ両手持ち	ushiro-ryōte-mochi	rear 2-hand hold		attacks, Yoshinkan
+後ろ片手襟持ち	ushiro-katate-eri-mochi	rear 1-hand, neck hold		attacks, Yoshinkan
+後ろ両肘持ち	ushiro-ryōhiji-mochi	rear 2-elbow hold		attacks, Yoshinkan
+後ろ両肩持ち	ushiro-ryōkata-mochi	rear 2-shoulder hold		attacks, Yoshinkan
+後ろ襟持ち	ushiro-eri-mochi	rear neck hold		attacks, Yoshinkan
 教	kyō	teaching
 条	jō	item
 四方	shihō	four direction		techniques
@@ -98,14 +99,12 @@ term	Rōmaji	English	definition	tags
 三ケ条	sankajō	3rd control		techniques, Yoshinkan
 四ケ条	yonkajō	4th control		techniques, Yoshinkan
 側面	sokumen	side		techniques
-入身	irimi	entering		techniques
-正面	shōmen	front		techniques
+入身	irimi	entering, enter body		techniques
 肘締め	hiji-shime	elbow tighten		techniques
 肘当て	hiji-ate	elbow strike		techniques
 小手	kote	forearm		techniques
 返し	gaeshi	reversal		techniques
 天地	tenchi	heaven, earth		techniques
-呼吸	kokyū	breath		techniques
 法	hō	method		techniques
 四方投げ	shihō-nage	four direction throw		techniques
 一ケ条押え	ikkajō-osae	1st control pin		techniques, Yoshinkan
@@ -114,7 +113,6 @@ term	Rōmaji	English	definition	tags
 四ケ条押え	yonkajō-osae	4th control pin		techniques, Yoshinkan
 側面入身投げ	sokumen irimi-nage	side entering-throw		techniques, Yoshinkan
 正面入身投げ	shōmen irimi-nage	front entering-throw		techniques, Yoshinkan
-肘締め	hiji-shime	elbow-tighten		techniques, Yoshinkan
 肘当て呼吸投げ	hiji-ate kokyū-nage	elbow-strike breath-throw		techniques, Yoshinkan
 小手返し	kote-gaeshi	forearm reversal		techniques
 天地投げ	tenchi-nage	heaven-and-earth throw		techniques
@@ -123,21 +121,20 @@ term	Rōmaji	English	definition	tags
 養神館	Yōshinkan	hall to cultivate spirit		Yoshinkan
 修道館	Shūdōkan	hall to learn the way
 先生	sensei	teacher
+師範	shihan	master teacher	Shihan is an honorific title for expert or senior instructors.
 道場	dōjō	place for the way
 道着	dōgi	uniform for the way
-右、左	migi, hidari	right, left
+右	migi	right
+左	hidari	left
 半身の構え	hanmi no kamae	half-body stance
-正座方	seiza hō	kneeling
-礼法	rei hō	bowing
+正座方	seiza hō	kneeling	sitting kneeling with feet flat on the floor, "proper sitting"
 膝行法	shikkō hō	knee-walking
 仕手	shite	doer		Yoshinkan
 受け	uke	receiver
 受身	ukemi	receiving, falls
 基本動作	kihon dōsa	basic movements		Yoshinkan
 基本技	kihon waza	basic techniques		Yoshinkan
-武道	budō	martial way
 武士道	bushidō	way of the warrior
-柔術	jūjutsu	gentle art
 相半身	ai-hanmi	same stance
 逆半身	gyaku-hanmi	opposite stance
 立ち技	tachi-waza	standing technique
@@ -156,14 +153,91 @@ term	Rōmaji	English	definition	tags
 臂力の養成（二）	hiriki no yōsei (ni)	elbow power training (2)		Yoshikan, kihon dōsa
 終末動作（一）	shūmatsu dōsa (ichi)	finishing movement (1)		Yoshikan, kihon dōsa
 終末動作（二）	shūmatsu dōsa (ni)	finishing movement (2)		Yoshikan, kihon dōsa
-入身	irimi	enter		footwork
-転換	tenkan	spin, on front foot		footwork
-回転	kaiten	turn, on balls of feet		footwork
+転換	tenkan	spin, on front foot	180 degree pivot on front foot to avoid attack; "revolve change"	footwork
+回転	kaiten	turn, on balls of feet	180 degree hip shift to avoid attack; "round revolve"	footwork
 摺り足	suri-ashi	sliding feet		footwork
-送り足	okuri-ashi	slide: front foot first		footwork
-歩み足	ayumi-ashi	step: like walking		footwork
-開足	hiraki-ashi	open: to side, spin		footwork
-次足	tsugi-ashi	shuffle: back foot first		footwork
-押忍	osu	persevere	Osu is a contraction of the words: 押し oshi meaning "push", and 忍ぶ shinobu meaning "to endure". It means patience, determination and perseverance. We can keep going even when we want to stop. ‘Osu’ is a simple word, it's easy to say it even when breathing heavily in hard exercise. ‘Osu’ shows respect, agreement, obedience, understanding, enthusiasm, striving, perseverance, endurance, patience. ‘Osu’ keeps things simple in the dojo and removes the need for more complex utterances that would distract from the training. We can use the feeling of ‘Osu’ to keep going through other challenges in our lives.
-活人剣	katsujin-ken	the sword that saves	katsujin-ken is ‘saving the enemy’, literally ‘the sword that saves’. It is a principle of non-violence. Aikido can be one of the gentlest martial arts, and it is useful for security, policing, nursing, bouncing, and self-defence, where it is important not to kill or injure anyone. In contrast we have 殺人剣 setsunin-ken, the sword that kills.	philosophy, non-violence
-正勝吾勝勝早日	Masakatsu agatsu katsuhayabi.	True victory is self-victory, victory at the speed of sunlight.	‘Masakatsu agatsu katsuhayabi’. True victory is self-victory, immediate victory - ‘agatsu’ means self-victory, we are trying to improve ourselves through our budo training, and it is a great victory when we can overcome our weaknesses and gain control of ourselves. This is more important than defeating an opponent.	philosophy, Aikido
+送り足	okuri-ashi	slide: front foot first	slide forward or back, leading foot moves first	footwork
+歩み足	ayumi-ashi	step: like walking	step forward or back, like walking with sliding	footwork
+開足	hiraki-ashi	open: to side, spin	step to side (with front or rear foot) and small spin to realign	footwork
+次足	tsugi-ashi	shuffle: back foot first	slide forward, trailing foot moves up first (does not pass leading foot), then slide forward like okuri-ashi	footwork
+押忍	ossu	push, endure; persevere	Osu is a contraction of the words: 押し oshi meaning "push", and 忍ぶ shinobu meaning "to endure". It means patience, determination and perseverance. We can keep going even when we want to stop. ‘Osu’ is a simple word, it's easy to say it even when breathing heavily in hard exercise. ‘Osu’ shows respect, agreement, obedience, understanding, enthusiasm, striving, perseverance, endurance, patience. ‘Osu’ keeps things simple in the dojo and removes the need for more complex utterances that would distract from the training. We can use the feeling of ‘Osu’ to keep going through other challenges in our lives.
+活人剣	katsujin-ken	the sword that saves	katsujin-ken is ‘saving the enemy’, literally ‘the sword that saves’. It is a principle of non-violence. Aikido can be one of the gentlest martial arts, and it is useful for security, policing, nursing, bouncing, and self-defence, where it is important not to kill or injure anyone. In contrast we have 殺人剣 setsunin-ken, the sword that kills. "Kenjsutsu is not the methods to kill a people. It is the methods to live with peace."	philosophy, non-violence
+正勝 吾勝 勝早日	Masakatsu agatsu katsuhayabi.	True victory is self-victory, victory at the speed of sunlight.	‘Masakatsu agatsu katsuhayabi’. True victory is self-victory, immediate victory - ‘agatsu’ means self-victory, we are trying to improve ourselves through our budo training, and it is a great victory when we can overcome our weaknesses and gain control of ourselves. This is more important than defeating an opponent.	philosophy, Aikido
+素通り	sudōri	flow through	a technique where shite ducks under uke's body
+和	wa	harmony, accord, peace, cooperation
+和合	wago	harmony
+目潰し	metsubushi	eye closers	a back-hand atemi to face; or any technique or tool to close the opponent's eyes
+隅落	sumi-otoshi	corner drop
+危座	kiza	danger seat	like seiza, but with toes up under the feet (ready for shikko)
+胡座	agura	uncivilized seat	sitting cross-legged
+諸手持ち	morote-mochi	both hands grab one hand / wrist		Yoshinkan
+諸手取り	morote-dori	both hands grab one hand / wrist
+交差取り	kosa-dori	cross-hand hold
+中心力	chūshin-ryoku	centered power
+集中力	shūchū-ryoku	focused power
+呼吸力	kokyū-ryoku	breath power
+中心線	chūshin-sen	center line
+螺旋の動き	rasen no ugoki	spiral movement
+結び	musubi	connection
+気の結び	ki no musubi	the connection of Ki
+武産	take musu	martial produce
+陰陽	inyo	yin yang
+陰陽道	onmyodo / inyodo	the way of yin and yang
+内	uchi	inside
+外	soto	outside
+体術	taijutsu	body art	any empty-hand martial art
+転身	tenshin	step and pivot to avoid attack
+腕振り	ude-furi	arm swing
+体捌き	tai-sabaki	body movements
+手捌き	te-sabaki	hand movements
+足捌き	ashi-sabaki	foot movements
+捨て身技	sutemi-waza	sacrifice technique / throw
+後の先	go no sen	late response
+先の先	sen no sen	simultaneous response
+先先の先	sensen no sen	early response / initiative
+剣道	kendō	kendo, way of the sword
+流れ	nagare	flow
+気の流れ	ki no nagare	flow of ki	flowing (techniques)	Iwama style
+上	ue	over
+下	shita	under
+小手捻り	kote hineri	forearm twist	rotational wristlock (sankyo)
+小手返	kote gaeshi	forearm return	supinating wristlock
+小手回し	kote mawashi	forearm turn	pronating wristlock (nikyo)
+手首固め	tekubi gatame	hyperflexing wristlock	goose-neck, for removal
+合気上げ	aiki-age	aiki raise
+合気下げ	aiki-sage	aiki lower
+自然体	shizentai	natural stance
+遠当	tōate	far strike	"vibration power produced by a piercing shout that could freeze the opponent temporarily"
+前蹴り	mae-geri	front kick
+回し蹴り	mawashi-geri	roundhouse kick
+横蹴り	yoko-geri	side kick
+反省	hansei	reflection	self-reflection, to acknowledge one's own mistake and to pledge improvement
+十字絞	jūjijime	cross-shaped jujutsu strangle
+之	no	possessive (old kanji)
+太刀	tachi	sword (older style)
+武者 修行	musha shugyō	warrior training
+守破離	shuhari	guard, split, separate	first learn, then detach, and finally transcend. Aikido master Endō Seishirō shihan stated: "It is known that, when we learn or train in something, we pass through the stages of shu, ha, and ri. These stages are explained as follows. In shu, we repeat the forms and discipline ourselves so that our bodies absorb the forms that our forebears created. We remain faithful to these forms with no deviation. Next, in the stage of ha, once we have disciplined ourselves to acquire the forms and movements, we make innovations. In this process the forms may be broken and discarded. Finally, in ri, we completely depart from the forms, open the door to creative technique, and arrive in a place where we act in accordance with what our heart/mind desires, unhindered while not overstepping laws."
+修行	shugyō	training, study
+禊	misogi	purification ceremony
+形稽古	katageiko	form practice (cooperative)
+演武	enbu	demonstration	martial performance
+初心者	shoshinsha	beginner, beginner's mind
+不動心	fudoshin	immovable mind
+級	kyū	grade	coloured belt level, before black belt
+初段	shodan	1st dan, first rank
+無段者	mudansha	person without rank	kyū-level practitioners are often called mudansha, "ones without dan"
+返し技	kaeshi-waza	returning / countering technique
+乱取り	randori	free-style practice
+初伝	shoden	primary teaching of Daito-ryu
+中伝	chuden	medium teaching
+奥伝	okuden	deep teaching
+秘伝	hiden	secret teaching
+総伝	Soden	Takumakai book of advanced techniques		Daito-ryu, Takumakai
+弟子	deshi	student
+目録	mokuroku	list, catalog, scroll
+極意	gokui	main point
+免許	menkyo	license
+皆伝	kaiden	full transmission
+免許皆伝	menkyo kaiden	license of full transmission	certificate of complete teaching
+天真正伝香取神道流	Tenshinshō-den Katori Shintō-ryū	one of the oldest extant Japanese martial arts
+神道夢想流	Shintō Musō-ryū	a traditional school of jōdo	Shintō Musō-ryū, or Shindō Musō-ryū (SMR) is a traditional school of jōdo, the art of the short staff
