@@ -15,11 +15,15 @@ html, body {
 body, input {
 	font: 12pt Helvetica, Arial, sans-serif;
 }
-body {
+.column {
 	display: flex;
 	flex-direction: column;
 }
-#container {
+.row {
+	display: flex;
+	flex-direction: row;
+}
+.grow {
 	flex: 1;
 }
 

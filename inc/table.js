@@ -90,12 +90,18 @@ function rx_lookahead_anywhere(s) {
 function strip_accents(s) {
 	return s.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
 }
+var old_query = []
 function search(e) {
 	var query = $.trim($('#search').val());
+	if (query == old_query) {
+		return;
+	}
+	old_query = query;
 	var q2 = strip_accents(query);
 	var terms = q2.split(" ");
 	query_rx = new RegExp('^' + terms.map(rx_lookahead_anywhere).join(''), 'i');
 	data_view.refresh();
+	delay_set_title_hash(query);
 }
 var loading_timeout;
 function loading(on_off) {
@@ -122,6 +128,52 @@ function loading(on_off) {
 		el.style.display = 'none';
 	}
 }
+
+var new_hash;
+var new_title;
+var set_title_hash_timeout;
+function delay_set_title_hash(query) {
+	new_hash = '#'+query.replace(/ /g, '+');
+	new_title = query_to_title(query);
+	if (set_title_hash_timeout) {
+		clearTimeout(set_title_hash_timeout);
+	}
+	set_title_hash_timeout = setTimeout(set_title_hash, 2000);
+}
+function query_to_title(query) {
+	var new_title = $('title').text();
+	new_title = new_title.replace(/.* - |^/, '');
+	if (query != '') {
+		new_title = query + ' - ' + new_title;
+	}
+	return new_title;
+}
+function set_title_hash() {
+	location.hash = new_hash;
+	$('title').text(new_title);
+}
+function on_hash_change() {
+	$('title').text(query_to_title(hash_to_query(location.hash)));
+	if (location.hash != new_hash) {
+		var query = hash_to_query(location.hash);
+		$('#search').val(query);
+		search();
+	}
+}
+function hash_to_query(hash) {
+	var query = hash.replace(/\+/g, ' ');
+	query = decodeURIComponent(query);
+	if (query.length) {
+		query = query.substr(1);
+	}
+	return query;
+}
+function search_clear() {
+	$('#search').focus();
+	$('#search').val('');
+	search();
+}
+
 function init(file, config) {
 	loading(true);
 	var ajax = $.ajax({
@@ -136,5 +188,8 @@ function init(file, config) {
 		setup_grid(tsv, config);
 		$('#search').focus();
 		$('#search').on("change keyup", search);
+		$('#search_clear').on('click', search_clear);
+		$(window).on('hashchange', on_hash_change);
+		on_hash_change();
 	});
 }
