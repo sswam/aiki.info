@@ -1,0 +1,32 @@
+shomen uchi	front strike
+yokomen uchi	side strike
+tsuki	thrust punch
+katate dori	one hand grab
+emon jime	front strangle
+ryote dori	both hands grab
+mune dori	chest grab
+mune dori shomen uchi	chest grab / front strike
+tachi-eri dori	rear collar grab
+sode dori	sleeve grab
+ushiro ryosode dori	rear both sleeves grab
+ushiro ryokata dori	rear both shoulders grab
+ushiro ryohiji dori	rear both elbows grab
+kakete	no attack, block strike
+tsuki age	upper cut
+sokumen uchi	strike to the side
+morote dori	both hands grab one hand
+kubi jime	rear neck strangle
+koshi obi dori	belt grab
+kata dori	shoulder grab
+kataha jime	one-wing strangle
+katahagake	one-wing hang
+kakaekomi	bear hug
+kakae jime dori	bear hug
+daki jime	bear hug
+hagai jime	full nelson
+ganmen tsuki	face thrust punch
+bou dori	staff capture
+jutte dori	jutte capture
+tantou dori	knife capture
+tachi dori	sword capture
+kasa dori	umbrella capture
