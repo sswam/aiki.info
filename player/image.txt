@@ -1,0 +1,7 @@
+time	type	source	start	end	x	y	width	height	volume
+0	image	https://imgflip.com/s/meme/10-Guy.jpg	0	2	0	0	500	454	0
+3	image	https://imgflip.com/s/meme/10-Guy.jpg	0	2	0	0	250	227	0
+3.5	image	https://imgflip.com/s/meme/10-Guy.jpg	0	1.5	250	0	250	227	0
+4	image	https://imgflip.com/s/meme/10-Guy.jpg	0	1	0	227	250	227	0
+4.5	image	https://imgflip.com/s/meme/10-Guy.jpg	0	0.5	250	227	250	227	0
+0	text	hello world	0	5	10	10	480	50	0
