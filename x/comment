@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 
-import sys, os, cgi, cgitb, re, datetime
+import sys, os, cgi, cgitb, re, datetime, smtplib, getpass, socket
 cgitb.enable(display=0, logdir="log/cgi_logs")
+
+comments_email = "comments@swatkins.fastmail.fm"
 
 done_headers = False
 
@@ -23,6 +25,38 @@ def bad_request(*args):
 def path_okay(path):
 	return not (len(path) > 500 or path.startswith('/') or '..' in path or re.search(r'[^-/_.,+A-Za-z0-9]', path))
 
+def text_to_html(s):
+	s = cgi.escape(s)
+	s = re.sub(r'\r', '', s)
+	s = re.sub(r'\s*$', '', s)
+	s = re.sub(r'\n', '<br>\n', s)
+	return s
+
+def append_comment(file_path, comment):
+	try:
+		with open(file_path, "a") as f:
+			f.write(comment)
+	except IOError as e:
+		error(403, "Forbidden", e)
+
+def send_comment_email(email_to, page, comment):
+	username = getpass.getuser()
+	hostname = socket.getfqdn()
+	smtp = smtplib.SMTP('localhost')
+	smtp.ehlo()
+	email_from = username + "@" + hostname
+	http_host = os.environ.get('HTTP_HOST', hostname)
+	msg = """From: %(email_from)s
+To: %(email_to)s
+Subject: comment on %(http_host)s/%(page)s
+Context-Type: text/plain; charset=utf-8
+
+%(comment)s
+""" % vars()
+	msg = msg.replace("\n", "\r\n")
+	smtp.sendmail(email_from, email_to, msg)
+	smtp.quit()
+
 def main():
 	os.chdir(os.environ["DOCUMENT_ROOT"])
 	os.umask(0)
@@ -32,22 +66,12 @@ def main():
 	comment = form.getvalue("comment", "")
 	if not page or not comment or not path_okay(page) or len(comment) > 10000:
 		bad_request("missing or invalid args")
-	file_path = os.path.join("comments", page)
-	dir_path = os.path.dirname(file_path)
-	try:
-		os.makedirs(dir_path)
-	except OSError:
-		pass
-	comment = cgi.escape(comment)
-	comment = re.sub(r'\r', '', comment)
-	comment = re.sub(r'\s*$', '', comment)
-	comment = re.sub(r'\n', '<br>\n', comment)
-	comment = '<div class="comment">\n' + comment + '\n</div>\n\n'
-	try:
-		with open(file_path, "a") as f:
-			f.write(comment)
-	except IOError as e:
-		error(403, "Forbidden", e)
+
+	send_comment_email(comments_email, page, comment)
+
+	file_path = "comments/" + page
+	comment = '<div class="comment">\n' + text_to_html(comment) + '\n</div>\n\n'
+	append_comment(file_path, comment)
 
 	headers()
 
