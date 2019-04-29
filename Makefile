@@ -2,7 +2,7 @@
 
 #all: perms $(shell find . -maxdepth 1 -path '*/.*' -prune -o -name '*.txt' -type f -print | sed 's/\.txt$$/.html/') $(shell find . -maxdepth 1 -path '*/.*' -prune -o \( -name '*.png' -o -name '*.jpg' \) -type f -print | sed 's,\(.*/\),\1tn/,;')
 
-all: html labs+ Aikido.html Kihon_Waza.html notes_html waza-nihongo.txt waza-english.txt vocab.html Daito_Ryu.html Daito_Ryu_sampler.html Aikido_Shudokan.html Iwama_Ryu.html anki.html Shinshin_Toitsu_Aikido.html Stefan_Stenudd.html
+all: html labs+ Aikido.html Kihon_Waza.html notes_html waza-nihongo.txt waza-english.txt vocab.html Daito_Ryu.html Daito_Ryu_sampler.html Aikido_Shudokan.html Iwama_Ryu.html anki.html Shinshin_Toitsu_Aikido.html Stefan_Stenudd.html comments
 # html: $(patsubst %.txt,%.html,$(wildcard *.txt))
 html: index-base.html
 
@@ -61,4 +61,9 @@ Shinshin_Toitsu_Aikido.html: Shinshin_Toitsu_Aikido.html.head Shinshin_Toitsu_Ai
 Stefan_Stenudd.html: Stefan_Stenudd.html.head Stefan_Stenudd.html.tail Stefan_Stenudd.txt format-links
 	(cat Stefan_Stenudd.html.head ; ./format-links < Stefan_Stenudd.txt ; cat Stefan_Stenudd.html.tail) >$@
 
-.PHONY: all html
+comments:
+	mkdir -p comments
+	chown -R sam:www-data comments/
+	chmod -R g+rw comments/
+
+.PHONY: all html comments

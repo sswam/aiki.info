@@ -158,3 +158,30 @@ a.home {
 	border: 1px solid green;
 	color: green;
 }
+
+div.comments {
+	clear: both;
+	margin-top: 2em;
+}
+div.columns {
+	column-width: 325px;
+	column-fill: auto;
+}
+div.comment, textarea.comment {
+	display: inline-block;
+	border: 1px solid silver;
+	margin-bottom: 1em;
+	background: #eee;
+	width: 100%;
+	padding: 0.5em;
+	box-sizing: border-box;
+	border-radius: 6px;
+/*	box-shadow: 2px 2px 8px #bbb; */
+}
+textarea.comment {
+	height: 5em;
+	font: inherit;
+}
+button.comment.save {
+	margin-top: -0.5em;
+}
