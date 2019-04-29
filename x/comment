@@ -1,0 +1,56 @@
+#!/usr/bin/env python
+
+import sys, os, cgi, cgitb, re, datetime
+cgitb.enable(display=0, logdir="log/cgi_logs")
+
+done_headers = False
+
+def headers(type="text/html;charset=UTF-8"):
+	global done_headers
+	if done_headers:
+		return
+	print "Content-Type: %s\x0d\x0a\x0d\x0a" % type,
+	done_headers = True
+
+def error(code, status, *args):
+	msg = ' '.join(str(x) for x in args)
+	print "Status: %s %s\x0d\x0a\x0d\x0a%s" % (code, status, msg)
+	exit(1)
+
+def bad_request(*args):
+	error(400, "Bad Request", *args)
+
+def path_okay(path):
+	return not (len(path) > 500 or path.startswith('/') or '..' in path or re.search(r'[^-/_.,+A-Za-z0-9]', path))
+
+def main():
+	os.chdir(os.environ["DOCUMENT_ROOT"])
+	os.umask(0)
+
+	form = cgi.FieldStorage()
+	page = form.getvalue("page") or ''
+	comment = form.getvalue("comment", "")
+	if not page or not comment or not path_okay(page) or len(comment) > 10000:
+		bad_request("missing or invalid args")
+	file_path = os.path.join("comments", page)
+	dir_path = os.path.dirname(file_path)
+	try:
+		os.makedirs(dir_path)
+	except OSError:
+		pass
+	comment = cgi.escape(comment)
+	comment = re.sub(r'\r', '', comment)
+	comment = re.sub(r'\s*$', '', comment)
+	comment = re.sub(r'\n', '<br>\n', comment)
+	comment = '<div class="comment">\n' + comment + '\n</div>\n\n'
+	try:
+		with open(file_path, "a") as f:
+			f.write(comment)
+	except IOError as e:
+		error(403, "Forbidden", e)
+
+	headers()
+
+	print comment
+
+main()
